@@ -277,8 +277,9 @@ async def ingest_knowledge_base_azure():
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=f"No .md files found in '{kb_dir}'.")
 
     # Constants for Azure
-    # REDUCED LIMIT: 250k tokens based on error message (limit is ~272k).
-    MAX_TOKENS_PER_SHARD = 400000 
+    # REDUCED LIMIT: 100k tokens to fit within gpt-4o-mini's 128k context window
+    # and maximize parallelism with 2M TPM quota.
+    MAX_TOKENS_PER_SHARD = 100000 
     encoding = tiktoken.get_encoding("cl100k_base") # Standard for GPT-4/3.5
     
     shards = []
