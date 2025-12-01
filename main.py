@@ -53,7 +53,11 @@ import asyncio
 class GlobalState:
     _instance = None
     cache_names: List[str] = []
+    cache_names: List[str] = []
+    cache_names: List[str] = []
     azure_shards: List[str] = [] # Store content in memory for Azure (Implicit Caching)
+    azure_shard_summaries: List[str] = [] # Store summaries for Agentic Routing
+    sessions: dict = {} # Store session history: {session_id: [{"role": "user", "content": "..."}]}
 
     def __new__(cls):
         if cls._instance is None:
@@ -86,8 +90,13 @@ class AskRequest(BaseModel):
     question: str
     session_id: Optional[str] = None
 
+class SourceItem(BaseModel):
+    file: str
+    detail: List[str]
+
 class AskResponse(BaseModel):
     answer: str
+    sources: List[SourceItem] = []
 
 # --- Endpoints ---
 
@@ -245,6 +254,7 @@ async def ask_question(request: AskRequest):
         
         Please synthesize a single, coherent, and complete answer based on these partial responses. 
         Ignore any "I don't know" or irrelevant parts if better information is available in other partial answers.
+        RESPONDE SIEMPRE EN ESPAÑOL.
         """
         
         final_response = await synthesis_model.generate_content_async(
@@ -263,10 +273,55 @@ async def ask_question(request: AskRequest):
 
 # --- Azure Endpoints ---
 
+# Mapping from filename prefix to Series Name
+SERIES_MAPPING = {
+    "AALEF": "ALEF",
+    "AFLEX": "FLEX",
+    "AMAX": "MAXIMA",
+    "AVENT": "VENTO",
+    "EASY": "EASY FLEX",
+    "ONI": "ONIX",
+    "VIRTU": "VIRTUS",
+    "ADRA": "RESOLUTE",
+    "ADA": "ARMOR",
+    "ADN": "ADN",
+    "ADW": "WINTER",
+    "ADZ": "WINTER",
+    "AGO": "GOLD",
+    "ATI": "TITAN",
+    "FREE": "FREEDOM",
+    "SP": "ADN",
+    "TITAN": "TITAN", # Explicit TITAN
+    "VIRTUS": "VIRTUS", # Explicit VIRTUS
+    "ONIX": "ONIX", # Explicit ONIX
+    "VENTO": "VENTO", # Explicit VENTO
+    "FREEDOM": "FREEDOM", # Explicit FREEDOM
+    "GOLD": "GOLD", # Explicit GOLD
+    "AMAX": "MAXIMA", # Explicit AMAX
+    "AFLEX": "FLEX", # Explicit AFLEX
+    "AALEF": "ALEF", # Explicit AALEF
+    "ONI-C": "ONIX", # Explicit ONI-C
+    "AGO-T": "GOLD", # Explicit AGO-T
+    "WINTER": "WINTER", # Explicit WINTER
+    "MAXIMA": "MAXIMA" # Explicit MAXIMA
+}
+
+def get_series_from_filename(filename: str) -> str:
+    """Extracts the Series name from the filename."""
+    upper_name = filename.upper()
+    # Sort keys by length descending to match specific prefixes first (e.g. "TITAN" before "TI")
+    sorted_keys = sorted(SERIES_MAPPING.keys(), key=len, reverse=True)
+    
+    for prefix in sorted_keys:
+        if prefix in upper_name:
+            return SERIES_MAPPING[prefix]
+    return "OTHER" # Fallback
+
 @app.post("/ingest/azure", response_model=IngestResponse)
 async def ingest_knowledge_base_azure():
     """
-    Reads all .md files, shards them (<400k tokens), and stores them in memory for Azure Implicit Caching.
+    Reads all .md files, shards them (<100k tokens), and stores them in memory for Azure Implicit Caching.
+    Uses Semantic Sharding (grouping by Series) and Metadata Summaries for Agentic Routing.
     """
     kb_dir = "./knowledge_base"
     if not os.path.exists(kb_dir):
@@ -288,43 +343,74 @@ async def ingest_knowledge_base_azure():
     total_tokens_processed = 0
     total_chars_processed = 0
     
-    logger.info(f"Starting Azure ingestion of {len(md_files)} files...")
+    summaries = [] # To store summaries
+    
+    logger.info(f"Starting Azure ingestion of {len(md_files)} files with Semantic Sharding...")
 
+    # Group files by Series
+    files_by_series = {}
     for file_path in md_files:
-        try:
-            with open(file_path, "r", encoding="utf-8") as f:
-                content = f.read()
-                filename = os.path.basename(file_path)
-                formatted_content = f"\n\n--- DOCUMENTO: {filename} ---\n\n{content}"
-                
-                # Count tokens using tiktoken
-                file_tokens = len(encoding.encode(formatted_content))
-                
-                if current_shard_tokens + file_tokens > MAX_TOKENS_PER_SHARD:
-                    # Current shard is full
-                    if current_shard_content:
-                        shards.append(current_shard_content)
+        filename = os.path.basename(file_path)
+        series = get_series_from_filename(filename)
+        if series == "OTHER":
+            logger.warning(f"File '{filename}' categorized as OTHER")
+        if series not in files_by_series:
+            files_by_series[series] = []
+        files_by_series[series].append(file_path)
+
+    # Process each Series
+    for series, series_files in files_by_series.items():
+        logger.info(f"Processing Series: {series} ({len(series_files)} files)")
+        
+        current_series_content = ""
+        current_series_tokens = 0
+        current_series_filenames = []
+        
+        for file_path in series_files:
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    content = f.read()
+                    filename = os.path.basename(file_path)
+                    formatted_content = f"\n\n--- DOCUMENTO: {filename} (SERIE: {series}) ---\n\n{content}"
                     
-                    current_shard_content = formatted_content
-                    current_shard_tokens = file_tokens
-                else:
-                    current_shard_content += formatted_content
-                    current_shard_tokens += file_tokens
-                
-                total_tokens_processed += file_tokens
-                total_chars_processed += len(formatted_content)
+                    file_tokens = len(encoding.encode(formatted_content))
+                    
+                    if current_series_tokens + file_tokens > MAX_TOKENS_PER_SHARD:
+                        # Series shard full, save it
+                        if current_series_content:
+                            shards.append(current_series_content)
+                            # Create Metadata Summary (Instant)
+                            summary = f"SERIES: {series}\nFILES: {', '.join(current_series_filenames)}"
+                            summaries.append(summary)
+                            current_series_filenames = []
+                        
+                        current_series_content = formatted_content
+                        current_series_tokens = file_tokens
+                        current_series_filenames.append(filename)
+                    else:
+                        current_series_content += formatted_content
+                        current_series_tokens += file_tokens
+                        current_series_filenames.append(filename)
+                    
+                    total_tokens_processed += file_tokens
+                    total_chars_processed += len(formatted_content)
 
-        except Exception as e:
-            logger.error(f"Error reading file {file_path}: {e}")
+            except Exception as e:
+                logger.error(f"Error reading file {file_path}: {e}")
 
-    if current_shard_content:
-        shards.append(current_shard_content)
+        # Add remaining content for this series
+        if current_series_content:
+            shards.append(current_series_content)
+            summary = f"SERIES: {series}\nFILES: {', '.join(current_series_filenames)}"
+            summaries.append(summary)
 
     if not shards:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail="No content to cache.")
 
-    # Store shards in global state
+    # Store shards and summaries in global state
     global_state.azure_shards = shards
+    global_state.azure_shard_summaries = summaries
+    
     logger.info(f"Azure ingestion complete. {len(shards)} shards created.")
 
     return IngestResponse(
@@ -336,30 +422,48 @@ async def ingest_knowledge_base_azure():
         shards_created=len(shards)
     )
 
-async def query_azure_shard(shard_content: str, question: str) -> str:
-    """Helper function to query a single Azure shard."""
+async def query_azure_shard(shard_content: str, question: str) -> dict:
+    """Helper function to query a single Azure shard. Returns dict with answer and sources."""
     if not azure_client:
-        return "Azure Client not configured."
+        return {"answer": "Azure Client not configured.", "sources": []}
         
     try:
         # Construct messages. The long context (shard_content) goes first to trigger caching.
         messages = [
             {
                 "role": "user", 
-                "content": f"Context information is below.\n---------------------\n{shard_content}\n---------------------\nGiven the context information and not prior knowledge, answer the query.\nQuery: {question}\nAnswer:"
+                "content": f"""Context information is below.
+---------------------
+{shard_content}
+---------------------
+Given the context information and not prior knowledge, answer the query.
+Query: {question}
+
+INSTRUCTIONS:
+1. Answer the question in Spanish.
+2. Identify the specific documents and pages used to answer (look for headers like '## DOCUMENT - Página X').
+3. Return ONLY a JSON object with the following format:
+{{
+  "answer": "Your answer here...",
+  "sources": ["Document Name - Página X", "Another Doc - Página Y"]
+}}
+"""
             }
         ]
         
         response = await azure_client.chat.completions.create(
             model=AZURE_DEPLOYMENT_NAME,
             messages=messages,
-            temperature=1 # Low temp for factual answers
+            temperature=0.0, # Zero temp for strict JSON
+            response_format={"type": "json_object"}
         )
         
-        return response.choices[0].message.content
+        content = response.choices[0].message.content
+        import json
+        return json.loads(content)
     except Exception as e:
         logger.error(f"Error querying Azure shard: {e}")
-        return ""
+        return {"answer": "", "sources": []}
 
 @app.post("/ask/azure", response_model=AskResponse)
 async def ask_question_azure(request: AskRequest):
@@ -379,39 +483,172 @@ async def ask_question_azure(request: AskRequest):
         )
 
     try:
-        # MAP PHASE: Query shards in parallel (TPM increased to 1M)
-        logger.info(f"Querying {len(global_state.azure_shards)} Azure shards in parallel...")
-        tasks = [query_azure_shard(shard, request.question) for shard in global_state.azure_shards]
-        shard_responses = await asyncio.gather(*tasks)
+        # --- SESSION MANAGEMENT ---
+        session_id = request.session_id or "default"
+        if session_id not in global_state.sessions:
+            global_state.sessions[session_id] = []
+            
+        # Add user question to history
+        global_state.sessions[session_id].append({"role": "user", "content": request.question})
         
-        valid_responses = [r for r in shard_responses if r.strip()]
+        # Keep history short (last 6 messages = 3 turns) to save tokens
+        history = global_state.sessions[session_id][-6:]
+        
+        # Format history for prompt
+        history_str = ""
+        for msg in history[:-1]: # Exclude the current question which is added separately
+            history_str += f"{msg['role'].upper()}: {msg['content']}\n"
 
-        if not valid_responses:
-            return AskResponse(answer="I could not find any relevant information in the knowledge base.")
-
-        # REDUCE PHASE
-        if len(valid_responses) == 1:
-            return AskResponse(answer=valid_responses[0])
+        # --- AGENTIC ROUTING PHASE ---
+        logger.info(f"Agentic Router: Analyzing request for session '{session_id}'...")
         
-        logger.info("Synthesizing Azure responses...")
+        # Create a prompt with all summaries
+        router_context = ""
+        for i, summary in enumerate(global_state.azure_shard_summaries):
+            router_context += f"SHARD_ID {i}: {summary}\n\n"
+            
+        router_prompt = f"""
+        You are an intelligent router for a technical support RAG system for Air Conditioners.
         
-        synthesis_prompt = f"""
-        The user asked: "{request.question}"
+        Available Shards (grouped by Series):
+        {router_context}
         
-        Here are partial answers found in different sections of the knowledge base:
+        Conversation History:
+        {history_str}
         
-        {''.join([f'--- PARTIAL ANSWER {i+1} ---\n{resp}\n\n' for i, resp in enumerate(valid_responses)])}
+        Current User Question: "{request.question}"
         
-        Please synthesize a single, coherent, and complete answer based on these partial responses. 
-        Ignore any "I don't know" or irrelevant parts if better information is available in other partial answers.
+        Task: Decide the next action.
+        
+        Rules:
+        1. **Search:** If the user mentions a Series/Model, OR if the Conversation History provides the Series/Model context.
+           - **CRITICAL:** You must generate a `search_query` that combines the *original intent* from the history with the *new context*.
+           - **Example:** 
+             - History: User: "¿Error E9?", Assistant: "¿Qué modelo?"
+             - Current Input: "Aflex"
+             - **Output:** `{{"action": "search", "shards": [...], "search_query": "Significado del error E9 en la serie Aflex"}}` (Do NOT just search for "Aflex")
+        2. **Clarify:** If the question is ambiguous (e.g., "What refrigerant?", "Error E4") AND the History does NOT clarify which Series/Model, ask the user to specify.
+        3. **Generic:** If the question is general (e.g., "How to install?", "Warranty info") and applies to all, select relevant shards (or all if unsure).
+        
+        Output JSON format:
+        - If searching: {{"action": "search", "shards": [0, 2], "search_query": "Full contextualized question"}}
+        - If clarifying: {{"action": "clarify", "message": "Para poder ayudarte mejor, ¿podrías especificar la Serie o el Modelo de tu equipo?"}}
         """
         
-        final_response = await azure_client.chat.completions.create(
+        router_response = await azure_client.chat.completions.create(
             model=AZURE_DEPLOYMENT_NAME,
-            messages=[{"role": "user", "content": synthesis_prompt}],
+            messages=[
+                {"role": "system", "content": "You are a precise routing assistant. Output only JSON."},
+                {"role": "user", "content": router_prompt}
+            ],
+            temperature=0.0
         )
+        
+        router_output = {}
+        try:
+            import json
+            content = router_response.choices[0].message.content
+            # Clean up potential markdown code blocks
+            if "```" in content:
+                content = content.split("```")[1].replace("json", "").strip()
+            router_output = json.loads(content)
+            logger.info(f"Router decision: {router_output}")
+        except Exception as e:
+            logger.error(f"Router parsing failed: {e}. Fallback to search all.")
+            router_output = {"action": "search", "shards": list(range(len(global_state.azure_shards))), "search_query": request.question}
 
-        return AskResponse(answer=final_response.choices[0].message.content)
+        # --- ACTION HANDLING ---
+        
+        if router_output.get("action") == "clarify":
+            clarification_msg = router_output.get("message", "¿Podrías especificar el modelo?")
+            # Add assistant response to history
+            global_state.sessions[session_id].append({"role": "assistant", "content": clarification_msg})
+            return AskResponse(answer=clarification_msg)
+
+        # If action is search (or fallback)
+        selected_indices = router_output.get("shards", [])
+        search_query = router_output.get("search_query", request.question) # Use rewritten query
+        
+        logger.info(f"Executing Search with Query: '{search_query}' on shards {selected_indices}")
+
+        # Validate indices
+        valid_indices = [i for i in selected_indices if 0 <= i < len(global_state.azure_shards)]
+        if not valid_indices:
+            logger.warning("No valid shards selected by router. Fallback to all.")
+            valid_indices = list(range(len(global_state.azure_shards)))
+
+
+        # --- MAP PHASE (Selected Shards Only) ---
+        logger.info(f"Querying {len(valid_indices)} selected Azure shards in parallel...")
+        tasks = [query_azure_shard(global_state.azure_shards[i], search_query) for i in valid_indices]
+        shard_responses = await asyncio.gather(*tasks)
+        
+        # shard_responses is now a list of dicts: [{"answer": "...", "sources": [...]}, ...]
+        valid_responses = [r for r in shard_responses if r.get("answer", "").strip()]
+
+        if not valid_responses:
+            msg = "No pude encontrar información relevante en la base de conocimientos."
+            global_state.sessions[session_id].append({"role": "assistant", "content": msg})
+            return AskResponse(answer=msg, sources=[])
+
+        # Collect all sources
+        all_sources = []
+        for r in valid_responses:
+            all_sources.extend(r.get("sources", []))
+        
+        # Deduplicate sources
+        unique_sources = list(set(all_sources))
+        
+        # Group sources by file
+        source_map = {}
+        for src in unique_sources:
+            # Assume format "DocName - Página X"
+            if " - Página" in src:
+                doc_part = src.split(" - Página")[0]
+            else:
+                doc_part = src
+            
+            # Clean doc_part (remove trailing dot if present)
+            doc_name = doc_part.strip()
+            if doc_name.endswith('.'):
+                doc_name = doc_name[:-1]
+                
+            file_name = f"{doc_name}.pdf"
+            
+            if file_name not in source_map:
+                source_map[file_name] = []
+            source_map[file_name].append(src)
+        
+        final_sources = [SourceItem(file=f, detail=d) for f, d in source_map.items()]
+
+        # REDUCE PHASE
+        final_answer = ""
+        if len(valid_responses) == 1:
+            final_answer = valid_responses[0]["answer"]
+        else:
+            logger.info("Synthesizing Azure responses...")
+            
+            synthesis_prompt = f"""
+            The user asked: "{request.question}"
+            
+            Here are partial answers found in different sections of the knowledge base:
+            
+            {''.join([f'--- PARTIAL ANSWER {i+1} ---\n{resp["answer"]}\n\n' for i, resp in enumerate(valid_responses)])}
+            
+            Please synthesize a single, coherent, and complete answer based on these partial responses. 
+            Ignore any "I don't know" or irrelevant parts if better information is available in other partial answers.
+            RESPONDE SIEMPRE EN ESPAÑOL.
+            """
+            
+            final_response = await azure_client.chat.completions.create(
+                model=AZURE_DEPLOYMENT_NAME,
+                messages=[{"role": "user", "content": synthesis_prompt}],
+            )
+            final_answer = final_response.choices[0].message.content
+
+        # Add final answer to history
+        global_state.sessions[session_id].append({"role": "assistant", "content": final_answer})
+        return AskResponse(answer=final_answer, sources=final_sources)
 
     except Exception as e:
         logger.error(f"Error generating Azure response: {e}")

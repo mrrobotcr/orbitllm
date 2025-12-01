@@ -1,0 +1,121 @@
+## AALEF-T-3617-RTCA-A - Página 1
+
+### Título principal
+CERTIFICADO DE CONFORMIDAD
+CERTIFICATE OF CONFORMITY
+
+### Encabezados y datos del certificado
+- **Certificado No./Certificate No.:** 4927107.01COC
+- **Número de informe/Report No.:** 4927107.50
+- **Fecha de la última revisión/Last revision date:** 2024-09-30
+- **Fecha de emisión inicial/Initial issue date:** 2024-09-30
+- **Fecha de próxima vigilancia/Next surveillance date:** 2025-09-30
+- **Fecha de caducidad/Expiry date:** 2027-09-30
+
+### Titular del certificado/Certificate Holder
+- **Nombre/Name:** ADINA APPLIANCES S.A
+- **Dirección/Address:** COMPLEJO INDUSTRIAL PANAMA VIEJO BUSINESS GALERA G17, PANAMA CITY, PANAMA.
+
+### Fabricante/Manufacturer
+- **Nombre/Name:** ADINA APPLIANCES S A
+- **Dirección/Address:** COMPLEJO INDUSTRIAL PANAMA VIEJO BUSINESS GALERA G17, PANAMA CITY, PANAMA.
+
+### Planta de fabricación/Manufacturing Plant
+- **Nombre/Name:** 
+- **Dirección/Address:** 
+
+### Texto descriptivo (párrafos)
+- Este certificado de conformidad se basa en los resultados de una muestra del producto mencionado a continuación y es para verificar que la muestra evaluada cumplió con los requisitos mencionados a continuación, pero esto no implica la evaluación de otros productos con el mismo diseño que los evaluados. Además, esto no permite el uso de ninguna marca de conformidad de DEKRA.
+- This certificate of conformity is based on the results of a sample of the below-mentioned product and is to verify that the evaluated sample had complied with the below-mentioned requirements, but this does not imply assessment of other products with same design to the evaluated item. In addition, this does not permit the use of any conformity marks of DEKRA.
+
+### Producto/Product
+- **Producto/Product:** Acondicionador de aire tipo Inverter/ Split type Inverter air conditioner
+- **Marca/Trademark:** ADINA
+
+### Identificación del producto evaluado/Identification of the product evaluated
+- **Tipo/Type:** AALEF-T-3617
+- **No. de serie/Serial number:** Indoor 1402010NJXND23246G0020203; Outdoor 157H0WPB002P81560820
+- **Capacidad/Capacity:** 10560 W (36000 BTU/h)
+- **El ahorro de energía/Energy Saving:** 13.4%
+
+### Procedimiento de pruebas/Test procedure
+- **Procedimiento de pruebas/Test procedure:** (COMIECO) RTCA 23.01.78:20
+
+### Norma aplicada/Applied Standard
+- **Norma aplicada/Applied Standard:** NOM-026-ENER-2015
+
+### Observación / Remarks
+- **Observación / Remarks:** Este certificado está sujeto al esquema 5 de ISO/IEC 17067: 2013. / This certificate is subjected to scheme 5 of ISO/IEC 17067: 2013.
+
+### Firma(s) y certificador
+- **DEKRA Certification B.V.**
+- Firmas visuales (dos firmas manuscritas)
+- **B.T.M Holtus** — Managing Director
+- **Nelson Coelho** — Certification Manager
+- **Nota:** © Integral publication of this certificate and adjoining reports is allowed
+
+### Información de contacto y dirección (pie de página)
+- **DEKRA Certification B.V. -** Rodovia Dom Pedro I, S/N - km 87 - Unidade 20 - Edifício da Vinci - Ponte Alta - Atibaia - SP
+- **Brasil - CEP 12.952-821 -** comercial.pte@dekra.com - https://www.dekra.com.br/pt/certificacao-de-produto/
+
+### Notas y leyendas
+- Logotipo DEKRA visible en margen izquierdo
+- Sello/etiqueta de certificación (símbolo azul) en la esquina inferior derecha
+- Número de OCP visible en sello: OCP 0089
+
+--- 
+
+Nombre de archivo: AALEF-T-3617-RTCA-A (imagen provista)
+Página: 1
+
+## AALEF-T-3617-RTCA-A - Página 2
+
+### ANEXO AL CERTIFICADO DE CONFORMIDAD
+ANNEX TO CERTIFICATE OF CONFORMITY
+
+### Historial De Certificación/Certification History:
+- **Fecha/Date:** 2024-09-30, **Contenido/Content:** Initial issuance, **Certificado No./Certificate No.:** 4927I07.01COC
+
+### AHORRO DE ENERGÍA / ENERGY SAVING:
+
+#### Tabla: Datos de REEE y Ahorro de Energía
+- **REEE de este equipo /Current REEE data for the equipment (Wt/We) (BTU/Wh):** 5.25/17, **REEE de este equipo Etiquetado en la etiqueta /Current REEE data for the equipment indicated on the label (Wt/We) (BTU/Wh):** 4.98/17, **REEE establecido en la Norma /REEE given by the standard /Regulation (Wt/We) (BTU/Wh):** 4.39/15
+
+- **Potencia eléctrica / Power rating (W):** 4000, **Ahorro de energía indicado en la etiqueta de consumo de energía / Indicated energy saving in the energy consumption's label [%]:** 13.4, **Ahorro de energía / Energy saving [%]:** 19.5
+
+### FOTO DE ETIQUETA / PHOTO OF LABEL:
+
+#### Texto visible en la etiqueta (transcripción fiel)
+- EFICIENCIA ENERGÉTICA
+- Relación de Eficiencia Energética Estacional (REEE)
+- Determinada conforme se establece en el RTCA 23.01.78:20
+- ACONDICIONADORES DE AIRE TIPO DIVIDIDO INVERTER
+
+- Marca: ADINA
+- Tipo: Mini-split inverter
+
+- Unidad condensadora: AALEF-T-3617-F Capacidad de enfriamiento: 10800 W/36000 BTU/h
+- Unidad condensadora: AALEF-T-3617-F Potencia Eléctrica: 4000 W
+
+- Compare el consumo de energía de este equipo con otros del mismo tipo antes de comprar
+
+- Relación de Eficiencia Energética Estacional (REEE)
+
+- **REEE establecido en este RTCA:** (Wt/We) 4,39 (15)
+- **REEE de este equipo:** (Wt/We) 4,98 (17)
+
+- Ahorro de Energía de este Equipo
+- 13,4%
+
+- Barra de ahorro con porcentaje (0% - 100%) indicando posición de ahorro aproximada
+- Menor ahorro ----- Mayor ahorro
+
+- IMPORTANTE
+- El ahorro de energía real dependerá de los usos y hábitos del usuario, así como de la localización del equipo.
+- La etiqueta no debe retirarse del producto hasta que haya sido adquirido por el consumidor final.
+
+### Notas y leyendas:
+- Logotipo lateral visible: DEKRA
+- Pie de página visible: Page 2 of 2
+
+---
