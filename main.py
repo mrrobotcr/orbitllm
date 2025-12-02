@@ -6,6 +6,7 @@ from typing import Optional, List
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, HTTPException, status
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import google.generativeai as genai
 from google.generativeai import caching
@@ -76,6 +77,15 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(title="OrbitLLM Backend", lifespan=lifespan)
 
+# Configure CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],  # Frontend URL
+    allow_credentials=True,
+    allow_methods=["*"],  # Allow all HTTP methods
+    allow_headers=["*"],  # Allow all headers
+)
+
 # --- Pydantic Models ---
 
 class IngestResponse(BaseModel):
@@ -90,9 +100,13 @@ class AskRequest(BaseModel):
     question: str
     session_id: Optional[str] = None
 
+class PageDetail(BaseModel):
+    reference: str
+    excerpt: str
+
 class SourceItem(BaseModel):
     file: str
-    detail: List[str]
+    pages: List[PageDetail]
 
 class AskResponse(BaseModel):
     answer: str
@@ -174,7 +188,8 @@ async def ingest_knowledge_base():
                 model=model_name,
                 display_name=f'knowledge_base_v1_shard_{i}',
                 system_instruction=(
-                    "You are an expert assistant. Use the provided context to answer questions accurately."
+                    "You are an expert assistant. Use the provided context to answer questions accurately. "
+                    "RULE #1: Do NOT assume information that is not within the current context."
                 ),
                 contents=[shard_content],
                 ttl=datetime.timedelta(minutes=60),
@@ -255,6 +270,7 @@ async def ask_question(request: AskRequest):
         Please synthesize a single, coherent, and complete answer based on these partial responses. 
         Ignore any "I don't know" or irrelevant parts if better information is available in other partial answers.
         RESPONDE SIEMPRE EN ESPAÑOL.
+        RULE #1: Do NOT assume information that is not within the partial responses.
         """
         
         final_response = await synthesis_model.generate_content_async(
@@ -275,8 +291,11 @@ async def ask_question(request: AskRequest):
 
 # Mapping from filename prefix to Series Name
 SERIES_MAPPING = {
+    "AFLEX-C": "FLEX-C",  # Specific AFLEX-C subseries
+    "AFLEX-S": "FLEX-S",  # Specific AFLEX-S subseries
+    "AFLEX-T": "FLEX-T",  # Specific AFLEX-T subseries
     "AALEF": "ALEF",
-    "AFLEX": "FLEX",
+    "AFLEX": "FLEX",  # Generic AFLEX (will only match if not C/S/T)
     "AMAX": "MAXIMA",
     "AVENT": "VENTO",
     "EASY": "EASY FLEX",
@@ -303,7 +322,8 @@ SERIES_MAPPING = {
     "ONI-C": "ONIX", # Explicit ONI-C
     "AGO-T": "GOLD", # Explicit AGO-T
     "WINTER": "WINTER", # Explicit WINTER
-    "MAXIMA": "MAXIMA" # Explicit MAXIMA
+    "MAXIMA": "MAXIMA", # Explicit MAXIMA
+    "faqs": "FAQS" # Explicit FAQS
 }
 
 def get_series_from_filename(filename: str) -> str:
@@ -313,7 +333,8 @@ def get_series_from_filename(filename: str) -> str:
     sorted_keys = sorted(SERIES_MAPPING.keys(), key=len, reverse=True)
     
     for prefix in sorted_keys:
-        if prefix in upper_name:
+        # Case insensitive check for keys like "faqs"
+        if prefix.upper() in upper_name:
             return SERIES_MAPPING[prefix]
     return "OTHER" # Fallback
 
@@ -422,39 +443,67 @@ async def ingest_knowledge_base_azure():
         shards_created=len(shards)
     )
 
-async def query_azure_shard(shard_content: str, question: str) -> dict:
+async def query_azure_shard(shard_content: str, question: str, history_str: str = "") -> dict:
     """Helper function to query a single Azure shard. Returns dict with answer and sources."""
     if not azure_client:
         return {"answer": "Azure Client not configured.", "sources": []}
         
     try:
         # Construct messages. The long context (shard_content) goes first to trigger caching.
-        messages = [
-            {
-                "role": "user", 
-                "content": f"""Context information is below.
+        prompt_content = f"""Context information is below.
 ---------------------
 {shard_content}
 ---------------------
-Given the context information and not prior knowledge, answer the query.
+"""
+        if history_str:
+            prompt_content += f"""Conversation History:
+{history_str}
+"""
+
+        prompt_content += f"""Given the context information and history, answer the query.
+
+CRITICAL CONTEXT INSTRUCTION:
+If the 'Query' is short or ambiguous (e.g., just a model name like "Flex-C"), you MUST interpret it as a follow-up to the 'Conversation History'.
+Example: If History is "Why does it smell bad?" and Query is "Flex-C", you must treat the query as "Why does Flex-C smell bad?" and answer that specific question using the context. Do NOT simply repeat the interpreted question.
+
 Query: {question}
 
 INSTRUCTIONS:
-1. Answer the question in Spanish.
-2. Identify the specific documents and pages used to answer (look for headers like '## DOCUMENT - Página X').
-3. Return ONLY a JSON object with the following format:
+1. RULE #1: Do NOT assume information that is not within the current context.
+2. Answer the question in Spanish.
+3. Identify the specific documents and pages used to answer (look for headers like '## DOCUMENT - Página X').
+4. For each page cited, extract the EXACT text snippet that supports your answer.
+   - **CRITICAL:** Do NOT return document headers, titles, or model names unless they contain the specific answer.
+   - If the answer is in a table, extract the specific ROW containing the key and value (e.g., "Compressor Type | Rotary").
+   - The excerpt MUST contain the specific value you used in your answer.
+5. If the information is NOT present in the context, return "answer": "NOT_FOUND" and empty sources.
+6. Do NOT return the interpreted question as the answer. If you cannot find the answer, return "NOT_FOUND".
+7. Return ONLY a JSON object with the following format:
 {{
-  "answer": "Your answer here...",
-  "sources": ["Document Name - Página X", "Another Doc - Página Y"]
+  "answer": "Your answer here... (or 'NOT_FOUND')",
+  "sources": [
+    {{
+      "reference": "Document Name - Página X",
+      "excerpt": "Exact text and current context from the document that proves the answer... (max 100 tokens)"
+    }}
+  ]
 }}
 """
+
+        messages = [
+            {
+                "role": "user", 
+                "content": prompt_content
             }
         ]
+        
+        # GPT-5 models don't support temperature=0.0, use default (1.0)
+        temp = 1.0 if AZURE_DEPLOYMENT_NAME.lower().startswith("gpt-5") else 0.0
         
         response = await azure_client.chat.completions.create(
             model=AZURE_DEPLOYMENT_NAME,
             messages=messages,
-            temperature=0.0, # Zero temp for strict JSON
+            temperature=temp,
             response_format={"type": "json_object"}
         )
         
@@ -464,6 +513,29 @@ INSTRUCTIONS:
     except Exception as e:
         logger.error(f"Error querying Azure shard: {e}")
         return {"answer": "", "sources": []}
+
+async def is_valid_question(text: str) -> bool:
+    """
+    Classifies if the input is a valid standalone question or a conversational reply.
+    Returns True if it's a question, False if it's likely a reply (e.g., "Yes", "Flex-C").
+    """
+    if not azure_client: return False
+    try:
+        response = await azure_client.chat.completions.create(
+            model=AZURE_DEPLOYMENT_NAME,
+            messages=[
+                {"role": "system", "content": "Classify if the user input is a valid question/request or just a short reply/confirmation. Return JSON: {\"is_question\": true/false}"},
+                {"role": "user", "content": text}
+            ],
+            temperature=0.0,
+            response_format={"type": "json_object"}
+        )
+        import json
+        result = json.loads(response.choices[0].message.content)
+        return result.get("is_question", False)
+    except Exception as e:
+        logger.error(f"Error in input classifier: {e}")
+        return True # Fallback to treating as question
 
 @app.post("/ask/azure", response_model=AskResponse)
 async def ask_question_azure(request: AskRequest):
@@ -494,10 +566,62 @@ async def ask_question_azure(request: AskRequest):
         # Keep history short (last 6 messages = 3 turns) to save tokens
         history = global_state.sessions[session_id][-6:]
         
-        # Format history for prompt
+        # Prepare history string for prompt
         history_str = ""
         for msg in history[:-1]: # Exclude the current question which is added separately
             history_str += f"{msg['role'].upper()}: {msg['content']}\n"
+
+        # --- PRE-ROUTER FAQS CHECK ---
+        # Step 1: Classify Input
+        is_question = await is_valid_question(request.question)
+        logger.info(f"Input Classifier: '{request.question}' -> is_question={is_question}")
+
+        # Step 2: Check FAQS if it is a question
+        if is_question:
+            faqs_index = -1
+            for i, summary in enumerate(global_state.azure_shard_summaries):
+                if summary.startswith("SERIES: FAQS"):
+                    faqs_index = i
+                    break
+            
+            if faqs_index != -1:
+                logger.info("Pre-Router: Checking FAQS shard...")
+                # Query ONLY FAQS
+                faqs_response = await query_azure_shard(global_state.azure_shards[faqs_index], request.question, history_str)
+                
+                if faqs_response.get("answer") != "NOT_FOUND" and faqs_response.get("answer", "").strip():
+                    logger.info("Pre-Router: Answer found in FAQS. Returning immediately.")
+                    # Add to history
+                    global_state.sessions[session_id].append({"role": "assistant", "content": faqs_response["answer"]})
+                    
+                    # Process sources for FAQS response
+                    source_map = {}
+                    seen_references = set()
+                    for src in faqs_response.get("sources", []):
+                        ref = src.get("reference", "")
+                        excerpt = src.get("excerpt", "")
+                        if ref in seen_references: continue
+                        seen_references.add(ref)
+                        
+                        if " - Página" in ref:
+                            doc_part = ref.split(" - Página")[0]
+                        else:
+                            doc_part = ref
+                        doc_name = doc_part.strip()
+                        if doc_name.endswith('.'): doc_name = doc_name[:-1]
+                        file_name = f"{doc_name}.pdf"
+                        
+                        if file_name not in source_map: source_map[file_name] = []
+                        source_map[file_name].append(PageDetail(reference=ref, excerpt=excerpt))
+                    
+                    final_sources = [SourceItem(file=f, pages=d) for f, d in source_map.items()]
+                    return AskResponse(answer=faqs_response["answer"], sources=final_sources)
+                else:
+                    logger.info("Pre-Router: No relevant answer in FAQS. Proceeding to Router.")
+
+        # --- FAQS FIRST STRATEGY REMOVED ---
+        # We now include FAQS shard dynamically in the search phase below.
+
 
         # --- AGENTIC ROUTING PHASE ---
         logger.info(f"Agentic Router: Analyzing request for session '{session_id}'...")
@@ -523,17 +647,36 @@ async def ask_question_azure(request: AskRequest):
         Rules:
         1. **Search:** If the user mentions a Series/Model, OR if the Conversation History provides the Series/Model context.
            - **CRITICAL:** You must generate a `search_query` that combines the *original intent* from the history with the *new context*.
+           - **EXACT MATCHING:** If the user mentions a specific subseries (e.g., "FLEX-C", "AFLEX-C"), select ONLY shards for that exact subseries (FLEX-C), NOT related subseries (FLEX-T, FLEX-S).
            - **Example:** 
              - History: User: "¿Error E9?", Assistant: "¿Qué modelo?"
              - Current Input: "Aflex"
              - **Output:** `{{"action": "search", "shards": [...], "search_query": "Significado del error E9 en la serie Aflex"}}` (Do NOT just search for "Aflex")
-        2. **Clarify:** If the question is ambiguous (e.g., "What refrigerant?", "Error E4") AND the History does NOT clarify which Series/Model, ask the user to specify.
-        3. **Generic:** If the question is general (e.g., "How to install?", "Warranty info") and applies to all, select relevant shards (or all if unsure).
+        2. **Clarify:** ONLY if the question is about **Technical Specifications** or **Model-Specific Data** AND the History does NOT clarify which Series/Model.
+           - **Examples of when to CLARIFY:**
+             - "What is the cooling capacity?" (Varies by model)
+             - "What is the max current?" (Varies by model)
+             - "What voltage does it use?" (Varies by model)
+             - "Error E6" (Meaning might vary significantly between series)
+             - "Max temperature in Cooling mode?" (Operational limit)
+           - **IMPORTANT:** In your message, list the available Series found in the Shards context to help the user.
+        3. **Generic/Search:** If the question is about **Troubleshooting**, **Usage**, **General Inquiries**, or **Recommendations**.
+           - **Examples of when to SEARCH (Do NOT clarify):**
+             - "My AC smells bad." (Common issue)
+             - "Unit making strange noise." (Common issue)
+             - "How to use Sleep Mode?" (Usage)
+             - "Remote not working." (Troubleshooting)
+             - "Where to find large capacity units?" (Recommendation)
+           - **Action:** Select ALL relevant shards (or all shards if unsure) to search across the entire knowledge base.
+           - **Output:** `{{"action": "search", "shards": [0, 1, 2, ...], "search_query": "Original Question"}}`
         
         Output JSON format:
         - If searching: {{"action": "search", "shards": [0, 2], "search_query": "Full contextualized question"}}
-        - If clarifying: {{"action": "clarify", "message": "Para poder ayudarte mejor, ¿podrías especificar la Serie o el Modelo de tu equipo?"}}
+        - If clarifying: {{"action": "clarify", "message": "Para poder ayudarte mejor, ¿podrías especificar la Serie o el Modelo de tu equipo? Las series disponibles son: GOLD, FREEDOM, ALEF, etc."}}
         """
+        
+        # GPT-5 models don't support temperature=0.0, use default (1.0)
+        temp = 1.0 if AZURE_DEPLOYMENT_NAME.lower().startswith("gpt-5") else 0.0
         
         router_response = await azure_client.chat.completions.create(
             model=AZURE_DEPLOYMENT_NAME,
@@ -541,7 +684,7 @@ async def ask_question_azure(request: AskRequest):
                 {"role": "system", "content": "You are a precise routing assistant. Output only JSON."},
                 {"role": "user", "content": router_prompt}
             ],
-            temperature=0.0
+            temperature=temp
         )
         
         router_output = {}
@@ -573,10 +716,10 @@ async def ask_question_azure(request: AskRequest):
 
         # Validate indices
         valid_indices = [i for i in selected_indices if 0 <= i < len(global_state.azure_shards)]
+        
         if not valid_indices:
             logger.warning("No valid shards selected by router. Fallback to all.")
             valid_indices = list(range(len(global_state.azure_shards)))
-
 
         # --- MAP PHASE (Selected Shards Only) ---
         logger.info(f"Querying {len(valid_indices)} selected Azure shards in parallel...")
@@ -584,7 +727,7 @@ async def ask_question_azure(request: AskRequest):
         shard_responses = await asyncio.gather(*tasks)
         
         # shard_responses is now a list of dicts: [{"answer": "...", "sources": [...]}, ...]
-        valid_responses = [r for r in shard_responses if r.get("answer", "").strip()]
+        valid_responses = [r for r in shard_responses if r.get("answer") != "NOT_FOUND" and r.get("answer", "").strip()]
 
         if not valid_responses:
             msg = "No pude encontrar información relevante en la base de conocimientos."
@@ -596,17 +739,25 @@ async def ask_question_azure(request: AskRequest):
         for r in valid_responses:
             all_sources.extend(r.get("sources", []))
         
-        # Deduplicate sources
-        unique_sources = list(set(all_sources))
-        
         # Group sources by file
         source_map = {}
-        for src in unique_sources:
+        seen_references = set()
+        
+        for src in all_sources:
+            # src is now {"reference": "...", "excerpt": "..."}
+            ref = src.get("reference", "")
+            excerpt = src.get("excerpt", "")
+            
+            # Skip if we've already seen this exact reference (page)
+            if ref in seen_references:
+                continue
+            seen_references.add(ref)
+            
             # Assume format "DocName - Página X"
-            if " - Página" in src:
-                doc_part = src.split(" - Página")[0]
+            if " - Página" in ref:
+                doc_part = ref.split(" - Página")[0]
             else:
-                doc_part = src
+                doc_part = ref
             
             # Clean doc_part (remove trailing dot if present)
             doc_name = doc_part.strip()
@@ -617,9 +768,9 @@ async def ask_question_azure(request: AskRequest):
             
             if file_name not in source_map:
                 source_map[file_name] = []
-            source_map[file_name].append(src)
+            source_map[file_name].append(PageDetail(reference=ref, excerpt=excerpt))
         
-        final_sources = [SourceItem(file=f, detail=d) for f, d in source_map.items()]
+        final_sources = [SourceItem(file=f, pages=d) for f, d in source_map.items()]
 
         # REDUCE PHASE
         final_answer = ""
@@ -638,6 +789,7 @@ async def ask_question_azure(request: AskRequest):
             Please synthesize a single, coherent, and complete answer based on these partial responses. 
             Ignore any "I don't know" or irrelevant parts if better information is available in other partial answers.
             RESPONDE SIEMPRE EN ESPAÑOL.
+            RULE #1: Do NOT assume information that is not within the partial responses.
             """
             
             final_response = await azure_client.chat.completions.create(
