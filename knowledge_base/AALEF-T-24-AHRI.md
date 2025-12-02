@@ -1,55 +1,39 @@
-## AALEF-T-24-AHRI - Página 1
+# AALEF-T-24-AHRI.pdf
 
-### Certificate of Product Ratings
-Certificate of Product Ratings
 
-### Información general
-- **AHRI Certified Reference Number :** 208685641
-- **Date :** 10-08-2022
-- **Model Status :** Active
-- **AHRI Type :** RCU-A-CB-O (Mini-Split Air-Conditioner, with Remote Outdoor Unit-Air-Source, Free Delivery)
-- **Outdoor Unit Brand Name :** ADINA
-- **Series Name :** ALEF
-- **Outdoor Unit Model Number :** AALEF-T-2417-E
-- **Indoor Type :** Mini-Splits (Non-Ducted)
-- **Indoor Model Number(s) :** AALEF-T-2417-1
+================================================================================
+PAGE 1
+================================================================================
 
-### Rated as follows (de acuerdo con AHRI 210/240 - 2017 con Addendum 1)
-Rated as follows in accordance with the latest edition of AHRI 210/240 - 2017 with Addendum 1, Performance Rating of Unitary Air-Conditioning & Air-Source Heat Pump Equipment and subject to rating accuracy by AHRI-sponsored, independent, third party testing:
-- **Cooling Capacity (A2) - Single or High Stage (95F), btuh :** 23000
-- **SEER :** 17.00
-- **EER (A2) - Single or High Stage (95F) :** 9.60
+# Certificate of Product Ratings 
 
-- **Sold in? :** Outside USA and Canada
+AHRI Certified Reference Number : 208685641 Date : 10-08-2022 Model Status : Active
+AHRI Type : RCU-A-CB-O (Mini-Split Air-Conditioner, with Remote Outdoor Unit-Air-Source, Free Delivery)
+Outdoor Unit Brand Name : ADINA
+Series Name : ALEF
+Outdoor Unit Model Number : AALEF-T-2417-E
+Indoor Type : Mini-Splits (Non-Ducted)
+Indoor Model Number(s) : AALEF-T-2417-I
+Rated as follows in accordance with the latest edition of AHRI 210/240 - 2017 with Addendum 1, Performance Rating of Unitary Air-Conditioning \& Air-Source Heat Pump Equipment and subject to rating accuracy by AHRI-sponsored, independent, third party testing:
 
-### Imagen / Marca visible
-- AHRI CERTIFIED®
-- www.ahridirectory.org
+Cooling Capacity (A2) - Single or High Stage (95F), btuh : 23000
+SEER : 17.00
+EER (A2) - Single or High Stage (95F) : 9.60
+Sold in? : Outside USA and Canada
+![img-0.jpeg](img-0.jpeg)
+$\dagger$ "Active" Model Status are those that an AHRI Certification Program Participant is currently producing AND selling or offering for sale; OR new models that are being marketed but are not yet being produced."Production Stopped" Model Status are those that an AHRI Certification Program Participant is no longer producing BUT is still selling or offering for sale.
 
-### Notas y leyendas
-- †"Active" Model Status are those that an AHRI Certification Program Participant is currently producing AND selling or offering for sale; OR new models that are being marketed but are not yet being produced.*Production Stopped* Model Status are those that an AHRI Certification Program Participant is no longer producing BUT is still selling or offering for sale.
-- Ratings that are accompanied by WAS indicate an involuntary re-rate. The new published rating is shown along with the previous (i.e. WAS) rating.
+Ratings that are accompanied by WAS indicate an involuntary re-rate. The new published rating is shown along with the previous (i.e. WAS) rating.
 
-### DISCLAIMER
-- AHRI does not endorse the product(s) listed on this Certificate and makes no representations, warranties or guarantees as to, and assumes no responsibility for, the product(s) listed on this Certificate. AHRI expressly disclaims all liability for damages of any kind arising out of the use or performance of the product(s), or the unauthorized alteration of data listed on this Certificate. Certified ratings are valid only for models and configurations listed on this directory at www.ahridirectory.org.
+## DISCLAIMER
 
-### TERMS AND CONDITIONS
-- This Certificate and its contents are proprietary products of AHRI. This Certificate shall only be used for individual, personal and confidential reference purposes. The contents of this Certificate may not, in whole or in part, be reproduced, copied, disseminated, entered into a computer database, or otherwise utilized, in any form or manner or by any means, except for the user’s individual, personal and confidential reference.
+AHRI does not endorse the product(s) listed on this Certificate and makes no representations, warranties or guarantees as to, and assumes no responsibility for, the product(s) listed on this Certificate. AHRI expressly disclaims all liability for damages of any kind arising out of the use or performance of the product(s), or the unauthorized alteration of data listed on this Certificate. Certified ratings are valid only for models and configurations listed in the directory at www.ahridirectory.org.
 
-### CERTIFICATE VERIFICATION
-- The information for the model cited on this certificate can be verified at www.ahridirectory.org, click on “Verify Certificate” link and enter the AHRI Certified Reference Number and the date on which the certificate was issued, which is listed above, and the Certificate No., which is listed at bottom right.
+## TERMS AND CONDITIONS
 
-### Derechos de autor
-- ©2022 Air-Conditioning, Heating, and Refrigeration Institute
+This Certificate and its contents are proprietary products of AHRI. This Certificate shall only be used for individual, personal and confidential reference purposes. The contents of this Certificate may not, in whole or in part, be reproduced; copied; disseminated; entered into a computer database; or otherwise utilized, in any form or manner or by any means, except for the user's individual, personal and confidential reference.
 
-### Identificación del certificado (parte inferior derecha)
-- **CERTIFICATE NO. :** 133097430401324178
+## CERTIFICATE VERIFICATION
 
-### Gráficos / Logos visibles (parte inferior derecha)
-- AHRI (logotipo)
-- AIR-CONDITIONING, HEATING, & REFRIGERATION INSTITUTE
-- we make life better™
-
---- 
-
-(Documento: AALEF-T-24-AHRI - Página 1)
+The information for the model cited on this certificate can be verified at www.ahridirectory.org, click on "Verify Certificate" link and enter the AHRI Certified Reference Number and the date on which the certificate was issued, which is listed above, and the Certificate No., which is listed at bottom right.
+![img-1.jpeg](img-1.jpeg)

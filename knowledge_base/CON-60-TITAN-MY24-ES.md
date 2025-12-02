@@ -1,60 +1,44 @@
-## CON-60-TITAN-MY24-ES - Página 1
+# CON-60-TITAN-MY24-ES.pdf
 
-### TITULO PRINCIPAL
-Plano Explosionado
 
-### Subtítulo
-Unidad Exterior (Modelo Inverter)
-60K
+================================================================================
+PAGE 1
+================================================================================
 
-### Marca / Logotipo
-ADINA
-Air Conditioning
+![img-0.jpeg](img-0.jpeg)
 
-### Serie (texto grande a la derecha)
-TITAN
-SERIES
+# **Plano Explosionado**
 
-### Diagrama
-- Imagen: Plano explosionado con piezas numeradas 1 a 18 alrededor del dibujo (ventilador, carcasas, motor, compresor, paneles, etc.). (Ilustración con números de referencia: 1, 2, 3, 4, 5, 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18)
+## Unidad Exterior (Modelo Inverter)
 
-### Tabla: Lista de partes (No / Nombre de la parte / Código / Q'ty)
-- **No:** 1, **Nombre de la parte:** Marco de soporte, **Código:** RO45801-000032, **Q'ty:** 1
-- **No:** 2, **Nombre de la parte:** Tapa superior, **Código:** RO45007-000044, **Q'ty:** 1
-- **No:** 3, **Nombre de la parte:** Conjunto de soporte del motor, **Código:** RO45005-000272, **Q'ty:** 1
-- **No:** 4, **Nombre de la parte:** Motores de corriente continua sin escobillas, **Código:** RO25001-000428, **Q'ty:** 1
-- **No:** 5, **Nombre de la parte:** Piezas de la caja de control eléctrico, **Código:** RO35001-000743, **Q'ty:** 1
-- **No:** 5.1, **Nombre de la parte:** Conjunto de la placa de montaje de control electrónico (panel superior), **Código:** RO43301-000043, **Q'ty:** 1
-- **No:** 5.2, **Nombre de la parte:** Soporte (bloque de terminales), **Código:** RO46701-000077, **Q'ty:** 1
-- **No:** 5.3, **Nombre de la parte:** Radiador, **Código:** RO11901-100088, **Q'ty:** 1
-- **No:** 5.4, **Nombre de la parte:** Caja de control eléctrico, **Código:** RO45006-001384, **Q'ty:** 1
-- **No:** 5.5, **Nombre de la parte:** Bloques de terminales, **Código:** RO35005-000075, **Q'ty:** 1
-- **No:** 5.6, **Nombre de la parte:** [texto no legible en imagen], **Código:** RO35005-000166, **Q'ty:** 1
-- **No:** 5.7, **Nombre de la parte:** Placa del módulo de conversión de frecuencia, **Código:** RO35001-000727, **Q'ty:** 1
-- **No:** 6, **Nombre de la parte:** Conjunto válvula de expansión electrónica, **Código:** R095015-001941, **Q'ty:** 1
-- **No:** 7, **Nombre de la parte:** Bobina de la válvula de expansión electrónica, **Código:** R02509-000121, **Q'ty:** 1
-- **No:** 8, **Nombre de la parte:** Conjunto válvula de baja presión, **Código:** R095015-001968, **Q'ty:** 1
-- **No:** 9, **Nombre de la parte:** Conjunto del tubo de escape, **Código:** R095015-001938, **Q'ty:** 1
-- **No:** 10, **Nombre de la parte:** Compresor, **Código:** R095017-000205, **Q'ty:** 1
-- **No:** 11, **Nombre de la parte:** Columna de soporte, **Código:** RO45801-000035, **Q'ty:** 3
-- **No:** 12, **Nombre de la parte:** Panel lateral inferior, **Código:** RO45003-000361, **Q'ty:** 1
-- **No:** 13, **Nombre de la parte:** Componentes del chasis, **Código:** RO45004-000560, **Q'ty:** 1
-- **No:** 14, **Nombre de la parte:** Placa de fijacion derecha, **Código:** RO46011-000351, **Q'ty:** 1
-- **No:** 15, **Nombre de la parte:** Componentes del condensador, **Código:** R095003-004338, **Q'ty:** 1
-- **No:** 16, **Nombre de la parte:** Deflector, **Código:** RO45008-000276, **Q'ty:** 1
-- **No:** 17, **Nombre de la parte:** Tapa con control electrónico, **Código:** RO45006-001480, **Q'ty:** 1
-- **No:** 18, **Nombre de la parte:** Aspas axiales, **Código:** RO45009-000057, **Q'ty:** 1
+### 60K
 
-### Encabezados de tabla visibles
-- No | Nombre de la parte | Código | Q'ty
+![img-1.jpeg](img-1.jpeg)
 
-### Notas y leyendas
-- Ilustración con números de referencia correspondientes a la lista de partes.
-- Algunas inscripciones pequeñas en el diagrama indican números de pieza (1 a 18) cerca de cada componente ilustrado.
-
-### Pie de página / otros textos pequeños visibles
-- (No se detectan pies de página con texto adicional en la imagen proporcionada)
-
---- 
-
-Observación: En la fila 5.6 el nombre de la parte no es legible en la imagen; se ha dejado indicado como "[texto no legible en imagen]" y se ha transcrito el código y la cantidad tal como aparecen.
+|  No | Nombre de la parte | Código | Q'ty  |
+| --- | --- | --- | --- |
+|  1 | Marco de soporte | R045801-000032 | 1  |
+|  2 | Tapa superior | R045007-000044 | 1  |
+|  3 | Conjunto de soporte del motor | R045005-000272 | 1  |
+|  4 | Motores de corriente continua sin escobillas | R025001-000428 | 1  |
+|  5 | Piezas de la caja de control eléctrico | R035001-000743 | 1  |
+|  5.1 | Conjunto de la placa de montaje de control electrónico (panel superior) | R043301-000043 | 1  |
+|  5.2 | Soporte (bloque de terminales) | R046701-000077 | 1  |
+|  5.3 | Radiador | R011901-100088 | 1  |
+|  5.4 | Caja de control eléctrico | R045006-001384 | 1  |
+|  5.5 | Bloques de terminales | R035005-000075 | 1  |
+|  5.6 |  | R035005-000166 | 1  |
+|  5.7 | Placa del módulo de conversión de frecuencia | R035001-000727 | 1  |
+|  6 | Conjunto válvula de expansión electrónica | R095015-001941 | 1  |
+|  7 | Bobina de la válvula de expansión electrónica | R025009-000121 | 1  |
+|  8 | Conjunto válvula de baja presión | R095015-001968 | 1  |
+|  9 | Conjunto del tubo de escape | R095015-001938 | 1  |
+|  10 | Compresor | R095017-000205 | 1  |
+|  11 | Columna de soporte | R045801-000035 | 3  |
+|  12 | Panel lateral inferior | R045003-000361 | 1  |
+|  13 | Componentes del chasis | R045004-000560 | 1  |
+|  14 | Placa de fijación derecha | R046101-000351 | 1  |
+|  15 | Componentes del condensador | R095003-004338 | 1  |
+|  16 | Deflector | R045008-000276 | 1  |
+|  17 | Tapa con control electrónico | R045006-001480 | 1  |
+|  18 | Aspas axiales | R045009-000057 | 1  |

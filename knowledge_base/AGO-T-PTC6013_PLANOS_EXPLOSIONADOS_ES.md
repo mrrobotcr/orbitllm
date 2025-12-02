@@ -1,74 +1,66 @@
-## AGO-T-PTC6013_PLANOS_EXPLOSIONADOS_ES - Página 1
+# AGO-T-PTC6013_PLANOS_EXPLOSIONADOS_ES.pdf
 
-### Título principal
-Planos Explosionados
 
-### Subtítulo / Identificación
-Piso Techo  
-AGO-T-PTC6013  
-60K
+================================================================================
+PAGE 1
+================================================================================
 
-### Marca / Series (texto visible)
-Gold SERIES
+# Planos Explosionados
 
-### Tabla: Lista de piezas (parte izquierda)
-- **No:** 1, **Código:** R025001-000240, **Nombre de la Pieza:** Motor paso a paso, **Q'ty:** 1, **Opcional:**
-- **No:** 2, **Código:** R045008-000217, **Nombre de la Pieza:** Soporte de la barra guía de aire, **Q'ty:** 2, **Opcional:**
-- **No:** 3, **Código:** R045008-000229, **Nombre de la Pieza:** Placa suplementaria, **Q'ty:** 1, **Opcional:**
-- **No:** 4, **Código:** R045008-000127, **Nombre de la Pieza:** Espuma de salida, **Q'ty:** 1, **Opcional:**
-- **No:** 5, **Código:** R045008-000248, **Nombre de la Pieza:** Deflector de aire, **Q'ty:** 1, **Opcional:**
-- **No:** 6, **Código:** R025001-000123, **Nombre de la Pieza:** Motor paso a paso, **Q'ty:** 1, **Opcional:**
-- **No:** 7, **Código:** R045011-000087, **Nombre de la Pieza:** Conjunto de bandeja de drenaje, **Q'ty:** 1, **Opcional:**
-- **No:** 8, **Código:** R045801-000062, **Nombre de la Pieza:** Conjunto de aletas, **Q'ty:** 1, **Opcional:**
-- **No:** 9, **Código:** R045010-000127, **Nombre de la Pieza:** Panel frontal, **Q'ty:** 1, **Opcional:**
-- **No:** 10, **Código:** R035010-000003, **Nombre de la Pieza:** PCB de pantalla, **Q'ty:** 1, **Opcional:**
-- **No:** 11, **Código:** R035003-000080, **Nombre de la Pieza:** Conjunto del evaporador, **Q'ty:** 1, **Opcional:**
-- **No:** 12, **Código:** R095016-000191, **Nombre de la Pieza:** Conjunto del tubo de salida, **Q'ty:** 1, **Opcional:**
-- **No:** 13,1, **Código:** R095016-000028, **Nombre de la Pieza:** Conjunto del tubo de entrada, **Q'ty:** 1, **Opcional:**
-- **No:** 13,2, **Código:** R095002-000460, **Nombre de la Pieza:** Válvula de expansión, **Q'ty:** 1, **Opcional:**
-- **No:** 14, **Código:** R045801-000046, **Nombre de la Pieza:** Soporte lateral del evaporador, **Q'ty:** 3, **Opcional:**
-- **No:** 15, **Código:** R045104-000029, **Nombre de la Pieza:** Conjunto de placa central, **Q'ty:** 1, **Opcional:**
-- **No:** 16, **Código:** R045801-000074, **Nombre de la Pieza:** Soporte lateral del evaporador, **Q'ty:** 1, **Opcional:**
-- **No:** 17, **Código:** R045013-003522, **Nombre de la Pieza:** Placa de válvulas, **Q'ty:** 1, **Opcional:**
-- **No:** 18, **Código:** R045003-000202, **Nombre de la Pieza:** Conjunto de placa derecha, **Q'ty:** 1, **Opcional:**
-- **No:** 19, **Código:** R045104-002001, **Nombre de la Pieza:** Panel derecho, **Q'ty:** 1, **Opcional:**
-- **No:** 20, **Código:** R045014-002551, **Nombre de la Pieza:** Conjunto de rejilla de entrada de aire, **Q'ty:** 2, **Opcional:** 469.4×284
-- **No:** 21, **Código:** R045014-003013, **Nombre de la Pieza:** Conjunto de rejilla de entrada de aire, **Q'ty:** 2, **Opcional:** 579.6×284
+## Piso Techo
 
-### Tabla: Lista de piezas (parte derecha)
-- **No:** 22, **Código:** R045006-000135, **Nombre de la Pieza:** Conjunto de caja eléctrica, **Q'ty:** 1, **Opcional:**
-- **No:** 23,1, **Código:** R025009-000110, **Nombre de la Pieza:** Transformador, **Q'ty:** 1, **Opcional:** AC220V 24V
-- **No:** 23,2, **Código:** R005002-000008, **Nombre de la Pieza:** Transformador, **Q'ty:** 1, **Opcional:** GBYQ-12
-- **No:** 24, **Código:** R035004-001274, **Nombre de la Pieza:** PCB principal, **Q'ty:** 1, **Opcional:**
-- **No:** 25, **Código:** R025003-000048, **Nombre de la Pieza:** Capacitor del ventilador, **Q'ty:** 1, **Opcional:**
-- **No:** 26, **Código:** R045006-000354, **Nombre de la Pieza:** Tapa de la caja eléctrica, **Q'ty:** 1, **Opcional:**
-- **No:** 27, **Código:** R045005-000255, **Nombre de la Pieza:** Complemento de la base del, **Q'ty:** 2, **Opcional:**
-- **No:** 28, **Código:** R045005-000196, **Nombre de la Pieza:** Clip del motor (derecho), **Q'ty:** 1, **Opcional:**
-- **No:** 29, **Código:** R025001-000130, **Nombre de la Pieza:** Motor del ventilador interior, **Q'ty:** 2, **Opcional:**
-- **No:** 30, **Código:** R045005-000232, **Nombre de la Pieza:** Clip del motor (izquierdo), **Q'ty:** 2, **Opcional:**
-- **No:** 31, **Código:** R045005-000396, **Nombre de la Pieza:** Base del motor, **Q'ty:** 2, **Opcional:**
-- **No:** 32, **Código:** R045008-000195, **Nombre de la Pieza:** Carcasa superior del, **Q'ty:** 4, **Opcional:**
-- **No:** 33, **Código:** R045008-000153, **Nombre de la Pieza:** Turbina del ventilador, **Q'ty:** 4, **Opcional:**
-- **No:** 34, **Código:** R045008-000153, **Nombre de la Pieza:** Carcasa inferior del, **Q'ty:** 4, **Opcional:**
-- **No:** 35, **Código:** R045003-000092, **Nombre de la Pieza:** Conjunto de placas izquierda, **Q'ty:** 2, **Opcional:**
-- **No:** 36, **Código:** R045003-000044, **Nombre de la Pieza:** Panel izquierdo, **Q'ty:** 1, **Opcional:**
-- **No:** 37, **Código:** R045801-000033, **Nombre de la Pieza:** Soporte lateral del, **Q'ty:** 1, **Opcional:**
-- **No:** 38, **Código:** R045004-000015, **Nombre de la Pieza:** Placa base, **Q'ty:** 1, **Opcional:**
-- **No:** 39, **Código:** R022103-000064, **Nombre de la Pieza:** Control remoto, **Q'ty:** 1, **Opcional:**
-- **No:** 40, **Código:** R025004-000026, **Nombre de la Pieza:** Sensor de ambiente, **Q'ty:** 1, **Opcional:** No se muestra en el plano explosionado.
-- **No:** 41, **Código:** R025004-000128, **Nombre de la Pieza:** Sensor de tubería, **Q'ty:** 1, **Opcional:**
-- **No:** 42, **Código:** R035005-000106, **Nombre de la Pieza:** Terminal, **Q'ty:** , **Opcional:
+### AGO-T-PTC6013
 
-### Imagen / Diagrama
-- Dibujo explodido del producto con numeración de piezas correspondiente a la lista de piezas.
+### 60K
 
-### Logos y marcas (pie de página)
-- ADINA Air Conditioning
+|  No | Código | Nombre de la Pieza | Qty | Opcional  |
+| --- | --- | --- | --- | --- |
+|  1 | RO25001-000240 | Motor paso a paso | 1 |   |
+|  2 | RO45008-000217 | Soporte de la barra guía de aire | 2 |   |
+|  3 | RO45008-000229 | Placa suplementaria | 1 |   |
+|  4 | RO45008-000127 | Espuma de salida | 1 |   |
+|  5 | RO45008-000284 | Deflector de aire | 1 |   |
+|  6 | RO25001-000123 | Motor paso a paso | 1 |   |
+|  7 | RO45011-000087 | Conjunto de bandeja de drenaje | 1 |   |
+|  8 | RO45801-000062 | Conjunto de aletas | 1 |   |
+|  9 | RO45013-000127 | Panel frontal | 1 |   |
+|  10 | RO35010-000003 | PCB de pantalla | 1 |   |
+|  11 | RO95003-000808 | Conjunto del evaporador | 1 |   |
+|  12 | RO95016-000491 | Conjunto del tubo de salida | 1 |   |
+|  13,1 | RO95016-000828 | Conjunto del tubo de entrada | 1 |   |
+|  13,2 | RO95002-000460 | Válvula de expansión | 1 |   |
+|  14 | RO45801-000046 | Soporte lateral del evaporador 3 | 1 |   |
+|  15 | RO45014-002009 | Conjunto de placa central | 1 |   |
+|  16 | RO45801-000074 | Soporte lateral del evaporador 2 | 1 |   |
+|  17 | RO45014-003522 | Placa de válvulas | 1 |   |
+|  18 | RO45003-000202 | Conjunto de placa derecha | 1 |   |
+|  19 | RO45014-002001 | Panel derecho | 1 |   |
+|  20 | RO45014-002551 | Conjunto de rejilla de entrada de aire | 2 | 469.4×284  |
+|  21 | RO45014-003013 | Conjunto de rejilla de entrada de aire | 1 | 579.6×284  |
 
-### Código de documento / Pie de página
-- V-30062025
+|  No | Código | Nombre de la Pieza | Qty | Opcional  |
+| --- | --- | --- | --- | --- |
+|  22 | RO45006-000135 | Conjunto de caja eléctrica | 1 |   |
+|  23,1 | RO25009-000110 | Transformador | 1 | AC220V 24V  |
+|  23,2 | RO10502-100008 | Transformador | 1 | GBYQ-12  |
+|  24 | RO35004-001274 | PCB principal | 1 |   |
+|  25 | RO25003-000048 | Capacitor del ventilador | 2 |   |
+|  26 | RO45006-000354 | Tapa de la caja eléctrica | 1 |   |
+|  27 | RO45005-000255 | Complemento de la base del | 2 |   |
+|  28 | RO45005-000196 | Clip del motor (derecho) | 2 |   |
+|  29 | RO25001-000130 | Motor del ventilador interior | 2 |   |
+|  30 | RO45005-000232 | Clip del motor (izquierdo) | 2 |   |
+|  31 | RO45005-000396 | Base del motor | 2 |   |
+|  32 | RO45008-000195 | Carcasa superior del | 4 |   |
+|  33 | RO45009-000015 | Turbina del ventilador | 4 |   |
+|  34 | RO45008-000153 | Carcasa inferior del | 4 |   |
+|  35 | RO45003-000092 | Conjunto de placa izquierda | 1 |   |
+|  36 | RO45003-000044 | Panel izquierdo | 1 |   |
+|  37 | RO45801-000033 | Soporte lateral del | 1 |   |
+|  38 | RO45004-000015 | Placa base | 1 |   |
+|  39 | RO22013-000064 | Control remoto | 1 | No se muestra en el plano explosinado.  |
+|  40 | RO25004-000026 | Sensor de ambiente | 1 |   |
+|  41 | RO25004-000128 | Sensor de tubería | 1 |   |
+|  42 | RO35005-000106 | Terminal | 1 |   |
 
-### Notas y leyendas
-- No se muestra en el plano explosionado. (aparece en la columna "Opcional" para Sensor de ambiente)
-
-(Transcripción realizada conforme al contenido visible en la página. Se han mantenido los textos, numeraciones y notas tal como aparecen en el documento.)
+![img-0.jpeg](img-0.jpeg)

@@ -1,126 +1,112 @@
-## AALEF-T-3619N-RTCA-A - Página 1
+# AALEF-T-3619N-RTCA-A.pdf
 
-### CERTIFICADO DE CONFORMIDAD
-CERTIFICATE OF CONFORMITY
 
-- Certificado No./Certificate No.: 4916010.01 COC  
-- Número de informe/Report No.: 4909771.50  
-- Fecha de la última revisión/Last review date: 2024-03-06  
-- Fecha de emisión inicial/Issue date: 2024-03-06  
-- Fecha de próxima vigilancia/Next surveillance date: 2025-03-06  
-- Fecha de caducidad/Expiry date: 2027-03-06
+================================================================================
+PAGE 1
+================================================================================
 
-### Titular del certificado/Certificate Holder
-- Nombre/Name: COPPER GROUP S.A. DE C.V.  
-- Dirección/Address: Prolongación Alameda Juan Pablo II N°349, San Salvador, El Salvador
+# CERTIFICADO DE CONFORMIDAD CERTIFICATE OF CONFORMITY
 
-### Fabricante/Manufacturer
-- Nombre/Name:
+**Certificado No./Certificate No.:** 4916010.01COC **Número de Informe/Report No.:** 4909771.50 **Fecha de la última revisión/Last revision date:** 2024-03-06 **Fecha de emisión inicial/Issue date:** 2024-03-06 **Fecha de próxima vigilancia/Next surveillance date:** 2025-03-06 **Fecha de caducidad/Expiry date:** 2027-03-06
 
-### Planta de fabricación/ Manufacturing Plant
-- Nombre/Name:  
-- Dirección/Address:
+**Titular del certificado/Certificate Holder**
 
-### Texto explicativo (párrafos informativos)
-- Este certificado de conformidad se basa en los resultados de una muestra del producto mencionado a continuación y es para verificar que la muestra evaluada cumplió con los requisitos mencionados a continuación, pero esto no implica la evaluación de otros productos con el mismo diseño que los evaluados. Además, esto no permite el uso de ninguna marca de conformidad de DEKRA.
-- This certificate of conformity is based on the results of a sample of the below-mentioned product and is to verify that the evaluated sample had complied with the below-mentioned requirements, but this does not imply assessment of other products with same design to the evaluated item, in addition, this does not permit the use of any conformity marks of DEKRA.
+**Nombre/Name:** COPPER GROUP S.A. DE C.V. **Dirección/Address:** Prolongación Alameda Juan Pablo II Nº349, San Salvador, El Salvador
 
-### Producto / Product
-- **Producto/Product:** Split type inverter air conditioner / Acondicionador de aire tipo Inverter  
-- **Marca / Trademark:** ADINA
+**Fabricante/Manufacturer**
 
-### Identificación del producto evaluado / Identification of the product evaluated
-- **Tipo/Type:** AALEF-T-3619N (Indoor: AALEF-T-3619N-L; Outdoor: AALEF-T-3619N-E)
-- **No. De serie / Serial number:** Indoor: 12092NNB002NB000001; Outdoor: 1H1QW5D02P5/140012; Outdoor: 1U45WLC00ZL/2200013
+**Nombre/Name:** **Dirección/Address:**
 
-### Capacidad y ahorro
-- **Capacidad de enfriamiento / Cooling Capacity:** 10550W (36000 BTU/h)  
-- **El ahorro de energía / Energy Saving:** 26.8%
+**Planta de fabricación/Manufacturing Plant**
 
-### Procedimiento de pruebas / Test procedure
-- **Procedimiento de pruebas / Test procedure:** (COMIECO) RTCA 23.01.78:20
+**Nombre/Name:** **Dirección/Address:**
 
-### Norma aplicada / Applied Standard
-- **Norma aplicada / Applied Standard:** NOM-026-ENER-2015
+Este certificado de conformidad se basa en los resultados de una muestra del producto mencionado a continuación y es para verificar que la muestra evaluada cumplió con los requisitos mencionados a continuación, pero esto no implica la evaluación de otros productos con el mismo diseño que los evaluados. Además, esto no permite el uso de ninguna marca de conformidad de DEKRA.
 
-### Observación / Remarks
-- Este certificado está sujeto al esquema 5 de ISO/IEC 17067: 2013. / This certificate is subjected to scheme 5 of ISO/IEC 17067: 2013.
+This certificate of conformity is based on the results of a sample of the below-mentioned product and is to verify that the evaluated sample had complied with the below-mentioned requirements, but this does not imply assessment of other products with the same design to the evaluated item. In addition, this does not permit the use of any conformity marks of DEKRA.
 
-### DEKRA Certification B.V. (firmas y datos)
-- DEKRA Certification B.V.
-- Firma (izquierda) / Nombre: B.T.M Holtus  
-  - Managing Director
-- Firma (derecha) / Nombre: N. A. Coelho  
-  - Certification Manager
-- © Integral publication of this certificate and adjoining reports is allowed
+|  **Product/Product:** | Split type inverter air conditioner / Acondicionador de aire tipo inverter  |
+| --- | --- |
+|  **Marca/Trademark:** | ADINA  |
+|  **Identificación del producto evaluado/Identification of the product evaluated:** |   |
+|  **Tipo/Type:** | AALEF-T-3619N (Indoor, AALEF-T-3619N-I, outdoor, AALEF-T-3619N-E)  |
+|  **No. De serie/Serial number:** | Indoor: 12092NNB00ZN80800001, Outdoor: 11H1QWP500ZP51400121  |
+|  **Capacidad de enfriamiento/Cooling Capacity:** | Outdoor: 10451WLC002LC2200013  |
+|  **El ahorro de energía/Energy Saving:** | 10550W (36000 BTU/h)  |
+|  **Procedimiento de pruebas/Test procedure:** | (COMIECO) RTCA 23.01.78:20  |
+|  **Norma aplicada/Applied Standard:** | NOM-026-ENER-2015  |
+|  **Observación/Remarks:** | Este certificado está sujeto al esquema 5 de ISO/IEC 17067: 2013. / This certificate is subjected to scheme 5 of ISO/IEC 17067: 2013.  |
 
-### Datos de contacto y direcciones (visibles)
-- DEKRA Certification B.V. Av. Gerônimo de Camargo, 2000 - Ressaca - Altabia / SP - CEP 12944-000 - Brasil  
-- Tel: +55 11 4416-7280 Webpage: https://dekra.com.br/home
-- DEKRA Certification B.V. Tornel 1051, 6825 MJ Arnhem P.O. Box 5185, 6802 ED Arnhem, The Netherlands  
-- T +31 88 96 83000 F +31 88 96 83100 https://www.dekra-product-safety.com Company registration 09085396
+DEKRA Certification B.V.
 
-### Sello / etiqueta visible
-- Sello/Box (parte inferior derecha): OCP-0089
+B.T.M Holtus Managing Director
 
-### Notas y leyendas:
-- Se han transcrito los textos y números tal como son visibles en la imagen.  
-- Campos de "Fabricante/Manufacturer" y "Planta de fabricación/Manufacturing Plant" aparecen sin datos visibles en la página.
+N. A. Coelho Certification Manager
 
-## AALEF-T-3619N-RTCA-A - Página 2
-Archivo: AALEF-T-3619N-RTCA-A - Página 2
+© Integral publication of this certificate and adjoining reports is allowed
 
-### ANEXO AL CERTIFICADO DE CONFORMIDAD
-ANNEX TO CERTIFICATE OF CONFORMITY
+DEKRA Certification B.V. Av. Gerónimo de Camargo, 2000 - Ressaca - Alibata / SP - CEP 12944-000 - Brasil Tel.: +55 11 4418-7268 Web: https://dekra.com.br/home
 
-### Historial De Certificación/Certification History: (Archivo: AALEF-T-3619N-RTCA-A - Página 2)
-- **Fecha/Date:** 2024-03-06
-- **Contenido/Content:** Emisión inicial/Initial issuance
-- **Certificado No./Certificate No.:** 4916010.01COC
+DEKRA Certification B.V. Meander 1051, 6825 MJ Arnhem P.O. Box 5185, 6802 ED Arnhem, The Netherlands T +31 88 96 83000 F +31 88 96 83100 https://www.dekra-product-safety.com Company registration 09085396
 
-### AHORRO DE ENERGÍA / ENERGY SAVING: (Archivo: AALEF-T-3619N-RTCA-A - Página 2)
+![img-0.jpeg](img-0.jpeg)
 
-Tabla principal de REEE:
-- **REEE de este equipo / Current REEE data for the equipment ( WtWe ) (BTU/wh ):** 5.93/20.24
-- **REEE de este equipo Etiquetado en la etiqueta / Current REEE data for the equipment indicated on the label ( WtWe ) (BTU/wh ):** 5.57/19
-- **REEE establecido en la Norma / REEE given by the standard / Regulation ( WtWe ) (BTU/wh ):** 4.39/15
+================================================================================
+PAGE 2
+================================================================================
 
-Tabla de potencia y ahorro:
-- **Potencia eléctrica / Power rating (W):** 4000
-- **Ahorro de energía indicado en la etiqueta de consumo de energia / Indicated energy saving in the energy consumption’s label [%]:** 26.8
-- **Ahorro de energía / Energy saving [%]:** 35.0
+# ANEXO AL CERTIFICADO DE CONFORMIDAD
 
-### FOTO DE ETIQUETA / PHOTO OF LABEL: (Archivo: AALEF-T-3619N-RTCA-A - Página 2)
-Transcripción del texto visible en la etiqueta (imagen amarilla):
+## ANNEX TO CERTIFICATE OF CONFORMITY
 
-- EFICIENCIA ENERGÉTICA
-- Relación de Eficiencia Energética Estacional (REEE)
-- Determinado como se establece en el RTCA 23.01.7820
-- ACONDICIONADORES DE AIRE TIPO DIVIDIDO INVERTER
+### Historial De Certificación/Certificación History:
 
-Sección de identificación del equipo (texto visible):
-- **Nombre:** ANINA
-- **Unidad evaporadora:** AALEF-T-3619N / Capacidad de enfriamiento: 10500 W(36000 BTU/h)
-- **Unidad condensadora:** AALEF-T-3619N / Potencia eléctrica: 4000 W
+|  Fecha/Date | Contenido/Content | Certificado No./Certificate No.  |
+| --- | --- | --- |
+|  2024-03-06 | Emisión inicial/Initial issuance | 4916010.01COC  |
 
-Texto informativo:
-- Compare el consumo de energía de este equipo con otros del mismo tipo antes de comprar
+### AHORRO DE ENERGÍA / ENERGY SAVING:
 
-Relación de Eficiencia Energética Estacional (REEE) en la etiqueta:
-- **REEE establecido en este RTCA:** (WtWe) 4,39
-- **REEE de este equipo:** (WtWe) 5,57
+|  REEE de este equipo /Current REEE data for the equipment (Wt/We) (BTU/wh) | REEE de este equipo Etiquetado en la etiqueta /Current REEE data for the equipment indicated on the label (Wt/We) (BTU/wh) | REEE establecido en la Norma /REEE given by the standard /Regulation (Wt/We) (BTU/wh)  |
+| --- | --- | --- |
+|  5.93/20.24 | 5.57/19 | 4.39/15  |
 
-Ahorro de Energía de este Equipo:
-- **26,8%**
+|  Potencia eléctrica / Power rating (W) | Ahorro de energía indicado en la etiqueta de consumo de energía /Indicated energy saving in the energy consumption's label [%] | Ahorro de energía / Energy saving [%]  |
+| --- | --- | --- |
+|  4000 | 26.8 | 35.0  |
 
-Barra indicadora (texto visible):
-- 0%   10%   20%   30%   40%   50%   60%   70%   80%   90%   100%
-- Menor ahorro -----------------------> Mayor ahorro
+### FOTO DE ETIQUETA / PHOTO OF LABEL:
 
-Cuadro IMPORTANTE (texto visible):
-- IMPORTANTE
-- El ahorro de energía real dependerá de los usos y hábitos del usuario, así como de la localización del equipo.
-- La etiqueta no debe retirarse del producto hasta que haya sido adquirido por el consumidor final.
+#### EFICIENCIA ENERGÉTICA
 
-### Notas y leyendas: (Archivo: AALEF-T-3619N-RTCA-A - Página 2)
-- Página 2 of 2 (texto visible en el pie de página)
+Relación de Eficiencia Energética Estacional (REEE) Determinada como se establece en el RTCA 23.01.78.20
+
+#### ACONDICIONADORES DE AIRE TIPO DIVIDIDO INVERTER
+
+|  Marca: | ABINA | Tipo: | Minuji@inverter  |
+| --- | --- | --- | --- |
+|  Unidad evaporativa: | AALEF-T-3610N-I | Capacidad de entromiento: 10550 W(36000 BTU/h) |   |
+|  Unidad condensadora: | AALEF-T-3610N-E | Potencia Eléctrica: | 4000 W  |
+|  Compara el consumo de energía de este equipo con otros del mismo tipo antes de comprar |  |  |   |
+
+#### Relación de Eficiencia Energética Estacional (REEE)
+
+|  REEE establecido en este RTCA: | (Wt/We) | 4.39  |
+| --- | --- | --- |
+|   | (BTU/wh) | (15)  |
+|  REEE de este equipo: | (Wt/We) | 5.57  |
+|   | (BTU/wh) | (15)  |
+
+#### Ahorro de Energía de este Equipo
+
+26.8%
+
+|  0% | 15% | 25% | 50% | 65% | 80% | 95% | 100%  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  Menor ahorro |  |  |  |  |  |  | Mayor ahorro  |
+
+#### IMPORTANTE
+
+El ahorro de energía real dependerá de los usos y hábitos del usuario, así como de la localización del equipo.
+
+La etiqueta no debe retirarse del producto hasta que haya sido adquirido por el consumidor final.

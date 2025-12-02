@@ -1,167 +1,95 @@
-## CASSETTE-3T-TITAN-MY23-ES - Página 1
+# CASSETTE-3T-TITAN-MY23-ES.pdf
 
-### Título principal
-TITAN  
-SERIES
 
-### Subtítulo / Identificación del producto
-Cassette
+================================================================================
+PAGE 1
+================================================================================
 
-### Marca / Logo (texto visible)
-ADINA  
-Air Conditioning
+# TITAN SERIES
 
-### Encabezado derecho (documento)
-Plano Explosionado  
-36,000 BTU/h  
-Unidad Interior
+## Clase 1
 
-### Diagrama (numeración de piezas visible en ilustración)
-- 21
-- 20
-- 19
-- 18
-- 17
-- 16
-- 15
-- 14
-- 13
-- 12
-- 11,3
-- 11,2
-- 11,1
-- 11
-- 10
-- 9
-- 8
-- 7
-- 6
-- 5
-- 4
-- 3
-- 2
-- 1
+## Clase 2
 
-### Tabla: Lista de piezas (parte inferior de la página)
-- **NO.:** 1, **New Code:** 45901-000028, **Part Name:** 5P Left-Right Side Plate Assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 2, **New Code:** 45901-000061, **Part Name:** 5P Front Side Plate Assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 3, **New Code:** 45004-000284, **Part Name:** 5P Base Plate Assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 4, **New Code:** 45901-000045, **Part Name:** 5P Rear Side Plate Assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 5, **New Code:** 45901-000043, **Part Name:** 5P Right Side Plate Assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 6, **New Code:** 45901-000016, **Part Name:** Tube Exit Plate Assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 7, **New Code:** 45004-000278, **Part Name:** Base Foam Assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 8, **New Code:** 45014-004316, **Part Name:** Pump Drainpipe Assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 9, **New Code:** 25001-000325, **Part Name:** Centrifugal Fan Motor, **Q'ty:** 1, **Remark:**
-- **NO.:** 10, **New Code:** 45009-000053, **Part Name:** Centrifugal Fan, **Q'ty:** 1, **Remark:**
-- **NO.:** 11, **New Code:** 95003-001719, **Part Name:** Evaporator Assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 11,1, **New Code:** 95003-000490, **Part Name:** Evaporator Sub-assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 11,2, **New Code:** 95016-000787, **Part Name:** Evaporator Input Tube Sub-assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 11,3, **New Code:** 95016-000757, **Part Name:** Evaporator Output Tube Sub-assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 12, **New Code:** 45010-000029, **Part Name:** Evaporator Fixing Hook, **Q'ty:** 3, **Remark:**
-- **NO.:** 13, **New Code:** 45010-000114, **Part Name:** Evaporator Fixing Plate Assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 14, **New Code:** 45011-000147, **Part Name:** Water Tray Assy, **Q'ty:** 1, **Remark:**
-- **NO.:** 15, **New Code:** 45008-000092, **Part Name:** Diversion Circle, **Q'ty:** 1, **Remark:**
-- **NO.:** 16, **New Code:** 45006-000399, **Part Name:** Electric Box, **Q'ty:** 1, **Remark:**
-- **NO.:** 17, **New Code:** 35005-000114, **Part Name:** Terminal Board, **Q'ty:** 1, **Remark:**
-- **NO.:** 18, **New Code:** 45901-000098, **Part Name:** Electric Main Board Fixing Box, **Q'ty:** 1, **Remark:**
-- **NO.:** 19, **New Code:** 35005-000074, **Part Name:** Terminal Board, **Q'ty:** 1, **Remark:**
-- **NO.:** 20, **New Code:** 35004-001503, **Part Name:** Indoor Unit Control Board, **Q'ty:** 1, **Remark:**
-- **NO.:** 21, **New Code:** 35001-000374, **Part Name:** Electric Box Cover, **Q'ty:** 1, **Remark:**
+## Clase 3
 
-### Encabezados y pie de página visibles
-- Encabezado izquierdo: TITAN SERIES
-- Encabezado central/izquierdo: Cassette
-- Encabezado derecho: ADINA Air Conditioning (logo)
-- Pie de página: (no hay texto adicional legible aparte de la tabla de piezas)
+## Plano Explosionado
 
-### Notas y leyendas
-- No se observan notas al pie o leyendas adicionales legibles en la página.
+36,000 BTU/h Unidad Interior
 
-## CASSETTE-3T-TITAN-MY23-ES - Página 2
+![img-0.jpeg](img-0.jpeg)
 
-### Título principal
-Archivo: CASSETTE-3T-TITAN-MY23-ES - Página 2
+|  NO. | New Code | Part Name | Q'ty | Remark  |
+| --- | --- | --- | --- | --- |
+|  1 | 45901-000028 | 5P Left-Right Side Plate Assy | 1 |   |
+|  2 | 45901-000061 | 5P Front Side Plate Assy | 1 |   |
+|  3 | 45004-000284 | 5P Base Plate Assy | 1 |   |
+|  4 | 45901-000045 | 5P Rear Side Plate Assy | 1 |   |
+|  5 | 45901-000043 | 5P Right Side Plate Assy | 1 |   |
+|  6 | 45901-000016 | Tube Exit Plate Assy | 1 |   |
+|  7 | 45004-000278 | Base Foam Assy | 1 |   |
+|  8 | 45014-004316 | Pump Drainpipe Assy | 1 |   |
+|  9 | 25001-000325 | Centrifugal Fan Motor | 1 |   |
+|  10 | 45009-000053 | Centrifugal Fan | 1 |   |
+|  11 | 95003-001719 | Evaporator Assy | 1 |   |
+|  11,1 | 95003-000490 | Evaporator Sub-assy | 1 |   |
+|  11,2 | 95016-000787 | Evaporator Input Tube Sub-assy | 1 |   |
+|  11,3 | 95016-000757 | Evaporator Output Tube Sub-assy | 1 |   |
+|  12 | 45010-000029 | Evaporator Fixing Hook | 3 |   |
+|  13 | 45010-000114 | Evaporator Fixing Plate Assy | 1 |   |
+|  14 | 45011-000147 | Water Tray Assy | 1 |   |
+|  15 | 45008-000092 | Diversion Circle | 1 |   |
+|  16 | 45006-000399 | Electric Box | 1 |   |
+|  17 | 35005-000114 | Terminal Board | 1 |   |
+|  18 | 45901-000098 | Electric Main Board Fixing Box | 1 |   |
+|  19 | 35005-000074 | Terminal Board | 1 |   |
+|  20 | 35004-001503 | Indoor Unit Control Board | 1 |   |
+|  21 | 35001-000374 | Electric Box Cover | 1 |   |
 
-- TITAN
-- SERIES
-- Cassette
+================================================================================
+PAGE 2
+================================================================================
 
-- ADINA
-- Air Conditioning
+# TITAN SERIES
 
-- Plano Explosionado
-- 36,000 BTU/h
-- Unidad Exterior
+## Cassette
 
-### Diagrama (referencias numeradas)
-Archivo: CASSETTE-3T-TITAN-MY23-ES - Página 2
+![img-1.jpeg](img-1.jpeg)
 
-- Diagrama ilustrativo con piezas numeradas.
-- Referencias numéricas visibles en el diagrama:
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
-  - 5.1
-  - 5.2
-  - 5.3
-  - 5.4
-  - 5.5
-  - 5.6
-  - 5.7
-  - 5.8
-  - 5.9
-  - 5.10
-  - 6
-  - 7
-  - 8
-  - 9
-  - 10
-  - 11
-  - 12
-  - 13
-  - 14
-  - 15
-  - 16
-  - 17
-  - 18
-  - 19
+## Plano Explosionado
 
-### Tabla: Lista de piezas (NO., Part Name, Q'ty, Remark)
-Archivo: CASSETTE-3T-TITAN-MY23-ES - Página 2
+36,000 BTU/h Unidad Exterior
 
-- **NO.:** 1, **Part Name:** Support frame, **Q'ty:** 1, **Remark:**
-- **NO.:** 2, **Part Name:** Top cover, **Q'ty:** 1, **Remark:**
-- **NO.:** 3, **Part Name:** Motor support, **Q'ty:** 1, **Remark:**
-- **NO.:** 4, **Part Name:** DC motor, **Q'ty:** 1, **Remark:**
-- **NO.:** 5, **Part Name:** Electric control box assembly, **Q'ty:** 1, **Remark:**
-- **NO.:** 5,1, **Part Name:** Clip, **Q'ty:** 1, **Remark:**
-- **NO.:** 5,2, **Part Name:** Terminal, **Q'ty:** 1, **Remark:**
-- **NO.:** 5,3, **Part Name:** Refrigerant radiator (bottom), **Q'ty:** 1, **Remark:**
-- **NO.:** 5,4, **Part Name:** Refrigerant radiator (up), **Q'ty:** 1, **Remark:**
-- **NO.:** 5,5, **Part Name:** Electric control box, **Q'ty:** 1, **Remark:**
-- **NO.:** 5,6, **Part Name:** ODU PCB, **Q'ty:** 1, **Remark:**
-- **NO.:** 5,7, **Part Name:** Terminal, **Q'ty:** 1, **Remark:**
-- **NO.:** 5,8, **Part Name:** Clip, **Q'ty:** 1, **Remark:**
-- **NO.:** 5,9, **Part Name:** Electrical installation board assembly, **Q'ty:** 1, **Remark:**
-- **NO.:** 5,10, **Part Name:** Refrigerant cooling pipe, **Q'ty:** 1, **Remark:**
-- **NO.:** 6, **Part Name:** Electronic expansion valve assembly, **Q'ty:** 1, **Remark:**
-- **NO.:** 7, **Part Name:** Electronic expansion valve coil, **Q'ty:** 1, **Remark:**
-- **NO.:** 8, **Part Name:** Suction pipe assembly, **Q'ty:** 1, **Remark:**
-- **NO.:** 9, **Part Name:** Exhaust pipe assembly, **Q'ty:** 1, **Remark:**
-- **NO.:** 10, **Part Name:** compressor, **Q'ty:** 1, **Remark:**
-- **NO.:** 11, **Part Name:** Support plate, **Q'ty:** 3, **Remark:**
-- **NO.:** 12, **Part Name:** Refrigerant pipe fixing plate, **Q'ty:** 1, **Remark:**
-- **NO.:** 13, **Part Name:** Lower plate, **Q'ty:** 1, **Remark:**
-- **NO.:** 14, **Part Name:** Base, **Q'ty:** 1, **Remark:**
-- **NO.:** 15, **Part Name:** Right connecting plate, **Q'ty:** 1, **Remark:**
-- **NO.:** 16, **Part Name:** Condenser assembly, **Q'ty:** 1, **Remark:**
-- **NO.:** 17, **Part Name:** Wind circle, **Q'ty:** 1, **Remark:**
-- **NO.:** 18, **Part Name:** Electric control box cover, **Q'ty:** 1, **Remark:**
-- **NO.:** 19, **Part Name:** Fan, **Q'ty:** 1, **Remark:**
+![img-2.jpeg](img-2.jpeg)
 
-### Notas y leyendas:
-Archivo: CASSETTE-3T-TITAN-MY23-ES - Página 2
-
-- No hay notas al pie ni leyendas adicionales visibles en la página.
+|  NO. | Part Name | Q'ty | Remark  |
+| --- | --- | --- | --- |
+|  1 | Support frame | 1 |   |
+|  2 | Top cover | 1 |   |
+|  3 | Motor support | 1 |   |
+|  4 | DC motor | 1 |   |
+|  5 | Electric control box assembly | 1 |   |
+|  5.1 | Clip | 1 |   |
+|  5.2 | Terminal | 1 |   |
+|  5.3 | Refrigerant radiator (bottom) | 1 |   |
+|  5.4 | Refrigerant radiator (up) | 1 |   |
+|  5.5 | Electric control box | 1 |   |
+|  5.6 | ODU PCB | 1 |   |
+|  5.7 | Terminal | 1 |   |
+|  5.8 | Clip | 1 |   |
+|  5.9 | Electrical installation board assembly | 1 |   |
+|  5.10 | Refrigerant cooling pipe | 1 |   |
+|  6 | Electronic expansion valve assembly | 1 |   |
+|  7 | Electronic expansion valve coil | 1 |   |
+|  8 | Suction pipe assembly | 1 |   |
+|  9 | Exhaust pipe assembly | 1 |   |
+|  10 | compressor | 1 |   |
+|  11 | Support plate | 3 |   |
+|  12 | Refrigerant pipe fixing plate | 1 |   |
+|  13 | Lower plate | 1 |   |
+|  14 | Base | 1 |   |
+|  15 | Right connecting plate | 1 |   |
+|  16 | Condenser assembly | 1 |   |
+|  17 | Wind circle | 1 |   |
+|  18 | Electric control box cover | 1 |   |
+|  19 | Fan | 1 |   |

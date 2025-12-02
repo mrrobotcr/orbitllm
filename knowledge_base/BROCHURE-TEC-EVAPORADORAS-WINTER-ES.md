@@ -1,147 +1,76 @@
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 1
+# BROCHURE-TEC-EVAPORADORAS-WINTER-ES.pdf
 
-### Título principal
-Unidad Evaporadora
 
-### Subtítulo / Línea complementaria
+================================================================================
+PAGE 1
+================================================================================
+
+![img-0.jpeg](img-0.jpeg)
+
+# Unidad Evaporadora
+
 de refrigeración.
 
-### Logos y marcas visibles
-- WINTER (logotipo, parte superior derecha; texto: "WINTER")
-- ADINA (logotipo en el equipo, texto: "ADINA")
-- ADINA® (logotipo en la parte inferior central, texto exacto: "ADINA®")
+![img-1.jpeg](img-1.jpeg)
 
-### Sección lateral derecha (cinta de temperatura)
-- **Media**
-- **Baja**
-- **Ultra Baja**
-- Separador vertical
-- **Temperatura**
+- Media Baja
+- Ultra Baja
+- Temperatura
 
-### Elementos visuales con texto asociados
-- Texto en el panel izquierdo del equipo: "ADINA"
-- Texto en el panel derecho del equipo junto al ventilador: "WINTER"
+![img-2.jpeg](img-2.jpeg)
 
-### Notas y leyendas
-- No se observan pies de página ni números de página visibles en la imagen.
-- No se identifican tablas en esta página.
+================================================================================
+PAGE 2
+================================================================================
 
-### Observaciones de formato
-- Página con imagen principal de una unidad evaporadora y zonas de color azul donde se ubican los textos principales.
+# Tabla de Contenido 
 
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 2
+| 1 | Nomenclatura |
+| :--: | :--: |
+| 2 | Componentes del Evaporador |
+| 3 | Chasis del Evaporador |
+| 4 | Serpentín |
+| 5 | Ventilador |
+| 6 | Especificaciones |
+| 7 | Para aplicaciones $+10^{\circ} \mathrm{C} / 0^{\circ} \mathrm{C}$, separación entre aletas 4.5 mm |
+| 8 | Especificaciones |
+| 9 | Para aplicaciones $-10^{\circ} \mathrm{C} /-20^{\circ} \mathrm{C}$, separación entre aletas 6.0 mm |
+| 10 | Especificaciones |
+| 11 | Para aplicaciones $-25^{\circ} \mathrm{C} /-40^{\circ} \mathrm{C}$, separación entre aletas 9.0 mm |
+| 12 | Diagrama mecánico |
+|  | Típico de refrigeración. |
+|  | Diagrama de Conexión Eléctrica |
+|  | Media - Baja - Ultra Baja Temperatura |
+|  | Diagrama de Apoyo para las |
+|  | Tablas de Dimensiones |
+|  | Dimensiones |
 
-### Tabla de Contenido
-WINTER
+================================================================================
+PAGE 3
+================================================================================
 
-### Contenido (transcripción fiel)
-- 1 ------------------------------- Nomenclatura
-- 2 ------------------------------- Componentes del Evaporador
-- 3 ------------------------------- Chasis del Evaporador
-- 4 ------------------------------- Serpentín
-- 5 ------------------------------- Ventilador
-- 6 ------------------------------- Especificaciones
-  - Para aplicaciones +10°C / 0°C, separación entre aletas 4.5 mm
-- 7 ------------------------------- Especificaciones
-  - Para aplicaciones -10°C / -20°C, separación entre aletas 6.0 mm
-- 8 ------------------------------- Especificaciones
-  - Para aplicaciones -25°C / -40°C, separación entre aletas 9.0 mm
-- 9 ------------------------------- Diagrama mecánico
-  - Típico de refrigeración.
-- 10 ------------------------------ Diagrama de Conexión Eléctrica
-  - Media - Baja - Ultra Baja Temperatura
-- 11 ------------------------------ Diagrama de Apoyo para las Tablas de Dimensiones
-- 12 ------------------------------ Dimensiones
+# Nomenclatura 
 
-### Logos y marcas visibles
-- WINTER (logo, texto visible en la parte superior derecha)
-- ADINA (logo, texto visible en la parte inferior izquierda)
+![img-3.jpeg](img-3.jpeg)
 
-### Notas y leyendas:
-- Página diseñada con líneas punteadas entre números y títulos (transcritas como series de guiones).
+================================================================================
+PAGE 4
+================================================================================
 
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 3
+# Componentes del Evaporador 
 
-### Archivo y página (visible)
-- Archivo: BROCHURE-TEC-EVAPORADORAS-WINTER-ES
-- Página solicitada en el encabezado de esta transcripción: Página 3
-- Número de página visible en el documento: 1
-
-### Título principal
-Nomenclatura
-
-### Elemento central (código de nomenclatura tal como aparece)
-AD W M A 068 B ****
-
-### Secciones y etiquetas alrededor del código (transcripción exacta de cada recuadro y sus contenidos)
-- **Marca** (BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 3)
-  - AD= ADINA
-
-- **APLICACIÓN DE TEMPERATURA** (BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 3)
-  - M= MEDIA
-  - B= Baja
-  - U= Ultrabaja
-
-- **Capacidad en (BTU/H)** (BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 3)
-  - 068 = 6.800 BTU/H
-  - 102 = 10.200 BTU/H
-  - 146 = 14.600 BTU/H
-  - 1194 = 11.940 BTU/H
-
-- **Revisión de diseño** (BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 3)
-  - X= Con válvula expansión
-  - XV= TXV + LSV
-
-- **Serie** (BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 3)
-  - W= WINTER
-
-- **Tipo de deshielo** (BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 3)
-  - A= AIRE
-  - E= ELÉCTRICO
-
-- **Voltaje** (BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 3)
-  - B= 220 V/1 PH / 60hz
-
-### Otros textos visibles
-- WINTER (texto del logo, ubicado en la esquina superior derecha)
-
-### Notas y leyendas
-- No se observan notas al pie adicionales ni leyendas fuera de las cajas descritas.
-
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 2
-
-### Título principal
-Componentes  
-del Evaporador
-
-### Sección: Etiquetas de componentes (texto tal como aparece en la imagen)
-- Chasis del Evaporador
-- Serpentín
-- Ventilador
-- Caja Eléctrica
-
-### Elementos visuales (texto visible asociado a las imágenes)
-- Ilustraciones del evaporador con líneas y puntos que señalan los componentes listados
-
-### Marcas y logos (texto visible)
-- WINTER
-- ADINA
-
-### Encabezados y pies de página / Numeración
-- Número de página visible: 2
-
-### Notas y leyendas
-- No se observan notas al pie o leyendas adicionales con texto legible en esta página.
-
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 5
-
-Archivo: BROCHURE-TEC-EVAPORADORAS-WINTER-ES  
-Número de página visible en el documento: 3
-
-### Chasis del Evaporador
 Chasis del Evaporador
+Serpentín
+Ventilador
+Caja Eléctrica
+![img-4.jpeg](img-4.jpeg)
 
-### Contenido (texto visible en la página)
+================================================================================
+PAGE 5
+================================================================================
+
+# Chasis del Evaporador 
+
 El chasis del enfriador está hecho de acero laminado en frío con recubrimiento de polvo blanco.
 
 Con soportes de montaje en el techo para una instalación fácil.
@@ -149,425 +78,229 @@ Con soportes de montaje en el techo para una instalación fácil.
 Bandeja de goteo para un drenaje perfecto del agua de condensación.
 
 Opción: Acero galvanizado, aluminio, lámina de acero inoxidable para una alta resistencia a la corrosión.
+![img-5.jpeg](img-5.jpeg)
 
-### Texto de marcas y logos visibles
-- WINTER
-- ADINA
+================================================================================
+PAGE 6
+================================================================================
 
-### Elementos gráficos y ubicaciones (texto visible asociado)
-- Imagen principal: equipo evaporador con dos ventiladores (sin texto adicional dentro de la imagen).
-- Detalle circular con ampliación de tubos (sin texto dentro del detalle).
+# Serpentín 
 
-### Encabezados y pies de página visibles
-- Número de página (pie de página, visible): 3
-
-### Notas y leyendas:
-- No se observan notas al pie ni leyendas de texto adicionales en la página.
-
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 4
-
-### Título principal
-Serpentín
-
-### Sección - Descripción
 Aletas de aluminio corrugado y tubos de cobre escalonados para una alta transferencia de calor.
 
 El espaciado adecuado de las aletas evita la acumulación de hielo que bloquea los huecos de las aletas.
 
 Opción: Recubrimiento hidrofílico que proporciona una mejor protección y una vida útil más larga contra condiciones adversas. Resistencia eléctrica en la bandeja de drenaje y serpentín para descongelación rápida.
 
-### Elementos gráficos y marcas visibles
-- WINTER
-- ADINA
+================================================================================
+PAGE 7
+================================================================================
 
-### Encabezados y pies de página, número de página
-- Número de página visible: 4
+# Ventilador 
 
-### Notas y leyendas
-- Imagen del serpentín (fotografía del equipo con tubos de cobre y aletas de aluminio).
-- Inserto circular con detalle del serpentín (imagen ampliada).
-
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 5
-
-### Título principal
-Ventilador
-
-### Sección
 Ventiladores axiales de alta eficiencia, con aspas de acero diseñadas para minimizar el ruido y maximizar el rendimiento. Cada ventilador está protegido por una rejilla de acero. Los motores de los ventiladores tienen protectores térmicos.
 
 Opción: Ventiladores de alta potencia para aplicaciones especiales, equipados con difusor para ampliar el alcance del flujo de aire.
 
-### Elementos gráficos y textos visibles
-- WINTER
-- ADINA
-- 5
+================================================================================
+PAGE 8
+================================================================================
 
-### Notas y leyendas
-- (No hay notas al pie textuales adicionales visibles)
+# Especificaciones 
 
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 8
+## Para aplicaciones $+10^{\circ} \mathrm{C} / 0^{\circ} \mathrm{C}$, separación entre
 
-### Título principal
-Especificaciones
+aletas 4.5 mm
 
-### Subtítulo
-Para aplicaciones +10°C / 0°C, separación entre aletas 4.5 mm
+| Modelo | Capacidad | Area de cobertura | Conexiones tub. Entrada y Salida | Flujo de aire | Potencia de entrada | Rango de tiro | Peso Neto |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  | Btu/h | m2 | in | $\mathrm{m3} / \mathrm{h}$ | W | m | kg |
+| ADWMA068B | 6,824 | 10 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 2,152 | 75 | 8 | 25 |
+| ADWMA102B | 10,236 | 15 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 4,304 | 150 | 8 | 32 |
+| ADWMA146B | 14,672 | 20 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 4,304 | 150 | 8 | 41 |
+| ADWMA180B | 18,084 | 25 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 6,456 | 225 | 8 | 50 |
+| ADWMA286B | 28,661 | 40 | $1 / 2^{\prime \prime}-11 / 8^{\prime \prime}$ | 8,330 | 360 | 10 | 58 |
+| ADWMA395B | 39,580 | 55 | $1 / 2^{\prime \prime}-13 / 8^{\prime \prime}$ | 8,330 | 360 | 10 | 90 |
+| ADWMA573B | 57,323 | 80 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 13,972 | 1,100 | 15 | 99 |
+| ADWMA791B | 79,161 | 105 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 13,972 | 1,100 | 15 | 128 |
+| ADWMA941B | 94,175 | 125 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 20,958 | 1,650 | 15 | 148 |
+| ADWMA1180B | 118,060 | 160 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 20,958 | 1,650 | 15 | 171 |
+| ADWMA1375B | 137,509 | 185 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 27,944 | 2,200 | 15 | 191 |
+| ADWMA1573B | 157,299 | 210 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 27,944 | 2,200 | 15 | 215 |
+| ADWMA1774B | 177,431 | 260 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 27,944 | 2,200 | 15 | 250 |
+| ADWMA2252B | 225,201 | 330 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 34,380 | 2,200 | 15 | 250 |
+| ADWMA2797B | 279,795 | 410 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 38,800 | 3,000 | 17 | 250 |
+| ADWMA3207B | 320,741 | 470 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 49,404 | 4,500 | 17 | 250 |
+| ADWMA3958B | 395,808 | 580 | $1-1 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 49,404 | 4,500 | 17 | 250 |
 
-### Encabezado visible (marca)
-WINTER
+*Capacidad de enfriamiento basado en temperatura del cuarto a $0^{\circ} \mathrm{C}$
 
-### Tabla: Especificaciones de modelos
-- **Modelo:** ADWMA068B, **Capacidad (Btu/h):** 6,824, **Area de cobertura (m2):** 10, **Conexiones tub. Entrada y Salida (in):** 1/2"-7/8", **Flujo de aire (m3/h):** 2,152, **Potencia de entrada (W):** 75, **Rango de tiro (m):** 8, **Peso Neto (kg):** 25
-- **Modelo:** ADWMA102B, **Capacidad (Btu/h):** 10,236, **Area de cobertura (m2):** 15, **Conexiones tub. Entrada y Salida (in):** 1/2"-7/8", **Flujo de aire (m3/h):** 4,304, **Potencia de entrada (W):** 150, **Rango de tiro (m):** 8, **Peso Neto (kg):** 32
-- **Modelo:** ADWMA146B, **Capacidad (Btu/h):** 14,672, **Area de cobertura (m2):** 20, **Conexiones tub. Entrada y Salida (in):** 1/2"-7/8", **Flujo de aire (m3/h):** 4,304, **Potencia de entrada (W):** 150, **Rango de tiro (m):** 8, **Peso Neto (kg):** 41
-- **Modelo:** ADWMA180B, **Capacidad (Btu/h):** 18,084, **Area de cobertura (m2):** 25, **Conexiones tub. Entrada y Salida (in):** 1/2"-7/8", **Flujo de aire (m3/h):** 6,456, **Potencia de entrada (W):** 225, **Rango de tiro (m):** 8, **Peso Neto (kg):** 50
-- **Modelo:** ADWMA286B, **Capacidad (Btu/h):** 28,661, **Area de cobertura (m2):** 40, **Conexiones tub. Entrada y Salida (in):** 1/2"-1 1/8", **Flujo de aire (m3/h):** 8,330, **Potencia de entrada (W):** 360, **Rango de tiro (m):** 10, **Peso Neto (kg):** 58
-- **Modelo:** ADWMA395B, **Capacidad (Btu/h):** 39,580, **Area de cobertura (m2):** 55, **Conexiones tub. Entrada y Salida (in):** 1/2"-1 3/8", **Flujo de aire (m3/h):** 8,330, **Potencia de entrada (W):** 360, **Rango de tiro (m):** 10, **Peso Neto (kg):** 90
-- **Modelo:** ADWMA573B, **Capacidad (Btu/h):** 57,323, **Area de cobertura (m2):** 80, **Conexiones tub. Entrada y Salida (in):** 3/4"-1 1/2", **Flujo de aire (m3/h):** 13,972, **Potencia de entrada (W):** 1,100, **Rango de tiro (m):** 15, **Peso Neto (kg):** 99
-- **Modelo:** ADWMA791B, **Capacidad (Btu/h):** 79,161, **Area de cobertura (m2):** 105, **Conexiones tub. Entrada y Salida (in):** 3/4"-1 1/2", **Flujo de aire (m3/h):** 13,972, **Potencia de entrada (W):** 1,100, **Rango de tiro (m):** 15, **Peso Neto (kg):** 128
-- **Modelo:** ADWMA941B, **Capacidad (Btu/h):** 94,175, **Area de cobertura (m2):** 125, **Conexiones tub. Entrada y Salida (in):** 3/4"-1 1/2", **Flujo de aire (m3/h):** 20,958, **Potencia de entrada (W):** 1,650, **Rango de tiro (m):** 15, **Peso Neto (kg):** 148
-- **Modelo:** ADWMA1180B, **Capacidad (Btu/h):** 118,060, **Area de cobertura (m2):** 160, **Conexiones tub. Entrada y Salida (in):** 3/4"-1 1/2", **Flujo de aire (m3/h):** 20,958, **Potencia de entrada (W):** 1,650, **Rango de tiro (m):** 15, **Peso Neto (kg):** 171
-- **Modelo:** ADWMA1375B, **Capacidad (Btu/h):** 137,509, **Area de cobertura (m2):** 185, **Conexiones tub. Entrada y Salida (in):** 7/8"-1 5/8", **Flujo de aire (m3/h):** 27,944, **Potencia de entrada (W):** 2,200, **Rango de tiro (m):** 15, **Peso Neto (kg):** 191
-- **Modelo:** ADWMA1573B, **Capacidad (Btu/h):** 157,299, **Area de cobertura (m2):** 210, **Conexiones tub. Entrada y Salida (in):** 7/8"-1 5/8", **Flujo de aire (m3/h):** 27,944, **Potencia de entrada (W):** 2,200, **Rango de tiro (m):** 15, **Peso Neto (kg):** 215
-- **Modelo:** ADWMA1774B, **Capacidad (Btu/h):** 177,431, **Area de cobertura (m2):** 260, **Conexiones tub. Entrada y Salida (in):** 7/8"-2 1/8", **Flujo de aire (m3/h):** 27,944, **Potencia de entrada (W):** 2,200, **Rango de tiro (m):** 15, **Peso Neto (kg):** 250
-- **Modelo:** ADWMA2252B, **Capacidad (Btu/h):** 225,201, **Area de cobertura (m2):** 330, **Conexiones tub. Entrada y Salida (in):** 7/8"-2 1/8", **Flujo de aire (m3/h):** 34,380, **Potencia de entrada (W):** 2,200, **Rango de tiro (m):** 15, **Peso Neto (kg):** 250
-- **Modelo:** ADWMA2797B, **Capacidad (Btu/h):** 279,795, **Area de cobertura (m2):** 410, **Conexiones tub. Entrada y Salida (in):** 7/8"-2 1/8", **Flujo de aire (m3/h):** 38,800, **Potencia de entrada (W):** 3,000, **Rango de tiro (m):** 17, **Peso Neto (kg):** 250
-- **Modelo:** ADWMA3207B, **Capacidad (Btu/h):** 320,741, **Area de cobertura (m2):** 470, **Conexiones tub. Entrada y Salida (in):** 7/8"-2 1/8", **Flujo de aire (m3/h):** 49,404, **Potencia de entrada (W):** 4,500, **Rango de tiro (m):** 17, **Peso Neto (kg):** 250
-- **Modelo:** ADWMA3958B, **Capacidad (Btu/h):** 395,808, **Area de cobertura (m2):** 580, **Conexiones tub. Entrada y Salida (in):** 1-1/8"-2 1/8", **Flujo de aire (m3/h):** 49,404, **Potencia de entrada (W):** 4,500, **Rango de tiro (m):** 17, **Peso Neto (kg):** 250
+================================================================================
+PAGE 9
+================================================================================
 
-### Notas y leyendas
-- *Capacidad de enfriamiento basado en temperatura del cuarto a 0°C
+# Especificaciones 
 
-### Pie de página / Marca
-- ADINA
+## Para aplicaciones $-10^{\circ} \mathrm{C} /-20^{\circ} \mathrm{C}$, separación entre aletas 6.0 mm
 
-### Texto visible adicional (número de página en la imagen)
-- Número de página visible en el documento: 6
+| Modelo | Capacidad | Area de cobertura | Conexiones tub. Entrada y Salida | Flujo de aire | Potencia de entrada | Rango de tiro | Resistencia de evap. | Resistencia de bandeja | Peso Neto |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  | $\mathrm{Btu} / \mathrm{h}$ | m2 | in | $\mathrm{m} 3 / \mathrm{h}$ | W | m | W | W | kg |
+| ADWBE040B | 4,094 | 7 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 1,566 | 75 | 8 | 1,000 | 500 | 25 |
+| ADWBE071B | 7,165 | 12 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 3,126 | 150 | 8 | 900 | 900 | 32 |
+| ADWBE0887B | 8,871 | 15 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 3,126 | 150 | 8 | 1,800 | 900 | 41 |
+| ADWBE133B | 13,307 | 22 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 4,689 | 225 | 8 | 2,400 | 1,200 | 50 |
+| ADWBE180B | 18,084 | 30 | $1 / 2^{\prime \prime}-11 / 8^{\prime \prime}$ | 6,800 | 360 | 10 | 2,000 | 1,000 | 58 |
+| ADWBE238B | 23,884 | 40 | $1 / 2^{\prime \prime}-11 / 8^{\prime \prime}$ | 6,800 | 360 | 10 | 2,400 | 1,200 | 90 |
+| ADWBE358B | 35,827 | 60 | $5 / 8^{\prime \prime}-13 / 8^{\prime \prime}$ | 12,000 | 1,100 | 15 | 4,200 | 1,400 | 99 |
+| ADWBE477B | 47,769 | 80 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 12,000 | 1,100 | 15 | 7,000 | 1,400 | 128 |
+| ADWBE597B | 59,712 | 100 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 18,000 | 1,650 | 15 | 8,000 | 1,600 | 148 |
+| ADWBE716B | 71,654 | 120 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 18,000 | 1,650 | 15 | 8,500 | 1,700 | 171 |
+| ADWBE835B | 83,597 | 140 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 24,000 | 2,200 | 15 | 10,000 | 2,000 | 191 |
+| ADWBE955B | 95,539 | 160 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 24,000 | 2,200 | 15 | 11,000 | 2,200 | 215 |
+| ADWBE1194B | 119,424 | 200 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 24,000 | 2,200 | 15 | 11,000 | 2,200 | 250 |
+| ADWBE1494B | 149,451 | 250 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 32,000 | 2,200 | 15 | 17,600 | 2,200 | 250 |
+| ADWBE1852B | 185,279 | 310 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 3,000 | 17 | 17,600 | 2,200 | 250 |
+| ADWBE2149B | 214,964 | 360 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 4,500 | 17 | 20,000 | 2,000 | 250 |
+| ADWBE2627B | 262,734 | 440 | $1-1 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 4,500 | 17 | 22,000 | 2,200 | 250 |
 
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 9
+*Capacidad de enfriamiento basado en temperatura del cuarto a $-20^{\circ} \mathrm{C}$
 
-### Especificaciones
-Para aplicaciones -10°C / -20°C, separación entre aletas 6.0 mm
+================================================================================
+PAGE 10
+================================================================================
 
-### Tabla: Especificaciones de modelos
-Encabezados de columnas:
-- **Modelo**
-- **Capacidad (Btu/h)**
-- **Area de cobertura (m2)**
-- **Conexiones tub. Entrada y Salida (in)**
-- **Flujo de aire (m3/h)**
-- **Potencia de entrada (W)**
-- **Rango de tiro (m)**
-- **Resistencia de evap. (W)**
-- **Resistencia de bandeja (W)**
-- **Peso Neto (kg)**
+# Especificaciones 
 
-Filas:
-- **Modelo:** ADWBE040B, **Capacidad (Btu/h):** 4,094, **Area de cobertura (m2):** 7, **Conexiones tub. Entrada y Salida (in):** 1/2"-7/8", **Flujo de aire (m3/h):** 1,566, **Potencia de entrada (W):** 75, **Rango de tiro (m):** 8, **Resistencia de evap. (W):** 1,000, **Resistencia de bandeja (W):** 500, **Peso Neto (kg):** 25
-- **Modelo:** ADWBE071B, **Capacidad (Btu/h):** 7,165, **Area de cobertura (m2):** 12, **Conexiones tub. Entrada y Salida (in):** 1/2"-7/8", **Flujo de aire (m3/h):** 3,126, **Potencia de entrada (W):** 150, **Rango de tiro (m):** 8, **Resistencia de evap. (W):** 1,900, **Resistencia de bandeja (W):** 900, **Peso Neto (kg):** 32
-- **Modelo:** ADWBE0887B, **Capacidad (Btu/h):** 8,871, **Area de cobertura (m2):** 15, **Conexiones tub. Entrada y Salida (in):** 1/2"-7/8", **Flujo de aire (m3/h):** 3,126, **Potencia de entrada (W):** 150, **Rango de tiro (m):** 8, **Resistencia de evap. (W):** 1,800, **Resistencia de bandeja (W):** 900, **Peso Neto (kg):** 41
-- **Modelo:** ADWBE133B, **Capacidad (Btu/h):** 13,307, **Area de cobertura (m2):** 22, **Conexiones tub. Entrada y Salida (in):** 1/2"-7/8", **Flujo de aire (m3/h):** 4,689, **Potencia de entrada (W):** 225, **Rango de tiro (m):** 8, **Resistencia de evap. (W):** 2,400, **Resistencia de bandeja (W):** 1,200, **Peso Neto (kg):** 50
-- **Modelo:** ADWBE180B, **Capacidad (Btu/h):** 18,084, **Area de cobertura (m2):** 30, **Conexiones tub. Entrada y Salida (in):** 1/2"-1 1/8", **Flujo de aire (m3/h):** 6,800, **Potencia de entrada (W):** 360, **Rango de tiro (m):** 10, **Resistencia de evap. (W):** 2,400, **Resistencia de bandeja (W):** 1,000, **Peso Neto (kg):** 58
-- **Modelo:** ADWBE238B, **Capacidad (Btu/h):** 23,884, **Area de cobertura (m2):** 40, **Conexiones tub. Entrada y Salida (in):** 1/2"-1 1/8", **Flujo de aire (m3/h):** 6,800, **Potencia de entrada (W):** 360, **Rango de tiro (m):** 10, **Resistencia de evap. (W):** 2,400, **Resistencia de bandeja (W):** 1,200, **Peso Neto (kg):** 90
-- **Modelo:** ADWBE358B, **Capacidad (Btu/h):** 35,827, **Area de cobertura (m2):** 60, **Conexiones tub. Entrada y Salida (in):** 5/8"-1 3/8", **Flujo de aire (m3/h):** 12,000, **Potencia de entrada (W):** 1,100, **Rango de tiro (m):** 15, **Resistencia de evap. (W):** 4,200, **Resistencia de bandeja (W):** 1,400, **Peso Neto (kg):** 99
-- **Modelo:** ADWBE477B, **Capacidad (Btu/h):** 47,769, **Area de cobertura (m2):** 80, **Conexiones tub. Entrada y Salida (in):** 3/4"-1 1/2", **Flujo de aire (m3/h):** 12,000, **Potencia de entrada (W):** 1,100, **Rango de tiro (m):** 15, **Resistencia de evap. (W):** 7,000, **Resistencia de bandeja (W):** 1,400, **Peso Neto (kg):** 128
-- **Modelo:** ADWBE597B, **Capacidad (Btu/h):** 59,712, **Area de cobertura (m2):** 100, **Conexiones tub. Entrada y Salida (in):** 3/4"-1 1/2", **Flujo de aire (m3/h):** 18,000, **Potencia de entrada (W):** 1,650, **Rango de tiro (m):** 15, **Resistencia de evap. (W):** 8,000, **Resistencia de bandeja (W):** 1,600, **Peso Neto (kg):** 148
-- **Modelo:** ADWBE716B, **Capacidad (Btu/h):** 71,654, **Area de cobertura (m2):** 120, **Conexiones tub. Entrada y Salida (in):** 3/4"-1 1/2", **Flujo de aire (m3/h):** 18,000, **Potencia de entrada (W):** 1,650, **Rango de tiro (m):** 15, **Resistencia de evap. (W):** 8,500, **Resistencia de bandeja (W):** 1,700, **Peso Neto (kg):** 171
-- **Modelo:** ADWBE835B, **Capacidad (Btu/h):** 83,597, **Area de cobertura (m2):** 140, **Conexiones tub. Entrada y Salida (in):** 7/8"-1 5/8", **Flujo de aire (m3/h):** 24,000, **Potencia de entrada (W):** 2,200, **Rango de tiro (m):** 15, **Resistencia de evap. (W):** 10,000, **Resistencia de bandeja (W):** 2,000, **Peso Neto (kg):** 191
-- **Modelo:** ADWBE955B, **Capacidad (Btu/h):** 95,539, **Area de cobertura (m2):** 160, **Conexiones tub. Entrada y Salida (in):** 7/8"-1 5/8", **Flujo de aire (m3/h):** 24,000, **Potencia de entrada (W):** 2,200, **Rango de tiro (m):** 15, **Resistencia de evap. (W):** 11,000, **Resistencia de bandeja (W):** 2,200, **Peso Neto (kg):** 215
-- **Modelo:** ADWBE1194B, **Capacidad (Btu/h):** 119,424, **Area de cobertura (m2):** 200, **Conexiones tub. Entrada y Salida (in):** 7/8"-2 1/8", **Flujo de aire (m3/h):** 24,000, **Potencia de entrada (W):** 2,200, **Rango de tiro (m):** 15, **Resistencia de evap. (W):** 11,000, **Resistencia de bandeja (W):** 2,200, **Peso Neto (kg):** 250
-- **Modelo:** ADWBE1494B, **Capacidad (Btu/h):** 149,451, **Area de cobertura (m2):** 250, **Conexiones tub. Entrada y Salida (in):** 7/8"-2 1/8", **Flujo de aire (m3/h):** 32,000, **Potencia de entrada (W):** 2,200, **Rango de tiro (m):** 15, **Resistencia de evap. (W):** 17,600, **Resistencia de bandeja (W):** 2,200, **Peso Neto (kg):** 250
-- **Modelo:** ADWBE1852B, **Capacidad (Btu/h):** 185,279, **Area de cobertura (m2):** 310, **Conexiones tub. Entrada y Salida (in):** 7/8"-2 1/8", **Flujo de aire (m3/h):** 36,000, **Potencia de entrada (W):** 3,000, **Rango de tiro (m):** 17, **Resistencia de evap. (W):** 17,600, **Resistencia de bandeja (W):** 2,200, **Peso Neto (kg):** 250
-- **Modelo:** ADWBE2149B, **Capacidad (Btu/h):** 214,964, **Area de cobertura (m2):** 360, **Conexiones tub. Entrada y Salida (in):** 7/8"-2 1/8", **Flujo de aire (m3/h):** 36,000, **Potencia de entrada (W):** 4,500, **Rango de tiro (m):** 17, **Resistencia de evap. (W):** 20,000, **Resistencia de bandeja (W):** 2,000, **Peso Neto (kg):** 250
-- **Modelo:** ADWBE2627B, **Capacidad (Btu/h):** 262,734, **Area de cobertura (m2):** 440, **Conexiones tub. Entrada y Salida (in):** 1-1/8"-2 1/8", **Flujo de aire (m3/h):** 36,000, **Potencia de entrada (W):** 4,500, **Rango de tiro (m):** 17, **Resistencia de evap. (W):** 22,000, **Resistencia de bandeja (W):** 2,200, **Peso Neto (kg):** 250
+## Para aplicaciones $-25^{\circ} \mathrm{C} /-40^{\circ} \mathrm{C}$, separación entre aletas 9.0 mm
 
-### Notas y leyendas:
-- *Capacidad de enfriamiento basado en temperatura del cuarto a -20°C
+| Modelo | Capacidad | Area de cobertura | Conexiones tub Entrada y Salida | Flujo de aire | Potencia de entrada | Rango de tiro | Resistencia de evap. | Resistencia de bandeja | Peso Neto |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  | $\mathrm{Btu} / \mathrm{h}$ | m2 | in | $\mathrm{m} 2 / \mathrm{h}$ | W | m | W | W | kg |
+| ADWUE040B | 4,094 | 8 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 3,126 | 150 | 8 | 900 | 900 | 25 |
+| ADWUE0648B | 6,483 | 12 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 3,126 | 150 | 8 | 1,800 | 900 | 32 |
+| ADWUE0784B | 7,847 | 15 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 4,689 | 225 | 8 | 2,400 | 1,200 | 41 |
+| ADWUE105B | 10,577 | 20 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 6,800 | 360 | 10 | 2,600 | 1,300 | 50 |
+| ADWUE160B | 16,037 | 30 | $1 / 2^{\prime \prime}-11 / 8^{\prime \prime}$ | 6,800 | 360 | 10 | 3,000 | 1,500 | 58 |
+| ADWUE211B | 21,155 | 40 | $1 / 2^{\prime \prime}-11 / 8^{\prime \prime}$ | 12,000 | 1,100 | 15 | 3,600 | 1,200 | 90 |
+| ADWUE290B | 29,003 | 55 | $5 / 8^{\prime \prime}-13 / 8^{\prime \prime}$ | 12,000 | 1,100 | 15 | 6,000 | 1,200 | 99 |
+| ADWUE371B | 37,192 | 70 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 18,000 | 1,650 | 15 | 8,000 | 1,600 | 128 |
+| ADWUE450B | 45,040 | 85 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 18,000 | 1,650 | 15 | 8,500 | 1,700 | 148 |
+| ADWUE528B | 52,888 | 100 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 24,000 | 2,200 | 15 | 10,000 | 2,000 | 171 |
+| ADWUE607B | 60,736 | 115 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 24,000 | 2,200 | 15 | 11,000 | 2,200 | 191 |
+| ADWUE740B | 74,043 | 140 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 24,000 | 2,200 | 15 | 11,000 | 2,200 | 215 |
+| ADWUE900B | 90,080 | 170 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 32,000 | 2,200 | 15 | 17,600 | 2,200 | 250 |
+| ADWUE1112B | 111,235 | 210 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 3,000 | 17 | 17,600 | 2,200 | 250 |
+| ADWUE1323B | 132,391 | 250 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 4,500 | 17 | 20,000 | 2,000 | 250 |
+| ADWUE1586B | 158,664 | 300 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 4,500 | 17 | 22,000 | 2,200 | 250 |
 
-### Encabezados y pies de página (texto visible)
-- Logotipo: WINTER (arriba a la derecha)
-- Logotipo: ADINA (centro inferior)
-- Número de página visible en el documento: 7
+*Capacidad de enfriamiento basado en temperatura del cuarto a $-25^{\circ} \mathrm{C}$
 
-(Transcripción realizada respetando el contenido visible en la página solicitada)
+================================================================================
+PAGE 11
+================================================================================
 
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 8
+# Diagrama Mecánico Típico de Refrigeración 
 
-### Especificaciones
-Para aplicaciones -25°C / -40°C, separación entre aletas 9.0 mm
+![img-6.jpeg](img-6.jpeg)
 
-### Encabezado superior visible
-- WINTER
+================================================================================
+PAGE 12
+================================================================================
 
-### Tabla: Especificaciones de modelos
-(Encabezados de columnas visibles: Modelo, Capacidad Btu/h, Area de cobertura m2, Conexiones tub. Entrada y Salida in, Flujo de aire m3/h, Potencia de entrada W, Rango de tiro m, Resistencia de evap. W, Resistencia de bandeja W, Peso Neto kg)
+# Diagrama Conexión Eléctrica 
 
-- **Modelo:** ADWUE040B, **Capacidad Btu/h:** 4,094, **Area de cobertura m2:** 8, **Conexiones tub. Entrada y Salida in:** 1/2"-7/8", **Flujo de aire m3/h:** 3,126, **Potencia de entrada W:** 150, **Rango de tiro m:** 8, **Resistencia de evap. W:** 900, **Resistencia de bandeja W:** 900, **Peso Neto kg:** 25
-- **Modelo:** ADWUE0648B, **Capacidad Btu/h:** 6,483, **Area de cobertura m2:** 12, **Conexiones tub. Entrada y Salida in:** 1/2"-7/8", **Flujo de aire m3/h:** 3,126, **Potencia de entrada W:** 150, **Rango de tiro m:** 8, **Resistencia de evap. W:** 1,800, **Resistencia de bandeja W:** 900, **Peso Neto kg:** 32
-- **Modelo:** ADWUE0784B, **Capacidad Btu/h:** 7,847, **Area de cobertura m2:** 15, **Conexiones tub. Entrada y Salida in:** 1/2"-7/8", **Flujo de aire m3/h:** 4,689, **Potencia de entrada W:** 225, **Rango de tiro m:** 8, **Resistencia de evap. W:** 2,400, **Resistencia de bandeja W:** 1,200, **Peso Neto kg:** 41
-- **Modelo:** ADWUE105B, **Capacidad Btu/h:** 10,577, **Area de cobertura m2:** 20, **Conexiones tub. Entrada y Salida in:** 1/2"-7/8", **Flujo de aire m3/h:** 6,800, **Potencia de entrada W:** 360, **Rango de tiro m:** 10, **Resistencia de evap. W:** 2,600, **Resistencia de bandeja W:** 1,300, **Peso Neto kg:** 50
-- **Modelo:** ADWUE160B, **Capacidad Btu/h:** 16,037, **Area de cobertura m2:** 30, **Conexiones tub. Entrada y Salida in:** 1/2"-1 1/8", **Flujo de aire m3/h:** 6,800, **Potencia de entrada W:** 360, **Rango de tiro m:** 10, **Resistencia de evap. W:** 3,000, **Resistencia de bandeja W:** 1,500, **Peso Neto kg:** 58
-- **Modelo:** ADWUE211B, **Capacidad Btu/h:** 21,155, **Area de cobertura m2:** 40, **Conexiones tub. Entrada y Salida in:** 1/2"-1 1/8", **Flujo de aire m3/h:** 12,000, **Potencia de entrada W:** 1,100, **Rango de tiro m:** 15, **Resistencia de evap. W:** 3,600, **Resistencia de bandeja W:** 1,200, **Peso Neto kg:** 90
-- **Modelo:** ADWUE290B, **Capacidad Btu/h:** 29,003, **Area de cobertura m2:** 55, **Conexiones tub. Entrada y Salida in:** 5/8"-1 3/8", **Flujo de aire m3/h:** 12,000, **Potencia de entrada W:** 1,100, **Rango de tiro m:** 15, **Resistencia de evap. W:** 6,000, **Resistencia de bandeja W:** 1,200, **Peso Neto kg:** 99
-- **Modelo:** ADWUE371B, **Capacidad Btu/h:** 37,192, **Area de cobertura m2:** 70, **Conexiones tub. Entrada y Salida in:** 3/4"-1 1/2", **Flujo de aire m3/h:** 18,000, **Potencia de entrada W:** 1,650, **Rango de tiro m:** 15, **Resistencia de evap. W:** 8,000, **Resistencia de bandeja W:** 1,600, **Peso Neto kg:** 128
-- **Modelo:** ADWUE450B, **Capacidad Btu/h:** 45,040, **Area de cobertura m2:** 85, **Conexiones tub. Entrada y Salida in:** 3/4"-1 1/2", **Flujo de aire m3/h:** 18,000, **Potencia de entrada W:** 1,650, **Rango de tiro m:** 15, **Resistencia de evap. W:** 8,500, **Resistencia de bandeja W:** 1,700, **Peso Neto kg:** 148
-- **Modelo:** ADWUE528B, **Capacidad Btu/h:** 52,888, **Area de cobertura m2:** 100, **Conexiones tub. Entrada y Salida in:** 3/4"-1 1/2", **Flujo de aire m3/h:** 24,000, **Potencia de entrada W:** 2,200, **Rango de tiro m:** 15, **Resistencia de evap. W:** 10,000, **Resistencia de bandeja W:** 2,000, **Peso Neto kg:** 171
-- **Modelo:** ADWUE607B, **Capacidad Btu/h:** 60,736, **Area de cobertura m2:** 115, **Conexiones tub. Entrada y Salida in:** 7/8"-1 5/8", **Flujo de aire m3/h:** 24,000, **Potencia de entrada W:** 2,200, **Rango de tiro m:** 15, **Resistencia de evap. W:** 11,000, **Resistencia de bandeja W:** 2,200, **Peso Neto kg:** 191
-- **Modelo:** ADWUE740B, **Capacidad Btu/h:** 74,043, **Area de cobertura m2:** 140, **Conexiones tub. Entrada y Salida in:** 7/8"-1 5/8", **Flujo de aire m3/h:** 24,000, **Potencia de entrada W:** 2,200, **Rango de tiro m:** 15, **Resistencia de evap. W:** 11,000, **Resistencia de bandeja W:** 2,200, **Peso Neto kg:** 215
-- **Modelo:** ADWUE900B, **Capacidad Btu/h:** 90,080, **Area de cobertura m2:** 170, **Conexiones tub. Entrada y Salida in:** 7/8"-2 1/8", **Flujo de aire m3/h:** 32,000, **Potencia de entrada W:** 2,200, **Rango de tiro m:** 15, **Resistencia de evap. W:** 17,600, **Resistencia de bandeja W:** 2,200, **Peso Neto kg:** 250
-- **Modelo:** ADWUE1112B, **Capacidad Btu/h:** 111,235, **Area de cobertura m2:** 210, **Conexiones tub. Entrada y Salida in:** 7/8"-2 1/8", **Flujo de aire m3/h:** 36,000, **Potencia de entrada W:** 3,000, **Rango de tiro m:** 17, **Resistencia de evap. W:** 17,600, **Resistencia de bandeja W:** 2,200, **Peso Neto kg:** 250
-- **Modelo:** ADWUE1323B, **Capacidad Btu/h:** 132,391, **Area de cobertura m2:** 250, **Conexiones tub. Entrada y Salida in:** 7/8"-2 1/8", **Flujo de aire m3/h:** 36,000, **Potencia de entrada W:** 4,500, **Rango de tiro m:** 17, **Resistencia de evap. W:** 20,000, **Resistencia de bandeja W:** 2,000, **Peso Neto kg:** 250
-- **Modelo:** ADWUE1586B, **Capacidad Btu/h:** 158,664, **Area de cobertura m2:** 300, **Conexiones tub. Entrada y Salida in:** 7/8"-2 1/8", **Flujo de aire m3/h:** 36,000, **Potencia de entrada W:** 4,500, **Rango de tiro m:** 17, **Resistencia de evap. W:** 22,000, **Resistencia de bandeja W:** 2,200, **Peso Neto kg:** 250
+## Media Temperatura
 
-### Pie de página y notas
-- *Capacidad de enfriamiento basado en temperatura del cuarto a -25°C
-- ADINA (logo)
+Dependiendo del modelo, la unidad puede tener más o menor cantidad de ventiladores.
+![img-7.jpeg](img-7.jpeg)
 
-### Encabezados / pies de página visibles
-- Número de página visible: 8
-
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 11
-
-### Título principal
-Diagrama
-
-### Subtítulo
-Mecánico Típico de Refrigeración
-
-### Logos y marcas visibles
-- WINTER
-- ADINA
-
-### Elementos y etiquetas visibles en el diagrama
-- Condensador
-- Evaporador
-- Válvula de Expansión
-- Receptor de Líquido
-- Filtro Secador
-- Mirilla
-- Válvula Solenoide
-- Acumulador de la línea de succión
-- Separador de Aceite
-- Compresor
-- Control de Presión
-- Control único de Alta Presión
-
-### Encabezados / Pie de página / Números de página visibles
-- Número de página visible: 9
-
-### Notas y leyendas
-- (No hay notas o leyendas adicionales legibles aparte de las etiquetas listadas)
-
----
-
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 10
-
-### Diagrama
-Conexión Eléctrica
-
-### Encabezado / Logos
-- WINTER
-- ADINA
-- 10
-
-### Sección: Media Temperatura
-Media Temperatura
-
-- Dependiendo del modelo, la unidad puede tener más o menor cantidad de ventiladores.
-
-Diagrama (representación de bloque de bornes y ventiladores):
-- Bloque de bornes (de arriba hacia abajo):
-  - **7:**
-  - **6:**
-  - **5:**
-  - **4:**
-  - **3:**
-  - **2:** N
-  - **1:** L2
-- Elementos adicionales visibles:
-  - **1 A 3 VENTILADORES AXIALES**
-  - **VENTILADOR 220V~**
-  - Símbolo de tierra (masa)
-
-### Sección: Baja y Ultra Baja Temperatura
 Baja y Ultra Baja Temperatura
 
-- Dependiendo del modelo, la unidad puede tener más o menor cantidad de ventiladores.
+Dependiendo del modelo, la unidad puede tener más o menor cantidad de ventiladores.
+![img-8.jpeg](img-8.jpeg)
 
-Diagrama (representación de bloque de bornes, resistencias y ventiladores):
-- Bloque de bornes (de arriba hacia abajo):
-  - **7:** N
-  - **6:**
-  - **5:** L1
-  - **4:**
-  - **3:**
-  - **2:** N
-  - **1:** L2
-- Elementos adicionales visibles:
-  - **CALENTADOR 220V~**
-  - **CALENTADOR DE BANDEJA DE DRENAJE**
-  - **CALENTADOR DE BOBINA**
-  - **1 A 3 VENTILADORES AXIALES**
-  - **VENTILADOR 220V~**
-  - Símbolo de tierra (masa)
+================================================================================
+PAGE 13
+================================================================================
 
-### Notas y leyendas:
-- Dependiendo del modelo, la unidad puede tener más o menor cantidad de ventiladores.
-- (Página visible en el documento: 10)
+# Dimensiones 
 
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 11
+Diagrama de apoyo para las Tablas de dimensiones.
+![img-9.jpeg](img-9.jpeg)
 
-### Título principal
-Dimensiones
+================================================================================
+PAGE 14
+================================================================================
 
-### Texto secundario / subtítulo
-Diagrama de apoyo para las  
-Tablas de dimensiones.
+# Dimensiones
 
-### Texto visible en los diagramas (etiquetas y referencias)
-- L
-- E
-- E1
-- E2
-- D
-- B
-- H
+|  Modelo | Ventilador | L | B | H | D | E | E1 | E2  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | (21y x 01) | mm | mm | mm | mm | mm | mm | mm  |
+|  ADWMA068B | $1 \times 300 \mathrm{~mm}$ | 730 | 420 | 475 | 340 | 510 | - | -  |
+|  ADWMA102B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
+|  ADWMA146B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
+|  ADWMA180B | $3 \times 300 \mathrm{~mm}$ | 1580 | 420 | 475 | 340 | 1360 | - | -  |
+|  ADWMA286B | $2 \times 400 \mathrm{~mm}$ | 1380 | 490 | 600 | 380 | 1110 | - | -  |
+|  ADWMA395B | $2 \times 400 \mathrm{~mm}$ | 1750 | 490 | 600 | 380 | 1480 | - | -  |
+|  ADWMA573B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
+|  ADWMA791B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
+|  ADWMA941B | $3 \times 500 \mathrm{~mm}$ | 2420 | 580 | 680 | 510 | 2150 | 740 | 700  |
+|  ADWMA1180B | $3 \times 500 \mathrm{~mm}$ | 2720 | 580 | 680 | 510 | 2450 | 840 | 800  |
+|  ADWMA1375B | $4 \times 500 \mathrm{~mm}$ | 3120 | 580 | 680 | 510 | 2850 | 740 | 700  |
+|  ADWMA1573B | $4 \times 500 \mathrm{~mm}$ | 3520 | 580 | 680 | 510 | 3250 | 840 | 800  |
+|  ADWMA1774B | $4 \times 500 \mathrm{~mm}$ | 3520 | 680 | 680 | 580 | 3250 | 840 | 800  |
+|  ADWMA2252B | $4 \times 550 \mathrm{~mm}$ | 3520 | 680 | 740 | 580 | 3250 | 840 | 800  |
+|  ADWMA2797B | $4 \times 600 \mathrm{~mm}$ | 3520 | 940 | 910 | 630 | 3250 | 840 | 800  |
+|  ADWMA3207B | $3 \times 700 \mathrm{~mm}$ | 3020 | 1040 | 960 | 720 | 2750 | 940 | 900  |
+|  ADWMA3958B | $3 \times 700 \mathrm{~mm}$ | 3320 | 1050 | 1010 | 720 | 3050 | 1040 | 1000  |
+|  ADWBE040B | $1 \times 300 \mathrm{~mm}$ | 730 | 420 | 475 | 340 | 510 | - | -  |
+|  ADWBE071B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
+|  ADWBE0887B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
+|  ADWBE133B | $3 \times 300 \mathrm{~mm}$ | 1580 | 420 | 475 | 340 | 1360 | - | -  |
+|  ADWBE180B | $2 \times 400 \mathrm{~mm}$ | 1380 | 490 | 600 | 380 | 1110 | - | -  |
+|  ADWBE238B | $2 \times 400 \mathrm{~mm}$ | 1750 | 490 | 600 | 380 | 1480 | - | -  |
+|  ADWBE358B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
+|  ADWBE477B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
+|  ADWBE597B | $3 \times 500 \mathrm{~mm}$ | 2420 | 580 | 680 | 510 | 2150 | 740 | 700  |
+|  ADWBE716B | $3 \times 500 \mathrm{~mm}$ | 2720 | 580 | 680 | 510 | 2450 | 840 | 800  |
+|  ADWBE835B | $4 \times 500 \mathrm{~mm}$ | 3120 | 580 | 680 | 510 | 2850 | 740 | 700  |
+|  ADWBE955B | $4 \times 500 \mathrm{~mm}$ | 3520 | 580 | 680 | 510 | 3250 | 840 | 800  |
+|  ADWBE1194B | $4 \times 500 \mathrm{~mm}$ | 3520 | 680 | 680 | 580 | 3250 | 840 | 800  |
+|  ADWBE1494B | $4 \times 550 \mathrm{~mm}$ | 3520 | 680 | 740 | 580 | 3250 | 840 | 800  |
+|  ADWBE1852B | $4 \times 600 \mathrm{~mm}$ | 3520 | 940 | 910 | 630 | 3250 | 840 | 800  |
+|  ADWBE2149B | $3 \times 700 \mathrm{~mm}$ | 3020 | 1040 | 960 | 720 | 2750 | 940 | 900  |
+|  ADWBE2627B | $3 \times 700 \mathrm{~mm}$ | 3320 | 1050 | 1010 | 720 | 3050 | 1040 | 1000  |
+|  ADWUE040B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
+|  ADWUE0648B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
+|  ADWUE0784B | $3 \times 300 \mathrm{~mm}$ | 1580 | 420 | 475 | 340 | 1360 | - | -  |
+|  ADWUE105B | $2 \times 400 \mathrm{~mm}$ | 1380 | 490 | 600 | 380 | 1110 | - | -  |
+|  ADWUE160B | $2 \times 400 \mathrm{~mm}$ | 1750 | 490 | 600 | 380 | 1480 | - | -  |
+|  ADWUE211B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
+|  ADWUE290B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
+|  ADWUE371B | $3 \times 500 \mathrm{~mm}$ | 2420 | 580 | 680 | 510 | 2150 | 740 | 700  |
+|  ADWUE450B | $3 \times 500 \mathrm{~mm}$ | 2720 | 580 | 680 | 510 | 2450 | 840 | 800  |
+|  ADWUE528B | $4 \times 500 \mathrm{~mm}$ | 3120 | 580 | 680 | 510 | 2850 | 740 | 700  |
+|  ADWUE607B | $4 \times 500 \mathrm{~mm}$ | 3520 | 580 | 680 | 510 | 3250 | 840 | 800  |
+|  ADWUE740B | $4 \times 500 \mathrm{~mm}$ | 3520 | 680 | 680 | 580 | 3250 | 840 | 800  |
+|  ADWUE900B | $4 \times 550 \mathrm{~mm}$ | 3520 | 680 | 740 | 580 | 3250 | 840 | 800  |
+|  ADWUE1112B | $4 \times 600 \mathrm{~mm}$ | 3520 | 940 | 910 | 630 | 3250 | 840 | 800  |
+|  ADWUE1323B | $3 \times 700 \mathrm{~mm}$ | 3020 | 1040 | 960 | 720 | 2750 | 940 | 900  |
+|  ADWUE1586B | $3 \times 700 \mathrm{~mm}$ | 3320 | 1050 | 1010 | 720 | 3050 | 1040 | 1000  |
 
-### Elementos gráficos identificables con texto
-- WINTER (logotipo, esquina superior derecha)
-- ADINA (logotipo, pie de página, centro inferior)
-- Número de página: 11 (círculo, esquina inferior derecha)
+================================================================================
+PAGE 15
+================================================================================
 
-### Notas y leyendas
-- No se observan notas al pie ni leyendas textuales adicionales en la página.
+# W 7 WINTER $\boldsymbol{\square} \boldsymbol{\square}$ 
 
-(Transcripción completa del texto visible en la página; los dibujos técnicos contienen las etiquetas listadas arriba y vistas frontales/laterales sin texto adicional).
+## Contactanos
 
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 12
+## WWW.ADINAUSA.COM
 
-### Título principal
-Dimensiones
-
-### Encabezados visibles (parte superior)
-- WINTER (logotipo)
-- ADINA (logotipo en pie de página)
-- Número de página visible: 12
-
----
-
-### Tabla general (encabezados de columna)
-- **Modelo**
-- **Ventilador Q'ty x Dia.**
-- **L mm**
-- **B mm**
-- **H mm**
-- **D mm**
-- **E mm**
-- **E1 mm**
-- **E2 mm**
-
----
-
-### Sección: Media Temperatura
-- **Modelo:** ADWMA068B, **Ventilador Q'ty x Dia.:** 1 x 300 mm, **L mm:** 730, **B mm:** 420, **H mm:** 475, **D mm:** 340, **E mm:** 510, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWMA102B, **Ventilador Q'ty x Dia.:** 2 x 300 mm, **L mm:** 1280, **B mm:** 420, **H mm:** 475, **D mm:** 340, **E mm:** 1060, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWMA146B, **Ventilador Q'ty x Dia.:** 2 x 300 mm, **L mm:** 1280, **B mm:** 420, **H mm:** 475, **D mm:** 340, **E mm:** 1060, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWMA180B, **Ventilador Q'ty x Dia.:** 3 x 300 mm, **L mm:** 1580, **B mm:** 420, **H mm:** 475, **D mm:** 340, **E mm:** 1360, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWMA286B, **Ventilador Q'ty x Dia.:** 2 x 400 mm, **L mm:** 1380, **B mm:** 490, **H mm:** 600, **D mm:** 380, **E mm:** 1110, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWMA395B, **Ventilador Q'ty x Dia.:** 2 x 400 mm, **L mm:** 1750, **B mm:** 490, **H mm:** 600, **D mm:** 380, **E mm:** 1480, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWMA573B, **Ventilador Q'ty x Dia.:** 2 x 500 mm, **L mm:** 1920, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 1650, **E1 mm:** 840, **E2 mm:** -
-- **Modelo:** ADWMA791B, **Ventilador Q'ty x Dia.:** 2 x 500 mm, **L mm:** 1920, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 1650, **E1 mm:** 840, **E2 mm:** -
-- **Modelo:** ADWMA941B, **Ventilador Q'ty x Dia.:** 3 x 500 mm, **L mm:** 2420, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 2150, **E1 mm:** 740, **E2 mm:** 700
-- **Modelo:** ADWMA1180B, **Ventilador Q'ty x Dia.:** 3 x 500 mm, **L mm:** 2720, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 2450, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWMA1375B, **Ventilador Q'ty x Dia.:** 4 x 500 mm, **L mm:** 3120, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 2850, **E1 mm:** 740, **E2 mm:** 700
-- **Modelo:** ADWMA1573B, **Ventilador Q'ty x Dia.:** 4 x 500 mm, **L mm:** 3520, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWMA1774B, **Ventilador Q'ty x Dia.:** 4 x 500 mm, **L mm:** 3520, **B mm:** 680, **H mm:** 680, **D mm:** 580, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWMA2252B, **Ventilador Q'ty x Dia.:** 4 x 550 mm, **L mm:** 3520, **B mm:** 680, **H mm:** 740, **D mm:** 580, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWMA2797B, **Ventilador Q'ty x Dia.:** 4 x 600 mm, **L mm:** 3520, **B mm:** 940, **H mm:** 910, **D mm:** 630, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWMA3207B, **Ventilador Q'ty x Dia.:** 3 x 700 mm, **L mm:** 3020, **B mm:** 1040, **H mm:** 960, **D mm:** 720, **E mm:** 2750, **E1 mm:** 940, **E2 mm:** 900
-- **Modelo:** ADWMA3958B, **Ventilador Q'ty x Dia.:** 3 x 700 mm, **L mm:** 3320, **B mm:** 1050, **H mm:** 1010, **D mm:** 720, **E mm:** 3050, **E1 mm:** 1040, **E2 mm:** 1000
-
----
-
-### Sección: Baja Temperatura
-- **Modelo:** ADWBE040B, **Ventilador Q'ty x Dia.:** 1 x 300 mm, **L mm:** 730, **B mm:** 420, **H mm:** 475, **D mm:** 340, **E mm:** 510, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWBE071B, **Ventilador Q'ty x Dia.:** 2 x 300 mm, **L mm:** 1280, **B mm:** 420, **H mm:** 475, **D mm:** 340, **E mm:** 1060, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWBE0887B, **Ventilador Q'ty x Dia.:** 2 x 300 mm, **L mm:** 1280, **B mm:** 420, **H mm:** 475, **D mm:** 340, **E mm:** 1060, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWBE133B, **Ventilador Q'ty x Dia.:** 3 x 300 mm, **L mm:** 1580, **B mm:** 420, **H mm:** 475, **D mm:** 340, **E mm:** 1360, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWBE180B, **Ventilador Q'ty x Dia.:** 2 x 400 mm, **L mm:** 1380, **B mm:** 490, **H mm:** 600, **D mm:** 380, **E mm:** 1110, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWBE238B, **Ventilador Q'ty x Dia.:** 2 x 400 mm, **L mm:** 1750, **B mm:** 490, **H mm:** 600, **D mm:** 380, **E mm:** 1480, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWBE358B, **Ventilador Q'ty x Dia.:** 2 x 500 mm, **L mm:** 1920, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 1650, **E1 mm:** 840, **E2 mm:** -
-- **Modelo:** ADWBE477B, **Ventilador Q'ty x Dia.:** 2 x 500 mm, **L mm:** 1920, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 1650, **E1 mm:** 840, **E2 mm:** -
-- **Modelo:** ADWBE597B, **Ventilador Q'ty x Dia.:** 3 x 500 mm, **L mm:** 2420, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 2150, **E1 mm:** 740, **E2 mm:** 700
-- **Modelo:** ADWBE716B, **Ventilador Q'ty x Dia.:** 3 x 500 mm, **L mm:** 2720, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 2450, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWBE835B, **Ventilador Q'ty x Dia.:** 4 x 500 mm, **L mm:** 3120, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 2850, **E1 mm:** 740, **E2 mm:** 700
-- **Modelo:** ADWBE955B, **Ventilador Q'ty x Dia.:** 4 x 500 mm, **L mm:** 3520, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWBE1194B, **Ventilador Q'ty x Dia.:** 4 x 500 mm, **L mm:** 3520, **B mm:** 680, **H mm:** 680, **D mm:** 580, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWBE1494B, **Ventilador Q'ty x Dia.:** 4 x 550 mm, **L mm:** 3520, **B mm:** 680, **H mm:** 740, **D mm:** 580, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWBE1852B, **Ventilador Q'ty x Dia.:** 4 x 600 mm, **L mm:** 3520, **B mm:** 940, **H mm:** 910, **D mm:** 630, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWBE2149B, **Ventilador Q'ty x Dia.:** 3 x 700 mm, **L mm:** 3020, **B mm:** 1040, **H mm:** 960, **D mm:** 720, **E mm:** 2750, **E1 mm:** 940, **E2 mm:** 900
-- **Modelo:** ADWBE2627B, **Ventilador Q'ty x Dia.:** 3 x 700 mm, **L mm:** 3320, **B mm:** 1050, **H mm:** 1010, **D mm:** 720, **E mm:** 3050, **E1 mm:** 1040, **E2 mm:** 1000
-
----
-
-### Sección: Ultra Baja Temperatura
-- **Modelo:** ADWUE040B, **Ventilador Q'ty x Dia.:** 2 x 300 mm, **L mm:** 1280, **B mm:** 420, **H mm:** 475, **D mm:** 340, **E mm:** 1060, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWUE0648B, **Ventilador Q'ty x Dia.:** 2 x 300 mm, **L mm:** 1280, **B mm:** 420, **H mm:** 475, **D mm:** 340, **E mm:** 1060, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWUE0784B, **Ventilador Q'ty x Dia.:** 3 x 300 mm, **L mm:** 1580, **B mm:** 420, **H mm:** 475, **D mm:** 340, **E mm:** 1360, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWUE105B, **Ventilador Q'ty x Dia.:** 2 x 400 mm, **L mm:** 1380, **B mm:** 490, **H mm:** 600, **D mm:** 380, **E mm:** 1110, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWUE160B, **Ventilador Q'ty x Dia.:** 2 x 400 mm, **L mm:** 1750, **B mm:** 490, **H mm:** 600, **D mm:** 380, **E mm:** 1480, **E1 mm:** -, **E2 mm:** -
-- **Modelo:** ADWUE211B, **Ventilador Q'ty x Dia.:** 2 x 500 mm, **L mm:** 1920, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 1650, **E1 mm:** 840, **E2 mm:** -
-- **Modelo:** ADWUE290B, **Ventilador Q'ty x Dia.:** 2 x 500 mm, **L mm:** 1920, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 1650, **E1 mm:** 840, **E2 mm:** -
-- **Modelo:** ADWUE371B, **Ventilador Q'ty x Dia.:** 3 x 500 mm, **L mm:** 2420, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 2150, **E1 mm:** 740, **E2 mm:** 700
-- **Modelo:** ADWUE450B, **Ventilador Q'ty x Dia.:** 3 x 500 mm, **L mm:** 2720, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 2450, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWUE528B, **Ventilador Q'ty x Dia.:** 4 x 500 mm, **L mm:** 3120, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 2850, **E1 mm:** 740, **E2 mm:** 700
-- **Modelo:** ADWUE607B, **Ventilador Q'ty x Dia.:** 4 x 500 mm, **L mm:** 3520, **B mm:** 580, **H mm:** 680, **D mm:** 510, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWUE740B, **Ventilador Q'ty x Dia.:** 4 x 500 mm, **L mm:** 3520, **B mm:** 680, **H mm:** 680, **D mm:** 580, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWUE900B, **Ventilador Q'ty x Dia.:** 4 x 550 mm, **L mm:** 3520, **B mm:** 680, **H mm:** 740, **D mm:** 580, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWUE1112B, **Ventilador Q'ty x Dia.:** 4 x 600 mm, **L mm:** 3520, **B mm:** 940, **H mm:** 910, **D mm:** 630, **E mm:** 3250, **E1 mm:** 840, **E2 mm:** 800
-- **Modelo:** ADWUE1323B, **Ventilador Q'ty x Dia.:** 3 x 700 mm, **L mm:** 3020, **B mm:** 1040, **H mm:** 960, **D mm:** 720, **E mm:** 2750, **E1 mm:** 940, **E2 mm:** 900
-- **Modelo:** ADWUE1586B, **Ventilador Q'ty x Dia.:** 3 x 700 mm, **L mm:** 3320, **B mm:** 1050, **H mm:** 1010, **D mm:** 720, **E mm:** 3050, **E1 mm:** 1040, **E2 mm:** 1000
-
----
-
-### Notas y leyendas
-- Texto visible en columna de ventilador: "Q'ty x Dia."
-- Unidades indicadas: mm
-- Encabezados laterales (verticales): Media Temperatura, Baja Temperatura, Ultra Baja Temperatura
-
---- 
-
-Fin de la transcripción fiel a la página visible.
-
-## BROCHURE-TEC-EVAPORADORAS-WINTER-ES - Página 15
-
-### Título principal
-Contáctanos
-
-### Encabezado visual / Marca (parte superior)
-- WINTER (logotipo)
-
-### Sección: Enlace principal
-- WWW.ADINAUSA.COM
-
-### Sección: Medios / Contactos (lista alineada a la derecha del bloque de íconos)
-- (Ícono: globo) WWW.ADINAUSA.COM
-- (Ícono: círculo con "f") Adina
-- (Ícono: cámara/instagram) Adina_airconditioning
-- (Ícono: sobre/email) ventaslatam@adinausa.com
-- (Ícono: in/linkedin) Adina Air Conditioning
-- (Ícono: nota/tik‑tok) Adina_airconditioning
-
-### Elementos gráficos y diseño
-- Línea horizontal decorativa debajo del título "Contáctanos"
-- Barra horizontal oscura detrás de "WWW.ADINAUSA.COM"
-- Columna vertical de iconos a la izquierda del listado de contactos
-- Patrones diagonales y bloques de color en el fondo (diseño gráfico)
-
-### Pie de página / Marca (parte inferior derecha)
-- ADINA (logotipo)
-
-### Notas y leyendas:
-- No se observan números de página visibles en la imagen
-- Texto y elementos transcritos exactamente como aparecen en la página visible
-
+(1) Adina
+(2) Adina_airconditioning
+(3) ventaslatam@adinausa.com
+(11) Adina Air Conditioning
+(4) Adina_airconditioning

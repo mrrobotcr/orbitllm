@@ -1,8 +1,12 @@
-## AGO-T-PTC6013 + COND TRIFASICA-A - Página 1
+# AGO-T-PTC6013 + COND TRIFASICA-A.pdf
 
-### Archivo: AGO-T-PTC6013 + COND TRIFASICA-A, Página 1
 
-### SGS COLOMBIA S.A.S.
+================================================================================
+PAGE 1
+================================================================================
+
+![img-0.jpeg](img-0.jpeg)
+
 SGS COLOMBIA S.A.S.
 C&P-F490101
 ORDEN No. 4200-41892
@@ -19,9 +23,10 @@ Rica, El Salvador, Nicaragua, Guatemala y Honduras por Adina Appliances S.A, con
 referencias relacionadas en las siguientes páginas del presente documento, han sido
 evaluados de conformidad con:
 
-Reglamento Técnico Centroamericano RTCA 23.01.80:21 Productos Eléctricos,
+Reglamento Técnico Centroamericano RTCA 23.01.80:21 Productos Eléctricos.
 Acondicionadores de aire tipo dividido de velocidad fija descarga libre y sin ductos de aire.
 Especificaciones de eficiencia energética.
+
 Resolución 468-2022 (COMIECO-XCVIII) del 2 de diciembre de 2022 del Consejo de
 Ministros de Integración Económica De Centroamérica.
 
@@ -33,11 +38,7 @@ Resultados obtenidos: CONFORME
 
 Autorizado por:
 
-(signature)
-
-SGS COLOMBIA S.A.S.
-
-Camilo Ramirez
+Camilo Ramírez
 SGS Colombia S.A.S.
 Carrera 100 No. 25C-11, Bodega 3
 Bogotá D.C., Colombia
@@ -46,72 +47,42 @@ Fecha de Emisión: 2024-04-27
 Fecha de Vencimiento: 2027-04-27
 Versión 1
 
-Pagina 1 de 2
+Página 1 de 2
 
-### Notas y leyendas:
-- Se aprecia logotipo SGS en la parte superior izquierda y superior derecha.
-- Código QR y gráficos decorativos (aves y globo terráqueo) en la parte inferior derecha y izquierda.
-- Texto en pie de página con letra muy pequeña presente en la zona inferior izquierda (parcialmente ilegible en la imagen).
+![img-1.jpeg](img-1.jpeg)
 
-## AGO-T-PTC6013 + COND TRIFASICA-A - Página 2
+![img-2.jpeg](img-2.jpeg)
 
-### Título principal
-SGS COLOMBIA S.A.S.
+![img-3.jpeg](img-3.jpeg)
 
-### Encabezado del documento (Archivo: AGO-T-PTC6013 + COND TRIFASICA-A - Página 2)
-SGS COLOMBIA S.A.S.
-C&P-F490101
-ORDEN No. 4200-41892
-CERTIFICADO No. CRS23440
-ORDEN CERT. No. CO-CERT231210239-15
-CERTIFICADO DE CONFORMIDAD DE PRODUCTO
-Adina Appliances S.A
-Calle 3, Panama Viejo Business Center, Corregimiento De Parque Lefevre,
-Urbanización Panama Viejo, Ciudad de Panama, Panama
-Acondicionadores de aire tipo dividido de velocidad fija, descarga libre y sin ductos de aire
+================================================================================
+PAGE 2
+================================================================================
 
-### Tabla: Especificaciones del equipo (ubicada en la parte superior-central del documento)
-- **UNIDAD EVAPORADORA:** AGO-T-REF0013
-- **UNIDAD CONDENSADORA:** AGO-T-COND6013-3
-- **CAPACIDAD DE ENFRIAMIENTO (W):** 17865
-- **TIPO DE ARTEFACTO:** Mtl Split
-- **REEE ESTABLECIDA EN NORMA (W/Wo):** 3.52
-- **REEE DE ESTE EQUIPO (W/Wo):** 3.61
-- **AHORRO DE ENERGIA (%):** 2,6
-- **TEST REPORT:** GZEE240100021631
-- **MARCA:** ADINA
+![img-4.jpeg](img-4.jpeg)
 
-### Etiqueta de eficiencia energética (etiqueta amarilla central)
-EFICIENCIA ENERGETICA
+![img-5.jpeg](img-5.jpeg)
 
-Relación de Eficiencia Energética Estacional (REEE)
+SGS COLOMBIA S.A.S. C&P-F490101 ORDEN No. 4200-41892 CERTIFICADO No. CRS23440 ORDEN CERT. No. CO-CERT231210239-15 CERTIFICADO DE CONFORMIDAD DE PRODUCTO Adina Appliances S.A Calle 3, Panama Viejo Business Center, Corregimiento De Parque Lefevre, Urbanización Panama Viejo, Ciudad de Panama, Panama Acondicionadores de aire tipo dividido de velocidad fija, descarga libre y sin ductos de aire
 
-ACONDICIONADORES DE AIRE TIPO DIVIDIDO DE VELOCIDAD FIJA
+|  UNIDAD EVAPORADORA | UNIDAD CONDENSADORA | CAPACIDAD DE ENFRIAMIENTO (W) | TIPO DE ARTEFACTO | REEE ESTABLECIDA EN NORMA (W/Ww) | REEE DE ESTE EQUIPO (W/Ww) | AHORRO DE ENERGÍA (%) | TEST REPORT | MARCA  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  AGO-T-PT06013 | AGO-T-CON6013-3 | 17585 | Mtr. 3,52 | 3,51 | 3,61 | 2,8 | GZEE240100021831 | ADINA  |
 
-(Relación de Eficiencia Energética Estacional (REEE) - tabla con valores)
-- **REEE mínima en su SPAC (W/Wo):** 3.52
-- **REEE de este equipo (W/Wo):** 3.61
+![img-6.jpeg](img-6.jpeg)
 
-Ahorro de Energía de este Equipo
-- **Ahorro de Energía de este Equipo:** 2.6%
+![img-7.jpeg](img-7.jpeg)
 
-IMPORTANTE
-- (Texto informativo en la parte inferior de la etiqueta amarilla; legible como título "IMPORTANTE" seguido de párrafo informativo pequeño)
+![img-8.jpeg](img-8.jpeg)
 
-### Texto central destacado
-***FIN DEL DOCUMENTO***
+![img-9.jpeg](img-9.jpeg)
 
-### Pie de página y datos de emisión (Archivo: AGO-T-PTC6013 + COND TRIFASICA-A - Página 2)
-Fecha de Emisión: 2024-04-27
-Fecha de Vencimiento: 2027-04-27
-Versión 1
+Fecha de Emisión: 2024-04-27 Fecha de Vencimiento: 2027-04-27 Versión 1 Página 2 de 2
 
-Página 2 de 2
+![img-10.jpeg](img-10.jpeg)
 
-### Elementos gráficos y otros textos visibles
-- Logos visibles en la parte superior: SGS, ONAC
-- Logotipos y marca SGS repetidos en la parte inferior
-- Código QR visible en la esquina inferior derecha
+![img-11.jpeg](img-11.jpeg)
 
-### Notas y leyendas:
-- Se ha respetado el texto legible en la etiqueta amarilla; algunos párrafos pequeños dentro de la etiqueta y el bloque de texto muy reducido en la parte inferior central no son completamente legibles y por tanto no han sido transcritos íntegramente para evitar invención de contenido.
+![img-12.jpeg](img-12.jpeg)
+
+![img-13.jpeg](img-13.jpeg)

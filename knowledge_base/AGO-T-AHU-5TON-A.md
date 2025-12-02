@@ -1,111 +1,86 @@
-## AGO-T-AHU-5TON-A - Página 1
+# AGO-T-AHU-5TON-A.pdf
 
-### Encabezado (logos visibles)
-- Logo: SGS (visible, superior izquierda y superior derecha)
-- Logo: ONAC ACREDITADO (cuadro verde, superior izquierda)
 
-### Documento principal
-SGS COLOMBIA S.A.S.  
-C&P-F490101  
-ORDEN No. 4200-39563  
-CERTIFICADO No. CRS20942  
-ORDEN CERT. No. CO-CERT221000889-12  
-CERTIFICADO DE CONFORMIDAD DE PRODUCTO  
-Cooper Group S.A de C.V.  
-Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador
+================================================================================
+PAGE 1
+================================================================================
 
-Certifica que el producto identificado como Acondicionadores de Aire central, paquete o dividido, en capacidades nominales de enfriamiento de 8.800 W hasta 19.050 W., importados y/o fabricados y comercializados en El Salvador por Cooper Group S.A de C.V., con referencias relacionadas en las siguientes páginas del presente documento, han sido evaluados de conformidad con:
+![img-0.jpeg](img-0.jpeg)
 
-Reglamento Técnico Salvadoreño RTS 23.01.01:15 "Eficiencia energética. Acondicionadores de aire tipo central, paquete o dividido. Límites, métodos de prueba y Etiquetado.
+![img-1.jpeg](img-1.jpeg)
+
+# SGS COLOMBIA S.A.S.
+## C&P-F490101
+## ORDEN No. 4200-39563
+## CERTIFICADO No. CRS20942
+## ORDEN CERT. No. CO-CERT221000889-12
+## CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+## Cooper Group S.A de C.V.
+## Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador
+
+Certifica que el producto identificado como **Acondicionadores de Aire central**, paquete o dividido, en capacidades nominales de enfriamiento de 8.800 W hasta 19.050 W., importados y/o fabricados y comercializados en El Salvador por Cooper Group S.A de C.V., con referencias relacionadas en las siguientes páginas del presente documento, han sido evaluados de conformidad con:
+
+- Reglamento Técnico Salvadoreño RTS 23.01.01:15 "Eficiencia energética. Acondicionadores de aire tipo central, paquete o dividido. Límites, métodos de prueba y Etiquetado."
 
 Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con el esquema de certificación Verificación de Producción Total (verificación mediante el sistema de calidad de la línea de producción).
 
-Resultados obtenidos: CONFORME
+## Resultados obtenidos: CONFORME
 
-### Autorizado por
-- Firma manuscrita (visible)
-- SGS COLOMBIA S.A.S.
+**Autorizado por:**
 
-### Responsable técnico / contacto
-- Camilo Ramirez  
-- SGS Colombia S.A.S.  
-- Carrera 100 No. 25C-11, Bodega 3  
-- Bogotá D.C., Colombia
+**Camilo Ramírez**
+SGS Colombia S.A.S.
+Carrera 100 No. 25C-11, Bodega 3
+Bogotá D.C., Colombia
 
-### Fechas y versión
-- Fecha de Emisión: 2023-04-20  
-- Fecha de Vencimiento: 2026-04-20  
-- Versión 1
+Fecha de Emisión: 2023-04-20
+Fecha de Vencimiento: 2026-04-20
+Versión 1
 
-### Pie de página / referencias
-- Página 1 de 2
+Página 1 de 2
 
-### Notas y observaciones
-- Hay un bloque de texto pequeño y legal/administrativo en la parte inferior izquierda (junto a logos repetidos y un código QR) que no es completamente legible en la imagen proporcionada; no se transcribe para evitar inventar contenido.
+![img-2.jpeg](img-2.jpeg)
 
-## AGO-T-AHU-5TON-A - Página 2
+![img-3.jpeg](img-3.jpeg)
 
-### Título principal
-SGS COLOMBIA S.A.S.
+================================================================================
+PAGE 2
+================================================================================
 
-### Encabezado del documento
-C&P-F490101  
-ORDEN No. 4200-39563  
-CERTIFICADO No. CRS20942  
-ORDEN CERT. No. CO-CERT221000889-12  
-CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+![img-4.jpeg](img-4.jpeg)
 
-Cooper Group S.A de C.V.  
-Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador
+![img-5.jpeg](img-5.jpeg)
 
-Acondicionadores de Aire central, paquete o dividido, en capacidades nominales de enfriamiento de  
-8.800 W hasta 19.050 W
+SGS COLOMBIA S.A.S. C&P-F490101 ORDEN No. 4200-39563 CERTIFICADO No. CR520942 ORDEN CERT. No. CO-CERT221000889-12 CERTIFICADO DE CONFORMIDAD DE PRODUCTO Cooper Group S.A de C.V. Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador Acondicionadores de Aire central, paquete o dividido, en capacidades nominales de enfriamiento de 8.800 W hasta 19.050 W.
 
-### Tabla: Especificaciones del equipo (tabla principal)
-- **UNIDAD EVAPORADORA:** AGO-T-AHU6013
-- **UNIDAD CONDENSADORA:** AGO-T-CON6013-1
-- **CAPACIDAD DE ENFRIAMIENTO (W):** 17584
-- **TIPO DE ARTEFACTO:** Acondicionador de Aire Central
-- **REEE ESTABLECIDA EN EL RTS (W/W):** 3.21
-- **REEE DE ESTE APARATO (W/W):** 3.91
-- **AHORRO DE ENERGÍA:** 2.6
-- **TEST REPORT:** AHES230400047451
-- **MARCA:** ADINA
+|  UNIDAD EVAPORADORA | UNIDAD CONDENSADORA | CAPACIDAD DE ENFRIAMIENTO (W) | TIPO DE ARTEFACTO | REEE ESTABLECIDA EN EL RTS (Wt/We) | REEE DE ESTE APARATO (Wt/We) | AHORRO DE ENERGÍA (%) | TEST REPORT | MARCA  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  AGO-T-AHU8013 | AGO-T-CON8013-1 | 17584 | Acondicionador de Aire Central | 3,81 | 3,91 | 2,6 | AHE5230400047451 | ADINA  |
 
-### Sección: EFICIENCIA ENERGÉTICA (etiqueta amarilla)
-EFICIENCIA ENERGÉTICA
+EFFICIENCIA ENERGÉTICA Relación de Eficiencia Energética Estacionari: REEE: Determinada como se establece en el RTS 22.81.01.18
 
-Etiqueta de Eficiencia Energética Estacional (REEE)  
-Determinada conforme a lo establecido en el RTS 2312-2018
+Marca: ADINA Tipo: Acondicionador de aire Central
 
-- Marca: ADINA
-- Tipo: Acondicionador de Aire Central
-- Modelo unidad evaporadora: AGO-T-AHU6013
-- Modelo unidad condensadora: AGO-T-CON6013-1
-- Capacidad de enfriamiento: 17584 W
+Modelo unidad exterior: AGO-T-CON8013 Revisión unidad exterior: AGO-T-CON8013-1 Capacidad de enfriamiento: 17584 W
 
-- REEE establecido en el Reglamento Técnico (W/W): 3.21
-- REEE de este aparato (W/W): 3.91
+Compara el ahorro de energía de este aparato con otros similares antes de comprar
+
+REEE establecido en el Reglamento Técnico (Rt/We): 3,81 REEE de este aparato: 1900W-1 3,81
 
 Ahorro de Energía de este aparato
 
-(Barra de rendimiento con porcentajes visuales de 0% a 50% y marcador indicador del ahorro correspondiente)
+APS
 
-IMPORTANTE  
-La etiqueta de eficiencia energética es propiedad del órgano competente que la asigna y debe ubicarse en la parte frontal del equipo o en su embalaje de venta.
+ITS 18% 26% 30% 48% 58%
 
-### Fin del documento
+APTUP/2017/5 El ahorro de energía efectivo dependerá de los factores de uso y localización del aparato. La situación no debe retirarse del producto hasta que haya sido adquirido por el consumidor final.
+
 ***FIN DEL DOCUMENTO***
 
-### Pie de página y datos adicionales
-Fecha de Emisión: 2023-04-20  
-Fecha de Vencimiento: 2026-04-20  
-Versión 1
+Fecha de Emisión: 2023-04-20 Fecha de Vencimiento: 2026-04-20 Versión 1 Página 2 de 2
 
-Página 2 de 2
+![img-6.jpeg](img-6.jpeg)
 
-(Se observan logos de SGS, ONAC, elementos gráficos decorativos con aves y un código QR en la parte inferior derecha)
+![img-7.jpeg](img-7.jpeg)
 
-### Notas y leyendas:
-- Documento: AGO-T-AHU-5TON-A - Página 2
-- Se preservó la estructura visual de la etiqueta de eficiencia energética y la tabla principal con los valores exactos visibles en la imagen.
+![img-8.jpeg](img-8.jpeg)

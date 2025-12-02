@@ -1,54 +1,47 @@
-## AALEF-T-3617-AHRI - Página 1
+# AALEF-T-3617-AHRI.pdf
 
-### Certificate of Product Ratings
 
-AHRI Certified Reference Number : 207852770        Date : 08-11-2023        Model Status : Active  
-AHRI Type : HRCU-A-CB-O (Mini-Split Heat Pump, with Remote Outdoor Unit Air-Source, Free Delivery)  
-Outdoor Unit Brand Name : ADINA  
-Outdoor Unit Model Number : AALEF-T-3617  
-Indoor Type : Mini-Splits (Non-Ducted)  
+================================================================================
+PAGE 1
+================================================================================
+
+# Certificate of Product Ratings 
+
+AHRI Certified Reference Number : 207852770 Date : 08-11-2023 Model Status : Active
+AHRI Type : HRCU-A-CB-O (Mini-Split Heat Pump, with Remote Outdoor Unit Air-Source, Free Delivery)
+Outdoor Unit Brand Name : ADINA
+Outdoor Unit Model Number : AALEF-T-3617
+Indoor Type : Mini-Splits (Non-Ducted)
 Indoor Model Number(s) : AALEF-T-3617
+Rated as follows in accordance with the latest edition of AHRI 210/240 - 2017 with Addendum 1, Performance Rating of Unitary Air-Conditioning \& Air-Source Heat Pump Equipment and subject to rating accuracy by AHRI-sponsored, independent, third party testing:
 
-### Rated as follows in accordance with the latest edition of AHRI 210/240 - 2017 with Addendum 1, Performance Rating of Unitary Air-Conditioning & Air-Source Heat Pump Equipment and subject to rating accuracy by AHRI-sponsored, independent, third party testing:
-- **Cooling Capacity (A2) - Single or High Stage (95F), btuh:** 36000  
-- **SEER:** 17.00  
-- **EER (A2) - Single or High Stage (95F):** 9.00  
-- **Heating Capacity (H12) - Single or High Stage (47F):** 36000  
-- **HSPF (Region IV):** 8.50
+Cooling Capacity (A2) - Single or High Stage (95F), btuh : 36000
+SEER : 17.00
+EER (A2) - Single or High Stage (95F) : 9.00
+Heating Capacity (H12) - Single or High Stage (47F) : 36000
+HSPF (Region IV) : 8.50
+Rated as follows in accordance with the latest edition of AHRI 210/240 - 2023, Performance Rating of Unitary Air-Conditioning \& Air-Source Heat Pump Equipment and subject to rating accuracy by AHRI-sponsored, independent, third party testing:
 
-### Rated as follows in accordance with the latest edition of AHRI 210/240 – 2023, Performance Rating of Unitary Air-Conditioning & Air-Source Heat Pump Equipment and subject to rating accuracy by AHRI-sponsored, independent, third party testing:
-- **Cooling Capacity (AFull) — Single or High Stage (95F), btuh:** 36000  
-- **SEER2:** 17.00  
-- **EER2 (AFull) — Single or High Stage (95F):** 8.00  
-- **Heating Capacity (HFull) — Single or High Stage (47F), btuh:** 36000  
-- **HSPF2 (Region IV):** 7.50
-
+Cooling Capacity (AFull) - Single or High Stage (95F), btuh : 36000
+SEER2 : 17.00
+EER2 (AFull) - Single or High Stage (95F) : 8.00
+Heating Capacity (H1full) - Single or High Stage (47F), btuh : 36000
+HSPF2 (Region IV) : 7.50
 Sold in? : USA, Canada
+†"Active" Model Status are those that an AHRI Certification Program Participant is currently producing AND selling or offering for sale; OR new models that are being marketed but are not yet being produced."Production Stopped" Model Status are those that an AHRI Certification Program Participant is no longer producing BUT is still selling or offering for sale.
 
-### Notas y leyendas:
-- †“Active” Model Status are those that an AHRI Certification Program Participant is currently producing AND selling or offering for sale; OR new models that are being marketed but are not yet being produced. “Production Stopped” Model Status are those that an AHRI Certification Program Participant is no longer producing BUT is still selling or offering for sale.
-- Ratings that are accompanied by WAS indicate an involuntary re-rate. The new published rating is shown along with the previous (i.e. WAS) rating.
-- The Department of Energy has published updated energy efficiency metrics for central air conditioners and heat pump product lines. This publication reflects both the 1987 metric (SEER) and the 2023 metric (SEER2). Efficiency requirements are published at 10 C.F.R. 430.32(c). Please refer to www.AHRI.net for more information about updated energy efficiency metrics.
+Ratings that are accompanied by WAS indicate an involuntary re-rate. The new published rating is shown along with the previous (i.e. WAS) rating.
+The Department of Energy has published updated energy efficiency metrics for central air conditioners and heat pumps. This publication reflects both the 1987 metric (SEER) and the 2023 metric (SEER2). Efficiency requirements are published at 10 C.F.R. 430.32(c). Please refer to www.AHRInet.org for more information about updated energy efficiency metrics.
 
-### DISCLAIMER
-AHRI does not endorse the product(s) listed on this Certificate and makes no representations, warranties or guarantees as to, and assumes no responsibility for, the product(s) listed on this Certificate. AHRI expressly disclaims all liability for damages of any kind arising out of the use or performance of the product(s), or the unauthorized alteration of data listed on this Certificate. Certified ratings are valid only for models and configurations listed on this directory at www.ahridirectory.org.
+## DISCLAIMER
 
-### TERMS AND CONDITIONS
-This Certificate and its contents are proprietary products of AHRI. This Certificate shall only be used for individual, personal and confidential reference purposes. The contents of this Certificate may not, in whole or in part, be reproduced; copied; disseminated; entered into a computer database; or otherwise utilized, in any form or manner or by any means, except for the user’s individual, personal and confidential reference.
+AHRI does not endorse the product(s) listed on this Certificate and makes no representations, warranties or guarantees as to, and assumes no responsibility for, the product(s) listed on this Certificate. AHRI expressly disclaims all liability for damages of any kind arising out of the use or performance of the product(s), or the unauthorized alteration of data listed on this Certificate. Certified ratings are valid only for models and configurations listed in the directory at www.ahridirectory.org.
 
-### CERTIFICATE VERIFICATION
-The information for the model cited on this certificate can be verified at www.ahridirectory.org, click on “Verify Certificate” link and enter the AHRI Certified Reference Number and the date on which the certificate was issued, which is listed above, and the Certificate No., which is listed at bottom right.
+## TERMS AND CONDITIONS
 
-©2023 Air-Conditioning, Heating, and Refrigeration Institute
+This Certificate and its contents are proprietary products of AHRI. This Certificate shall only be used for individual, personal and confidential reference purposes. The contents of this Certificate may not, in whole or in part, be reproduced; copied; disseminated; entered into a computer database; or otherwise utilized, in any form or manner or by any means, except for the user's individual, personal and confidential reference.
 
-### CERTIFICATE NO.:
-- 133362435866523776
+## CERTIFICATE VERIFICATION
 
---- 
-
-Notas adicionales visuales (capturadas en el documento):
-- Logotipo AHRI CERTIFIED en la parte superior izquierda.
-- Marca de agua grande AHRI CERTIFIED en el centro del documento.
-- Sello y logotipo AHRI en la parte inferior derecha con lema “we make life better”.
-
-(Archivo: AALEF-T-3617-AHRI, Página 1)
+The information for the model cited on this certificate can be verified at www.ahridirectory.org, click on "Verify Certificate" link and enter the AHRI Certified Reference Number and the date on which the certificate was issued, which is listed above, and the Certificate No., which is listed at bottom right.
+![img-0.jpeg](img-0.jpeg)

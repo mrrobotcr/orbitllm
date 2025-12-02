@@ -1,69 +1,14 @@
-## FREE-T-CON6017-A - Página 1
+# FREE-T-CON6017-A.pdf
 
-Archivo: FREE-T-CON6017-A | Página: 1
 
-### Título principal
-CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+================================================================================
+PAGE 1
+================================================================================
 
-### Encabezado / Identificación (FREE-T-CON6017-A - Página 1)
-SGS COLOMBIA S.A.S.  
-C&P-F490101  
-ORDEN No. 4200-39563  
-CERTIFICADO No. CRS20933  
-ORDEN CERT. No. CO-CERT221000890-24
+![img-0.jpeg](img-0.jpeg)
 
-### Titular del certificado (FREE-T-CON6017-A - Página 1)
-Cooper Group S.A de C.V.  
-Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador
+![img-1.jpeg](img-1.jpeg)
 
-### Texto principal / Alcance (FREE-T-CON6017-A - Página 1)
-Certifica que el producto identificado como Acondicionadores de Aire Tipo Dividido (Inverter),  
-importados y/o fabricados y comercializados en Panamá, Costa Rica, El Salvador, Nicaragua,  
-Guatemala por Cooper Group S.A. de C.V., con referencias relacionadas en las siguientes  
-páginas del presente documento, han sido evaluados de conformidad con:
-
-Reglamento Técnico Centroamericano - RTCA _23.01.78:20_ Productos Eléctricos,  
-Acondicionadores de Aire Tipo Dividido Inverter, con flujo refrigerante variable descarga libre  
-y sin ductos de aire. Especificaciones de eficiencia energética.  
-Resolución 451-2021 (COMIECO-XCVIII) del 17 de diciembre de 2021 del Consejo de  
-Ministros de Integración Económica de Centroamérica.
-
-Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas  
-de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con  
-el esquema de certificación 5 de la norma ISO/IEC 17067:2013.
-
-Resultados obtenidos: CONFORME
-
-### Autorización (FREE-T-CON6017-A - Página 1)
-Autorizado por:
-
-[firma]
-
-SGS COLOMBIA S.A.S.
-
-Camilo Ramirez  
-SGS Colombia S.A.S.  
-Carrera 100 No. 25C-11, Bodega 3  
-Bogotá D.C., Colombia
-
-### Fechas y versión (FREE-T-CON6017-A - Página 1)
-Fecha de Emisión: 2023-04-19  
-Fecha de Vencimiento: 2026-04-19  
-Versión 1
-
-### Pie de página y elementos gráficos visibles (FREE-T-CON6017-A - Página 1)
-- Logotipos visibles: SGS (logo), ONAC ACREDITADO (logo)
-- Marca/imagen de fondo: silueta de aves y motivos gráficos SGS en la parte inferior
-- Código QR (visible en la parte inferior derecha)
-- Texto pequeño visible: CAP-C-06.05 V.1 febrero 2023
-- Página 1 de 2
-
-### Notas y leyendas (FREE-T-CON6017-A - Página 1)
-- El documento contiene elementos gráficos y marcas de agua propias de SGS en segundo plano.
-
-## FREE-T-CON6017-A - Página 2
-
-### Encabezado (FREE-T-CON6017-A - Página 2)
 SGS COLOMBIA S.A.S.
 C&P-F490101
 ORDEN No. 4200-39563
@@ -72,44 +17,57 @@ ORDEN CERT. No. CO-CERT221000890-24
 CERTIFICADO DE CONFORMIDAD DE PRODUCTO
 Cooper Group S.A de C.V.
 Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador
-Acondicionadores de Aire Tipo Dividido (Inverter)
 
-### Tabla de especificaciones (FREE-T-CON6017-A - Página 2)
-- **UNIDAD EVAPORADORA:** AGO-1-PTC0013
-- **UNIDAD CONDENSADORA:** FREE-T-CON6017
-- **CAPACIDAD DE ENFRIAMIENTO:** 17564
-- **TIPO DE ARTEFACTO:** Mini Split Inverter
-- **REEE ESTABLECIDA EN NORMA (W/W):** 4.10
-- **REEE DE ESTE EQUIPO (W/W):** 4.98
-- **AHORRO DE ENERGÍA (%):** 21,5
-- **TEST REPORT:** GZEE230400115331
-- **MARCA:** ADINA
+Certifica que el producto identificado como Acondicionadores de Aire Tipo Dividido (Inverter), importados y/o fabricados y comercializados en Panamá, Costa Rica, El Salvador, Nicaragua, Guatemala por Cooper Group S.A de C.V., con referencias relacionadas en las siguientes páginas del presente documento, han sido evaluados de conformidad con:
 
-### Etiqueta de eficiencia (imagen amarilla) (FREE-T-CON6017-A - Página 2)
-EFICIENCIA ENERGÉTICA
+Reglamento Técnico Centroamericano RTCA 23.01.78:20 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido Inverter, con flujo refrigerante variable descarga libre y sin ductos de aire. Especificaciones de eficiencia energética.
+Resolución 451-2021 (COMIECO-XCVIII) del 17 de diciembre de 2021 del Consejo de Ministros de Integración Económica de Centroamérica.
 
-ACONDICIONADORES DE AIRE TIPO DIVIDO INVERTER
+Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con el esquema de certificación 5 de la norma ISO/IEC 17067:2013.
 
-Relación de Eficiencia Energética Estacional (REEE)
+Resultados obtenidos: CONFORME
 
-- **REEE establecida en norma (W/W):** 4,10
-- **REEE este equipo (W/W):** 4,98
+Autorizado por:
 
-Ahorro de Energía de este Equipo.
-- 21,5%
+Camilo Ramírez
+SGS Colombia S.A.S.
+Carrera 100 No. 25C-11, Bodega 3
+Bogotá D.C., Colombia
 
-IMPORTANTE
-- (Texto informativo pequeño en la etiqueta; contenido no totalmente legible en la imagen)
-
-### Pie de página y notas finales (FREE-T-CON6017-A - Página 2)
 Fecha de Emisión: 2023-04-19
 Fecha de Vencimiento: 2026-04-19
 Versión 1
 
-Página 2 de 2
+Página 1 de 2
 
-***FIN DEL DOCUMENTO***
+![img-2.jpeg](img-2.jpeg)
 
-Notas adicionales visibles:
-- Existe un bloque de texto legal/descargos en la parte inferior izquierda de la página (texto en tamaño pequeño; no completamente legible en la imagen).
-- Código QR visible en la parte inferior derecha de la página.
+![img-3.jpeg](img-3.jpeg)
+
+================================================================================
+PAGE 2
+================================================================================
+
+![img-4.jpeg](img-4.jpeg)
+
+![img-5.jpeg](img-5.jpeg)
+
+# SGS COLOMBIA S.A.S.
+
+C&P-F490101 ORDEN No. 4200-39563 CERTIFICADO No. CR520933 ORDEN CERT. No. CO-CERT221000890-24 CERTIFICADO DE CONFORMIDAD DE PRODUCTO Cooper Group S.A de C.V. Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador Acondicionadores de Aire Tipo Dividido (Inverter)
+
+|  UNIDAD EVAPORADORA | UNIDAD CONDENSADORA | CAPACIDAD DE ENFRIAMIENTO (W) | TIPO DE ARTEFACTO | REEE ESTABLECIDA EN NORMA (MWh) | REEE DE ESTE EQUIPO (MWh) | ANORRO DE ENERGÍA (%) | TEST REPORT | MARCA  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  AGO-T-FTC6013 | FREE-T-CON6017 | 17564 | Mati 3641 Inverter | 4.10 | 4.98 | 21.5 | GZEE230400115331 | ADINA  |
+
+![img-6.jpeg](img-6.jpeg)
+
+Fecha de Emisión: 2023-04-19 Fecha de Vencimiento: 2026-04-19 Versión 1 Página 2 de 2
+
+![img-7.jpeg](img-7.jpeg)
+
+![img-8.jpeg](img-8.jpeg)
+
+![img-9.jpeg](img-9.jpeg)
+
+![img-10.jpeg](img-10.jpeg)

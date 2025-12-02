@@ -1,62 +1,46 @@
-## AGO-T-CON6013-1_PLANOS_EXPLOSIONADOS_ES - Página 1
+# AGO-T-CON6013-1_PLANOS_EXPLOSIONADOS_ES.pdf
 
-### Planos Explosionados
-Planos Explosionados
 
-### Condensadora
-Condensadora
+================================================================================
+PAGE 1
+================================================================================
 
-### Código del documento
-AGO-T-CON6013-1
+# Planos Explosionados
 
-### Capacidad / Modelo
-60K
+## Condensadora
 
-### Marca / Serie (logo)
-Gold SERIES
+AGO-T-CON6013-1 60K
 
----
+|  No | Código | Nombre de la Pieza | Q'ty | Opcional  |
+| --- | --- | --- | --- | --- |
+|  1 | RO95010-000578 | Tubo de entrada del condensador | 1 |   |
+|  2 | RO95010-000451 | Tubo de salida del condensador | 1 |   |
+|  3 | RO95003-001378 | Condensador | 1 |   |
+|  4 | RO45004-000003 | Base | 1 |   |
+|  5 | RO95002-000286 | Válvula de dos vías | 1 |   |
+|  6 | RO95007-000242 | Interruptor de baja presión | 1 |   |
+|  7 | RO95014-001911 | Tubo de succión | 1 |   |
+|  8 | RO95002-000386 | Válvula de cierre de baja presión | 1 |   |
+|  9,1 | RO95014-001532 | Tubo de descarga | 1 |   |
+|  9,2 | RO95006-000035 | Manga del sensor | 1 |   |
+|  10 | RO95007-000426 | Interruptor de alta presión | 1 |   |
+|  11 | RO92014-000009 | Compresor | 1 |   |
+|  12 | RO45014-003502 | Filtro | 1 |   |
 
-### Tabla: Lista de piezas (columna izquierda)
-- **No:** 1, **Código:** RQ95010-000578, **Nombre de la Pieza:** Tubo de entrada del condensador, **Q'ty:** 1, **Opcional:**
-- **No:** 2, **Código:** RQ95010-000451, **Nombre de la Pieza:** Tubo de salida del condensador, **Q'ty:** 1, **Opcional:**
-- **No:** 3, **Código:** RQ95003-001378, **Nombre de la Pieza:** Condensador, **Q'ty:** 1, **Opcional:**
-- **No:** 4, **Código:** RQ45004-000003, **Nombre de la Pieza:** Base, **Q'ty:** 1, **Opcional:**
-- **No:** 5, **Código:** RQ95002-000286, **Nombre de la Pieza:** Válvula de dos vías, **Q'ty:** 1, **Opcional:**
-- **No:** 6, **Código:** RQ95007-000242, **Nombre de la Pieza:** Interruptor de baja presión, **Q'ty:** 1, **Opcional:**
-- **No:** 7, **Código:** RQ95014-001911, **Nombre de la Pieza:** Tubo de succión, **Q'ty:** 1, **Opcional:**
-- **No:** 8, **Código:** RQ95002-000386, **Nombre de la Pieza:** Válvula de cierre de baja presión, **Q'ty:** 1, **Opcional:**
-- **No:** 9, **Código:** RQ05014-001532, **Nombre de la Pieza:** Tubo de descarga, **Q'ty:** 1, **Opcional:**
-- **No:** 9,2, **Código:** RQ50006-000035, **Nombre de la Pieza:** Manga del sensor, **Q'ty:** 1, **Opcional:**
-- **No:** 10, **Código:** RQ50007-000426, **Nombre de la Pieza:** Interruptor de alta presión, **Q'ty:** 1, **Opcional:**
-- **No:** 11, **Código:** RQ20104-000009, **Nombre de la Pieza:** Compresor, **Q'ty:** 1, **Opcional:**
-- **No:** 12, **Código:** RQ45014-003502, **Nombre de la Pieza:** Filtro, **Q'ty:** 1, **Opcional:**
+|  No | Código | Nombre de la Pieza | Q'ty | Opcional  |
+| --- | --- | --- | --- | --- |
+|  13 | RO45801-000034 | Placa de soporte | 1 |   |
+|  14 | RO45801-000034 | Placa de soporte | 1 |   |
+|  15 | RO45007-000043 | Cubierta superior | 1 |   |
+|  16 | RO45009-000003 | Ventilador de hélice | 1 |   |
+|  17 | RO25001-000187 | Motor exterior | 1 |   |
+|  18 | RO45008-000015 | Círculo de aire | 1 |   |
+|  19 | RO45801-000034 | Placa de soporte | 1 |   |
+|  20-1 | RO25004-000060 | Sensor de temperatura de descarga | 1 |   |
+|  20-2 | RO25003-000009 | Capacitor del compresor | 1 |   |
+|  20-3 | RO25003-000048 | Capacitor del ventilador | 1 |   |
+|  20-4 | RO35004-001109 | PCB exterior | 1 |   |
+|  20-5 | RO35005-000075 | Terminal exterior | 1 |   |
+|  20-6 | RO25006-000057 | Contactor de A.C | 1 |   |
 
-### Tabla: Lista de piezas (columna derecha)
-- **No:** 13, **Código:** RQ45801-000034, **Nombre de la Pieza:** Placa de soporte, **Q'ty:** 1, **Opcional:**
-- **No:** 14, **Código:** RQ45801-000034, **Nombre de la Pieza:** Placa de soporte, **Q'ty:** 1, **Opcional:**
-- **No:** 15, **Código:** RQ45007-000043, **Nombre de la Pieza:** Cubierta superior, **Q'ty:** 1, **Opcional:**
-- **No:** 16, **Código:** RQ45009-000033, **Nombre de la Pieza:** Ventilador de hélice, **Q'ty:** 1, **Opcional:**
-- **No:** 17, **Código:** RQ25001-000187, **Nombre de la Pieza:** Motor exterior, **Q'ty:** 1, **Opcional:**
-- **No:** 18, **Código:** RQ45801-000015, **Nombre de la Pieza:** Círculo de aire, **Q'ty:** 1, **Opcional:**
-- **No:** 19, **Código:** RQ45801-000034, **Nombre de la Pieza:** Placa de soporte, **Q'ty:** 1, **Opcional:**
-- **No:** 20-1, **Código:** RQ25004-000060, **Nombre de la Pieza:** Sensor de temperatura de descarga, **Q'ty:** 1, **Opcional:**
-- **No:** 20-2, **Código:** RQ25003-000009, **Nombre de la Pieza:** Capacitor del compresor, **Q'ty:** 1, **Opcional:**
-- **No:** 20-3, **Código:** RQ25003-000048, **Nombre de la Pieza:** Capacitor del ventilador, **Q'ty:** 1, **Opcional:**
-- **No:** 20-4, **Código:** RQ35004-001109, **Nombre de la Pieza:** PCB exterior, **Q'ty:** 1, **Opcional:**
-- **No:** 20-5, **Código:** RQ35005-000075, **Nombre de la Pieza:** Terminal exterior, **Q'ty:** 1, **Opcional:**
-- **No:** 20-6, **Código:** RQ25006-000057, **Nombre de la Pieza:** Contactor de A.C, **Q'ty:** 1, **Opcional:**
-
----
-
-### Ilustración / Diagrama
-- Números de referencia visibles en la ilustración: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
-
----
-
-### Pie de página / Marca
-- ADINA Air Conditioning
-- V-30062025
-
-### Notas y leyendas:
-- No se aprecian notas al pie adicionales en la página.
+![img-0.jpeg](img-0.jpeg)

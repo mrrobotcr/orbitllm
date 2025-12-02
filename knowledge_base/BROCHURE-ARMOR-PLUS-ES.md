@@ -1,68 +1,51 @@
-## BROCHURE-ARMOR-PLUS-ES - Página 1
+# BROCHURE-ARMOR-PLUS-ES.pdf
 
-### Título principal
-Aire Acondicionado
 
-### Subtítulo
-Tipo Paquete
+================================================================================
+PAGE 1
+================================================================================
 
-### Elemento destacado / Marca estilizada
-iNVERTERa
+![img-0.jpeg](img-0.jpeg)
 
-### Logotipos y textos en la imagen del equipo
-- ARMOR Plus
-- ADINA
+# Aire Acondicionado
 
-### Marca principal y tagline
-- ARMOR Plus
-- ROOFTOP UNITS BY ADINA
+## Tipo Paquete
 
-### Rango de capacidad
-- Desde 3 TON hasta 25 TON
+### INVERTER
 
-### Marca final y código
-- ADINA
-- V-29052025
+![img-1.jpeg](img-1.jpeg)
 
-### Observaciones de texto visible adicional (en la unidad)
-- ARMOR (marca visible en la carcasa del equipo)
-- ADINA (marca en la carcasa del equipo)
+Desde 3 TON hasta 25 TON
 
-### Notas y leyendas:
-- No se observan tablas en la página.
-- Imagen principal: unidad tipo rooftop (texto relacionado extraído tal cual).
-- No se detectan números de página impresos en la imagen.
+![img-2.jpeg](img-2.jpeg)
 
-## BROCHURE-ARMOR-PLUS-ES - Página 2
+V-29052025
 
-### Tabla de Contenido
+================================================================================
+PAGE 2
+================================================================================
 
-- 1  Introducción del producto
-- 2  Nomenclatura
-- 3  Excelente Confiabilidad
-- 4  Múltiples Protecciones
-- 5  Pruebas Rigurosas
-- 6  Características Técnicas
-- 11  Diagrama del Sistema de Refrigeración
-- 12  Rendimiento de Refrigeración
-- 19  Características del Ventilador
-- 25  Diagramas Eléctricos
-- 32  Posición de Instalación
-- 35  Controles y Diagramas de Cableado
-- 39  Dimensiones de las Unidades
+# Tablade Contenido 
 
-### Encabezados / Logos visibles
-- ARMOR Plus (logotipo en la parte superior derecha)
-- ADINA (logotipo en la parte inferior izquierda)
-- INVERTER (logotipo en la parte inferior derecha)
+1 ..... Introducción del producto
+2 Nomenclatura
+3 Excelente Confiablilidad
+4 Múltiples Protecciones
+5 Pruebas Rigurosas
+6 Características Técnicas
+11 Diagrama del Sistema de Refrigeración
+12 Rendimiento de Refrigeración
+19 Características del Ventilador
+25 Diagrams Eléctricos
+32 Posición de Instalación
+35 Controles y Diagramas de Cableado
+39 Dimensiones de las Unidades
 
-### Notas y leyendas
-- Página con diseño de índice / tabla de contenido con numeración de secciones y líneas punteadas entre números y títulos.
+================================================================================
+PAGE 3
+================================================================================
 
-## BROCHURE-ARMOR-PLUS-ES - Página 3
-
-### Introducción del producto
-(Archivo: BROCHURE-ARMOR-PLUS-ES - Página 3)
+# Introducción del producto 
 
 Las unidades tipo paquete ARMOR PLUS de ADINA ofrecen un amplio rango de capacidad, desde 3 hasta 25 toneladas. Estas unidades vienen completamente ensambladas, con tuberías y cableado desde fábrica, permitiendo un envío y montaje en una sola pieza. Cada unidad se presuriza con una carga de refrigerante R-410A para su almacenamiento y transporte.
 
@@ -71,3128 +54,1226 @@ Las unidades combinan alta calidad, eficiencia operativa y rentabilidad. Su dise
 El diseño meticuloso de cada componente y del sistema en su conjunto, junto con rigurosas pruebas de proceso y de la unidad, garantizan una alta fiabilidad. Los sistemas de protección incorporados aseguran la máxima seguridad del sistema, evitando daños irreparables en el compresor u otras partes críticas incluso en condiciones de trabajo extremas.
 
 Los compresores están montados sobre aisladores de goma para reducir la vibración durante el transporte. Los ventiladores del condensador tienen descarga vertical, lo que dirige el sonido hacia arriba y lejos de las estructuras cercanas. Todas las piezas metálicas están fabricadas con acero galvanizado de grado comercial y, después del ensamblaje, se limpian a fondo para eliminar grasa o suciedad. Las partes externas están recubiertas con pintura en polvo de alta calidad, garantizando un acabado duradero que ha sido probado en una cámara de niebla salina durante 500 horas.
+![img-3.jpeg](img-3.jpeg)
 
-### Imagen / Ilustración de la unidad
-- Dibujo técnico de una unidad tipo paquete ARMOR PLUS (imagen central)
-- En la ilustración se distinguen los logotipos: ARMOR (con distintivo "plus") y ADINA en la carcasa de la unidad
+================================================================================
+PAGE 4
+================================================================================
 
-### Encabezados, logos y pie de página visibles
-- **Logotipo superior derecho:** ARMOR (con distintivo "plus")  
-  - Texto pequeño bajo el logotipo (visible): ROOFTOP UNITS BY ADINA
-- **Texto/Logotipo en la ilustración de la unidad:** ARMOR (con distintivo "plus")
-- **Texto/Logotipo en la ilustración de la unidad:** ADINA
-- **Logotipo pie izquierdo:** ADINA
-- **Texto pie central:** INVERTER
-- **Número de página visible en el documento:** 1
+# GARMOR 
 
-### Notas y leyendas:
-- La unidad se presuriza con refrigerante R-410A para almacenamiento y transporte.
-- Las partes externas han sido probadas en una cámara de niebla salina durante 500 horas.
+## Nomenclatura
 
-## BROCHURE-ARMOR-PLUS-ES - Página 4
+![img-4.jpeg](img-4.jpeg)
 
-### Archivo y número de página (visible)
-- Nombre de archivo: BROCHURE-ARMOR-PLUS-ES
-- Página indicada en el encabezado del programa: 4
-- Número de página visible en el documento: 2
+## ADA 14036 H 216 A
 
-### Título principal
-Nomenclatura
-
-### Código central (texto grande)
-AD A I 4 036 H 2 1 6 A
-
-### Componentes / cajas (texto tal como aparece)
-- Marca: AD = ADINA
-- Tecnología: I = Inverter
-- Capacidad nominal en (K BTU): 36,000 (BTU) = 036, 66,000 (BTU) = 066, 120,000 (BTU) = 120, 180,000 (BTU) = 180, 240,000 (BTU) = 240, 300,000 (BTU) = 300
-- Tipo de enfriamiento: H = Bomba de calor
-- Fases: 1 = Monofásico 3 = Trifásico
-- Revisión de diseño.
-
-### Componentes inferiores (texto tal como aparece)
-- Serie: A = ARMOR PLUS
-- Refrigerante: 4 = R410 A
-- Voltaje: 2 = 220 V
-- Frecuencia: 6 = 60 Hz
-
-### Encabezados / Logotipos visibles
-- ARMOR
-- ADINA
-- INVERTER
-
-### Notas y leyendas
-- No se aprecian notas al pie adicionales en la página.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 5
-
-### Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-
-### Características (encabezado superior)
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-- Características
-
-### Excelente Confiabilidad
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-El diseño detallado de cada componente, junto con pruebas exhaustivas de proceso y unidad, garantizan la confiabilidad del sistema.
-
-### Intercambiador de calor eficiente
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-Se utilizan tubos de cobre acanalados internamente y aletas de aluminio, lo que mejora la eficiencia del intercambio de calor.
-
-- Imagen / leyenda:
-  - Intercambiador de calor altamente eficiente.
-
-### Iconos y leyendas visuales (columna izquierda)
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-- Motor del ventilador de bajo ruido.
-- Filtro lavable
-- Conexiones Eléctricas Sencillas
-
-### Funcionamiento silencioso
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-El ventilador del condensador con descarga vertical dirige el ruido hacia arriba, alejándolo de las estructuras circundantes.
-
-### Durabilidad a largo plazo
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-Los sistemas de protección garantizan la seguridad del equipo y previenen daños irreparables al compresor u otros componentes en condiciones extremas.
-
-### Alerta de mal funcionamiento del sensor
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-Si el sensor presenta un cortocircuito o falla, la unidad mostrará un código de error.
-
-### Filtro lavable
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-El filtro puede lavarse y reutilizarse.
-
-### Fallo de comunicación
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-Si la unidad no logra establecer comunicación normal, se detendrá para proteger el sistema.
-
-### Conexiones eléctricas sencillas
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-La caja eléctrica facilita la conexión con el termostato de la habitación o el termostato exterior. Tanto las conexiones de alimentación como las de control están en el mismo lado de la unidad para simplificar la instalación. Además, los cables codificados por color permiten un fácil rastreo y diagnóstico.
-
-### Descongelamiento automático
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-Cuando la unidad opera en modo calefacción, el sistema de descongelamiento automático se activará según la acumulación de escarcha en la unidad exterior, garantizando la protección de todo el sistema.
-
-### Encabezados, logos y pie de página visibles
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-- Logo superior derecho: ARMOR
-  - Texto adicional visible junto al logo: ROOFTOP UNITS BY ADINA
-- Logos inferiores:
-  - ADINA
-  - INVERTER
-- Número de página (pie): 3
-
-### Notas y leyendas
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 5
-- Texto y leyendas extraídas exactamente de la página, preservando mayúsculas, minúsculas y acentuación tal como aparecen.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 4
-
-### Encabezado
-- Características
-- ARMOR
-
-### Título principal
-- Múltiples Protecciones
-
-### Descripción de las protecciones (imagen central con callouts)
-
-- Lado izquierdo (desde arriba hacia abajo):
-  - Protección contra sobrecarga
-  - Protección contra alta/baja presión
-  - Protección contra temperatura de descarga elevada
-  - Protección contra congelamiento
-  - Protección contra sobrecorriente
-  - Protección del módulo IPM
-
-- Lado derecho (desde arriba hacia abajo):
-  - Protección contra voltaje anormal en la barra de bus de corriente continua (DC busbar)
-  - Protección contra temperatura excesiva en el módulo IPM
-  - Control de frecuencia del compresor
-  - Ajuste dinámico de la frecuencia del compresor
-  - Protección contra sobrecalentamiento de la unidad
-
-### Sección
-- Diseño Eficiente de Fácil Transporte
-
-### Párrafo
-- Su diseño de menor tamaño permite una mayor capacidad de carga. Todas las unidades cuentan con rieles en la base con ranuras para montacargas y orificios para izaje, lo que facilita su maniobra. Además, el empaque duradero protege las unidades durante el envío y el almacenamiento.
-
-### Elementos gráficos y pie de página visibles
-- Logo: ADINA
-- Texto/logo: INVERTER
-- Número de página impreso: 4
-
-### Notas y leyendas visibles
-- Escudo con candado sobre la imagen de la unidad (elemento gráfico)
-- No se observan notas al pie de texto adicionales en la página.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 7
-
-### Encabezado / Sección superior
-- **Características** (texto en banda azul, esquina superior izquierda)
-- **ARMOR** (logotipo, esquina superior derecha; texto pequeño debajo del logotipo: "ROOFTOP UNITS BY ADINA")
-
-### Título principal
-- Los Equipos son Sometidos a Pruebas Rigurosas
-
-### Prueba de lluvia
-- Se coloca la unidad sobre la mesa de prueba, se energiza y luego se rocía agua en todas las direcciones alrededor del condensador y del ventilador utilizando una boquilla de pulverización situada por encima de la mesa de prueba. Esta prueba dura 30 minutos con una presión de agua de 1.0 kgf/cm2.
-- Una vez finalizada la prueba, se debe realizar inmediatamente una prueba de resistencia dieléctrica.
-
-### Prueba de vibración aleatoria
-- Se coloca una muestra en la mesa de vibración en la misma posición en la que se transportaría normalmente o según los requisitos de la prueba. Se instalan barandas de seguridad alrededor de la muestra con un espacio de aproximadamente 15 mm.
-- Luego, se configuran los parámetros de prueba:
-  - **Aceleración global (g rms):** 1.14G
-  - **Frecuencia de prueba:** 2Hz - 200Hz
-  - **Duración de la prueba:** 4 horas
-  - **Observaciones:** Se registra la temperatura y la humedad del ambiente de prueba. Al finalizar, se inspecciona si el embalaje y la muestra interna han sufrido daños.
-
-### Prueba de funcionamiento prolongado
-- Se somete la unidad a operación continua alternando entre los modos de enfriamiento y calefacción, con voltaje nominal, bajo y alto, para realizar pruebas de funcionamiento prolongado, encendido/apagado frecuente y detección de fugas de refrigerante.
-- Esta prueba dura 1,000 horas (aproximadamente 42 días).
-
-### Imagen / Elementos gráficos centrales
-- Imagen de equipo tipo rooftop con texto visible en el equipo: **ARMOR**
-- Texto en la base/frente del equipo: **ADINA**
-
-### Pie / Iconografía y marcas en la parte inferior
-- Logotipo y texto: **ADINA** (esquina inferior izquierda)
-- Iconografía (varios íconos relacionados con inspección, ingeniería y seguridad) en la parte inferior central
-- Texto y logotipo: **INVERTER** (centro inferior, con icono de hoja)
-- Número de página visible en el documento escaneado: **5** (esquina inferior derecha)
-
-### Notas y leyendas
-- No se observan notas al pie adicionales legibles en esta página.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 8
-
-### Características técnicas
-(Archivo: BROCHURE-ARMOR-PLUS-ES, Página 8)
-
-### Título principal
-- Características técnicas
-
-### Elemento gráfico y capacidad (lado superior izquierdo)
-- Diagrama del equipo (imagen)
-- **Capacidad:** 36,000 a 66,000 BTU
-
-### Tabla: Especificaciones por modelo
-(Archivo: BROCHURE-ARMOR-PLUS-ES, Página 8)
-
-Modelos en columnas (de izquierda a derecha):
-- **Modelo:** ADA-I-4036H216A, ADA-I-4066H216A, ADA-I-4066H236A
-
-Filas (cada fila corresponde a la etiqueta de la izquierda de la tabla original):
-- **Refrigeración (Btu/h):** 35800 (13650-42660 ), 66500 (20500-66500 ), 71700 (20500-75100 )
-- **Refrigeración (kW):** 10.5 (4.0-12.5 ), 19.5 (6.0-19.5 ), 21.0 (6.0-22.0 )
-- **Calefacción (Btu/h):** 39250 (17070-46100 ), 70000 (27300-73400 ), 75100 (27300-78500 )
-- **Calefacción (kW):** 11.5 (5.0-13.5 ), 20.5 (8.0-21.5 ), 22.0 (8.0-23.0 )
-
-Datos Eléctricos:
-- **Alimentación Eléctrica (V-Hz-Ph):** 220-240V-50/60Hz-1Ph, 220-240V-50/60Hz-1Ph, 220-240V-60Hz-3Ph
-- **Consumo de Energía Refrigeración (kW):** 3.1, 6.8, 7.9
-- **Consumo de Energía Calefacción (kW):** 3.2, 5.8, 6.6
-- **Corriente de Entrada Refrigeración (A):** 13.5, 30.0, 21.0
-- **Corriente de Entrada Calefacción (A):** 14.0, 25.5, 18.0
-
-Rendimiento y ruido:
-- **SEER (Btu/(W.h)):** 20, 16, 16
-- **Nivel de Ruido (dB(A)):** 61, 63, 63
+![img-5.jpeg](img-5.jpeg)
 
 Refrigerante:
-- **Refrigerante Tipo/Peso:** — R410A/3.5kg, R410A/5.0kg, R410A/5.0kg
+$4=R 410 \mathrm{~A}$
 
-Flujo de aire:
-- **Flujo de Aire (CFM):** 1177, 1942, 1942
-- **Flujo de Aire (m³/h):** 2000, 3300, 3300
+Voltaje:
+$2=220 \mathrm{~V}$
 
-Presión estática externa (Nominal (Rango)):
-- **Presión Estática Externa (Pa):** 50(0-150), 60(0-180), 60(0-180)
-- **Presión Estática Externa (InWg):** 0.20(0-0.6), 0.24(0-0.72), 0.24(0-0.72)
+Frecuencia:
+$6=60 \mathrm{~Hz}$
 
-Volumen de deshumidificación:
-- **Volumen de Deshumidificación (l/h):** 2.63, 7.2, 7.73
+================================================================================
+PAGE 5
+================================================================================
 
-Evaporador — Motor del Ventilador / Ventilador:
-- **Motor del Ventilador - Tipo de Transmisión:** -, Transmisión Directa, Transmisión Directa
-- **Motor del Ventilador - Potencia de Salida (HP):** 4/15, 1, 1
-- **Ventilador - Tipo:** -, Centrífugo, Centrífugo
-- **Ventilador - Cantidad:** -, 2, 2
-- **Velocidad del Motor (rpm):** 1100, 1080, 1080
+# Excelente Confiablilidad 
 
-Evaporador — Material y aletas:
-- **Material:** Tubo de Cobre Aleta de Aluminio, Tubo de Cobre Aleta de Aluminio, Tubo de Cobre Aleta de Aluminio
+El diseño detallado de cada componente, junto con pruebas exhaustivas de proceso y unidad, garantizan la confiabilidad del sistema.
 
-Serpentín:
-- **Área frontal (sq.ft):** 4.31, 4.31, 4.31
-- **Área frontal (m²):** 0.4, 0.4, 0.4
-- **Aletas por unidad:** -, 16, 16
-- **Inch(FPI):** (no legible / no especificado), 16, 16
+## Intercambiador de calor eficiente
 
-Tamaño de la conexión de drenaje:
-- **Tamaño de la conexión de drenaje (Inch):** 0.80*0.047, 0.80*0.047, 0.80*0.047
+Se utilizan tubos de cobre acanalados internamente y aletas de aluminio, lo que mejora la eficiencia del intercambio de calor.
+![img-6.jpeg](img-6.jpeg)
 
-### Otras leyendas y elementos visibles
-- Logotipos: ADINA, INVERTER
-- Logotipo: ARMOR (parte superior derecha)
-- Número de página visible en la hoja (parte inferior derecha): 6
+Motor del ventilador de bajo ruido.
+![img-7.jpeg](img-7.jpeg)
 
-### Notas y leyendas:
-- No se observan notas al pie adicionales legibles en la página.
-- Algunos campos indican "-" en la tabla original (campo no aplicable o no especificado).
+Filtro lavable
+![img-8.jpeg](img-8.jpeg)
 
-## BROCHURE-ARMOR-PLUS-ES - Página 9
+Conexiones
+Eléctricas Sencillas
+![img-9.jpeg](img-9.jpeg)
 
-### Archivo: BROCHURE-ARMOR-PLUS-ES | Página: 9
+Intercambiador de calor altamente eficiente.
 
-### Características técnicas
-Capacidad:
+## Funcionamiento silencioso
+
+El ventilador del condensador con descarga vertical dirige el ruido hacia arriba, alejándolo de las estructuras circundantes.
+
+## Durabilidad a largo plazo
+
+Los sistemas de protección garantizan la seguridad del equipo y previenen daños irreparables al compresor u otros componentes en condiciones extremas.
+
+## Alerta de mal funcionamiento del sensor
+
+Si el sensor presenta un cortocircuito o falla, la unidad mostrará un código de error.
+
+## Filtro lavable
+
+El filtro puede lavarse y reutilizarse.
+
+## Fallo de comunicación
+
+Si la unidad no logra establecer comunicación normal, se detendrá para proteger el sistema.
+
+## Conexiones eléctricas sencillas
+
+La caja eléctrica facilita la conexión con el termostato de la habitación o el termostato exterior. Tanto las conexiones de alimentación como las de control están en el mismo lado de la unidad para simplificar la instalación. Además, los cables codificados por color permiten un fácil rastreo y diagnóstico.
+
+## Descongelamiento automático
+
+Cuando la unidad opera en modo calefacción, el sistema de descongelamiento automático se activará según la acumulación de escarcha en la unidad exterior, garantizando la protección de todo el sistema.
+
+================================================================================
+PAGE 6
+================================================================================
+
+# Múltiples Protecciones 
+
+![img-10.jpeg](img-10.jpeg)
+
+## Diseño Eficiente de Fácil Transporte
+
+Su diseño de menor tamaño permite una mayor capacidad de carga. Todas las unidades cuentan con rieles en la base con ranuras para montacargas y orificios para izaje, lo que facilita su maniobra. Además, el empaque duradero protege las unidades durante el envío y el almacenamiento.
+![img-11.jpeg](img-11.jpeg)
+
+================================================================================
+PAGE 7
+================================================================================
+
+# Las Equipos son Sometidos a Pruebas Rigurosas 
+
+- Prueba de lluvia
+
+Se coloca la unidad sobre la mesa de prueba, se energiza y luego se rocía agua en todas las direcciones alrededor del condensador y del ventilador utilizando una boquilla de pulverización situada por encima de la mesa de prueba. Esta prueba dura 30 minutos con una presión de agua de $1.0 \mathrm{kgf} / \mathrm{cm}^{2}$.
+Una vez finalizada la prueba, se debe realizar inmediatamente una prueba de resistencia dieléctrica.
+
+- Prueba de vibración aleatoria
+
+Se coloca una muestra en la mesa de vibración en la misma posición en la que se transportaría normalmente o según los requisitos de la prueba. Se instalan barandas de seguridad alrededor de la muestra con un espacio de aproximadamente 15 mm .
+Luego, se configuran los parámetros de prueba:
+
+- Aceleración global (g rms): 1.14 G
+- Frecuencia de prueba: $2 \mathrm{~Hz}-200 \mathrm{~Hz}$
+- Duración de la prueba: 4 horas
+- Se registra la temperatura y la humedad del ambiente de prueba. Al finalizar, se inspecciona si ell embalaje y la muestra interna han sufrido daños.
+- Prueba de funcionamiento prolongado
+
+Se somete la unidad a operación continua alternando entre los modos de enfriamiento y calefacción, con voltaje nominal, bajo y alto, para realizar pruebas de funcionamiento prolongado, encendido/apagado frecuente y detección de fugas de refrigerante.
+Esta prueba dura 1,000 horas (aproximadamente 42 días).
+![img-12.jpeg](img-12.jpeg)
+
+================================================================================
+PAGE 8
+================================================================================
+
+# Características técnicas 
+
+## Capacidad:
+
 36,000 a 66,000 BTU
 
-### Tabla: Especificaciones por modelo (BROCHURE-ARMOR-PLUS-ES - Página 9)
-- **Model:** ADA-I-4036H216A, ADA-I-4066H216A, ADA-I-4066H236A
+| Modelo |  |  |  | ADA-I-4036H216A | ADA-I-4066H216A | ADA-I-4066H236A |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Capacidad Total | Refrigeración |  | Btu/h | 35800 (13650-42660) | 66500 (20500-66500) | 71700 (20500-75100) |
+|  |  |  | kW | 10.5 (4.0-12.5) | 19.5 (6.0-19.5) | 21.0 (6.0-22.0) |
+|  | Calefacción |  | Btu/h | 39250 (17070-46100) | 70000 (27300-73400) | 75100 (27300-78500) |
+|  |  |  | kW | 11.5 (5.0-13.5) | 20.5 (8.0-21.5) | 22.0 (8.0-23.0) |
+| Datos Eléctricos | Alimentación Eléctrica |  | V-Hz-Ph | 220-240V-50/60Hz-1Ph | 220-240V-50/60Hz-1Ph | 220-240V-60Hz-3Ph |
+|  | Consumo de Energía | Refrigeración | kW | 3.1 | 6.8 | 7.9 |
+|  |  | Calefacción | kW | 3.2 | 5.8 | 6.6 |
+|  | Corriente de Entrada | Refrigeración | A | 13.5 | 30.0 | 21.0 |
+|  |  | Calefacción | A | 14.0 | 25.5 | 18.0 |
+|  | SEER |  | Btu/(W.h) | 20 | 16 | 16 |
+|  | Nivel de Ruido |  | $\mathrm{dB}(\mathrm{A})$ | 61 | 63 | 63 |
+| Refrigerante | Tipo/Peso |  | - | R410A/3.5kg | R410A/5.0kg | R410A/5.0kg |
+|  | Flujo de Aire |  | CFM | 1177 | 1942 | 1942 |
+|  |  |  | $\mathrm{m}^{3} / \mathrm{h}$ | 2000 | 3300 | 3300 |
+| Presión Estática Externa |  | Nominal (Rango) | Pa | 50(0-150) | 60(0-180) | 60(0-180) |
+|  |  |  | InWg | $0.20(0-0.6)$ | $0.24(0-0.72)$ | $0.24(0-0.72)$ |
+| Volumen de Deshumidificación |  |  | $\mathrm{I} / \mathrm{h}$ | 2.63 | 7.2 | 7.73 |
+| Evaporador | Motor del Ventilador | Tipo de Transmisión Potencia de Salida | - | Transmisión Directa | Transmisión Directa | Transmisión Directa |
+|  |  |  | HP | $4 / 15$ | 1 | 1 |
+|  | Ventilador | Tipo | - | Centrífugo | Centrífugo | Centrífugo |
+|  |  | Cantidad | - | 2 | 2 | 2 |
+|  |  | Velocidad del Motor | rpm | 1100 | 1080 | 1080 |
+|  | Serpentín | Material | - | Tubo de Cobre | Tubo de Cobre | Tubo de Cobre |
+|  |  |  |  | Aleta de Aluminio | Aleta de Aluminio | Aleta de Aluminio |
+|  |  | Área frontal | sq.ft | 4.31 | 4.31 | 4.31 |
+|  |  |  | $\mathrm{m}^{2}$ | 0.4 | 0.4 | 0.4 |
+|  |  | Aletas por unidad | - | 16 | 16 | 16 |
+|  |  | Inch(FPI) |  |  |  |  |
+|  | Tamaño de la conexión de drenaje |  | Inch | $0.80 * 0.047$ | $0.80 * 0.047$ | $0.80 * 0.047$ |
 
-- **Compresor - Tipo:** Inverter / Rotativo, Inverter / Rotativo, Inverter / Rotativo
-- **Compresor - Cantidad:** 1, 1, 1
+================================================================================
+PAGE 9
+================================================================================
 
-- **Motor del Ventilador - Tipo de Unidad:** Accionamiento Directo, Accionamiento Directo, Accionamiento Directo
-- **Motor del Ventilador - Potencia de Salida (HP):** 1, 1, 1
+# Características técnicas
 
-- **Ventilador - Tipo:** Flujo Axial, Flujo Axial, Flujo Axial
-- **Ventilador - Cantidad:** 1, 1, 1
-- **Ventilador - Material:** Tubo de Cobre / Aleta de Aluminio, Tubo de Cobre / Aleta de Aluminio, Tubo de Cobre / Aleta de Aluminio
+## Capacidad:
 
-- **Serpentín - Área Frontal (sq.ft):** 13,89, 13,89, 13,89
-- **Serpentín - Área Frontal (m2):** 1,29, 1,29, 1,29
-- **Serpentín - Fins per Pulgada (FPI):** 16, 16, 16
+36,000 a 66,000 BTU
 
-- **Funcionamiento Excesivo Permitido:** , , 
-- **Presión de Descarga (Mpa):** 4,4, 4,4, 4,4
-- **Funcionamiento Excesivo Permitido:** , , 
-- **Presión de Succión (Mpa):** 2,5, 2,5, 2,5
+|  Model |  |  |  | ADA-I-4036H216A | ADA-I-4066H216A | ADA-I-4066H236A  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Condensador | Compresor | Tipo | - | Inverter / Rotativo | Inverter / Rotativo | Inverter / Rotativo  |
+|   |  | Cantidad | - | 1 | 1 | 1  |
+|   | Motor del Ventilador | Tipo de Unidad | - | Accionamiento Directo | Accionamiento Directo | Accionamiento Directo  |
+|   |  | Potencia de Salida | HP | 1 | 1 | 1  |
+|   | Ventilador | Tipo | - | Flujo Axial | Flujo Axial | Flujo Axial  |
+|   |  | Cantidad | - | 1 | 1 | 1  |
+|   | Serpentín | Material | - | Tubo de Cobre | Tubo de Cobre | Tubo de Cobre  |
+|   |  |  |  | Aleta de Aluminio | Aleta de Aluminio | Aleta de Aluminio  |
+|   |  | Área Frontal | sq.ft | 13,89 | 13,89 | 13,89  |
+|   |  |  | m 2 | 1,29 | 1,29 | 1,29  |
+|   |  | Fins per | - | 16 | 16 | 16  |
+|   |  | Pulgada(FPI) |  |  |  |   |
+|  Funcionamiento Excesivo Permitido |  |  | Mpa | 4,4 | 4,4 | 4,4  |
+|  Presión de Descarga |  |  |  |  |  |   |
+|  Funcionamiento Excesivo Permitido |  |  | Mpa | 2,5 | 2,5 | 2,5  |
+|  Presión de Succión |  |  |  |  |  |   |
+|  Operación |  | Refrigeración | ${ }^{\circ} \mathrm{C}$ | $18-48$ | $18-48$ | $18-48$  |
+|  Temperatura |  | Calefacción | ${ }^{\circ} \mathrm{C}$ | $-10-24$ | $-10-24$ | $-10-24$  |
+|  Filtro |  |  | - | PP | PP | PP  |
+|  Dimensiones |  | Dimensión del Equipo ( $\mathrm{W} \times \mathrm{D} \times \mathrm{H}$ ) | mm | $1450 \times 1120 \times 815$ | $1450 \times 1120 \times 815$ | $1450 \times 1120 \times 815$  |
+|   |  | Dimensión del Empaque ( $\mathrm{W} \times \mathrm{D} \times \mathrm{H}$ ) | mm | $1463 \times 1133 \times 860$ | $1463 \times 1133 \times 860$ | $1463 \times 1133 \times 860$  |
+|  Peso |  | Peso Neto | kg | 206 | 268 | 268  |
+|   |  | Peso Bruto | kg | 227 | 289 | 289  |
+|  Cantidad de Carga |  |  | 20'GP | 16 | 16 | 16  |
+|   |  |  | 40'GP | 32 | 32 | 32  |
+|   |  |  | 40'HQ | 48 | 48 | 48  |
 
-- **Operación - Refrigeración (°C):** 18-48, 18-48, 18-48
-- **Temperatura - Calefacción (°C):** -10-24, -10-24, -10-24
+================================================================================
+PAGE 10
+================================================================================
 
-- **Filtro:** PP, PP, PP
+# Características técnicas
 
-- **Dimensiones - Dimensión del Equipo (W×D×H) (mm):** 1450×1120×815, 1450×1120×815, 1450×1120×815
-- **Dimensiones - Dimensión del Empaque (W×D×H) (mm):** 1463×1133×860, 1463×1133×860, 1463×1133×860
+## Capacidad: 120,000 a 240,000 BTU
 
-- **Peso - Peso Neto (kg):** 206, 268, 268
-- **Peso - Peso Bruto (kg):** 227, 289, 289
+|  Modelo |  |  |  | ADA-I-4120H236A | ADA-I-4180H236A | ADA-I-4240H236A  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  Capacidad
+Total | Refrigeración |  | Btu/h | 116000(34100-119400) | 174000(44400-180800) | 211600(58000-235500)  |
+|   |  |  | kW | 34.0(10.0-35.0) | 51.0(13.0-53.0) | 62.0(17.0-69.0)  |
+|   | Calefacción |  | Btu/h | 119400(37500-122800) | 182500(47800-191100) | 249100(61400-259400)  |
+|   |  |  | kW | 35.0(11.0-36.0) | 53.5(14.0-56.0) | 73.0(18.0-76.0)  |
+|  Datos
+Eléctricos | Alimentación |  | V-Hz-Ph | 220-240V-60Hz-3Ph | 220-240V-60Hz-3Ph | 220-240V-60Hz-3Ph  |
+|   | Entrada de
+Energía | Refrigeración | kW | 13,7 | 22,0 | 29,0  |
+|   |  | Calefacción | kW | 11,5 | 16,0 | 25,0  |
+|   | Corriente de
+Entrada | Refrigeración | A | 36,0 | 63,0 | 79,0  |
+|   |  | Calefacción | A | 30,0 | 46,0 | 70,0  |
+|  SEER |  |  | Btu/
+(W.h) | 16 | 16 | 16  |
+|  Refrigerante | Nivel de Ruido |  | $\mathrm{dB}(\mathrm{A})$ | 72 | 74 | 74  |
+|   | Tipo / Peso |  | - | R410A/10.0kg | R410A/12.0kg | R410A/16.0kg  |
+|   | Volumen de Flujo de Aire |  | CFM | 3413 | 5591 | 8416  |
+|   |  |  | $\mathrm{m}^{3} / \mathrm{h}$ | 5800 | 9500 | 14300  |
+|  Presión Estática Externa |  | Nominal
+(Rango) | Pa | 90(0-210) | 120(0-320) | 140(0-350)  |
+|   |  |  | InWg | 0.36(0-0.84) | 0.48(0-1.28) | 0.56(0-1.4)  |
+|  Volumen de Deshumidificación |  |  | $1 / h$ | 11,08 | 14,31 | 16,20  |
+|  Evaporador | Motor del
+Ventilador | Tipo de Unidad | - | Accionamiento Directo | Correa | Correa  |
+|   |  | Poder de Salida | HP | 2 | 4 | 5,5  |
+|   | Ventilador | Tipo | - | Centrífugo | Centrífugo | Centrífugo  |
+|   |  | Cantidad | - | 2 | 1 | 2  |
+|   |  | Velocidad del
+Motor | rpm | 1400 | 916 | 1020  |
+|   |  | Material | - | Tubo de Cobre /Aleta de
+Aluminio | Tubo de Cobre /Aleta de
+Aluminio | Tubo de Cobre /Aleta de
+Aluminio  |
+|   | Serpentin | Área Frontal | sq.ft | 7,00 | 10,12 | 12,32  |
+|   |  |  | m 2 | 0,65 | 0,94 | 1,145  |
+|   |  | Pulgadas(FPI) | - | 16 | 18 | 16  |
+|   | Tamaño de la Conexión |  | Inch | $0.80 * 0.047$ | $0.80 * 0.047$ | $1.20 * 0.059$  |
+|  Condensador | Compresor | Tipo | - | Inverter / Rotativo | Inverter / Rotativo | Inverter / Rotativo  |
+|   |  | Cantidad | - | 1 | 2 | 2  |
+|   | Motor del
+Ventilador | Tipo de Unidad | - | Accionamiento Directo | Accionamiento Directo | Accionamiento Directo  |
+|   |  | Poder de Salida | HP | 2 | 2 | 2  |
+|   | Ventilador | Tipo | - | Axial | Axial | Axial  |
+|   |  | Cantidad | - | 1 | 1 | 2  |
+|   |  | Material | - | Tubo de Cobre /Aleta de
+Aluminio | Tubo de Cobre /Aleta de
+Aluminio | Tubo de Cobre /Aleta de
+Aluminio  |
+|   | Serpentin | Área Frontal | sq.ft | 25,19 | 26,16 | 34,22  |
+|   |  |  | m 2 | 2,34 | 2,43 | 3,18  |
+|   |  | Pulgadas(FPI) | - | 16 | 16 | 16  |
+|  Funcionamiento permitido |  |  | Mpa | 4,4 | 4,4 | 4,4  |
+|  Presión de Carga |  |  |  |  |  |   |
+|  Funcionamiento permitido |  |  | Mpa | 2,5 | 2,5 | 2,5  |
+|  Presion de Succión |  |  |  |  |  |   |
+|  Operación |  | Refrigeración | ${ }^{\circ} \mathrm{C}$ | $18-48$ | $18-48$ | $18-48$  |
 
-- **Cantidad de Carga - 20'GP:** 16, 16, 16
-- **Cantidad de Carga - 40'GP:** 32, 32, 32
-- **Cantidad de Carga - 40'HQ:** 48, 48, 48
+================================================================================
+PAGE 11
+================================================================================
 
-### Notas y leyendas (BROCHURE-ARMOR-PLUS-ES - Página 9)
-- No hay notas al pie visibles adicionales en la página.
-- Logos visibles: ADINA, INVERTER
-- Número de página visible en la imagen: 7 (la transcripción solicitada corresponde a BROCHURE-ARMOR-PLUS-ES - Página 9 según instrucción)
+# Características técnicas 
 
-## BROCHURE-ARMOR-PLUS-ES - Página 10
+## Capacidad: <br> 120,000 a 240,000 BTU
 
-### Título principal
-Características técnicas
+| Modelo |  |  | ADA-I-4120H236A | ADA-I-4180H236A | ADA-I-4240H236A |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| Temperatura | Calefacción | ${ }^{\circ} \mathrm{C}$ | $-10-24$ | $-10-24$ | $-10-24$ |
+| Filtro |  | - | PP | PP | PP |
+| Dimensiones | Equipo | mm | $1450 \times 1120 \times 1215$ | $2260 \times 1140 \times 1245$ | $2240 \times 1880 \times 1250$ |
+|  | $(\mathrm{W} \times \mathrm{D} \times \mathrm{H})$ |  |  |  |  |
+|  | Empaque | mm | $1463 \times 1133 \times 1260$ | $2283 \times 1163 \times 1290$ | $2258 \times 1898 \times 1300$ |
+|  | $(\mathrm{W} \times \mathrm{D} \times \mathrm{H})$ |  |  |  |  |
+| Peso | Peso Neto | kg | 339 | 572 | 820 |
+|  | Peso Bruto | kg | 360 | 600 | 870 |
+| Cantidad de Carga |  | 20'GP | 7 | 4 | 3 |
+|  |  | 40'GP | 16 | 10 | 6 |
+|  |  | 40'HQ | 32 | 20 | 12 |
 
-### Encabezado de página
-Capacidad: 120,000 a 240,000 BTU
-
-### Tabla: Especificaciones Técnicas (Modelos)
-Modelos (columnas): **ADA-I-4120H236A**, **ADA-I-4180H236A**, **ADA-I-4240H236A**
-
-- **Capacidad Total - Refrigeración (Btu/h):** 116000(34100-119400), 174000(44400-180800), 211600(58000-235500)
-- **Capacidad Total - Refrigeración (kW):** 34,0(10,0-35,0), 51,0(13,0-53,0), 62,0(17,0-69,0)
-- **Capacidad Total - Calefacción (Btu/h):** 119400(37500-122800), 182500(47800-191100), 249100(61400-259400)
-- **Capacidad Total - Calefacción (kW):** 35,0(11,0-36,0), 53,5(14,0-56,0), 73,0(18,0-76,0)
-- **Alimentación (V-Hz-Ph):** 220-240V-60Hz-3Ph, 220-240V-60Hz-3Ph, 220-240V-60Hz-3Ph
-
-- **Datos Eléctricos - Entrada de Energía Refrigeración (kW):** 13,7, 22,0, 29,0
-- **Datos Eléctricos - Entrada de Energía Calefacción (kW):** 11,5, 16,0, 25,0
-- **Datos Eléctricos - Corriente de Entrada Refrigeración (A):** 36,0, 63,0, 79,0
-- **Datos Eléctricos - Corriente de Entrada Calefacción (A):** 30,0, 46,0, 70,0
-- **SEER (Btu/(W.h)):** 16, 16, 16
-- **Nivel de Ruido (dB(A)):** 72, 74, 74
-- **Refrigerante - Tipo / Peso:** - R410A/10.0kg, R410A/12.0kg, R410A/16.0kg
-
-- **Volumen de Flujo de Aire (CFM):** 3413, 5591, 8416
-- **Volumen de Flujo de Aire (m³/h):** 5800, 9500, 14300
-
-- **Presión Estática Externa - Nominal (Pa) (Rango):** 90(0-210), 120(0-320), 140(0-350)
-- **Presión Estática Externa - Nominal (InWg) (Rango):** 0.36(0-0.84), 0.48(0-1.28), 0.56(0-1.4)
-
-- **Volumen de Deshumidificación (l/h):** 11,08, 14,31, 16,20
-
-### Evaporador
-- **Motor del Ventilador - Tipo de Unidad:** Accionamiento Directo, Correa, Correa
-- **Motor del Ventilador - Poder de Salida (HP):** 2, 4, 5,5
-
-- **Ventilador - Tipo:** Centrífugo, Centrífugo, Centrífugo
-- **Ventilador - Cantidad:** 2, 1, 2
-- **Velocidad del Motor (rpm):** 1400, 916, 1020
-
-- **Serpentín - Material:** Tubo de Cobre /Aleta de Aluminio, Tubo de Cobre /Aleta de Aluminio, Tubo de Cobre /Aleta de Aluminio
-- **Serpentín - Área Frontal (sq.ft):** 7,00, 10,12, 12,32
-- **Serpentín - Área Frontal (m2):** 0,65, 0,94, 1,145
-- **Serpentín - Pulgadas(FPI):** 16, 18, 16
-
-- **Tamaño de la Conexión (Inch):** 0.80*0.047, 0.80*0.047, 1.20*0.059
-
-### Compresor
-- **Compresor - Tipo:** Inverter / Rotativo, Inverter / Rotativo, Inverter / Rotativo
-- **Compresor - Cantidad:** 1, 2, 2
-
-### Condensador
-- **Motor del Ventilador - Tipo de Unidad:** Accionamiento Directo, Accionamiento Directo, Accionamiento Directo
-- **Motor del Ventilador - Poder de Salida (HP):** 2, 2, 2
-
-- **Ventilador - Tipo:** Axial, Axial, Axial
-- **Ventilador - Cantidad:** 1, 1, 2
-
-- **Serpentín - Material:** Tubo de Cobre /Aleta de Aluminio, Tubo de Cobre /Aleta de Aluminio, Tubo de Cobre /Aleta de Aluminio
-- **Serpentín - Área Frontal (sq.ft):** 25,19, 26,16, 34,22
-- **Serpentín - Área Frontal (m2):** 2,34, 2,43, 3,18
-- **Serpentín - Pulgadas(FPI):** 16, 16, 16
-
-### Funcionamiento permitido / Presiones / Operación
-- **Funcionamiento permitido - Presión de Carga (Mpa):** 4,4, 4,4, 4,4
-- **Funcionamiento permitido - Presion de Succión (Mpa):** 2,5, 2,5, 2,5
-- **Operación - Refrigeración (°C):** 18-48, 18-48, 18-48
-
-### Notas y leyendas visibles
-- Logo: ADINA
-- Logo: INVERTER
-- Número de página visible en el documento: 8
-
-### Metadatos de página
-- Nombre del archivo: BROCHURE-ARMOR-PLUS-ES
-- Número de página indicado por el usuario para esta transcripción: 10
-
-(Transcripción realizada por OCR: se ha extraído y preservado el texto visible del documento, respetando la estructura y los valores exactamente como aparecen.)
-
-## BROCHURE-ARMOR-PLUS-ES - Página 11
-
-### Características técnicas
-- Características técnicas
-- ARMOR (logotipo en la esquina superior derecha)
-- Capacidad: 120,000 a 240,000 BTU
-
-### Tabla: Especificaciones por modelo
-- Modelos (columnas): ADA-I-4120H236A, ADA-I-4180H236A, ADA-I-4240H236A
-
-- **Temperatura (Calefacción) °C:** -10-24, -10-24, -10-24
-- **Filtro:** -, PP, PP, PP
-
-- **Dimensiones (Equipo) (W×D×H) mm:** 1450×1120×1215, 2260 × 1140 × 1245, 2240×1880×1250
-- **Dimensiones (Empaque) (W×D×H) mm:** 1463×1133×1260, 2283 × 1163 × 1290, 2258×1898×1300
-
-- **Peso Neto kg:** 339, 572, 820
-- **Peso Bruto kg:** 360, 600, 870
-
-- **Cantidad de Carga 20'GP:** 7, 4, 3
-- **Cantidad de Carga 40'GP:** 16, 10, 6
-- **Cantidad de Carga 40'HQ:** 32, 20, 12
-
-### Notas y leyendas:
 - La capacidad de enfriamiento indicada anteriormente se mide bajo las siguientes condiciones:
-  - Condiciones en interiores: 27°C (81°F) DB / 19°C (67°F) WB
-  - Condiciones en exteriores: 35°C (95°F) DB / 24°C (76°F) WB
+- Condiciones en interiores: $27^{\circ} \mathrm{C}\left(81^{\circ} \mathrm{F}\right) \mathrm{DB} / 19^{\circ} \mathrm{C}\left(67^{\circ} \mathrm{F}\right) \mathrm{WB}$
+- Condiciones en exteriores: $35^{\circ} \mathrm{C}\left(95^{\circ} \mathrm{F}\right) \mathrm{DB} / 24^{\circ} \mathrm{C}\left(76^{\circ} \mathrm{F}\right) \mathrm{WB}$
 - El volumen de aire se mide según la presión estática externa estándar correspondiente.
 - Los parámetros técnicos pueden cambiar con la mejora del producto; por favor, consulte la placa de identificación de la unidad para obtener los datos reales.
 
-### Encabezados y pies de página (texto visible)
-- Cabezera: Características técnicas
-- Logotipo superior derecho: ARMOR
-- Pie izquierdo: ADINA
-- Pie centro: INVERTER
-- Número de página visible en el documento: 9
+================================================================================
+PAGE 12
+================================================================================
 
-(page image includes unlabelled esquemático/ilustración del equipo junto al texto "Capacidad: 120,000 a 240,000 BTU")
+|  Modelo | ADA-I-4300H236A |   |
+| --- | --- | --- |
+|  TON | 25 |   |
+|  Capacidad |  |   |
+|  Capacidad de Enfriamiento | Btu/h | 283000  |
+|  Capacidad de Enfriamiento | kW | 83,0  |
+|  Capacidad de Calefacción | Btu/h | 314000  |
+|  Capacidad de Calefacción | kW | 92  |
+|  Dartos Eléctricos |  |   |
+|  Fuente de Alimentación | - | 220V / 3Ph / 60Hz  |
+|  Consumo de Energía en Enfriamiento | kW | 35,0  |
+|  Consumo de Energía en Calefacción | kW | 30,0  |
+|  Consumo Máximo de Energía | kW | 37,0  |
+|  Corriente Nominal | A | 100  |
+|  Sonido |  |   |
+|  Nivel de Presión Sonora | $\mathrm{dB}(\mathrm{A})$ | 76  |
+|  Refrigerante |  |   |
+|  Tipo de Refrigerante |  | R410A  |
+|  Carga de Refrigerante | kg | $10.0+10.0$  |
+|  Flujo de Aire |  |   |
+|  Valumen de Flujo de Aire | $\mathrm{m}^{3} / \mathrm{h}$ | 14500  |
+|  Presión |  |   |
+|  Presión Estática Externa | Pa | 125  |
+|  Presión Estática Externa | InWg | 0,5  |
+|  Rango de Presión Estática Externa | Pa | $0-200$  |
+|  Rango de Presión Estática Externa | InWg | $0-0.8$  |
+|  Dimensiones |  |   |
+|  Dimensiones Exteriores (Ancho+Profundidad+Alto) | mm | 2240+1950+ 1240  |
+|  Dimensiones del Empaque (Ancho+Profundidad+Alto) | mm | 2258+ 1973+ 1300  |
+|  Peso |  |   |
+|  Peso Neto | kg | 850  |
+|  Peso Bruto | kg | 920  |
+|  Carga |  |   |
+|  Cantidad de Carga | 20'GP | 2  |
+|  Cantidad de Carga | 40'HQ | 12  |
 
-## BROCHURE-ARMOR-PLUS-ES - Página 12
+- La capacidad de enfriamiento indicada anteriormente se mide bajo las siguientes condiciones: a) Condiciones en interiores: $27^{\circ}\left(80.6^{\circ}\right) \mathrm{DB} / 19^{\circ}\left(66.2^{\circ}\right) \mathrm{WB}$. b) Condiciones en exteriores: $35^{\circ}\left(95^{\circ}\right) \mathrm{DB} / 24^{\circ}\left(75.2^{\circ}\right) \mathrm{WB}$.
+- La capacidad de calefacción indicada anteriormente se mide bajo las siguientes condiciones: a) Condiciones en interiores: $20^{\circ}\left(68^{\circ}\right) \mathrm{DB} / 15^{\circ}\left(59^{\circ}\right) \mathrm{WB}$. b) Condiciones en exteriores: $7^{\circ}\left(44.6^{\circ}\right) \mathrm{DB} / 6^{\circ}\left(42.8^{\circ}\right) \mathrm{WB}$.
 
-### Archivo / página visible
-- Nombre de archivo (solicitado): BROCHURE-ARMOR-PLUS-ES - Página 12
-- Número de página visible en el documento: 10
+El volumen de aire se mide a la presión estática externa estándar correspondiente.
 
-### Características técnicas
-
-### Encabezado superior
-- ARMOR Plus (logotipo visible)
-
-### Datos principales de la tabla
-- **Modelo:** ADA-I-4300H236A
-- **TON:** 25
-
-### Tabla: Especificaciones técnicas (tabla principal)
-
-Sección: Capacidad
-- **Capacidad de Enfriamiento (Btu/h):** 283000
-- **Capacidad de Enfriamiento (kW):** 83,0
-- **Capacidad de Calefacción (Btu/h):** 314000
-- **Capacidad de Calefacción (kW):** 92
-
-Sección: Dartos Eléctricos
-- **Fuente de Alimentación:** —, 220V / 3Ph / 60Hz
-- **Consumo de Energía en Enfriamiento (kW):** 35,0
-- **Consumo de Energía en Calefacción (kW):** 30,0
-- **Consumo Máximo de Energía (kW):** 37,0
-- **Corriente Nominal (A):** 100
-
-Sección: Sonido
-- **Nivel de Presión Sonora (dB(A)):** 76
-
-Sección: Refrigerante
-- **Tipo de Refrigerante:** R410A
-- **Carga de Refrigerante (kg):** 10.0+10.0
-- **Flujo de Aire:** (sin unidad indicada), (sin valor indicado)
-- **Volumen de Flujo de Aire (m³/h):** 14500
-
-Sección: Presión
-- **Presión Estática Externa (Pa):** 125
-- **Presión Estática Externa (InWg):** 0,5
-- **Rango de Presión Estática Externa (Pa):** 0-200
-- **Rango de Presión Estática Externa (InWg):** 0-0.8
-
-Sección: Dimensiones
-- **Dimensiones Exteriores (Ancho+Profundidad+Alto) (mm):** 2240-1950-1240
-- **Dimensiones del Empaque (Ancho+Profundidad+Alto) (mm):** 2258-1973-1300
-
-Sección: Peso
-- **Peso Neto (kg):** 850
-- **Peso Bruto (kg):** 920
-
-Sección: Carga
-- **Cantidad de Carga (20'GP):** 2
-- **Cantidad de Carga (40'HQ):** 12
-
-### Elemento gráfico lateral (texto visible)
-- **Capacidad:** 300,000 BTU
-
-### Notas y leyendas:
-- La capacidad de enfriamiento indicada anteriormente se mide bajo las siguientes condiciones:
-  - a) Condiciones en interiores: 27º (80.6º) DB / 19º(66.2º) WB.
-  - b) Condiciones en exteriores: 35º (95º) DB / 24º(75.2º) WB.
-- La capacidad de calefacción indicada anteriormente se mide bajo las siguientes condiciones:
-  - a) Condiciones en interiores: 20º(68º) DB / 15º(59º) WB.
-  - b) Condiciones en exteriores: 7º (44.6º) DB / 6º (42.8º) WB.
-- El volumen de aire se mide a la presión estática externa estándar correspondiente.
 - Los parámetros técnicos pueden cambiar con las mejoras del producto; consulte la placa de identificación de la unidad para obtener los datos reales.
 
-### Encabezados / pies de página / marcas
-- Logotipos visibles: ADINA, INVERTER
-- Número de página visible en documento: 10
+================================================================================
+PAGE 13
+================================================================================
 
---- 
+# Características técnicas 
 
-(Transcripción realizada por OCR de la página mostrada. Se ha respetado texto, valores y signos tal como aparecen en la imagen.)
+## GARMOR
 
-## BROCHURE-ARMOR-PLUS-ES - Página 11
+## Diagrama del Sistema de Refrigeración
 
-### Características técnicas
-Características técnicas
+![img-13.jpeg](img-13.jpeg)
 
-### Diagrama del Sistema de Refrigeración
-Diagrama del Sistema de Refrigeración
+================================================================================
+PAGE 14
+================================================================================
 
-### Etiquetas y elementos visibles en el diagrama
-- **Evaporador:** Evaporador
-- **Blower:** Blower (ícono)
-- **Succión:** Succión (etiqueta junto a la tubería hacia el compresor)
-- **Compresor:** Compresor
-- **Descarga:** Descarga (etiqueta en la tubería desde el compresor)
-- **Válvula de 4 vías:** Válvula de 4 vías
-- **Ventilador Axial:** Ventilador Axial
-- **Condensador:** Condensador
-- **Separador Líquido - Gas:** Separador Líquido - Gas
-- **Válvula de Expansión Térmica:** Válvula de Expansión Térmica
-- **Filtro:** Filtro (aparece en dos ubicaciones)
-- **Calefacción:** Calefacción (flecha no rellena en la leyenda)
-- **Refrigeración:** Refrigeración (flecha rellena en la leyenda)
+# Rendimiento de Refrigeración
 
-### Notas del diagrama (elementos gráficos)
-- Flechas y dirección del flujo aparecen en las tuberías indicando Succión, Descarga y los circuitos de calefacción/refrigeración.
-- Íconos representativos: compresor (cilíndrico), válvula de 4 vías (símbolo de 4 vías), separador (rectángulo con salida), blower (ícono circular), ventilador axial (ícono de hélice).
+## Modelo: ADA-I-4036H216A
 
-### Encabezados/Logos visibles
-- **ARMOR** (logo en la esquina superior derecha)
-- **ADINA** (logo en la esquina inferior izquierda)
-- **INVERTER** (logo centrado en la parte inferior)
-- Número de página visible: 11
+|  Temperatura de
+cubo seco del aire exterior |  | Flujo de aire | Temperatura del aire de entrada (DBT) | $62^{\circ} \mathrm{F}\left(17^{\circ} \mathrm{C}\right)$ |  |  |  |  |  | $67^{\circ} \mathrm{F}\left(19^{\circ} \mathrm{C}\right)$ |  |  |  |  | $72^{\circ} \mathrm{F}\left(22^{\circ} \mathrm{C}\right)$ |  |  |  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  |  |  | Capacidad total |  | Capacidad sensible |  | Consumo de energía | Capacidad total |  | Capacidad sensible |  | Consumo de energía | Capacidad total |  | Capacidad sensible |  | Consumo de energía |   |
+|  ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | $\mathrm{m}^{3} / \mathrm{hv}$ | cfm | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | kW | M bh | kW | M bh | kW | kW | M bh | kW | M bh | kW | kW | M bh | kW | M bh  |
+|  25 | 77 | 2000 | 1177 | 24 | 75,2 | 9,56 | 32,60 | 7,67 | 26,15 | 2,67 | 10,57 | 38,05 | 7,71 | 28,32 | 2,73 | 10,88 | 37,13 | 6,41 | 21,85  |
+|   |  |  |  | 27 | 80,6 | 8,66 | 32,96 | 7,88 | 26,87 | 2,73 | 10,71 | 36,54 | 7,77 | 28,51 | 2,76 | 11,03 | 37,62 | 7,25 | 24,72  |
+|   |  |  |  | 29 | 84,2 | 9,77 | 33,32 | 7,98 | 27,23 | 2,76 | 10,82 | 36,90 | 7,88 | 26,87 | 2,79 | 11,13 | 37,98 | 7,67 | 26,15  |
+|   |  |  |  | 31 | 87,8 | 9,87 | 33,68 | 8,19 | 27,94 | 2,79 | 10,92 | 37,26 | 7,98 | 27,23 | 2,82 | 11,24 | 38,33 | 7,77 | 26,51  |
+|   |  |  |  | 24 | 75,2 | 9,03 | 30,81 | 7,46 | 25,44 | 2,64 | 10,29 | 35,11 | 7,25 | 24,72 | 2,70 | 10,61 | 36,18 | 6,09 | 20,78  |
+|   |  |  |  | 27 | 80,6 | 9,14 | 31,17 | 7,56 | 25,79 | 2,70 | 10,40 | 35,47 | 7,35 | 25,08 | 2,73 | 10,71 | 36,54 | 6,62 | 22,57  |
+|   |  |  |  | 29 | 84,2 | 9,24 | 31,53 | 7,67 | 26,15 | 2,73 | 10,50 | 35,83 | 7,46 | 25,44 | 2,76 | 10,82 | 36,90 | 7,25 | 24,72  |
+|   |  |  |  | 31 | 87,8 | 9,45 | 32,24 | 7,88 | 26,87 | 2,76 | 10,61 | 36,16 | 7,67 | 26,15 | 2,79 | 10,92 | 37,26 | 7,35 | 25,08  |
+|   |  |  |  | 24 | 75,2 | 8,61 | 29,38 | 6,93 | 23,65 | 2,57 | 9,77 | 33,32 | 6,51 | 22,21 | 2,67 | 10,08 | 34,39 | 5,78 | 19,70  |
+|   |  |  |  | 27 | 80,6 | 8,72 | 29,74 | 7,14 | 24,36 | 2,64 | 9,98 | 34,03 | 6,72 | 22,93 | 2,70 | 10,19 | 34,75 | 6,20 | 21,14  |
+|   |  |  |  | 29 | 84,2 | 8,82 | 30,09 | 7,25 | 24,72 | 2,67 | 10,19 | 34,75 | 7,04 | 24,00 | 2,73 | 10,29 | 35,11 | 6,83 | 23,29  |
+|   |  |  |  | 31 | 87,8 | 8,93 | 30,45 | 7,46 | 25,44 | 2,70 | 10,29 | 35,11 | 7,25 | 24,72 | 2,76 | 10,40 | 35,47 | 7,04 | 24,00  |
+|  35 | 95 | 2000 | 1177 | 24 | 75,2 | 9,14 | 31,17 | 7,46 | 25,44 | 2,95 | 10,40 | 35,47 | 7,01 | 23,92 | 3,07 | 10,71 | 36,54 | 6,51 | 22,21  |
+|   |  |  |  | 27 | 80,6 | 9,24 | 31,53 | 7,67 | 26,15 | 2,98 | 10,50 | 35,83 | 7,35 | 25,08 | 3,10 | 10,82 | 36,90 | 6,93 | 23,65  |
+|   |  |  |  | 29 | 84,2 | 9,35 | 31,89 | 7,77 | 26,51 | 3,01 | 10,61 | 36,16 | 7,56 | 25,79 | 3,16 | 10,92 | 37,26 | 7,35 | 25,08  |
+|   |  |  |  | 31 | 87,8 | 9,56 | 32,60 | 7,98 | 27,23 | 3,04 | 10,71 | 36,54 | 7,74 | 26,41 | 3,22 | 11,03 | 37,62 | 7,67 | 26,15  |
+|   |  |  |  | 24 | 75,2 | 7,88 | 26,87 | 7,14 | 20,16 | 2,91 | 9,56 | 32,60 | 6,41 | 21,85 | 3,04 | 9,66 | 32,96 | 5,88 | 20,06  |
+|   |  |  |  | 27 | 80,6 | 7,98 | 27,23 | 7,35 | 20,90 | 2,95 | 9,66 | 32,96 | 6,83 | 23,29 | 3,07 | 9,98 | 34,03 | 6,30 | 21,50  |
+|   |  |  |  | 29 | 84,2 | 8,09 | 27,59 | 7,67 | 21,63 | 2,98 | 9,98 | 34,03 | 7,25 | 24,72 | 3,10 | 10,19 | 34,75 | 6,83 | 23,29  |
+|   |  |  |  | 31 | 87,8 | 8,30 | 28,30 | 7,88 | 24,57 | 3,01 | 10,19 | 34,75 | 7,56 | 25,79 | 3,13 | 10,29 | 35,11 | 7,25 | 24,72  |
+|   |  |  |  | 24 | 75,2 | 7,68 | 26,22 | 6,62 | 22,57 | 2,85 | 8,73 | 29,79 | 6,09 | 20,78 | 2,98 | 8,99 | 30,69 | 5,31 | 18,11  |
+|   |  |  |  | 27 | 80,6 | 7,76 | 26,48 | 6,83 | 23,29 | 2,88 | 8,82 | 30,09 | 6,30 | 21,50 | 3,01 | 9,08 | 31,00 | 5,90 | 20,15  |
+|   |  |  |  | 29 | 84,2 | 7,88 | 26,87 | 7,14 | 24,36 | 2,91 | 8,93 | 30,45 | 6,72 | 22,93 | 3,04 | 9,24 | 31,53 | 6,09 | 20,78  |
+|   |  |  |  | 31 | 87,8 | 7,98 | 27,23 | 7,35 | 25,08 | 2,95 | 9,03 | 30,81 | 7,04 | 24,01 | 3,07 | 9,35 | 31,89 | 6,42 | 21,91  |
+|  46 | 115 | 1800 | 1059 | 24 | 75,2 | 7,67 | 26,15 | 7,14 | 24,36 | 3,50 | 8,93 | 30,45 | 6,62 | 22,57 | 3,57 | 9,14 | 31,17 | 5,99 | 20,42  |
+|   |  |  |  | 27 | 80,6 | 7,77 | 26,51 | 7,35 | 25,08 | 3,57 | 9,03 | 30,81 | 6,93 | 23,65 | 3,63 | 9,24 | 31,53 | 6,41 | 21,85  |
+|   |  |  |  | 29 | 84,2 | 7,88 | 26,87 | 7,14 | 26,15 | 3,60 | 9,14 | 31,17 | 7,14 | 24,36 | 3,66 | 9,87 | 33,68 | 6,83 | 23,29  |
+|   |  |  |  | 31 | 87,8 | 7,98 | 27,23 | 7,98 | 27,23 | 3,66 | 9,24 | 31,53 | 7,46 | 25,44 | 3,69 | 10,19 | 34,75 | 7,25 | 24,72  |
+|   |  |  |  | 24 | 75,2 | 7,35 | 25,08 | 6,83 | 23,29 | 3,47 | 8,73 | 29,79 | 6,20 | 21,14 | 3,50 | 8,99 | 30,69 | 5,31 | 18,11  |
+|   |  |  |  | 27 | 80,6 | 7,46 | 25,44 | 7,14 | 24,36 | 3,53 | 8,82 | 30,09 | 6,51 | 22,21 | 3,53 | 9,08 | 31,00 | 5,78 | 19,70  |
+|   |  |  |  | 29 | 84,2 | 7,56 | 25,79 | 7,46 | 25,44 | 3,60 | 8,93 | 30,45 | 6,83 | 23,29 | 3,60 | 9,24 | 31,53 | 6,09 | 20,78  |
+|   |  |  |  | 31 | 87,8 | 7,67 | 26,15 | 7,67 | 26,15 | 3,63 | 9,03 | 30,81 | 7,04 | 24,01 | 3,66 | 9,35 | 31,89 | 6,42 | 21,91  |
+|   |  |  |  | 24 | 75,2 | 6,83 | 23,29 | 6,09 | 20,78 | 3,44 | 8,09 | 27,59 | 5,67 | 19,35 | 3,47 | 8,30 | 28,30 | 4,94 | 16,84  |
+|   |  |  |  | 27 | 80,6 | 7,04 | 24,00 | 6,51 | 22,21 | 3,47 | 8,19 | 27,94 | 5,99 | 20,42 | 3,50 | 8,51 | 29,02 | 5,36 | 18,27  |
+|   |  |  |  | 29 | 84,2 | 7,14 | 24,36 | 6,93 | 23,65 | 3,50 | 8,30 | 28,30 | 6,30 | 21,50 | 3,53 | 8,93 | 30,45 | 5,67 | 19,35  |
+|   |  |  |  | 31 | 87,8 | 7,25 | 24,72 | 7,35 | 25,08 | 3,53 | 8,51 | 29,02 | 6,62 | 22,57 | 3,57 | 9,14 | 31,17 | 6,09 | 20,78  |
 
-### Notas y leyendas:
-- Leyenda de flechas: Calefacción (flecha no rellena), Refrigeración (flecha rellena)
-- No se observan tablas numéricas en la página; el contenido principal es un esquema gráfico con etiquetas.
+================================================================================
+PAGE 15
+================================================================================
 
-## BROCHURE-ARMOR-PLUS-ES - Página 14
+# Características técnicas 
 
-### Características técnicas
-- Características técnicas (encabezado superior)
-
-### Rendimiento de Refrigeración
-- Modelo: ADA-I-4036H216A
-
-### Tabla: Rendimiento de Refrigeración (matriz de condiciones y capacidades)
-Encabezados de tabla (parte superior visible):
-- **Temperatura de bulbo seco del aire exterior**
-  - **°C**
-  - **°F**
-- **Flujo de aire**
-  - **m³/h**
-  - **cfm**
-- **Temperatura del aire de entrada (DBT)**
-  - **°C**
-  - **°F**
-- **62°F (17°C)**
-  - **Capacidad total** (kW, Mb/h)
-  - **Capacidad sensible** (kW, Mb/h)
-  - **Consumo de energía** (kW)
-- **67°F (19°C)**
-  - **Capacidad total** (kW, Mb/h)
-  - **Capacidad sensible** (kW, Mb/h)
-  - **Consumo de energía** (kW)
-- **72°F (22°C)**
-  - **Capacidad total** (kW, Mb/h)
-  - **Capacidad sensible** (kW, Mb/h)
-  - **Consumo de energía** (kW)
-
-Contenido de la tabla (filas visibles, preservando la estructura y valores exactamente como se observan en la página):
-
-- Para Temperatura de bulbo seco del aire exterior: **25 °C (77 °F)**
-  - Flujo de aire: **2000 m³/h, 1177 cfm**
-    - Temperatura del aire de entrada (DBT): **24 °C / 75.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 9.56 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 7.67 kW, 26.5 Mb/h
-        - **Consumo de energía:** 2.67 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 10.57 kW, 36.05 Mb/h
-        - **Capacidad sensible:** 7.71 kW, 26.32 Mb/h
-        - **Consumo de energía:** 2.73 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 10.88 kW, 37.13 Mb/h
-        - **Capacidad sensible:** 8.41 kW, 21.65 Mb/h
-        - **Consumo de energía:** 2.76 kW
-    - Temperatura del aire de entrada (DBT): **27 °C / 80.6 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 9.82 kW, 32.96 Mb/h
-        - **Capacidad sensible:** 7.88 kW, 26.87 Mb/h
-        - **Consumo de energía:** 2.73 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 10.71 kW, 36.54 Mb/h
-        - **Capacidad sensible:** 7.77 kW, 26.51 Mb/h
-        - **Consumo de energía:** 2.76 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 11.03 kW, 37.62 Mb/h
-        - **Capacidad sensible:** 7.25 kW, 24.72 Mb/h
-        - **Consumo de energía:** 2.79 kW
-    - Temperatura del aire de entrada (DBT): **29 °C / 84.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 9.77 kW, 32.7 Mb/h
-        - **Capacidad sensible:** 7.67 kW, 26.1 Mb/h
-        - **Consumo de energía:** 2.73 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 10.82 kW, 36.90 Mb/h
-        - **Capacidad sensible:** 7.88 kW, 26.87 Mb/h
-        - **Consumo de energía:** 2.79 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 11.14 kW, 37.98 Mb/h
-        - **Capacidad sensible:** 7.77 kW, 26.25 Mb/h
-        - **Consumo de energía:** 2.82 kW
-    - Temperatura del aire de entrada (DBT): **31 °C / 87.8 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 9.83 kW, 32.81 Mb/h
-        - **Capacidad sensible:** 7.66 kW, 26.3 Mb/h
-        - **Consumo de energía:** 2.74 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 10.92 kW, 37.64 Mb/h
-        - **Capacidad sensible:** 7.95 kW, 26.73 Mb/h
-        - **Consumo de energía:** 2.82 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 11.24 kW, 38.33 Mb/h
-        - **Capacidad sensible:** 7.77 kW, 26.51 Mb/h
-        - **Consumo de energía:** 2.85 kW
-
-  - Flujo de aire: **1800 m³/h, 1059 cfm**
-    - Temperatura del aire de entrada (DBT): **24 °C / 75.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 9.03 kW, 30.81 Mb/h
-        - **Capacidad sensible:** 7.46 kW, 25.44 Mb/h
-        - **Consumo de energía:** 2.64 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 10.57 kW, 36.05 Mb/h
-        - **Capacidad sensible:** 7.37 kW, 25.08 Mb/h
-        - **Consumo de energía:** 2.66 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 10.61 kW, 36.28 Mb/h
-        - **Capacidad sensible:** 7.31 kW, 25.08 Mb/h
-        - **Consumo de energía:** 2.73 kW
-    - Temperatura del aire de entrada (DBT): **27 °C / 80.6 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 9.14 kW, 31.17 Mb/h
-        - **Capacidad sensible:** 7.56 kW, 25.79 Mb/h
-        - **Consumo de energía:** 2.70 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 10.40 kW, 35.47 Mb/h
-        - **Capacidad sensible:** 7.35 kW, 25.08 Mb/h
-        - **Consumo de energía:** 2.70 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 10.71 kW, 36.54 Mb/h
-        - **Capacidad sensible:** 7.31 kW, 25.08 Mb/h
-        - **Consumo de energía:** 2.72 kW
-    - Temperatura del aire de entrada (DBT): **29 °C / 84.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 9.05 kW, 31.05 Mb/h
-        - **Capacidad sensible:** 7.46 kW, 25.44 Mb/h
-        - **Consumo de energía:** 2.64 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 10.50 kW, 35.83 Mb/h
-        - **Capacidad sensible:** 7.35 kW, 25.08 Mb/h
-        - **Consumo de energía:** 2.76 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 10.82 kW, 36.90 Mb/h
-        - **Capacidad sensible:** 7.88 kW, 26.87 Mb/h
-        - **Consumo de energía:** 2.79 kW
-    - Temperatura del aire de entrada (DBT): **31 °C / 87.8 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 9.24 kW, 31.53 Mb/h
-        - **Capacidad sensible:** 7.67 kW, 26.15 Mb/h
-        - **Consumo de energía:** 2.73 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 10.50 kW, 35.83 Mb/h
-        - **Capacidad sensible:** 7.35 kW, 25.08 Mb/h
-        - **Consumo de energía:** 2.76 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 10.82 kW, 36.90 Mb/h
-        - **Capacidad sensible:** 7.88 kW, 26.87 Mb/h
-        - **Consumo de energía:** 2.79 kW
-
-  - Flujo de aire: **1600 m³/h, 942 cfm**
-    - Temperatura del aire de entrada (DBT): **24 °C / 75.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.94 kW, 31.17 Mb/h
-        - **Capacidad sensible:** 7.55 kW, 25.79 Mb/h
-        - **Consumo de energía:** 2.64 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 10.40 kW, 35.47 Mb/h
-        - **Capacidad sensible:** 7.37 kW, 25.08 Mb/h
-        - **Consumo de energía:** 2.70 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 10.71 kW, 36.54 Mb/h
-        - **Capacidad sensible:** 7.31 kW, 25.08 Mb/h
-        - **Consumo de energía:** 2.72 kW
-    - Temperatura del aire de entrada (DBT): **27 °C / 80.6 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.61 kW, 29.38 Mb/h
-        - **Capacidad sensible:** 6.93 kW, 23.65 Mb/h
-        - **Consumo de energía:** 2.57 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.77 kW, 33.32 Mb/h
-        - **Capacidad sensible:** 6.88 kW, 22.21 Mb/h
-        - **Consumo de energía:** 2.67 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 10.08 kW, 34.75 Mb/h
-        - **Capacidad sensible:** 6.51 kW, 22.21 Mb/h
-        - **Consumo de energía:** 2.70 kW
-    - Temperatura del aire de entrada (DBT): **29 °C / 84.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.72 kW, 29.74 Mb/h
-        - **Capacidad sensible:** 7.14 kW, 24.36 Mb/h
-        - **Consumo de energía:** 2.64 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 7.04 kW, 22.93 Mb/h
-        - **Consumo de energía:** 2.72 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 10.29 kW, 35.11 Mb/h
-        - **Capacidad sensible:** 6.83 kW, 21.14 Mb/h
-        - **Consumo de energía:** 2.70 kW
-    - Temperatura del aire de entrada (DBT): **31 °C / 87.8 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.93 kW, 30.45 Mb/h
-        - **Capacidad sensible:** 7.46 kW, 25.44 Mb/h
-        - **Consumo de energía:** 2.70 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 10.29 kW, 35.47 Mb/h
-        - **Capacidad sensible:** 7.35 kW, 25.08 Mb/h
-        - **Consumo de energía:** 2.72 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 10.71 kW, 36.54 Mb/h
-        - **Capacidad sensible:** 7.31 kW, 25.08 Mb/h
-        - **Consumo de energía:** 2.79 kW
-
-- Para Temperatura de bulbo seco del aire exterior: **35 °C (95 °F)**
-  - Flujo de aire: **2000 m³/h, 1177 cfm**
-    - Temperatura del aire de entrada (DBT): **24 °C / 75.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 7.88 kW, 26.87 Mb/h
-        - **Capacidad sensible:** 7.14 kW, 24.36 Mb/h
-        - **Consumo de energía:** 2.91 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.41 kW, 21.85 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.41 kW, 21.85 Mb/h
-        - **Consumo de energía:** 3.04 kW
-    - Temperatura del aire de entrada (DBT): **27 °C / 80.6 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 7.78 kW, 27.23 Mb/h
-        - **Capacidad sensible:** 7.35 kW, 25.08 Mb/h
-        - **Consumo de energía:** 2.95 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.41 kW, 21.85 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-    - Temperatura del aire de entrada (DBT): **29 °C / 84.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.09 kW, 27.59 Mb/h
-        - **Capacidad sensible:** 7.67 kW, 26.3 Mb/h
-        - **Consumo de energía:** 2.98 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-    - Temperatura del aire de entrada (DBT): **31 °C / 87.8 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.63 kW, 30.45 Mb/h
-        - **Capacidad sensible:** 7.46 kW, 25.44 Mb/h
-        - **Consumo de energía:** 3.01 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 10.19 kW, 35.24 Mb/h
-        - **Capacidad sensible:** 7.04 kW, 24.01 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 10.71 kW, 36.54 Mb/h
-        - **Capacidad sensible:** 7.31 kW, 25.08 Mb/h
-        - **Consumo de energía:** 3.07 kW
-
-  - Flujo de aire: **1800 m³/h, 1059 cfm**
-    - Temperatura del aire de entrada (DBT): **24 °C / 75.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 7.77 kW, 26.51 Mb/h
-        - **Capacidad sensible:** 7.35 kW, 25.08 Mb/h
-        - **Consumo de energía:** 3.57 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.41 kW, 21.85 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-    - Temperatura del aire de entrada (DBT): **27 °C / 80.6 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 7.88 kW, 26.87 Mb/h
-        - **Capacidad sensible:** 7.14 kW, 24.36 Mb/h
-        - **Consumo de energía:** 3.53 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.41 kW, 21.85 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-    - Temperatura del aire de entrada (DBT): **29 °C / 84.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.09 kW, 27.59 Mb/h
-        - **Capacidad sensible:** 7.67 kW, 26.3 Mb/h
-        - **Consumo de energía:** 2.98 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-    - Temperatura del aire de entrada (DBT): **31 °C / 87.8 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.27 kW, 28.23 Mb/h
-        - **Capacidad sensible:** 7.46 kW, 25.44 Mb/h
-        - **Consumo de energía:** 3.47 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-
-  - Flujo de aire: **1600 m³/h, 942 cfm**
-    - Temperatura del aire de entrada (DBT): **24 °C / 75.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 7.68 kW, 26.62 Mb/h
-        - **Capacidad sensible:** 6.82 kW, 22.57 Mb/h
-        - **Consumo de energía:** 2.91 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 8.93 kW, 30.45 Mb/h
-        - **Capacidad sensible:** 6.72 kW, 22.93 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.24 kW, 31.53 Mb/h
-        - **Capacidad sensible:** 6.90 kW, 20.78 Mb/h
-        - **Consumo de energía:** 3.01 kW
-    - Temperatura del aire de entrada (DBT): **27 °C / 80.6 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 7.76 kW, 26.48 Mb/h
-        - **Capacidad sensible:** 6.83 kW, 23.29 Mb/h
-        - **Consumo de energía:** 2.88 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 8.82 kW, 30.09 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.01 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.24 kW, 31.53 Mb/h
-        - **Capacidad sensible:** 6.90 kW, 20.78 Mb/h
-        - **Consumo de energía:** 3.01 kW
-    - Temperatura del aire de entrada (DBT): **29 °C / 84.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.78 kW, 28.91 Mb/h
-        - **Capacidad sensible:** 7.14 kW, 24.36 Mb/h
-        - **Consumo de energía:** 2.91 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.03 kW, 30.81 Mb/h
-        - **Capacidad sensible:** 7.14 kW, 24.36 Mb/h
-        - **Consumo de energía:** 2.91 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.24 kW, 31.53 Mb/h
-        - **Capacidad sensible:** 6.90 kW, 20.78 Mb/h
-        - **Consumo de energía:** 3.01 kW
-    - Temperatura del aire de entrada (DBT): **31 °C / 87.8 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.77 kW, 27.75 Mb/h
-        - **Capacidad sensible:** 7.35 kW, 25.08 Mb/h
-        - **Consumo de energía:** 3.01 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.03 kW, 30.81 Mb/h
-        - **Capacidad sensible:** 7.14 kW, 24.36 Mb/h
-        - **Consumo de energía:** 2.91 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.24 kW, 31.53 Mb/h
-        - **Capacidad sensible:** 6.90 kW, 20.78 Mb/h
-        - **Consumo de energía:** 3.01 kW
-
-- Para Temperatura de bulbo seco del aire exterior: **46 °C (115 °F)**
-  - Flujo de aire: **2000 m³/h, 1177 cfm**
-    - Temperatura del aire de entrada (DBT): **24 °C / 75.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 7.77 kW, 26.51 Mb/h
-        - **Capacidad sensible:** 7.35 kW, 25.08 Mb/h
-        - **Consumo de energía:** 3.57 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.41 kW, 21.85 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-    - Temperatura del aire de entrada (DBT): **27 °C / 80.6 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 7.88 kW, 26.87 Mb/h
-        - **Capacidad sensible:** 7.14 kW, 24.36 Mb/h
-        - **Consumo de energía:** 3.53 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.41 kW, 21.85 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-    - Temperatura del aire de entrada (DBT): **29 °C / 84.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.09 kW, 27.59 Mb/h
-        - **Capacidad sensible:** 7.67 kW, 26.3 Mb/h
-        - **Consumo de energía:** 2.98 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-    - Temperatura del aire de entrada (DBT): **31 °C / 87.8 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.27 kW, 28.23 Mb/h
-        - **Capacidad sensible:** 7.46 kW, 25.44 Mb/h
-        - **Consumo de energía:** 3.47 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-
-  - Flujo de aire: **1800 m³/h, 1059 cfm**
-    - Temperatura del aire de entrada (DBT): **24 °C / 75.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 7.84 kW, 26.87 Mb/h
-        - **Capacidad sensible:** 7.14 kW, 24.36 Mb/h
-        - **Consumo de energía:** 3.53 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.41 kW, 21.85 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-    - Temperatura del aire de entrada (DBT): **27 °C / 80.6 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 7.98 kW, 27.27 Mb/h
-        - **Capacidad sensible:** 7.08 kW, 24.19 Mb/h
-        - **Consumo de energía:** 3.53 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.41 kW, 21.85 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-    - Temperatura del aire de entrada (DBT): **29 °C / 84.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.24 kW, 28.23 Mb/h
-        - **Capacidad sensible:** 7.46 kW, 25.44 Mb/h
-        - **Consumo de energía:** 3.47 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-    - Temperatura del aire de entrada (DBT): **31 °C / 87.8 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.37 kW, 29.27 Mb/h
-        - **Capacidad sensible:** 7.46 kW, 25.44 Mb/h
-        - **Consumo de energía:** 3.47 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.66 kW, 32.60 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.04 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.98 kW, 34.03 Mb/h
-        - **Capacidad sensible:** 6.30 kW, 21.50 Mb/h
-        - **Consumo de energía:** 3.07 kW
-
-  - Flujo de aire: **1600 m³/h, 942 cfm**
-    - Temperatura del aire de entrada (DBT): **24 °C / 75.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 7.87 kW, 25.74 Mb/h
-        - **Capacidad sensible:** 7.35 kW, 25.08 Mb/h
-        - **Consumo de energía:** 3.08 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.03 kW, 30.81 Mb/h
-        - **Capacidad sensible:** 6.83 kW, 23.29 Mb/h
-        - **Consumo de energía:** 3.61 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.24 kW, 31.53 Mb/h
-        - **Capacidad sensible:** 6.90 kW, 20.78 Mb/h
-        - **Consumo de energía:** 3.01 kW
-    - Temperatura del aire de entrada (DBT): **27 °C / 80.6 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.04 kW, 26.50 Mb/h
-        - **Capacidad sensible:** 7.14 kW, 24.36 Mb/h
-        - **Consumo de energía:** 3.08 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.03 kW, 30.81 Mb/h
-        - **Capacidad sensible:** 6.83 kW, 23.29 Mb/h
-        - **Consumo de energía:** 3.61 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.24 kW, 31.53 Mb/h
-        - **Capacidad sensible:** 6.90 kW, 20.78 Mb/h
-        - **Consumo de energía:** 3.01 kW
-    - Temperatura del aire de entrada (DBT): **29 °C / 84.2 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.71 kW, 27.45 Mb/h
-        - **Capacidad sensible:** 7.46 kW, 25.44 Mb/h
-        - **Consumo de energía:** 3.53 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.03 kW, 30.81 Mb/h
-        - **Capacidad sensible:** 6.83 kW, 23.29 Mb/h
-        - **Consumo de energía:** 3.61 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.24 kW, 31.53 Mb/h
-        - **Capacidad sensible:** 6.90 kW, 20.78 Mb/h
-        - **Consumo de energía:** 3.01 kW
-    - Temperatura del aire de entrada (DBT): **31 °C / 87.8 °F**
-      - 62°F (17°C):
-        - **Capacidad total:** 8.87 kW, 27.25 Mb/h
-        - **Capacidad sensible:** 7.35 kW, 25.08 Mb/h
-        - **Consumo de energía:** 3.57 kW
-      - 67°F (19°C):
-        - **Capacidad total:** 9.29 kW, 29.02 Mb/h
-        - **Capacidad sensible:** 6.62 kW, 22.57 Mb/h
-        - **Consumo de energía:** 3.57 kW
-      - 72°F (22°C):
-        - **Capacidad total:** 9.24 kW, 31.53 Mb/h
-        - **Capacidad sensible:** 6.90 kW, 20.78 Mb/h
-        - **Consumo de energía:** 3.01 kW
-
-(Nota: la tabla en la página incluye numerosas celdas con valores para combinaciones adicionales de flujo de aire y temperaturas de entrada. Se han transcrito arriba los encabezados y las filas visibles más legibles, preservando la estructura de agrupación por Temperatura exterior → Flujo de aire → Temperatura de entrada (DBT) → Condiciones 62°F/67°F/72°F con sus subvalores de Capacidad total, Capacidad sensible y Consumo de energía. Algunos valores repetidos y columnas muy densas se han mantenido en el mismo orden y formato visual observado.)
-
-### Notas y leyendas:
-- Logos en pie de página: ADINA®, INVERTER®
-- Número de página visible: 12 (impreso en la esquina inferior derecha de la página)
-- Marca superior derecha: ARMOR (logotipo)
-- Encabezado azul superior izquierdo: Características técnicas
-
---- 
-
-Observación: He extraído y preservado la jerarquía y los textos visibles en la página 14 del archivo BROCHURE-ARMOR-PLUS-ES. Si desea, puedo volver a procesar la tabla y extraer cada celda en un listado fila por fila para todas las combinaciones (más exhaustivo), manteniendo la conversión a viñetas y el formato indicado.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 15
-
-Archivo: BROCHURE-ARMOR-PLUS-ES, página visible en la imagen: 13
-
-### Características técnicas
 Modelo: ADA-I-4066H216A
 
-### Encabezados visibles de la tabla principal
-- Temperatura de bulbo seco del aire exterior
-  - °C
-  - °F
-- Flujo de aire
-  - m³/h
-  - cfm
-- Temperatura del aire de entrada (DBT)
-  - °C
-  - °F
-- Temperatura de bulbo húmedo del aire interior °F(°C)
-  - 62°F (17°C)
-    - Capacidad total (kW, Mbh)
-    - Capacidad sensible (kW, Mbh)
-    - Consumo de energía (kW)
-  - 67°F (19°C)
-    - Capacidad total (kW, Mbh)
-    - Capacidad sensible (kW, Mbh)
-    - Consumo de energía (kW)
-  - 72°F (22°C)
-    - Capacidad total (kW, Mbh)
-    - Capacidad sensible (kW, Mbh)
-    - Consumo de energía (kW)
+| Temperatu
+ra de bulbo seco del aire exterior |  | Flujo de aire |  | Temperatu ra del aire de entrada (DBT) | Temperatura de bulbo húmedo del aire interior $\left({ }^{\circ} \mathrm{C}\right.$ ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  |  | $62^{\circ} \mathrm{F}\left(17^{\circ} \mathrm{C}\right)$ |  |  |  | $67^{\circ} \mathrm{F}\left(19^{\circ} \mathrm{C}\right)$ |  |  |  | $72^{\circ} \mathrm{F}\left(22^{\circ} \mathrm{C}\right)$ |  |  |  |  |  |
+|  |  |  |  |  | Capacidad total | Capacidad sensible |  | Consumo de energía | Capacidad total | Capacidad sensible |  | Consumo de energía | Capacidad total | Capacidad sensible |  | Consumo de energía |  |  |
+| ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | $\mathrm{m}^{3} / \mathrm{h}$ | cfm | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | kW | Mbh | kW | Mbh | kW | kW | Mbh | kW | Mbh | kW | kW | Mbh | kW | Mbh | kW |
+| 25 | 77 | 3100 | 1942 | 24 | 75,2 | 17,75 | 60,55 | 14,24 | 48,57 | 5,85 | 19,62 | 66,95 | 14,32 | 48,87 | 5,98 | 20,21 | 68,96 | 11,90 | 40,59 | 6,05 |
+|  |  |  |  | 27 | 80,6 | 17,94 | 61,21 | 14,63 | 49,90 | 5,98 | 19,89 | 67,86 | 14,43 | 49,24 | 6,05 | 20,48 | 69,86 | 13,46 | 45,91 | 6,12 |
+|  |  |  |  | 29 | 84,2 | 18,14 | 61,88 | 14,82 | 50,57 | 6,05 | 20,09 | 68,53 | 14,63 | 49,90 | 6,12 | 20,67 | 70,53 | 14,24 | 48,57 | 6,19 |
+|  |  |  |  | 31 | 87,8 | 18,33 | 62,54 | 15,21 | 51,90 | 6,12 | 20,28 | 69,20 | 14,82 | 50,57 | 6,19 | 20,87 | 71,19 | 14,43 | 49,24 | 6,26 |
+|  |  |  |  | 24 | 75,2 | 16,77 | 57,22 | 13,85 | 47,24 | 5,78 | 19,11 | 65,20 | 13,46 | 45,91 | 5,92 | 19,70 | 67,20 | 11,31 | 38,59 | 5,98 |
+|  |  |  |  | 27 | 80,6 | 16,97 | 57,88 | 14,04 | 47,90 | 5,92 | 19,31 | 65,87 | 13,65 | 46,57 | 5,98 | 19,89 | 67,86 | 12,29 | 41,92 | 6,05 |
+|  |  |  |  | 29 | 84,2 | 17,16 | 58,55 | 14,24 | 48,57 | 5,98 | 19,50 | 66,53 | 13,85 | 47,24 | 6,05 | 20,09 | 68,53 | 13,46 | 45,91 | 6,12 |
+|  |  |  |  | 31 | 87,8 | 17,55 | 59,88 | 14,63 | 49,90 | 6,05 | 19,70 | 67,20 | 14,24 | 48,57 | 6,12 | 20,28 | 69,20 | 13,65 | 46,57 | 6,19 |
+|  |  |  |  | 24 | 75,2 | 15,99 | 54,56 | 12,87 | 43,91 | 5,64 | 18,14 | 61,88 | 12,09 | 41,25 | 5,85 | 18,72 | 63,87 | 10,73 | 36,59 | 5,92 |
+|  |  |  | 2800 | 1648 | 27 | 80,6 | 16,19 | 55,22 | 13,26 | 45,24 | 5,78 | 18,53 | 63,21 | 12,48 | 42,58 | 5,92 | 18,92 | 64,54 | 11,51 | 39,26 | 5,98 |
+|  |  |  |  | 29 | 84,2 | 16,38 | 55,89 | 13,46 | 45,91 | 5,85 | 18,92 | 64,54 | 13,07 | 44,58 | 5,98 | 19,11 | 65,20 | 12,68 | 43,25 | 6,05 |
+|  |  |  |  | 31 | 87,8 | 16,58 | 56,55 | 13,85 | 47,24 | 5,92 | 19,11 | 65,20 | 13,46 | 45,91 | 6,05 | 19,31 | 65,87 | 13,07 | 44,58 | 6,12 |
+| 35 | 95 | 3300 | 1942 | 24 | 75,2 | 16,97 | 57,88 | 13,85 | 47,24 | 6,46 | 19,31 | 65,87 | 13,02 | 44,43 | 6,73 | 19,89 | 67,86 | 12,09 | 41,25 | 6,87 |
+|  |  |  |  | 27 | 80,6 | 17,16 | 58,55 | 14,24 | 48,57 | 6,53 | 19,50 | 66,53 | 13,65 | 46,57 | 6,80 | 20,09 | 68,53 | 12,87 | 43,91 | 7,00 |
+|  |  |  |  | 29 | 84,2 | 17,36 | 59,22 | 14,43 | 49,24 | 6,60 | 19,70 | 67,20 | 14,04 | 47,90 | 6,94 | 20,28 | 69,20 | 13,65 | 46,57 | 7,07 |
+|  |  |  |  | 31 | 87,8 | 17,75 | 60,55 | 14,82 | 50,57 | 6,66 | 19,89 | 67,86 | 14,38 | 49,05 | 7,07 | 20,48 | 69,86 | 14,24 | 48,57 | 7,14 |
+|  |  |  |  | 24 | 75,2 | 14,63 | 49,90 | 13,26 | 37,44 | 6,39 | 17,75 | 60,55 | 11,90 | 40,59 | 6,66 | 17,94 | 61,21 | 10,92 | 37,26 | 6,66 |
+|  |  |  |  | 27 | 80,6 | 14,82 | 50,57 | 13,65 | 38,81 | 6,46 | 17,94 | 61,21 | 12,68 | 43,25 | 6,73 | 18,53 | 63,21 | 11,70 | 39,92 | 6,73 |
+|  |  |  |  | 29 | 84,2 | 15,02 | 51,23 | 14,24 | 40,17 | 6,53 | 18,53 | 63,21 | 13,46 | 45,91 | 6,80 | 18,92 | 64,54 | 12,68 | 43,25 | 6,80 |
+|  |  |  |  | 31 | 87,8 | 15,41 | 52,56 | 14,63 | 45,63 | 6,60 | 18,92 | 64,54 | 14,04 | 47,90 | 6,87 | 19,11 | 65,20 | 13,46 | 45,91 | 6,87 |
+|  |  |  |  | 24 | 75,2 | 14,27 | 48,69 | 12,29 | 41,92 | 6,26 | 16,22 | 55,33 | 11,31 | 38,59 | 6,53 | 16,70 | 56,99 | 9,85 | 33,62 | 6,60 |
+|  |  |  |  | 27 | 80,6 | 14,41 | 49,18 | 12,68 | 43,25 | 6,32 | 16,38 | 55,89 | 11,70 | 39,92 | 6,60 | 16,87 | 57,57 | 10,97 | 37,42 | 6,66 |
+|  |  |  |  | 29 | 84,2 | 14,63 | 49,90 | 13,26 | 45,24 | 6,39 | 16,58 | 56,55 | 12,48 | 42,58 | 6,66 | 17,16 | 58,55 | 11,31 | 38,59 | 6,73 |
+|  |  |  |  | 31 | 87,8 | 14,82 | 50,57 | 13,65 | 46,57 | 6,46 | 16,77 | 57,22 | 13,07 | 44,59 | 6,73 | 17,36 | 59,22 | 11,93 | 40,70 | 6,80 |
+| 46 | 115 | 3100 | 1824 | 24 | 75,2 | 14,24 | 48,57 | 13,26 | 45,24 | 7,68 | 16,58 | 56,55 | 12,29 | 41,92 | 7,82 | 16,97 | 57,88 | 11,12 | 37,92 | 7,89 |
+|  |  |  |  | 27 | 80,6 | 14,43 | 49,24 | 13,65 | 46,57 | 7,82 | 16,77 | 57,22 | 12,87 | 43,91 | 7,96 | 17,16 | 58,55 | 11,90 | 40,59 | 7,96 |
+|  |  |  |  | 29 | 84,2 | 14,63 | 49,90 | 14,24 | 48,57 | 7,89 | 16,97 | 57,88 | 13,26 | 45,24 | 8,02 | 18,33 | 62,54 | 12,68 | 43,25 | 8,02 |
+|  |  |  |  | 31 | 87,8 | 14,82 | 50,57 | 14,82 | 50,57 | 8,02 | 17,16 | 58,55 | 13,85 | 47,24 | 8,09 | 18,92 | 64,54 | 13,46 | 45,91 | 8,09 |
+|  |  |  |  | 24 | 75,2 | 13,65 | 46,57 | 12,68 | 43,25 | 7,62 | 16,22 | 55,33 | 11,51 | 39,26 | 7,68 | 16,70 | 56,99 | 9,85 | 33,62 | 7,75 |
+|  |  |  |  | 27 | 80,6 | 13,85 | 47,24 | 13,26 | 45,24 | 7,75 | 16,38 | 55,89 | 12,09 | 41,25 | 7,75 | 16,87 | 57,57 | 10,73 | 36,59 | 7,82 |
+|  |  |  |  | 29 | 84,2 | 14,04 | 47,90 | 13,85 | 47,24 | 7,89 | 16,58 | 56,55 | 12,68 | 43,25 | 7,89 | 17,16 | 58,55 | 11,31 | 38,59 | 7,96 |
+|  |  |  |  | 31 | 87,8 | 14,24 | 48,57 | 14,24 | 48,57 | 7,96 | 16,77 | 57,22 | 13,07 | 44,59 | 8,02 | 17,36 | 59,22 | 11,93 | 40,70 | 8,02 |
+|  |  |  |  | 24 | 75,2 | 12,68 | 43,25 | 11,31 | 38,59 | 7,55 | 15,02 | 51,23 | 10,53 | 35,93 | 7,62 | 15,41 | 52,56 | 9,17 | 31,27 | 7,68 |
+|  |  |  |  | 27 | 80,6 | 13,07 | 44,58 | 12,09 | 41,25 | 7,62 | 15,21 | 51,90 | 11,12 | 37,92 | 7,68 | 15,80 | 53,89 | 9,95 | 33,93 | 7,75 |
+|  |  |  |  | 29 | 84,2 | 13,26 | 45,24 | 12,87 | 43,91 | 7,68 | 15,41 | 52,56 | 11,70 | 39,92 | 7,75 | 16,58 | 56,55 | 10,53 | 35,93 | 7,82 |
+|  |  |  |  | 31 | 87,8 | 13,46 | 45,91 | 13,65 | 46,57 | 7,75 | 15,80 | 53,89 | 12,29 | 41,92 | 7,82 | 16,97 | 57,88 | 11,31 | 38,59 | 7,89 |
 
-### Tabla: Datos de rendimiento (filas convertidas a texto)
-- **Temperatura de bulbo seco del aire exterior (°C, °F):** 25, 77
-  - **Flujo de aire (m³/h, cfm):** 3300, 1942
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 24, 75,2
-      - **62°F (17°C) Capacidad total (kW, Mbh), Capacidad sensible (kW, Mbh), Consumo de energía (kW):** 17,75, 60,55, 14,24, 48,57, 5,85
-      - **67°F (19°C) Capacidad total (kW, Mbh), Capacidad sensible (kW, Mbh), Consumo de energía (kW):** 19,62, 66,95, 14,32, 48,87, 5,98
-      - **72°F (22°C) Capacidad total (kW, Mbh), Capacidad sensible (kW, Mbh), Consumo de energía (kW):** 20,21, 68,96, 11,90, 40,59, 6,05
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 27, 80,6
-      - **62°F (17°C) ...:** 17,94, 61,21, 14,63, 49,90, 5,98
-      - **67°F (19°C) ...:** 19,89, 67,86, 14,43, 49,24, 6,05
-      - **72°F (22°C) ...:** 20,48, 69,86, 13,46, 45,91, 6,12
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 29, 84,2
-      - **62°F (17°C) ...:** 18,14, 61,88, 14,82, 50,57, 6,05
-      - **67°F (19°C) ...:** 20,09, 68,53, 14,63, 49,90, 6,12
-      - **72°F (22°C) ...:** 20,67, 70,53, 14,24, 48,57, 6,19
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 31, 87,8
-      - **62°F (17°C) ...:** 18,33, 62,54, 15,21, 51,90, 6,12
-      - **67°F (19°C) ...:** 20,28, 69,20, 14,82, 50,57, 6,26
-      - **72°F (22°C) ...:** 20,87, 71,29, 14,43, 49,24, 6,32
+================================================================================
+PAGE 16
+================================================================================
 
-- **Temperatura de bulbo seco del aire exterior (°C, °F):** 25, 77
-  - **Flujo de aire (m³/h, cfm):** 3100, 1824
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 24, 75,2
-      - **62°F (17°C) ...:** 16,77, 57,22, 13,85, 47,24, 5,78
-      - **67°F (19°C) ...:** 19,11, 65,20, 13,46, 45,91, 5,92
-      - **72°F (22°C) ...:** 19,70, 67,20, 13,46, 45,91, 5,92
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 27, 80,6
-      - **62°F (17°C) ...:** 16,97, 57,88, 13,85, 47,24, 6,46
-      - **67°F (19°C) ...:** 19,31, 65,87, 13,06, 45,??, 5,92
-      - **72°F (22°C) ...:** 19,70, 67,20, 13,46, 45,91, 6,05
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 29, 84,2
-      - **62°F (17°C) ...:** 17,36, 59,22, 13,64, 45,87, 5,98
-      - **67°F (19°C) ...:** 19,50, 66,53, 13,85, 47,24, 6,05
-      - **72°F (22°C) ...:** 20,09, 68,53, 13,46, 45,91, 6,12
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 31, 87,8
-      - **62°F (17°C) ...:** 17,55, 59,88, 14,63, 49,90, 6,05
-      - **67°F (19°C) ...:** 19,70, 67,20, 14,24, 48,57, 6,12
-      - **72°F (22°C) ...:** 20,28, 69,20, 13,65, 46,57, 6,19
+# Características técnicas 
 
-- **Temperatura de bulbo seco del aire exterior (°C, °F):** 25, 77
-  - **Flujo de aire (m³/h, cfm):** 2800, 1648
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 24, 75,2
-      - **62°F (17°C) ...:** 16,67, 57,78, 13,85, 47,24, 5,78
-      - **67°F (19°C) ...:** 18,90, 65,??, 13,??, 45,??, 5,92
-      - **72°F (22°C) ...:** 19,50, 66,53, 13,85, 47,24, 6,05
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 27, 80,6
-      - **62°F (17°C) ...:** 16,97, 57,88, 13,85, 47,24, 6,46
-      - **67°F (19°C) ...:** 19,50, 66,53, 13,85, 47,24, 6,05
-      - **72°F (22°C) ...:** 20,09, 68,53, 13,46, 45,91, 6,12
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 29, 84,2
-      - **62°F (17°C) ...:** 17,36, 59,22, 13,64, 45,87, 5,98
-      - **67°F (19°C) ...:** 19,50, 66,53, 13,85, 47,24, 6,05
-      - **72°F (22°C) ...:** 20,09, 68,53, 13,46, 45,91, 6,12
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 31, 87,8
-      - **62°F (17°C) ...:** 17,87, 57,??, 14,??, 49,90, 6,05
-      - **67°F (19°C) ...:** 19,70, 67,20, 14,24, 48,57, 6,12
-      - **72°F (22°C) ...:** 20,28, 69,20, 13,65, 46,57, 6,19
-
-- **Temperatura de bulbo seco del aire exterior (°C, °F):** 35, 95
-  - **Flujo de aire (m³/h, cfm):** 3300, 1942
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 24, 75,2
-      - **62°F (17°C) ...:** 14,63, 49,90, 13,65, 45,87, 6,46
-      - **67°F (19°C) ...:** 16,39, 49,??, 12,??, 37,??, 6,39
-      - **72°F (22°C) ...:** 17,94, 61,21, 12,??, 37,??, 6,59
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 27, 80,6
-      - **62°F (17°C) ...:** 14,92, 48,69, 12,29, 41,92, 6,26
-      - **67°F (19°C) ...:** 16,26, 55,33, 11,31, 38,59, 6,53
-      - **72°F (22°C) ...:** 16,76, 55,99, 10,??, 35,??, 6,60
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 29, 84,2
-      - **62°F (17°C) ...:** 15,14, 50,57, 13,??, 46,57, 6,46
-      - **67°F (19°C) ...:** 16,77, 57,22, 13,07, 44,59, 6,73
-      - **72°F (22°C) ...:** 17,76, 57,??, 12,??, 40,??, 6,80
-    - **Temperatura del aire de entrada (DBT) (°C, °F):** 31, 87,8
-      - **62°F (17°C) ...:** 15,??, 49,??, 13,65, 46,57, 6,66
-      - **67°F (19°C) ...:** 16,??, 55,??, 13,07, 44,59, 6,73
-      - **72°F (22°C) ...:** 17,??, 57,??, 12,??, 40,??, 6,80
-
-- **Temperatura de bulbo seco del aire exterior (°C, °F):** 35, 95
-  - **Flujo de aire (m³/h, cfm):** 3100, 1824
-    - (Valores por DBT: 24, 27, 29, 31; cada DBT contiene tres grupos numéricos para 62°F, 67°F y 72°F; números visibles en la imagen pero reducidos en tamaño. Ejemplos legibles parciales:)
-    - **DBT 24 (75,2°F):**
-      - 62°F: 14,63, 49,90, 13,65, 45,87, 6,26
-      - 67°F: 16,39, 49,??, 12,??, 37,??, 6,39
-      - 72°F: 16,??, 56,??, 11,90, 40,59, 6,66
-    - **DBT 27 (80,6°F):**
-      - 62°F: 14,92, 48,69, 13,65, 45,87, 6,46
-      - 67°F: 17,94, 61,21, 11,30, 39,92, 6,73
-      - 72°F: 18,53, 63,21, 10,??, 39,92, 6,73
-    - **DBT 29 (84,2°F):**
-      - 62°F: 15,14, 50,57, 13,85, 46,57, 6,46
-      - 67°F: 17,94, 61,21, 12,68, 43,25, 6,80
-      - 72°F: 18,32, 64,54, 11,63, 45,91, 6,87
-    - **DBT 31 (87,8°F):**
-      - 62°F: 15,??, 50,??, 13,65, 46,57, 6,66
-      - 67°F: 17,??, 57,??, 12,??, 44,59, 6,73
-      - 72°F: 18,??, 62,??, 11,??, 41,??, 6,80
-
-- **Temperatura de bulbo seco del aire exterior (°C, °F):** 35, 95
-  - **Flujo de aire (m³/h, cfm):** 2800, 1648
-    - (Valores por DBT: 24, 27, 29, 31; los números están en la tabla y son consistentes en formato con las filas anteriores; algunos valores legibles:)
-    - **DBT 24 (75,2°F):**
-      - 62°F: 14,63, 49,90, 13,65, 45,87, 6,39
-      - 67°F: 16,39, 49,??, 12,??, 37,??, 6,39
-      - 72°F: 16,76, 55,99, 11,90, 40,59, 6,66
-    - (Las demás filas para DBT 27, 29, 31 contienen secuencias numéricas análogas y están visibles en la imagen.)
-
-- **Temperatura de bulbo seco del aire exterior (°C, °F):** 46, 115
-  - **Flujo de aire (m³/h, cfm):** 3300, 1942
-    - (Filas DBT 24, 27, 29, 31 con tres grupos de valores por cada 62°F, 67°F, 72°F; números visibles en la imagen en la parte inferior izquierda y central)
-    - Ejemplo de fila (DBT 24, 75,2°F):
-      - 62°F: 13,46, 45,91, 13,65, 46,57, 7,75
-      - 67°F: 15,80, 53,89, 12,29, 41,92, 7,82
-      - 72°F: 16,97, 57,88, 11,31, 38,59, 7,89
-  - **Flujo de aire (m³/h, cfm):** 3100, 1824
-    - (Filas DBT 24, 27, 29, 31 con valores análogos; números visibles en la imagen)
-  - **Flujo de aire (m³/h, cfm):** 2800, 1648
-    - (Filas DBT 24, 27, 29, 31 con valores análogos; números visibles en la imagen)
-
-### Notas y leyendas visibles en la página
-- Logotipos en pie de página: ADINA, INVERTER
-- Número de página visible en la imagen: 13
-- Marca / logo superior derecho: ARMOR (con texto pequeño "PRODUCT BY ADINA" / similar visible)
-
-### Observaciones sobre la transcripción
-- He extraído los encabezados y la estructura de la tabla completa, y he transcrito de forma literal los valores numéricos que son claramente legibles en la imagen.
-- Algunas celdas con números muy pequeños o parcialmente cortados en la imagen no se distinguen con total claridad; en esos casos he incluido las cadenas numéricas claramente legibles y, donde la lectura es ambigua por la resolución, lo he indicado implícitamente manteniendo el formato de la tabla.
-- Si necesita la transcripción absoluta sin ambigüedades de todos los valores numéricos, por favor proporcione una imagen con mayor resolución o el PDF original para una OCR exacta de cada celda.
-
----
-
-Si desea, puedo:
-- Volver a intentar OCR únicamente de la tabla en una imagen recortada a mayor resolución.
-- Entregar el contenido de la tabla en un formato CSV (texto) si facilita un recorte de mejor calidad.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 14
-
-### Características técnicas
 Modelo: ADA-I-4066H236A
 
-### Encabezados y elementos visibles (tabla principal)
-La página contiene una tabla grande con las siguientes cabeceras y agrupaciones visibles:
+| $\begin{aligned} & \text { Temperatu } \\ & \text { a de bulbo } \\ & \text { seco del } \\ & \text { aire } \\ & \text { exterior } \end{aligned}$ |  | Flujo de aire | Temperatu ra del aire de entrada (DBT) | Temperatura de bulbo húmedo del aire interior ${ }^{\circ} \mathbf{F}\left({ }^{\circ} \mathbf{C}\right.$ ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  | $62^{\circ} \mathrm{F}\left(17^{\circ} \mathrm{C}\right)$ |  |  |  | $67^{\circ} \mathrm{F}\left(19^{\circ} \mathrm{C}\right)$ |  |  |  | $72^{\circ} \mathrm{F}\left(22^{\circ} \mathrm{C}\right)$ |  |  |  |  |  |  |  |  |
+|  |  |  |  | Capacidad total | Capacidad sensible | Consumo de energía | Capacidad total | Capacidad sensible | Consumo de energía | Capacidad total | Capacidad sensible | Consumo de energía |
+| ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | $\begin{gathered} \mathrm{m}^{3} / \mathrm{h} \\ \mathrm{r} \end{gathered}$ | cfm | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | kW | Mbh | kW | Mbh | kW | kW | Mbh | kW | Mbh | kW | kW | Mbh | kW | Mbh | kW |
+| 25 | 77 | 3100 | 1942 | 24 | 75,2 | 19,11 | 65,20 | 15,33 | 52,31 | 6,79 | 21,13 | 72,10 | 15,43 | 52,63 | 6,95 | 21,76 | 74,26 | 12,81 | 43,71 | 7,03 |
+|  |  |  |  | 27 | 80,6 | 19,32 | 65,92 | 15,75 | 53,74 | 6,95 | 21,42 | 73,09 | 15,54 | 53,02 | 7,03 | 22,05 | 75,23 | 14,49 | 49,44 | 7,11 |
+|  |  |  |  | 29 | 84,2 | 19,53 | 66,64 | 15,96 | 54,46 | 7,03 | 21,63 | 73,80 | 15,75 | 53,74 | 7,11 | 22,26 | 75,95 | 15,33 | 52,31 | 7,19 |
+|  |  |  |  | 31 | 87,8 | 19,74 | 67,35 | 16,38 | 55,89 | 7,11 | 21,84 | 74,52 | 15,96 | 54,46 | 7,19 | 22,47 | 76,67 | 15,54 | 53,02 | 7,27 |
+|  |  |  |  | 24 | 75,2 | 18,06 | 61,62 | 14,91 | 50,87 | 6,72 | 20,58 | 70,22 | 14,49 | 49,44 | 6,87 | 21,21 | 72,37 | 12,18 | 41,56 | 6,95 |
+|  |  |  |  | 27 | 80,6 | 18,27 | 62,34 | 15,12 | 51,59 | 6,87 | 20,79 | 70,94 | 14,70 | 50,16 | 6,95 | 21,42 | 73,09 | 13,23 | 45,14 | 7,03 |
+|  |  |  |  | 29 | 84,2 | 18,48 | 63,05 | 15,33 | 52,31 | 6,95 | 21,00 | 71,65 | 14,91 | 50,87 | 7,03 | 21,63 | 73,80 | 14,49 | 49,44 | 7,11 |
+|  |  |  |  | 31 | 87,8 | 18,90 | 64,49 | 15,75 | 53,74 | 7,03 | 21,21 | 72,37 | 15,33 | 52,31 | 7,11 | 21,84 | 74,52 | 14,70 | 50,16 | 7,19 |
+|  |  |  |  | 24 | 75,2 | 17,22 | 58,75 | 13,86 | 47,29 | 6,56 | 19,53 | 66,64 | 13,02 | 44,42 | 6,79 | 20,16 | 68,79 | 11,55 | 39,41 | 6,87 |
+|  |  |  | 2800 | 1648 | 27 | 80,6 | 17,43 | 59,47 | 14,28 | 48,72 | 6,72 | 19,95 | 68,07 | 13,44 | 45,86 | 6,87 | 20,37 | 69,50 | 12,39 | 42,27 | 6,95 |
+|  |  |  |  | 29 | 84,2 | 17,64 | 60,19 | 14,49 | 49,44 | 6,79 | 20,37 | 69,50 | 14,07 | 48,01 | 6,95 | 20,58 | 70,22 | 13,65 | 46,57 | 7,03 |
+|  |  |  |  | 31 | 87,8 | 17,85 | 60,90 | 14,91 | 50,87 | 6,87 | 20,58 | 70,22 | 14,49 | 49,44 | 7,03 | 20,79 | 70,94 | 14,07 | 48,01 | 7,11 |
+| 35 | 95 | 3300 | 1942 | 24 | 75,2 | 18,27 | 62,34 | 14,91 | 50,87 | 7,51 | 20,79 | 70,94 | 14,02 | 47,85 | 7,82 | 21,42 | 73,09 | 13,02 | 44,42 | 7,98 |
+|  |  |  |  | 27 | 80,6 | 18,48 | 63,05 | 15,33 | 52,31 | 7,58 | 21,00 | 71,65 | 14,70 | 50,16 | 7,90 | 21,63 | 73,80 | 13,86 | 47,29 | 8,14 |
+|  |  |  |  | 29 | 84,2 | 18,69 | 63,77 | 15,54 | 53,02 | 7,66 | 21,21 | 72,37 | 15,12 | 51,59 | 8,06 | 21,84 | 74,52 | 14,70 | 50,16 | 8,22 |
+|  |  |  |  | 31 | 87,8 | 19,11 | 65,20 | 15,96 | 54,46 | 7,74 | 21,42 | 73,09 | 15,48 | 52,83 | 8,22 | 22,05 | 75,23 | 15,33 | 52,31 | 8,30 |
+|  |  |  |  | 24 | 75,2 | 15,75 | 53,74 | 14,28 | 40,32 | 7,43 | 19,11 | 65,20 | 12,81 | 43,71 | 7,74 | 19,32 | 65,92 | 11,76 | 40,13 | 7,74 |
+|  |  |  |  | 27 | 80,6 | 15,96 | 54,46 | 14,70 | 41,79 | 7,51 | 19,32 | 65,92 | 13,65 | 46,57 | 7,82 | 19,95 | 68,07 | 12,60 | 42,99 | 7,82 |
+|  |  |  |  | 29 | 84,2 | 16,17 | 55,17 | 15,33 | 43,26 | 7,58 | 19,95 | 68,07 | 14,49 | 49,44 | 7,90 | 20,37 | 69,50 | 13,65 | 46,57 | 7,90 |
+|  |  |  |  | 31 | 87,8 | 16,59 | 56,61 | 15,75 | 49,14 | 7,66 | 20,37 | 69,50 | 15,12 | 51,59 | 7,98 | 20,58 | 70,22 | 14,49 | 49,44 | 7,98 |
+|  |  |  |  | 24 | 75,2 | 15,37 | 52,44 | 13,23 | 45,14 | 7,27 | 17,46 | 59,59 | 12,18 | 41,56 | 7,58 | 17,99 | 61,37 | 10,61 | 36,21 | 7,66 |
+|  |  |  |  | 27 | 80,6 | 15,52 | 52,97 | 13,65 | 46,57 | 7,35 | 17,64 | 60,19 | 12,60 | 42,99 | 7,66 | 18,17 | 61,99 | 11,81 | 40,30 | 7,74 |
+|  |  |  |  | 29 | 84,2 | 15,75 | 53,74 | 14,28 | 48,72 | 7,43 | 17,85 | 60,90 | 13,44 | 45,86 | 7,74 | 18,48 | 63,05 | 12,18 | 41,56 | 7,82 |
+|  |  |  |  | 31 | 87,8 | 15,96 | 54,46 | 14,70 | 50,16 | 7,51 | 18,06 | 61,62 | 14,07 | 48,02 | 7,82 | 18,69 | 63,77 | 12,85 | 43,83 | 7,90 |
+| 46 | 115 | 3100 | 1942 | 24 | 75,2 | 15,33 | 52,31 | 14,28 | 48,72 | 8,93 | 17,85 | 60,90 | 13,23 | 45,14 | 9,09 | 18,27 | 62,34 | 11,97 | 40,84 | 9,16 |
+|  |  |  |  | 27 | 80,6 | 15,54 | 53,02 | 14,70 | 50,16 | 9,09 | 18,06 | 61,62 | 13,86 | 47,29 | 9,24 | 18,48 | 63,05 | 12,81 | 43,71 | 9,24 |
+|  |  |  |  | 29 | 84,2 | 15,75 | 53,74 | 15,33 | 52,31 | 9,16 | 18,27 | 62,34 | 14,28 | 48,72 | 9,32 | 19,74 | 67,35 | 13,65 | 46,57 | 9,32 |
+|  |  |  |  | 31 | 87,8 | 15,96 | 54,46 | 15,96 | 54,46 | 9,32 | 18,48 | 63,05 | 14,91 | 50,87 | 9,40 | 20,37 | 69,50 | 14,49 | 49,44 | 9,40 |
+|  |  |  |  | 24 | 75,2 | 14,70 | 50,16 | 13,65 | 46,57 | 8,85 | 17,46 | 59,59 | 12,39 | 42,27 | 8,93 | 17,99 | 61,37 | 10,61 | 36,21 | 9,01 |
+|  |  |  |  | 27 | 80,6 | 14,91 | 50,87 | 14,28 | 48,72 | 9,01 | 17,64 | 60,19 | 13,02 | 44,42 | 9,01 | 18,17 | 61,99 | 11,55 | 39,41 | 9,09 |
+|  |  |  |  | 29 | 84,2 | 15,12 | 51,59 | 14,91 | 50,87 | 9,16 | 17,85 | 60,90 | 13,65 | 46,57 | 9,16 | 18,48 | 63,05 | 12,18 | 41,56 | 9,24 |
+|  |  |  |  | 31 | 87,8 | 15,33 | 52,31 | 15,33 | 52,31 | 9,24 | 18,06 | 61,62 | 14,07 | 48,02 | 9,32 | 18,69 | 63,77 | 12,85 | 43,83 | 9,32 |
+|  |  |  |  | 24 | 75,2 | 13,65 | 46,57 | 12,18 | 41,56 | 8,77 | 16,17 | 55,17 | 11,34 | 38,69 | 8,85 | 16,59 | 56,61 | 9,87 | 33,68 | 8,93 |
+|  |  |  |  | 27 | 80,6 | 14,07 | 48,01 | 13,02 | 44,42 | 8,85 | 16,38 | 55,89 | 11,97 | 40,84 | 8,93 | 17,01 | 58,04 | 10,71 | 36,54 | 9,01 |
+|  |  |  |  | 29 | 84,2 | 14,28 | 48,72 | 13,86 | 47,29 | 8,93 | 16,59 | 56,61 | 12,60 | 42,99 | 9,01 | 17,85 | 60,90 | 11,34 | 38,69 | 9,09 |
+|  |  |  |  | 31 | 87,8 | 14,49 | 49,44 | 14,70 | 50,16 | 9,01 | 17,01 | 58,04 | 13,23 | 45,14 | 9,09 | 18,27 | 62,34 | 12,18 | 41,56 | 9,16 |
 
-- Encabezado superior:
-  - Temperatura de bulbo seco del aire exterior
+================================================================================
+PAGE 17
+================================================================================
 
-- Columnas principales a la derecha del encabezado de la izquierda:
-  - Flujo de aire
-  - Temperatura del aire de entrada (DBT)
+# Características técnicas 
 
-- Encabezado centrado sobre las columnas de rendimiento:
-  - Temperatura de bulbo húmedo del aire interior °F(°C)
+Modelo: ADA-I-4120H236A
 
-- Subcolumnas bajo "Temperatura de bulbo húmedo del aire interior °F(°C)":
-  - 62°F (17°C)
-    - Capacidad total
-      - kW
-      - Mbh
-    - Capacidad sensible
-      - kW
-      - Mbh
-    - Consumo de energía
-      - kW
-  - 67°F (19°C)
-    - Capacidad total
-      - kW
-      - Mbh
-    - Capacidad sensible
-      - kW
-      - Mbh
-    - Consumo de energía
-      - kW
-  - 72°F (22°C)
-    - Capacidad total
-      - kW
-      - Mbh
-    - Capacidad sensible
-      - kW
-      - Mbh
-    - Consumo de energía
-      - kW
+| $\begin{aligned} & \text { Temperatu } \\ & \text { ra de bulbo } \\ & \text { seco del } \\ & \text { aire } \\ & \text { exterior } \end{aligned}$ |  | Flujo de aire | Temperatu ra del aire de entrada (DBT) | Temperatura de bulbo húmedo del aire interior ${ }^{\circ} \mathbf{F}\left({ }^{\circ} \mathrm{C}\right.$ ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  | $62^{\circ} \mathrm{F}\left(17^{\circ} \mathrm{C}\right)$ |  |  |  | $67^{\circ} \mathrm{F}\left(19^{\circ} \mathrm{C}\right)$ |  |  |  | $72^{\circ} \mathrm{F}\left(22^{\circ} \mathrm{C}\right)$ |  |  |  |  |  |  |  |
+|  |  |  |  | Capacidad total | Capacidad sensible | Consumo de energía | Capacidad total | Capacidad sensible | Consumo de energía | Capacidad total | Capacidad sensible | Consumo de energía |  |  |  |  |  |  |  |
+| ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | $\begin{gathered} \mathrm{m}^{3} / \mathrm{h} \\ \mathrm{r} \end{gathered}$ | cfm | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | kW | Mbh | kW | Mbh | kW | kW | Mbh | kW | Mbh | kW | kW | Mbh | kW | Mbh | kW |
+| 25 | 77 | 5800 | 34 D | 24 | 75,2 | 30,94 | 105,57 | 24,82 | 84,69 | 11,78 | 34,21 | 116,73 | 24,97 | 85,21 | 12,06 | 35,24 | 120,23 | 20,74 | 70,76 | 12,19 |
+|  |  |  |  | 27 | 80,6 | 31,28 | 106,73 | 25,50 | 87,01 | 12,06 | 34,68 | 118,33 | 25,16 | 85,85 | 12,19 | 35,70 | 121,81 | 23,46 | 80,05 | 12,33 |
+|  |  |  |  | 29 | 84,2 | 31,62 | 107,89 | 25,84 | 88,17 | 12,19 | 35,02 | 119,49 | 25,50 | 87,01 | 12,33 | 36,04 | 122,97 | 24,82 | 84,69 | 12,47 |
+|  |  |  |  | 31 | 87,8 | 31,96 | 109,05 | 26,52 | 90,49 | 12,33 | 35,36 | 120,65 | 25,84 | 88,17 | 12,47 | 36,38 | 124,13 | 25,16 | 85,85 | 12,60 |
+|  |  | 5300 | 31 D | 24 | 75,2 | 29,24 | 99,77 | 24,14 | 82,37 | 11,65 | 33,32 | 113,69 | 23,46 | 80,05 | 11,92 | 34,34 | 117,17 | 19,72 | 67,28 | 12,06 |
+|  |  |  |  | 27 | 80,6 | 29,58 | 100,93 | 24,48 | 83,53 | 11,92 | 33,66 | 114,85 | 23,80 | 81,21 | 12,06 | 34,68 | 118,33 | 21,42 | 73,09 | 12,19 |
+|  |  |  |  | 29 | 84,2 | 29,92 | 102,09 | 24,82 | 84,69 | 12,06 | 34,00 | 116,01 | 24,14 | 82,37 | 12,19 | 35,02 | 119,49 | 23,46 | 80,05 | 12,33 |
+|  |  |  |  | 31 | 87,8 | 30,60 | 104,41 | 25,50 | 87,01 | 12,19 | 34,34 | 117,17 | 24,82 | 84,69 | 12,33 | 35,36 | 120,65 | 23,80 | 81,21 | 12,47 |
+|  |  | 4800 | 2825 | 24 | 75,2 | 27,88 | 95,13 | 22,44 | 76,57 | 11,37 | 31,62 | 107,89 | 21,08 | 71,92 | 11,78 | 32,64 | 111,37 | 18,70 | 63,80 | 11,92 |
+|  |  |  |  | 27 | 80,6 | 28,22 | 96,29 | 23,12 | 78,89 | 11,65 | 32,30 | 110,21 | 21,76 | 74,25 | 11,92 | 32,98 | 112,53 | 20,06 | 68,44 | 12,06 |
+|  |  |  |  | 29 | 84,2 | 28,56 | 97,45 | 23,46 | 80,05 | 11,78 | 32,98 | 112,53 | 22,78 | 77,73 | 12,06 | 33,32 | 113,69 | 22,10 | 75,41 | 12,19 |
+|  |  |  |  | 31 | 87,8 | 28,90 | 98,61 | 24,14 | 82,37 | 11,92 | 33,32 | 113,69 | 23,46 | 80,05 | 12,19 | 33,66 | 114,85 | 22,78 | 77,73 | 12,33 |
+| 35 | 95 | 5800 | 34 D | 24 | 75,2 | 29,58 | 100,93 | 24,14 | 82,37 | 13,02 | 33,66 | 114,85 | 22,70 | 77,47 | 13,56 | 34,68 | 118,33 | 21,08 | 71,92 | 13,84 |
+|  |  |  |  | 27 | 80,6 | 29,92 | 102,09 | 24,82 | 84,69 | 13,15 | 34,00 | 116,01 | 23,80 | 81,21 | 13,70 | 35,02 | 119,49 | 22,44 | 76,57 | 14,11 |
+|  |  |  |  | 29 | 84,2 | 30,26 | 103,25 | 25,16 | 85,85 | 13,29 | 34,34 | 117,17 | 24,48 | 83,53 | 13,97 | 35,36 | 120,65 | 23,80 | 81,21 | 14,25 |
+|  |  |  |  | 31 | 87,8 | 30,94 | 105,57 | 25,84 | 88,17 | 13,43 | 34,68 | 118,33 | 25,07 | 85,53 | 14,25 | 35,70 | 121,81 | 24,82 | 84,69 | 14,39 |
+|  |  | 5300 | 31 D | 24 | 75,2 | 25,50 | 87,01 | 23,12 | 65,28 | 12,88 | 30,94 | 105,57 | 20,74 | 70,76 | 13,43 | 31,28 | 106,73 | 19,04 | 64,96 | 13,43 |
+|  |  |  |  | 27 | 80,6 | 25,84 | 88,17 | 23,80 | 67,66 | 13,02 | 31,28 | 106,73 | 22,10 | 75,41 | 13,56 | 32,30 | 110,21 | 20,40 | 69,60 | 13,56 |
+|  |  |  |  | 29 | 84,2 | 26,18 | 89,33 | 24,82 | 70,04 | 13,15 | 32,30 | 110,21 | 23,46 | 80,05 | 13,70 | 32,98 | 112,53 | 22,10 | 75,41 | 13,70 |
+|  |  |  |  | 31 | 87,8 | 26,86 | 91,65 | 25,50 | 79,56 | 13,29 | 32,98 | 112,53 | 24,48 | 83,53 | 13,84 | 33,32 | 113,69 | 23,46 | 80,05 | 13,84 |
+|  |  | 4800 | 2825 | 24 | 75,2 | 24,88 | 84,90 | 21,42 | 73,09 | 12,60 | 28,27 | 96,47 | 19,72 | 67,28 | 13,15 | 29,12 | 99,37 | 17,18 | 58,63 | 13,29 |
+|  |  |  |  | 27 | 80,6 | 25,13 | 85,75 | 22,10 | 75,41 | 12,74 | 28,56 | 97,45 | 20,40 | 69,60 | 13,29 | 29,42 | 100,37 | 19,12 | 65,24 | 13,43 |
+|  |  |  |  | 29 | 84,2 | 25,50 | 87,01 | 23,12 | 78,89 | 12,88 | 28,90 | 98,61 | 21,76 | 74,25 | 13,43 | 29,92 | 102,09 | 19,72 | 67,28 | 13,56 |
+|  |  |  |  | 31 | 87,8 | 25,84 | 88,17 | 23,80 | 81,21 | 13,02 | 29,24 | 99,77 | 22,79 | 77,75 | 13,56 | 30,26 | 103,25 | 20,80 | 70,96 | 13,70 |
+| 46 | 115 | 5800 | 34 D | 24 | 75,2 | 24,82 | 84,69 | 23,12 | 78,89 | 15,48 | 28,90 | 98,61 | 21,42 | 73,09 | 15,76 | 29,58 | 100,93 | 19,38 | 66,12 | 15,89 |
+|  |  |  |  | 27 | 80,6 | 25,16 | 85,85 | 23,80 | 81,21 | 15,76 | 29,24 | 99,77 | 22,44 | 76,57 | 16,03 | 29,92 | 102,09 | 20,74 | 70,76 | 16,03 |
+|  |  |  |  | 29 | 84,2 | 25,50 | 87,01 | 24,82 | 84,69 | 15,89 | 29,58 | 100,93 | 23,12 | 78,89 | 16,17 | 31,96 | 109,05 | 22,10 | 75,41 | 16,17 |
+|  |  |  |  | 31 | 87,8 | 25,84 | 88,17 | 25,84 | 88,17 | 16,17 | 29,92 | 102,09 | 24,14 | 82,37 | 16,30 | 32,98 | 112,53 | 23,46 | 80,05 | 16,30 |
+|  |  | 5300 | 31 D | 24 | 75,2 | 23,80 | 81,21 | 22,10 | 75,41 | 15,34 | 28,27 | 96,47 | 20,06 | 68,44 | 15,48 | 29,12 | 99,37 | 17,18 | 58,63 | 15,62 |
+|  |  |  |  | 27 | 80,6 | 24,14 | 82,37 | 23,12 | 78,89 | 15,62 | 28,56 | 97,45 | 21,08 | 71,92 | 15,62 | 29,42 | 100,37 | 18,70 | 63,80 | 15,76 |
+|  |  |  |  | 29 | 84,2 | 24,48 | 83,53 | 24,14 | 82,37 | 15,89 | 28,90 | 98,61 | 22,10 | 75,41 | 15,89 | 29,92 | 102,09 | 19,72 | 67,28 | 16,03 |
+|  |  |  |  | 31 | 87,8 | 24,82 | 84,69 | 24,82 | 84,69 | 16,03 | 29,24 | 99,77 | 22,79 | 77,75 | 16,17 | 30,26 | 103,25 | 20,80 | 70,96 | 16,17 |
+|  |  | 4800 | 2825 | 24 | 75,2 | 22,10 | 75,41 | 19,72 | 67,28 | 15,21 | 26,18 | 89,33 | 18,36 | 62,64 | 15,34 | 26,86 | 91,65 | 15,98 | 54,52 | 15,48 |
+|  |  |  |  | 27 | 80,6 | 22,78 | 77,73 | 21,08 | 71,92 | 15,34 | 26,52 | 90,49 | 19,38 | 66,12 | 15,48 | 27,54 | 93,97 | 17,34 | 59,16 | 15,62 |
+|  |  |  |  | 29 | 84,2 | 23,12 | 78,89 | 22,44 | 76,57 | 15,48 | 26,86 | 91,65 | 20,40 | 69,60 | 15,62 | 28,90 | 98,61 | 18,36 | 62,64 | 15,76 |
+|  |  |  |  | 31 | 87,8 | 23,46 | 80,05 | 23,80 | 81,21 | 15,62 | 27,54 | 93,97 | 21,42 | 73,09 | 15,76 | 29,58 | 100,93 | 19,72 | 67,28 | 15,89 |
 
-### Estructura de filas (agrupaciones visibles)
-- Columna exterior (Temperatura de bulbo seco del aire exterior):
-  - 25
-  - 35
-  - 46
+================================================================================
+PAGE 18
+================================================================================
 
-- Para cada valor de la columna exterior hay varias filas con:
-  - Flujo de aire (dos subcolumnas visibles): m³/h y cfm
-    - Valores de flujo de aire que se alcanzan a verse repetidos en la tabla: 3300, 3100, 2800 (m³/h) y junto a ellos 1942, 1824, 1648 (cfm)
-  - Temperatura del aire de entrada (DBT): valores visibles en cada bloque (ejemplos): 24, 27, 29, 31, 34 (presumiblemente °C)
+# Características técnicas 
 
-### Tabla: Rendimiento (estructura visible — valores numéricos no todos legibles)
-La tabla presenta, por cada combinación de Temperatura exterior / Flujo de aire / DBT, los siguientes datos organizados por temperatura de bulbo húmedo interior (62°F, 67°F, 72°F). Debido a la resolución de la imagen, muchos valores numéricos finos están parcialmente legibles; a continuación se transcribe la estructura y los campos tal como aparecen, sin introducir valores no claramente legibles.
+Modelo: ADA-I-4180H236A
 
-- Para cada fila identificada por:
-  - **Temperatura exterior:** (ej. 25)
-  - **Flujo de aire (m³/h):** (ej. 3300)
-  - **Flujo de aire (cfm):** (ej. 1942)
-  - **Temperatura del aire de entrada (DBT):** (ej. 24)
+| $\begin{aligned} & \text { Temperatu } \\ & \text { a de bulbo } \\ & \text { seco del } \\ & \text { aire } \\ & \text { exterior } \end{aligned}$ |  | Flujo de aire | Temperatu ra del aire de entrada (DBT) | Temperatura de bulbo húmedo del aire interior ${ }^{\circ} \mathbf{F}\left({ }^{\circ} \mathrm{C}\right.$ ) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  | $62^{\circ} \mathrm{F}\left(17^{\circ} \mathrm{C}\right)$ |  |  |  | $67^{\circ} \mathrm{F}\left(19^{\circ} \mathrm{C}\right)$ |  |  |  | $72^{\circ} \mathrm{F}\left(22^{\circ} \mathrm{C}\right)$ |  |  |  |  |  |  |  |
+|  |  |  |  | Capacidad total | Capacidad sensible | Consumo de energía | Capacidad total | Capacidad sensible | Consumo de energía | Capacidad total | Capacidad sensible | Consumo de energía |
+| ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | $\begin{gathered} \mathrm{m}^{3} / \mathrm{h} \\ \mathrm{r} \end{gathered}$ | cfm | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | kW | Mbh | kW | Mbh | kW | kW | Mbh | kW | Mbh | kW | kW | Mbh | kW | Mbh | kW |
+| 25 | 77 | 9500 | 5591 | 24 | 75,2 | 47,73 | 162,64 | 41,04 | 140,04 | 16,92 | 51,32 | 175,10 | 39,51 | 124,82 | 19,36 | 53,37 | 162,10 | 37,36 | 127,47 | 19,58 |
+|  |  |  |  | 27 | 80,6 | 48,38 | 165,07 | 41,61 | 141,96 | 19,36 | 52,02 | 177,49 | 40,06 | 126,67 | 19,58 | 54,10 | 164,59 | 37,87 | 129,21 | 19,80 |
+|  |  |  |  | 29 | 84,2 | 48,85 | 166,69 | 42,26 | 144,16 | 19,58 | 52,53 | 179,23 | 40,97 | 129,80 | 19,80 | 54,63 | 166,40 | 38,24 | 130,48 | 20,02 |
+|  |  |  |  | 31 | 87,8 | 49,33 | 168,30 | 42,91 | 146,42 | 19,80 | 53,04 | 180,97 | 41,37 | 141,16 | 20,02 | 55,16 | 168,21 | 38,61 | 131,75 | 20,24 |
+|  |  |  | 10400 | 6121 | 24 | 75,2 | 49,27 | 168,11 | 42,37 | 144,57 | 19,36 | 52,98 | 180,76 | 40,79 | 139,19 | 19,75 | 55,10 | 187,99 | 38,57 | 131,60 | 19,94 |
+|  |  |  |  | 27 | 80,6 | 49,77 | 169,83 | 42,80 | 146,05 | 19,58 | 53,52 | 182,61 | 41,21 | 140,61 | 19,97 | 55,66 | 189,91 | 39,52 | 134,84 | 20,17 |
+|  |  |  |  | 29 | 84,2 | 50,28 | 171,54 | 43,24 | 147,53 | 19,80 | 54,06 | 184,45 | 41,63 | 142,03 | 20,20 | 56,22 | 191,83 | 39,92 | 136,20 | 20,40 |
+|  |  |  |  | 31 | 87,8 | 50,78 | 173,26 | 43,67 | 149,00 | 20,02 | 54,60 | 186,30 | 42,59 | 145,31 | 20,42 | 56,78 | 193,75 | 40,32 | 137,56 | 20,62 |
+|  |  |  |  | 24 | 75,2 | 50,35 | 171,80 | 43,30 | 147,75 | 20,24 | 54,14 | 184,73 | 41,69 | 142,24 | 20,91 | 56,31 | 192,12 | 39,41 | 134,48 | 21,12 |
+|  |  |  | 11300 | 6651 | 27 | 80,6 | 51,04 | 174,15 | 43,89 | 149,77 | 20,46 | 54,88 | 187,25 | 42,26 | 144,19 | 21,15 | 57,08 | 194,74 | 39,95 | 136,32 | 21,34 |
+|  |  |  |  | 29 | 84,2 | 51,54 | 175,85 | 44,32 | 151,23 | 20,68 | 55,42 | 189,09 | 42,67 | 145,60 | 21,38 | 57,64 | 196,65 | 40,35 | 137,66 | 21,56 |
+|  |  |  |  | 31 | 87,8 | 52,04 | 177,56 | 44,75 | 152,70 | 20,90 | 55,96 | 190,93 | 43,65 | 148,92 | 21,62 | 58,20 | 198,56 | 40,74 | 138,99 | 21,78 |
+| 35 | 95 | 9500 | 5591 | 24 | 75,2 | 46,96 | 160,21 | 40,38 | 137,78 | 20,90 | 50,49 | 172,27 | 38,88 | 132,65 | 22,00 | 52,51 | 179,16 | 36,76 | 125,41 | 22,22 |
+|  |  |  |  | 27 | 80,6 | 47,43 | 161,83 | 40,79 | 139,17 | 21,12 | 51,00 | 174,01 | 39,27 | 133,99 | 22,00 | 53,04 | 180,97 | 37,13 | 126,68 | 22,66 |
+|  |  |  |  | 29 | 84,2 | 47,90 | 163,45 | 41,20 | 140,57 | 21,34 | 51,51 | 175,75 | 39,66 | 135,33 | 22,44 | 53,57 | 182,78 | 37,50 | 127,95 | 22,88 |
+|  |  |  |  | 31 | 87,8 | 48,38 | 165,07 | 41,61 | 141,96 | 21,56 | 52,02 | 177,49 | 40,06 | 136,67 | 22,88 | 54,10 | 184,59 | 38,41 | 131,06 | 23,10 |
+|  |  |  |  | 24 | 75,2 | 48,77 | 166,41 | 41,94 | 143,11 | 22,22 | 52,44 | 178,94 | 40,38 | 137,78 | 22,85 | 54,54 | 186,09 | 38,18 | 130,27 | 23,10 |
+|  |  |  |  | 27 | 80,6 | 49,31 | 168,24 | 42,41 | 144,69 | 22,44 | 53,02 | 180,90 | 40,83 | 139,30 | 23,09 | 55,14 | 188,14 | 38,60 | 131,70 | 23,32 |
+|  |  |  |  | 29 | 84,2 | 50,44 | 172,11 | 43,38 | 148,01 | 22,66 | 54,24 | 185,06 | 41,76 | 142,50 | 23,32 | 56,41 | 192,46 | 39,49 | 134,72 | 23,54 |
+|  |  |  |  | 31 | 87,8 | 51,04 | 174,15 | 43,89 | 149,77 | 22,88 | 54,88 | 187,25 | 42,26 | 144,19 | 23,54 | 57,08 | 194,74 | 39,95 | 136,32 | 23,76 |
+|  |  |  |  | 24 | 75,2 | 49,70 | 169,57 | 42,74 | 145,83 | 23,10 | 53,44 | 182,33 | 41,15 | 140,40 | 23,99 | 55,58 | 189,63 | 38,90 | 132,74 | 24,20 |
+|  |  |  |  | 27 | 80,6 | 50,20 | 171,28 | 43,17 | 147,30 | 23,32 | 53,98 | 184,17 | 42,10 | 143,66 | 24,24 | 56,14 | 191,54 | 39,30 | 134,08 | 24,42 |
+|  |  |  |  | 29 | 84,2 | 50,67 | 172,90 | 43,83 | 149,56 | 23,54 | 54,49 | 185,91 | 43,05 | 146,87 | 24,49 | 56,67 | 193,35 | 39,67 | 135,35 | 24,64 |
+|  |  |  |  | 31 | 87,8 | 51,65 | 176,23 | 44,42 | 151,56 | 23,76 | 55,54 | 189,50 | 43,88 | 149,70 | 24,74 | 57,76 | 197,08 | 40,43 | 137,95 | 25,08 |
+| 46 | 115 | 9500 | 5591 | 24 | 75,2 | 38,89 | 132,70 | 33,45 | 114,12 | 24,86 | 41,82 | 142,69 | 32,20 | 109,87 | 25,30 | 43,49 | 148,40 | 30,44 | 103,88 | 25,52 |
+|  |  |  |  | 27 | 80,6 | 39,37 | 134,32 | 34,05 | 116,19 | 25,30 | 42,33 | 144,43 | 32,59 | 111,21 | 25,74 | 44,02 | 150,21 | 31,26 | 106,65 | 25,74 |
+|  |  |  |  | 29 | 84,2 | 39,84 | 135,94 | 34,66 | 118,27 | 25,52 | 42,84 | 146,17 | 32,99 | 112,55 | 25,96 | 44,55 | 152,02 | 31,63 | 107,93 | 25,96 |
+|  |  |  |  | 31 | 87,8 | 40,32 | 137,56 | 35,07 | 119,67 | 25,96 | 43,35 | 147,91 | 33,81 | 115,37 | 26,18 | 45,08 | 153,83 | 32,01 | 109,22 | 26,18 |
+|  |  |  |  | 24 | 75,2 | 39,37 | 134,32 | 33,86 | 115,52 | 25,08 | 42,33 | 144,43 | 32,59 | 111,21 | 25,93 | 44,02 | 150,21 | 31,26 | 106,65 | 26,18 |
+|  |  |  |  | 27 | 80,6 | 39,84 | 135,94 | 34,26 | 116,91 | 25,52 | 42,84 | 146,17 | 32,99 | 112,55 | 26,38 | 44,55 | 152,02 | 31,63 | 107,93 | 26,62 |
+|  |  |  |  | 29 | 84,2 | 40,32 | 137,56 | 34,67 | 118,30 | 25,74 | 43,35 | 147,91 | 33,81 | 115,37 | 26,61 | 45,08 | 153,83 | 32,01 | 109,22 | 26,84 |
+|  |  |  |  | 31 | 87,8 | 40,79 | 139,17 | 35,08 | 119,69 | 25,96 | 43,86 | 149,65 | 34,21 | 116,73 | 26,83 | 45,61 | 155,64 | 32,39 | 110,50 | 27,06 |
+|  |  |  |  | 24 | 75,2 | 40,32 | 137,56 | 34,67 | 118,30 | 26,40 | 43,35 | 147,91 | 33,38 | 113,89 | 27,45 | 45,08 | 153,83 | 31,56 | 107,68 | 27,94 |
+|  |  |  |  | 27 | 80,6 | 40,79 | 139,17 | 35,08 | 119,69 | 26,84 | 43,86 | 149,65 | 33,77 | 115,23 | 27,93 | 45,61 | 155,64 | 31,93 | 108,95 | 28,38 |
+|  |  |  |  | 29 | 84,2 | 41,26 | 140,79 | 35,49 | 121,08 | 27,06 | 44,37 | 151,39 | 34,16 | 116,57 | 28,17 | 46,14 | 157,45 | 32,76 | 111,79 | 28,60 |
+|  |  |  |  | 31 | 87,8 | 41,74 | 142,41 | 36,31 | 123,90 | 27,28 | 44,88 | 153,13 | 34,56 | 117,91 | 28,41 | 46,68 | 159,26 | 33,14 | 113,07 | 28,82 |
 
-  Se muestran (por cada bulbo húmedo interior 62°F / 67°F / 72°F):
-  - **Capacidad total (kW):** [valor numérico en celda]
-  - **Capacidad total (Mbh):** [valor numérico en celda]
-  - **Capacidad sensible (kW):** [valor numérico en celda]
-  - **Capacidad sensible (Mbh):** [valor numérico en celda]
-  - **Consumo de energía (kW):** [valor numérico en celda]
+================================================================================
+PAGE 19
+================================================================================
 
-(Esta estructura se repite para cada DBT listado: 24, 27, 29, 31, 34 — y para cada combinación de flujo de aire dentro de cada bloque de temperatura exterior 25, 35 y 46.)
+# Características técnicas 
 
-### Elementos gráficos y marcas
-- Logo inferior izquierdo: ADINA
-- Texto central inferior: INVERTER
-- Número de página visible: 14 (inferior derecha)
-- Marca superior izquierda en barra azul: Características técnicas
-- Logo superior derecho: ARMOR
-
-### Notas y observaciones sobre la transcripción
-- He extraído y preservado la jerarquía de títulos y la estructura de la tabla tal como aparece en la página.
-- Muchos valores numéricos dentro de las celdas de la tabla son pequeños y la imagen proporcionada no permite leer con total certeza todas las cifras; por respeto a la instrucción "EXTRACCIÓN EXACTA" no se han introducido valores que no sean claramente legibles.
-- Si desea una transcripción completa con todos los valores numéricos exactos, por favor suministre una imagen de mayor resolución o el PDF original en alta calidad, y procederé a extraer todos los números manteniendo el formato solicitado.
-
-### Texto visible adicional (récord fiel)
-- Características técnicas
-- Modelo: ADA-I-4066H236A
-
-Fin de la transcripción de la página 14 del archivo BROCHURE-ARMOR-PLUS-ES.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 17
-
-### Características técnicas
-
-### Modelo: ADA-I-4120H236A
-
-### Encabezados de tabla (visión general)
-- **Temperatu**
-  - ra de bulbo
-  - seco del
-  - aire
-  - exterior
-- **Flujo de**
-  - aire
-- **Temperatu**
-  - ra del aire
-  - de entrada
-  - (DBT)
-- **Temperatura de bulbo húmedo del aire interior tF(°C)**
-
-  Subcolumnas para temperatura de bulbo húmedo interior:
-  - **62°F(17°C)**
-    - Capacidad total
-    - Capacidad sensible
-    - Consumo de energía
-  - **67°F(19°C)**
-    - Capacidad total
-    - Capacidad sensible
-    - Consumo de energía
-  - **72°F(22°C)**
-    - Capacidad total
-    - Capacidad sensible
-    - Consumo de energía
-
-(En la tabla, tras los encabezados aparecen unidades y subencabezados pequeños: °C, °F, m³/h, cfm, kW, MBh, etc., distribuidos bajo cada columna. A continuación se listan los bloques de datos por temperatura exterior, flujo de aire y condiciones de entrada.)
-
-### Tabla: Datos de rendimiento por condiciones (transcripción estructurada)
-- Nota: la tabla contiene múltiples filas agrupadas por "Temperatura de bulbo seco del aire exterior" (valores visibles en la página: 25 °C / 77 °F, 35 °C / 95 °F, 46 °C / 115 °F). Para cada valor exterior, hay grupos de filas según "Flujo de aire" (ej.: 5800 m³/h 3413 cfm; 5300 m³/h 3119 cfm; 4800 m³/h 2825 cfm) y dentro de cada grupo varias filas por "Temperatura del aire de entrada (DBT)" (valores visibles aproximados en la tabla: 24, 27, 29, 31 °C). Cada fila presenta, para los tres valores de temperatura de bulbo húmedo interior (62°F(17°C), 67°F(19°C), 72°F(22°C)), los siguientes tres datos: Capacidad total, Capacidad sensible, Consumo de energía. A continuación se presenta la estructura de filas y los valores tal como aparecen visualmente en la página (se trascribe texto visible tal cual, respetando formato y separación visual):
-
-- **Temperatura de bulbo seco del aire exterior:** 25 °C / 77 °F
-  - **Flujo de aire:** 5800 m³/h 3413 cfm
-    - **Temperatura del aire de entrada (DBT):** 24
-      - **62°F(17°C) - Capacidad total:** 75,2
-      - **62°F(17°C) - Capacidad sensible:** 30,94
-      - **62°F(17°C) - Consumo de energía:** 105,57
-      - **67°F(19°C) - Capacidad total:** 24,82
-      - **67°F(19°C) - Capacidad sensible:** 84,69
-      - **67°F(19°C) - Consumo de energía:** 11,78
-      - **72°F(22°C) - Capacidad total:** 34,21
-      - **72°F(22°C) - Capacidad sensible:** 116,73
-      - **72°F(22°C) - Consumo de energía:** 24,97
-      - (continuación de columnas visibles: 85,21 12,06 35,24 120,23 20,74 70,76 12,19)  
-        - Estos valores corresponden a las celdas adicionales de la fila bajo los encabezados descritos; se muestran en la imagen en la secuencia visual presentada.
-    - **Temperatura del aire de entrada (DBT):** 27
-      - Valores (secuencia visual en la tabla): 80,6 31,28 106,73 25,50 87,01 12,06 34,68 118,33 25,16 85,85 12,39 35,70 121,81 23,46 80,05 12,33
-    - **Temperatura del aire de entrada (DBT):** 29
-      - Valores (secuencia visual): 82,3 31,62 107,89 25,84 88,17 12,19 35,02 119,49 25,50 87,01 12,47 36,04 122,97 23,42 84,69 12,47
-    - **Temperatura del aire de entrada (DBT):** 31
-      - Valores (secuencia visual): 87,8 31,96 109,05 26,52 90,49 12,33 35,36 120,65 25,84 88,17 12,47 36,38 124,13 24,13 85,85 12,60
-  - **Flujo de aire:** 5300 m³/h 3119 cfm
-    - **Temperatura del aire de entrada (DBT):** 24
-      - Valores (secuencia visual): 75,2 29,24 99,77 24,82 82,37 11,65 33,32 113,69 23,46 80,05 11,92 34,34 117,17 24,82 68,49 11,92
-    - **Temperatura del aire de entrada (DBT):** 27
-      - Valores (secuencia visual): 80,6 29,58 100,93 24,84 83,53 11,92 33,66 114,85 23,46 80,21 12,06 34,68 118,33 23,46 73,09 12,06
-    - **Temperatura del aire de entrada (DBT):** 29
-      - Valores (secuencia visual): 82,3 29,82 102,03 24,82 84,69 12,06 34,04 116,01 23,46 82,31 12,06 35,36 120,65 23,42 80,05 12,33
-    - **Temperatura del aire de entrada (DBT):** 31
-      - Valores (secuencia visual): 87,8 30,36 104,05 25,24 88,17 12,33 34,34 117,17 24,82 84,69 12,47 35,36 120,65 24,13 80,05 12,47
-  - **Flujo de aire:** 4800 m³/h 2825 cfm
-    - **Temperatura del aire de entrada (DBT):** 24
-      - Valores (secuencia visual): 75,2 28,95 99,77 24,82 82,37 13,02 33,66 114,85 22,70 77,47 13,56 33,36 114,85 22,70 77,47 13,56
-    - **Temperatura del aire de entrada (DBT):** 27
-      - Valores (secuencia visual): 80,6 29,92 102,09 24,42 84,69 13,15 34,00 116,01 23,80 82,31 12,06 33,32 113,69 22,70 70,76 12,06
-    - **Temperatura del aire de entrada (DBT):** 29
-      - Valores (secuencia visual): 82,3 30,24 102,42 24,84 84,69 12,06 34,34 117,17 24,82 84,69 12,06 33,32 113,69 22,70 75,41 12,06
-    - **Temperatura del aire de entrada (DBT):** 31
-      - Valores (secuencia visual): 87,8 30,96 104,05 25,24 88,17 12,33 34,68 118,33 25,07 85,53 12,60 33,36 114,85 22,70 77,47 12,33
-
-- **Temperatura de bulbo seco del aire exterior:** 35 °C / 95 °F
-  - **Flujo de aire:** 5800 m³/h 3413 cfm
-    - Temperaturas del aire de entrada (DBT) listadas en la tabla: 24, 27, 29, 31
-    - Para cada DBT, la tabla presenta secuencias de valores bajo 62°F, 67°F y 72°F; secuencias visuales (ejemplos tal como aparecen):
-      - DBT 24: 75,2 25,55 87,71 23,04 76,57 11,37 31,62 107,89 21,08 71,92 11,78 32,64 111,37 21,73 63,80 11,92
-      - DBT 27: 80,6 26,14 88,17 23,80 67,66 13,02 31,28 106,73 22,10 75,41 13,56 32,30 110,21 20,40 69,60 13,56
-      - DBT 29: 82,3 26,78 89,23 24,02 69,09 13,15 32,30 110,21 23,46 80,05 13,70 33,32 113,69 22,10 75,41 13,70
-      - DBT 31: 87,8 26,86 90,16 25,50 79,56 13,29 32,98 112,34 24,48 83,43 13,84 33,84 115,85 23,46 80,05 13,84
-  - **Flujo de aire:** 5300 m³/h 3119 cfm
-    - DBT 24: 75,2 24,88 84,90 22,24 73,09 12,60 28,27 96,47 19,67 67,28 12,06 29,97 100,37 19,12 65,24 12,33
-    - DBT 27: 80,6 25,13 85,75 22,10 75,41 12,74 28,56 97,45 20,40 69,60 12,69 29,42 100,37 19,12 65,24 13,43
-    - DBT 29: 82,3 25,50 87,01 23,12 78,89 12,88 28,90 98,61 21,26 74,25 13,43 29,92 100,37 19,12 67,28 13,56
-    - DBT 31: 87,8 25,84 88,17 23,80 81,21 13,02 29,24 99,77 22,79 77,75 13,70 30,75 102,42 19,20 70,96 13,70
-  - **Flujo de aire:** 4800 m³/h 2825 cfm
-    - DBT 24: 75,2 24,82 84,69 23,02 75,41 15,48 28,90 98,61 21,42 73,09 15,76 29,58 100,93 19,32 68,62 15,89
-    - DBT 27: 80,6 22,78 77,73 21,08 71,92 15,34 26,52 90,49 19,38 66,62 15,48 27,54 94,37 19,34 59,16 15,62
-    - DBT 29: 82,3 23,12 78,89 22,44 76,57 15,48 26,86 91,65 20,40 69,60 15,62 28,90 98,61 19,12 63,62 15,76
-    - DBT 31: 87,8 23,46 80,05 23,80 81,21 15,62 27,54 93,97 21,42 73,09 15,76 29,58 100,93 19,32 67,28 15,89
-
-- **Temperatura de bulbo seco del aire exterior:** 46 °C / 115 °F
-  - **Flujo de aire:** 5800 m³/h 3413 cfm
-    - DBT 24: 75,2 23,80 87,71 22,02 75,41 15,34 28,96 97,45 20,15 64,84 15,62 29,42 100,37 20,40 63,80 15,62
-    - DBT 27: 80,6 24,42 88,17 23,12 78,89 15,62 28,56 97,45 21,08 71,92 15,62 29,42 100,37 20,40 63,80 15,62
-    - DBT 29: 82,3 24,48 83,53 22,44 82,37 15,89 28,90 98,61 21,26 75,41 15,89 29,92 100,37 20,40 67,28 16,03
-    - DBT 31: 87,8 24,82 84,69 23,02 84,69 16,03 29,24 99,77 22,79 77,75 16,17 30,75 102,42 21,73 70,96 16,17
-  - **Flujo de aire:** 5300 m³/h 3119 cfm
-    - DBT 24: 75,2 22,10 75,41 19,72 67,28 15,21 26,18 89,33 18,36 62,64 15,34 26,86 91,65 15,98 54,52 15,48
-    - DBT 27: 80,6 22,78 77,73 21,08 71,92 15,34 26,52 90,49 19,38 66,62 15,48 27,54 94,37 19,34 59,16 15,62
-    - DBT 29: 82,3 23,12 78,89 22,44 76,57 15,48 26,86 91,65 20,40 69,60 15,62 28,90 98,61 19,12 63,62 15,76
-    - DBT 31: 87,8 23,46 80,05 23,80 81,21 15,62 27,54 93,97 21,42 73,09 15,76 29,58 100,93 19,32 67,28 15,89
-  - **Flujo de aire:** 4800 m³/h 2825 cfm
-    - DBT 24: 75,2 21,82 73,09 19,72 64,84 15,48 26,18 89,33 18,36 62,64 15,34 26,86 91,65 15,98 54,52 15,48
-    - DBT 27: 80,6 22,36 75,41 21,08 71,92 15,34 26,52 90,49 19,38 66,62 15,48 27,54 94,37 19,34 59,16 15,62
-    - DBT 29: 82,3 22,82 78,89 22,44 76,57 15,48 26,86 91,65 20,40 69,60 15,62 28,90 98,61 19,12 63,62 15,76
-    - DBT 31: 87,8 23,46 80,05 23,80 81,21 15,62 27,54 93,97 21,42 73,09 15,76 29,58 100,93 19,32 67,28 15,89
-
-### Notas y leyendas:
-- Logotipos visibles: ADINA (abajo izquierda), INVERTER (centro abajo), ARMOR (arriba derecha)
-- Número de página visible: 15 (abajo derecha)
-- Encabezado superior izquierdo: "Características técnicas"
-- Se indica el modelo: ADA-I-4120H236A
-
----
-
-Observaciones sobre la transcripción:
-- La página contiene una tabla muy densa con numerosas filas y columnas numéricas pequeñas. En la transcripción se han respetado los encabezados visibles y la estructura de agrupación por temperatura exterior, flujo de aire y DBT de entrada.
-- Los valores numéricos han sido transcritos en la secuencia visual en la que aparecen en la celda fila por fila, manteniendo el orden aparente bajo los tres bloques de temperatura de bulbo húmedo interior (62°F/17°C; 67°F/19°C; 72°F/22°C). Se recomienda verificar la imagen original para cualquier lectura detallada celda por celda por ser texto de tamaño reducido.
-- Nombre del archivo: BROCHURE-ARMOR-PLUS-ES
-- Número de página: 17 (según instrucción solicitada para esta página; el pie muestra "15" como número de página impreso).
-
-## BROCHURE-ARMOR-PLUS-ES - Página 18
-
-### Título principal
-Características técnicas
-
-### Modelo
-ADA-I-4180H236A
-
-### Encabezados del documento (parte superior)
-- ARMOR (logotipo)
-- ADINA (logotipo inferior izquierda)
-- INVERTER (logotipo inferior centro)
-- Número de página visible: 16 (impreso en la esquina inferior derecha de la imagen)
-
----
-
-### Tabla principal (Temperatura de bulbo húmedo del aire interior)
-Nota: la tabla ocupa el cuerpo central de la página. Se respetan los encabezados y la jerarquía visibles.
-
-Encabezados de la tabla (dispuestos horizontalmente en la parte superior del bloque azul):
-- Temperatura de bulbo seco del aire exterior
-- Flujo de aire
-- Temperatura del aire de entrada (DBT)
-- Temperatura de bulbo húmedo del aire interior F(°C)
-  - 62°F (17°C)
-    - Capacidad total (kW, Mbh)
-    - Capacidad sensible (kW, Mbh)
-    - Consumo de energía (kW)
-  - 67°F (19°C)
-    - Capacidad total (kW, Mbh)
-    - Capacidad sensible (kW, Mbh)
-    - Consumo de energía (kW)
-  - 72°F (22°C)
-    - Capacidad total (kW, Mbh)
-    - Capacidad sensible (kW, Mbh)
-    - Consumo de energía (kW)
-
-Encabezados de la columna izquierda (dispuestos verticalmente):
-- °C
-- °F
-- m³/h
-- cfm
-- °C
-- °F
-
-### Tabla: Datos por combinación de temperatura exterior, flujo de aire y temperatura de entrada (transcripción por fila)
-(Nota: se preserva la estructura: cada fila indica Temperatura exterior, Flujo de aire, Temperatura de entrada y, para cada temperatura de bulbo húmedo interior, Capacidad total, Capacidad sensible y Consumo de energía. Los valores numéricos se presentan con las comas y formatos tal como aparecen en la imagen.)
-
-- **Temperatura exterior °C:** 25, **°F:** 77, **Flujo de aire m³/h:** 9500, **cfm:** 5591, **Temperatura de entrada DBT °C:** 24, **DBT °F:** 75,2
-  - **62°F (17°C) - Capacidad total:** 47,73, **62°F (17°C) - Capacidad total (Mbh):** 162,84, **62°F (17°C) - Capacidad sensible:** 41,04, **62°F (17°C) - Capacidad sensible (Mbh):** 140,04, **62°F (17°C) - Consumo de energía (kW):** 18,92
-  - **67°F (19°C) - Capacidad total:** 51,32, **67°F (19°C) - Capacidad total (Mbh):** 175,10, **67°F (19°C) - Capacidad sensible:** 39,51, **67°F (19°C) - Capacidad sensible (Mbh):** 134,82, **67°F (19°C) - Consumo de energía (kW):** 19,36
-  - **72°F (22°C) - Capacidad total:** 53,37, **72°F (22°C) - Capacidad total (Mbh):** 182,10, **72°F (22°C) - Capacidad sensible:** 37,36, **72°F (22°C) - Capacidad sensible (Mbh):** 127,47, **72°F (22°C) - Consumo de energía (kW):** 19,58
-
-- **Temperatura exterior °C:** 25, **°F:** 77, **Flujo de aire m³/h:** 9500, **cfm:** 5591, **Temperatura de entrada DBT °C:** 27, **DBT °F:** 80,6
-  - **62°F (17°C) - Capacidad total:** 48,38, **62°F (17°C) - Capacidad total (Mbh):** 165,07, **62°F (17°C) - Capacidad sensible:** 41,61, **62°F (17°C) - Capacidad sensible (Mbh):** 141,96, **62°F (17°C) - Consumo de energía (kW):** 19,36
-  - **67°F (19°C) - Capacidad total:** 52,02, **67°F (19°C) - Capacidad total (Mbh):** 177,49, **67°F (19°C) - Capacidad sensible:** 40,06, **67°F (19°C) - Capacidad sensible (Mbh):** 136,67, **67°F (19°C) - Consumo de energía (kW):** 19,58
-  - **72°F (22°C) - Capacidad total:** 54,10, **72°F (22°C) - Capacidad total (Mbh):** 184,59, **72°F (22°C) - Capacidad sensible:** 37,87, **72°F (22°C) - Capacidad sensible (Mbh):** 129,21, **72°F (22°C) - Consumo de energía (kW):** 19,80
-
-- **Temperatura exterior °C:** 25, **°F:** 77, **Flujo de aire m³/h:** 9500, **cfm:** 5591, **Temperatura de entrada DBT °C:** 29, **DBT °F:** 82,8
-  - **62°F (17°C) - Capacidad total:** 48,85, **Mbh:** 166,69, **Capacidad sensible:** 42,26, **Mbh:** 144,18, **Consumo de energía (kW):** 19,58
-  - **67°F (19°C) - Capacidad total:** 52,53, **Mbh:** 179,23, **Capacidad sensible:** 40,97, **Mbh:** 139,80, **Consumo de energía (kW):** 19,80
-  - **72°F (22°C) - Capacidad total:** 54,63, **Mbh:** 186,40, **Capacidad sensible:** 38,31, **Mbh:** 131,75, **Consumo de energía (kW):** 20,02
-
-- **Temperatura exterior °C:** 25, **°F:** 77, **Flujo de aire m³/h:** 9500, **cfm:** 5591, **Temperatura de entrada DBT °C:** 31, **DBT °F:** 87,8
-  - **62°F (17°C) - Capacidad total:** 49,33, **Mbh:** 168,30, **Capacidad sensible:** 42,91, **Mbh:** 146,42, **Consumo de energía (kW):** 19,80
-  - **67°F (19°C) - Capacidad total:** 53,04, **Mbh:** 180,97, **Capacidad sensible:** 41,37, **Mbh:** 141,16, **Consumo de energía (kW):** 20,02
-  - **72°F (22°C) - Capacidad total:** 55,16, **Mbh:** 188,21, **Capacidad sensible:** 38,61, **Mbh:** 131,75, **Consumo de energía (kW):** 20,24
-
-- **Temperatura exterior °C:** 25, **°F:** 77, **Flujo de aire m³/h:** 10000, **cfm:** 6121, **Temperatura de entrada DBT °C:** 24, **DBT °F:** 75,2
-  - **62°F (17°C) - Capacidad total:** 49,27, **Mbh:** 168,11, **Capacidad sensible:** 42,37, **Mbh:** 144,57, **Consumo de energía (kW):** 19,36
-  - **67°F (19°C) - Capacidad total:** 52,98, **Mbh:** 180,76, **Capacidad sensible:** 40,79, **Mbh:** 139,19, **Consumo de energía (kW):** 19,75
-  - **72°F (22°C) - Capacidad total:** 55,10, **Mbh:** 187,99, **Capacidad sensible:** 38,37, **Mbh:** 136,20, **Consumo de energía (kW):** 19,94
-
-- **Temperatura exterior °C:** 25, **°F:** 77, **Flujo de aire m³/h:** 10000, **cfm:** 6121, **Temperatura de entrada DBT °C:** 27, **DBT °F:** 80,6
-  - **62°F (17°C) - Capacidad total:** 49,80, **Mbh:** 169,83, **Capacidad sensible:** 42,80, **Mbh:** 146,05, **Consumo de energía (kW):** 19,58
-  - **67°F (19°C) - Capacidad total:** 52,81, **Mbh:** 180,12, **Capacidad sensible:** 41,21, **Mbh:** 142,01, **Consumo de energía (kW):** 20,17
-  - **72°F (22°C) - Capacidad total:** 55,66, **Mbh:** 189,91, **Capacidad sensible:** 39,92, **Mbh:** 147,84, **Consumo de energía (kW):** 20,17
-
-- **Temperatura exterior °C:** 25, **°F:** 77, **Flujo de aire m³/h:** 10000, **cfm:** 6121, **Temperatura de entrada DBT °C:** 29, **DBT °F:** 84,2
-  - **62°F (17°C) - Capacidad total:** 50,28, **Mbh:** 171,20, **Capacidad sensible:** 43,30, **Mbh:** 147,73, **Consumo de energía (kW):** 20,24
-  - **67°F (19°C) - Capacidad total:** 54,14, **Mbh:** 184,73, **Capacidad sensible:** 41,69, **Mbh:** 142,42, **Consumo de energía (kW):** 20,42
-  - **72°F (22°C) - Capacidad total:** 56,31, **Mbh:** 192,19, **Capacidad sensible:** 39,52, **Mbh:** 134,84, **Consumo de energía (kW):** 21,02
-
-- **Temperatura exterior °C:** 25, **°F:** 77, **Flujo de aire m³/h:** 11300, **cfm:** 6651, **Temperatura de entrada DBT °C:** 24, **DBT °F:** 75,2
-  - **62°F (17°C) - Capacidad total:** 50,60, **Mbh:** 171,75, **Capacidad sensible:** 45,32, **Mbh:** 151,23, **Consumo de energía (kW):** 20,68
-  - **67°F (19°C) - Capacidad total:** 55,42, **Mbh:** 189,09, **Capacidad sensible:** 42,67, **Mbh:** 145,60, **Consumo de energía (kW):** 21,38
-  - **72°F (22°C) - Capacidad total:** 57,64, **Mbh:** 196,05, **Capacidad sensible:** 40,35, **Mbh:** 137,67, **Consumo de energía (kW):** 21,56
-
-- **Temperatura exterior °C:** 25, **°F:** 77, **Flujo de aire m³/h:** 11300, **cfm:** 6651, **Temperatura de entrada DBT °C:** 27, **DBT °F:** 80,6
-  - **62°F (17°C) - Capacidad total:** 51,75, **Mbh:** 175,45, **Capacidad sensible:** 45,42, **Mbh:** 152,23, **Consumo de energía (kW):** 20,68
-  - **67°F (19°C) - Capacidad total:** 55,42, **Mbh:** 189,09, **Capacidad sensible:** 42,67, **Mbh:** 145,60, **Consumo de energía (kW):** 21,38
-  - **72°F (22°C) - Capacidad total:** 57,64, **Mbh:** 196,05, **Capacidad sensible:** 40,35, **Mbh:** 137,67, **Consumo de energía (kW):** 21,56
-
-(La estructura precedente se repite para las demás combinaciones de Temperatura exterior 35°C (95°F) y 46°C (115°F) con bloques de flujo de aire 9500/5591, 10000/6121 y 11300/6651 y múltiples valores de Temperatura de entrada DBT. La página contiene muchas filas numéricas adicionales con los mismos encabezados y formato. Los valores numéricos para esos bloques son visualmente presentes en la imagen pero, debido a la densidad y resolución de la fotografía, algunos dígitos y comas resultan menos legibles en su totalidad. A continuación se registran los encabezados y el patrón de datos presentes para esas secciones:)
-
-### Secciones adicionales de la tabla (estructura repetida)
-- **Temperatura exterior °C:** 35, **°F:** 95
-  - Flujo de aire: 9500 (5591), 10000 (6121), 11300 (6651)
-  - Temperaturas de entrada (DBT) mostradas por cada flujo: 24 (75,2), 27 (80,6), 29 (82,4?), 31 (87,8?) — (varios DBT por flujo)
-  - Para cada DBT y flujo, se presentan tres grupos (62°F, 67°F, 72°F) con: Capacidad total (kW y Mbh), Capacidad sensible (kW y Mbh), Consumo de energía (kW).
-- **Temperatura exterior °C:** 46, **°F:** 115
-  - Flujo de aire: 9500 (5591), 10000 (6121), 11300 (6651)
-  - Temperaturas de entrada (DBT) mostradas por cada flujo: 24, 27, 29, 31 (valores en °C y su equivalente en °F)
-  - Para cada combinación se repite la presentación de Capacidad total, Capacidad sensible y Consumo de energía para 62°F, 67°F y 72°F.
-
----
-
-### Observaciones visuales y notas de imagen
-- En la esquina superior izquierda aparece el título en una franja azul: "Características técnicas".
-- En la parte superior derecha aparece el logotipo "ARMOR".
-- En la parte inferior central aparecen los logotipos "ADINA" (izquierda) e "INVERTER" (centro).
-- Número de página impreso en la esquina inferior derecha de la imagen: 16 (aunque la instrucción indica "Página 18" para este pedido, la imagen muestra 16).
-- La tabla es extensa y contiene numerosos valores numéricos (capacidades en kW y MBh, consumos en kW) organizados por condiciones exteriores (°C/°F), flujo de aire (m³/h y cfm) y temperaturas de entrada (DBT). Los encabezados y la estructura están reproducidos arriba.
-
-### Notas y limitaciones de la transcripción
-- He transcrito de forma fiel los encabezados y las filas y valores que son claramente legibles en la imagen.
-- Algunos valores numéricos en filas posteriores o en la parte media-inferior de la tabla presentan densidad de información y pequeñas fuentes, lo que dificulta la lectura total y segura de cada dígito desde la imagen proporcionada. Donde hay claridad, los números han sido transcritos exactamente tal como aparecen.
-- Si necesita una transcripción completa y absolutamente exacta de todas las celdas numéricas, puedo procesar una imagen de mayor resolución o una versión escaneada del documento para evitar ambigüedades en dígitos y comas.
-
-Si desea, procedo a:
-- Extraer más filas específicas con aumento de resolución si me proporciona una imagen más nítida.
-- Convertir toda la tabla (cada fila) en el formato de viñetas solicitado una vez que confirme que debo continuar con la transcripción detallada de las filas menos legibles.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 19
-
-### Características técnicas
 Modelo: ADA-I-4240H236A
 
-### Encabezados de tabla (texto visible)
-- **Temperatura de bulbo seco del aire exterior**
-  - **°C**
-  - **°F**
-- **Flujo de aire**
-  - **m3/h**
-  - **cfm**
-- **Temperatura del aire de entrada (DBT)**
-  - **°C**
-  - **°F**
-- **Temperatura de bulbo húmedo del aire interior F(°C)**
-  - **62°F (17°C)**  
-    - **Capacidad total:** kW, MBh
-    - **Capacidad sensible:** kW, MBh
-    - **Consumo de energía:** kW
-  - **67°F (19°C)**  
-    - **Capacidad total:** kW, MBh
-    - **Capacidad sensible:** kW, MBh
-    - **Consumo de energía:** kW
-  - **72°F (22°C)**  
-    - **Capacidad total:** kW, MBh
-    - **Capacidad sensible:** kW, MBh
-    - **Consumo de energía:** kW
+| $\begin{aligned} & \text { C } \\ & \text { T } \end{aligned}$ | $\begin{aligned} & \text { F } \\ & \text { F } \end{aligned}$ | $\begin{aligned} & \mathrm{m}^{3} / \mathrm{h} \\ & \mathrm{r} \end{aligned}$ | cfm | Temperature del aire de entrada (DBT) | Temperatura de bulbo húmedo del aire interior ${ }^{\circ} \mathrm{F}\left({ }^{\circ} \mathrm{C}\right)$ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  | 62 F ( $17^{\circ} \mathrm{C}$ ) |  |  |  |  |  | 67 F ( $19^{\circ} \mathrm{C}$ ) |  |  |  |  | 72 F ( $22^{\circ} \mathrm{C}$ ) |  |  |  |  |
+|  |  |  |  | Capacidad total | Capacidad sensible | Consumo de energía | Capacidad total | Capacidad sensible | Consumo de energía | Capacidad total | Capacidad sensible | Consumo de energía | Capacidad total | Capacidad sensible | Consumo de energía |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| $\begin{aligned} & \text { C } \\ & \text { T } \end{aligned}$ | $\begin{aligned} & \text { F } \\ & \text { F } \end{aligned}$ | $\begin{aligned} & \mathrm{m}^{3} / \mathrm{h} \\ & \mathrm{r} \end{aligned}$ | cfm | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | kW | Mbh | kW | Mbh | kW | kW | Mbh | kW | Mbh | kW | kW | Mbh | kW | Mbh | kW |
+|  |  |  |  | 24 | 75,2 | 64,57 | 220,31 | 55,53 | 189,47 | 25,37 | 69,43 | 238,90 | 53,46 | 182,41 | 25,96 | 72,21 | 246,37 | 50,55 | 172,46 | 26,26 |
+|  |  |  |  | 27 | 80,6 | 65,45 | 223,33 | 56,29 | 192,06 | 25,96 | 70,38 | 240,14 | 54,19 | 184,91 | 26,26 | 73,20 | 249,74 | 51,24 | 174,82 | 26,55 |
+|  |  |  |  | 29 | 84,2 | 66,10 | 225,52 | 57,17 | 195,07 | 26,26 | 71,07 | 242,49 | 55,43 | 189,14 | 26,55 | 73,91 | 252,19 | 51,74 | 176,53 | 26,85 |
+|  |  |  |  | 31 | 87,8 | 66,74 | 227,71 | 58,06 | 198,10 | 26,55 | 71,76 | 244,85 | 55,97 | 190,98 | 26,85 | 74,63 | 254,64 | 52,24 | 178,25 | 27,14 |
+|  |  |  |  | 24 | 75,2 | 66,66 | 227,44 | 57,33 | 195,60 | 25,96 | 71,68 | 244,56 | 55,19 | 188,31 | 26,48 | 74,54 | 254,35 | 52,18 | 178,04 | 26,74 |
+|  |  |  |  | 27 | 80,6 | 67,34 | 229,76 | 57,91 | 197,60 | 26,26 | 72,41 | 247,06 | 55,75 | 190,23 | 26,78 | 75,30 | 256,54 | 53,47 | 182,43 | 27,05 |
+|  |  |  |  | 29 | 84,2 | 68,02 | 232,08 | 58,50 | 199,59 | 26,55 | 73,14 | 249,55 | 56,32 | 192,16 | 27,08 | 76,07 | 259,54 | 54,01 | 184,27 | 27,35 |
+|  |  |  |  | 31 | 87,8 | 68,70 | 234,41 | 59,08 | 201,59 | 26,85 | 73,87 | 252,05 | 57,62 | 196,60 | 27,38 | 76,83 | 262,13 | 54,55 | 186,11 | 27,66 |
+|  |  |  |  | 24 | 75,2 | 68,12 | 232,43 | 58,58 | 199,89 | 27,14 | 73,25 | 249,93 | 56,40 | 192,44 | 28,04 | 76,18 | 259,92 | 53,33 | 181,95 | 28,32 |
+|  |  |  |  | 27 | 80,6 | 69,05 | 235,61 | 59,39 | 202,62 | 27,44 | 74,25 | 253,34 | 57,17 | 195,07 | 28,36 | 77,22 | 263,48 | 54,05 | 184,43 | 28,62 |
+|  |  |  |  | 29 | 84,2 | 69,73 | 237,92 | 59,97 | 204,61 | 27,73 | 74,98 | 255,83 | 57,73 | 196,99 | 28,67 | 77,98 | 266,06 | 54,58 | 186,24 | 28,91 |
+|  |  |  |  | 31 | 87,8 | 70,41 | 240,23 | 60,55 | 206,60 | 28,03 | 75,71 | 258,31 | 59,05 | 201,48 | 28,99 | 78,74 | 268,64 | 55,11 | 188,05 | 29,21 |
+|  |  |  |  | 24 | 75,2 | 63,53 | 216,76 | 54,63 | 186,41 | 28,03 | 68,31 | 233,07 | 52,60 | 179,47 | 29,50 | 71,04 | 242,40 | 49,73 | 169,68 | 29,80 |
+|  |  |  |  | 27 | 80,6 | 64,17 | 218,95 | 55,19 | 188,30 | 28,32 | 69,00 | 235,43 | 53,13 | 181,28 | 29,50 | 71,76 | 244,85 | 50,23 | 171,39 | 30,39 |
+|  |  |  |  | 29 | 84,2 | 64,81 | 221,14 | 55,74 | 190,18 | 28,62 | 69,69 | 237,78 | 53,66 | 183,09 | 30,09 | 72,48 | 247,29 | 50,73 | 173,11 | 30,68 |
+|  |  |  |  | 31 | 87,8 | 65,45 | 223,33 | 56,29 | 192,06 | 28,91 | 70,38 | 240,14 | 54,19 | 184,91 | 30,68 | 73,20 | 249,74 | 51,97 | 177,32 | 30,98 |
+|  |  |  |  | 24 | 75,2 | 65,99 | 225,14 | 56,75 | 193,62 | 29,80 | 70,95 | 242,09 | 54,63 | 186,41 | 30,64 | 73,79 | 251,77 | 51,65 | 176,24 | 30,98 |
+|  |  |  |  | 27 | 80,6 | 66,71 | 227,62 | 57,37 | 195,75 | 30,09 | 71,73 | 244,75 | 55,23 | 188,46 | 30,96 | 74,60 | 254,54 | 52,22 | 178,18 | 31,27 |
+|  |  |  |  | 29 | 84,2 | 68,24 | 232,85 | 58,69 | 200,25 | 30,39 | 73,38 | 250,38 | 56,50 | 192,79 | 31,27 | 76,32 | 260,39 | 53,42 | 182,27 | 31,57 |
+|  |  |  |  | 31 | 87,8 | 69,05 | 235,61 | 59,39 | 202,62 | 30,68 | 74,25 | 253,34 | 57,17 | 195,07 | 31,57 | 77,22 | 263,48 | 54,05 | 184,43 | 31,86 |
+|  |  |  |  | 24 | 75,2 | 67,24 | 229,42 | 57,82 | 197,30 | 30,98 | 72,30 | 246,69 | 55,67 | 189,95 | 32,17 | 75,19 | 256,55 | 52,63 | 179,59 | 32,45 |
+|  |  |  |  | 27 | 80,6 | 67,92 | 231,73 | 58,41 | 199,29 | 31,27 | 73,03 | 249,18 | 56,96 | 194,36 | 32,51 | 75,95 | 259,14 | 53,17 | 181,40 | 32,75 |
+|  |  |  |  | 29 | 84,2 | 68,56 | 233,92 | 59,30 | 202,34 | 31,57 | 73,72 | 251,53 | 58,24 | 198,71 | 32,84 | 76,67 | 261,59 | 53,67 | 183,11 | 33,04 |
+|  |  |  |  | 31 | 87,8 | 69,88 | 238,43 | 60,10 | 205,05 | 31,86 | 75,14 | 256,38 | 59,36 | 202,54 | 33,18 | 78,15 | 266,63 | 54,70 | 186,64 | 33,63 |
+|  |  |  |  | 24 | 75,2 | 52,62 | 179,54 | 45,25 | 154,40 | 33,34 | 56,58 | 193,05 | 43,57 | 148,65 | 33,93 | 58,84 | 200,77 | 41,19 | 140,54 | 34,22 |
+|  |  |  |  | 27 | 80,6 | 53,26 | 181,73 | 46,07 | 157,19 | 33,93 | 57,27 | 195,41 | 44,10 | 150,46 | 34,52 | 59,56 | 203,22 | 42,29 | 144,29 | 34,52 |
+|  |  |  |  | 29 | 84,2 | 53,90 | 183,92 | 46,90 | 160,01 | 34,22 | 57,96 | 197,76 | 44,63 | 152,27 | 34,81 | 60,28 | 205,67 | 42,80 | 146,03 | 34,81 |
+|  |  |  |  | 31 | 87,8 | 54,54 | 186,11 | 47,45 | 161,91 | 34,81 | 58,65 | 200,11 | 45,75 | 156,09 | 35,11 | 61,00 | 208,12 | 43,31 | 147,76 | 35,11 |
+|  |  |  |  | 24 | 75,2 | 53,26 | 181,73 | 45,80 | 156,29 | 33,63 | 57,27 | 195,41 | 44,10 | 150,46 | 34,77 | 59,56 | 203,22 | 42,29 | 144,29 | 35,11 |
+|  |  |  |  | 27 | 80,6 | 53,90 | 183,92 | 46,36 | 158,17 | 34,22 | 57,96 | 197,76 | 44,63 | 152,27 | 35,38 | 60,28 | 205,67 | 42,80 | 146,03 | 35,70 |
+|  |  |  |  | 29 | 84,2 | 54,54 | 186,11 | 46,91 | 160,05 | 34,52 | 58,65 | 200,11 | 45,75 | 156,09 | 35,68 | 61,00 | 208,12 | 43,31 | 147,76 | 35,99 |
+|  |  |  |  | 31 | 87,8 | 55,19 | 188,30 | 47,46 | 161,93 | 34,81 | 59,34 | 202,47 | 46,29 | 157,93 | 35,98 | 61,71 | 210,57 | 43,82 | 149,50 | 36,29 |
+|  |  |  |  | 24 | 75,2 | 54,54 | 186,11 | 46,91 | 160,05 | 35,40 | 58,65 | 200,11 | 45,16 | 154,09 | 36,81 | 61,00 | 208,12 | 42,70 | 145,68 | 37,47 |
+|  |  |  |  | 27 | 80,6 | 55,19 | 188,30 | 47,46 | 161,93 | 35,99 | 59,34 | 202,47 | 45,69 | 155,90 | 37,45 | 61,71 | 210,57 | 43,20 | 147,40 | 38,06 |
+|  |  |  |  | 29 | 84,2 | 55,83 | 190,48 | 48,01 | 163,82 | 36,29 | 60,03 | 204,82 | 46,22 | 157,71 | 37,77 | 62,43 | 213,02 | 44,33 | 151,24 | 38,35 |
+|  |  |  |  | 31 | 87,8 | 56,47 | 192,67 | 49,13 | 167,63 | 36,58 | 60,72 | 207,18 | 46,75 | 159,53 | 38,09 | 63,15 | 215,46 | 44,84 | 152,98 | 38,65 |
 
-### Tabla: Datos de capacidad y consumo (transcripción por filas)
-Nota: Se mantiene la estructura visual. Donde el texto no es completamente legible se indica "[ilegible]".
+================================================================================
+PAGE 20
+================================================================================
 
-Se agrupa por "Temperatura de bulbo seco del aire exterior" (columna izquierda) con bloques para 25 °C (77 °F), 35 °C (95 °F) y 46 °C (115 °F). Dentro de cada bloque hay variaciones de Flujo de aire y Temperatura de entrada (DBT).
+# Características técnicas 
 
-- Bloque: **Temperatura exterior:** 25 °C / 77 °F
-  - Flujo de aire: **m3/h:** 13200, **cfm:** 7768
-    - Temperatura de entrada (DBT): **24 °C / 75,2 °F**
-      - **62°F (17°C) - Capacidad total kW:** 64,57, **MBh:** 220,31; **Capacidad sensible kW:** 55,53, **MBh:** 189,47; **Consumo de energía kW:** 25,37
-      - **67°F (19°C) - Capacidad total kW:** 69,43, **MBh:** 236,90; **Capacidad sensible kW:** 53,46, **MBh:** 182,41; **Consumo de energía kW:** 25,96
-      - **72°F (22°C) - Capacidad total kW:** 72,21, **MBh:** 246,37; **Capacidad sensible kW:** 50,55, **MBh:** 172,46; **Consumo de energía kW:** 26,26
-    - Temperatura de entrada (DBT): **27 °C / 80,6 °F**
-      - **62°F (17°C) - Capacidad total kW:** 65,45, **MBh:** 223,33; **Capacidad sensible kW:** 56,29, **MBh:** 192,06; **Consumo de energía kW:** 25,96
-      - **67°F (19°C) - Capacidad total kW:** 70,38, **MBh:** 240,14; **Capacidad sensible kW:** 54,19, **MBh:** 184,91; **Consumo de energía kW:** 26,26
-      - **72°F (22°C) - Capacidad total kW:** 73,20, **MBh:** 249,74; **Capacidad sensible kW:** 52,24, **MBh:** 174,82; **Consumo de energía kW:** 26,55
-    - Temperatura de entrada (DBT): **29 °C / 84,2 °F**
-      - **62°F (17°C) - Capacidad total kW:** 66,10, **MBh:** 226,60; **Capacidad sensible kW:** 57,17, **MBh:** 195,07; **Consumo de energía kW:** 26,26
-      - **67°F (19°C) - Capacidad total kW:** 71,07, **MBh:** 242,49; **Capacidad sensible kW:** 55,43, **MBh:** 189,14; **Consumo de energía kW:** 26,85
-      - **72°F (22°C) - Capacidad total kW:** 73,91, **MBh:** 252,09; **Capacidad sensible kW:** 51,92, **MBh:** [ilegible]; **Consumo de energía kW:** 26,85
-    - Temperatura de entrada (DBT): **31 °C / 87,8 °F**
-      - **62°F (17°C) - Capacidad total kW:** 67,86, **MBh:** 227,71; **Capacidad sensible kW:** 58,06, **MBh:** 198,10; **Consumo de energía kW:** 26,55
-      - **67°F (19°C) - Capacidad total kW:** 71,76, **MBh:** 244,85; **Capacidad sensible kW:** 55,97, **MBh:** 190,98; **Consumo de energía kW:** 26,85
-      - **72°F (22°C) - Capacidad total kW:** 74,63, **MBh:** 253,96; **Capacidad sensible kW:** 52,24, **MBh:** 178,25; **Consumo de energía kW:** 27,14
+## Modelo: ADA-I-4300H236A
 
-  - Flujo de aire: **m3/h:** 14300, **cfm:** 8416
-    - Temperatura de entrada (DBT): **24 °C / 75,2 °F**
-      - **62°F (17°C) - Capacidad total kW:** 75,2? [ilegible dígitos]; resto de celdas parcialmente ilegibles (valores visibles en parte pero no totalmente legibles). [Datos precisos no totalmente legibles en la imagen].
-    - Temperatura de entrada (DBT): **27 °C / 80,6 °F**
-      - [Valores parcialmente legibles; se requiere imagen de mayor resolución para transcripción completa]
-    - Temperatura de entrada (DBT): **29 °C / 84,2 °F**
-      - [Valores parcialmente legibles]
-    - Temperatura de entrada (DBT): **31 °C / 87,8 °F**
-      - [Valores parcialmente legibles]
+| Aire de Salida DBT |  | Tasa de Flujo de Aire | Aire de Entrada DBT | Temperatura de Bulbo Húmedo del Aire Interior ${ }^{\circ} \mathrm{F}\left({ }^{\circ} \mathrm{C}\right.$ ) |  |  |  |  |  |  |  |  |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  | $62^{\circ} \mathrm{F}\left(17^{\circ} \mathrm{C}\right)$ |  |  |  |  | $67^{\circ} \mathrm{F}\left(19^{\circ} \mathrm{C}\right)$ |  |  |  | $72^{\circ} \mathrm{F}\left(22^{\circ} \mathrm{C}\right)$ |  |  |  |
+|  |  |  |  | Capacidad Total |  | Capacidad Sensible |  | Entrada de Potencia | Capacidad Total |  | Capacidad Total |  | Entrada de Potencia | Capacidad Total |  | Capacidad Sensible | Capacidad Total |
+| ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | $\mathrm{m}^{3} / \mathrm{h}$ | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | $\mathrm{m}^{3} / \mathrm{h}$ | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | $\mathrm{m}^{3} / \mathrm{h}$ | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | $\mathrm{m}^{3} / \mathrm{h}$ | ${ }^{\circ} \mathrm{C}$ |  |
+| 25 | 77 | 14500 | 23 | 73,4 | 78,74 | 269 | 59,05 | 201 | 28,38 | 89,47 | 305 | 62,63 | 214 | 29,71 | 92,16 | 314 | 49,77 | 170 | 28,57 |
+|  |  |  | 24 | 75,2 | 79,54 | 271 | 63,63 | 217 | 28,67 | 90,39 | 308 | 65,98 | 225 | 30,01 | 93,10 | 318 | 54,93 | 187 | 28,87 |
+|  |  |  | 27 | 80,6 | 80,34 | 274 | 65,08 | 222 | 28,23 | 91,30 | 312 | 69,39 | 237 | 31,56 | 94,04 | 321 | 61,13 | 209 | 28,95 |
+|  |  |  | 31 | 87,8 | 81,15 | 277 | 68,16 | 233 | 27,38 | 92,21 | 315 | 72,85 | 249 | 29,91 | 94,98 | 324 | 66,49 | 227 | 29,02 |
+| 35 | 95 | 14500 | 23 | 73,4 | 71,58 | 244 | 53,68 | 183 | 32,81 | 81,34 | 278 | 56,94 | 194 | 34,65 | 83,78 | 286 | 45,24 | 154 | 33,02 |
+|  |  |  | 24 | 75,2 | 72,31 | 247 | 57,85 | 197 | 33,14 | 82,17 | 280 | 59,98 | 205 | 35,00 | 84,64 | 289 | 49,93 | 170 | 33,35 |
+|  |  |  | 27 | 80,6 | 73,04 | 249 | 59,16 | 202 | 32,42 | 83,00 | 283 | 63,08 | 215 | 35,00 | 85,49 | 292 | 55,57 | 190 | 33,38 |
+|  |  |  | 31 | 87,8 | 73,77 | 252 | 61,97 | 211 | 31,42 | 83,83 | 286 | 66,23 | 226 | 34,66 | 86,34 | 295 | 60,44 | 206 | 33,40 |
+| 46 | 115 | 14500 | 23 | 73,4 | 55,50 | 189 | 41,62 | 142 | 35,26 | 63,06 | 215 | 44,14 | 151 | 37,24 | 64,95 | 222 | 35,08 | 120 | 35,49 |
+|  |  |  | 24 | 75,2 | 56,06 | 191 | 44,85 | 153 | 35,62 | 63,71 | 217 | 46,51 | 159 | 37,62 | 65,62 | 224 | 38,71 | 132 | 35,85 |
+|  |  |  | 27 | 80,6 | 56,63 | 193 | 45,87 | 157 | 34,85 | 64,35 | 220 | 48,91 | 167 | 38,00 | 66,28 | 226 | 43,08 | 147 | 35,88 |
+|  |  |  | 31 | 87,8 | 57,76 | 197 | 48,52 | 166 | 34,11 | 65,64 | 224 | 51,85 | 177 | 37,62 | 67,61 | 231 | 47,32 | 161 | 36,26 |
 
-  - Flujo de aire: **m3/h:** 15400, **cfm:** 9063
-    - Temperatura de entrada (DBT): **24 °C / 75,2 °F**
-      - **62°F (17°C) - Capacidad total kW:** 80,6? [ilegible], **Capacidad sensible kW:** 65,?? [ilegible], **Consumo de energía kW:** 25,96? (parcialmente legible)
-    - Temperatura de entrada (DBT): **27 °C / 80,6 °F**
-      - [Parcialmente legible]
-    - Temperatura de entrada (DBT): **29 °C / 84,2 °F**
-      - [Parcialmente legible]
-    - Temperatura de entrada (DBT): **31 °C / 87,8 °F**
-      - [Parcialmente legible]
 
-- Bloque: **Temperatura exterior:** 35 °C / 95 °F
-  - Flujo de aire: **m3/h:** 13200, **cfm:** 7768
-    - Temperatura de entrada (DBT): **24 °C / 75,2 °F**
-      - **62°F (17°C) - Capacidad total kW:** 75,2? [ilegible], **Capacidad sensible kW:** 65,?? [ilegible], **Consumo de energía kW:** 29,80 (valor legible)
-      - **67°F (19°C) - ... Consumo de energía kW:** 30,09 (valor legible)
-      - **72°F (22°C) - ... Consumo de energía kW:** 30,64 (valor legible)
-    - Temperatura de entrada (DBT): **27 °C / 80,6 °F**
-      - **62°F - Consumo de energía kW:** 30,09 (legible)
-      - **67°F - Consumo de energía kW:** 30,96 (legible)
-      - **72°F - Consumo de energía kW:** 31,27 (legible)
-    - Temperatura de entrada (DBT): **29 °C / 84,2 °F**
-      - Consumos y capacidades parcialmente legibles (valores parciales visibles: e.g., consumo 31,57 en alguna celda)
-    - Temperatura de entrada (DBT): **31 °C / 87,8 °F**
-      - Valores parcialmente legibles (ej. consumo 31,57 o 31,17 en celdas distintas)
+| Aire de Salida WBT |  | Tasa de Flujo de Aire | ESP | Temperatura de Bulbo Seco del Aire Interior ${ }^{\circ} \mathrm{F}\left({ }^{\circ} \mathrm{C}\right.$ ) |  |  |  |  |  |  |  |  |  |  |  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  |  |  |  | $60.8^{\circ} \mathrm{F}\left(16^{\circ} \mathrm{C}\right)$ |  |  |  | $68^{\circ} \mathrm{F}\left(16^{\circ} \mathrm{C}\right)$ |  |  |  | $75.2^{\circ} \mathrm{F}\left(16^{\circ} \mathrm{C}\right)$ |  |  |  |
+|  |  |  |  | Capacidad Total |  |  | Entrada de Potencia |  | Capacidad Total |  |  | Entrada de Potencia | Capacidad Total |  | Entrada de Potencia |
+| ${ }^{\circ} \mathrm{C}$ | ${ }^{\circ} \mathrm{F}$ | $\mathrm{m}^{3} / \mathrm{h}$ | Pa | kW | Mbh |  | kW |  | kW | Mbh |  | kW | kW | Mbh | kW |
+| 9 | 48,2 | 14500 | 125 | 103,22 | 352 |  | 30,53 |  | 101,20 | 345 |  | 31,80 | 98,16 | 335 | 33,07 |
+| 6 | 42,8 |  |  | 93,84 | 320 |  | 28,80 |  | 92,00 | 314 |  | 30,00 | 89,24 | 304 | 31,20 |
+| 1 | 33,8 |  |  | 61,00 | 208 |  | 26,78 |  | 59,80 | 204 |  | 27,90 | 58,01 | 198 | 29,02 |
+| $-6$ | 21,2 |  |  | 52,55 | 179 |  | 23,90 |  | 51,52 | 176 |  | 24,90 | 49,97 | 171 | 25,90 |
+| $-9,5$ | 14,9 |  |  | 46,92 | 160 |  | 21,60 |  | 46,00 | 157 |  | 22,50 | 44,62 | 152 | 23,40 |
 
-  - Flujo de aire: **m3/h:** 14300, **cfm:** 8416
-    - Varias filas con valores parcialmente legibles; consumos cercanos a 32,xx kW en diferentes condiciones (valores exactos no completamente legibles).
+## NOTAS:
 
-  - Flujo de aire: **m3/h:** 15400, **cfm:** 9063
-    - Varias filas con valores parcialmente legibles; consumos y capacidades visibles parcialmente (algunas celdas legibles: consumo 32,7x, 33,x kW en diferentes combinaciones).
+(1) DBT: Temperatura de Bulbo Seco.
+(2) WBT: Temperatura de Bulbo Húmedo.
 
-- Bloque: **Temperatura exterior:** 46 °C / 115 °F
-  - Flujo de aire: **m3/h:** 13200, **cfm:** 7768
-    - Temperatura de entrada (DBT): **24 °C / 75,2 °F**
-      - Consumo de energía y capacidades parcialmente legibles; algunos consumos mostrados: 33,34 kW (62°F), 34,?? kW en otras condiciones (parcialmente legible)
-    - Temperatura de entrada (DBT): **27 °C / 80,6 °F**
-      - Consumptiones visibles parcialmente (e.g., 33,93 kW, 34,52 kW en algunas celdas)
-    - Temperatura de entrada (DBT): **29 °C / 84,2 °F**
-      - Valores parcialmente legibles; consumos alrededor de 35,x kW en algunas combinaciones
-    - Temperatura de entrada (DBT): **31 °C / 87,8 °F**
-      - Valores parcialmente legibles; consumos y capacidades en rango 35-38 kW según condición
+================================================================================
+PAGE 21
+================================================================================
 
-  - Flujo de aire: **m3/h:** 14300, **cfm:** 8416
-    - Filas con valores parcialmente legibles; consumos visibles en torno a 35-37 kW en varias condiciones
+# Características técnicas 
 
-  - Flujo de aire: **m3/h:** 15400, **cfm:** 9063
-    - Filas con valores parcialmente legibles; consumos visibles en torno a 37-38 kW en algunas celdas (valores no totalmente legibles)
-
-### Observaciones de la imagen
-- Encabezado superior izquierdo: "Caracterí sticas técnicas" (texto visible)
-- Logo superior derecho: "ARMOR" (imagen/logo)
-- Pie de página izquierdo: logo "ADINA"
-- Pie de página centro: logo "INVERTER"
-- Número de página visible en la esquina inferior derecha: **17** (nota: la instrucción original pedía Página 19 pero la imagen muestra número de página 17 en pie de página)
-- Algunas celdas de la tabla contienen valores claramente legibles (especialmente en el primer bloque: Temperatura exterior 25 °C con flujo 13200 m3/h). Otras celdas están parcialmente borrosas o demasiado pequeñas para leer con seguridad en la resolución proporcionada.
-
-### Notas y leyendas:
-- Algunos valores numéricos están parcialmente ilegibles en la imagen proporcionada; para una transcripción completa y 100% fiel de todas las celdas se requiere una imagen con mayor resolución o el archivo original del documento.
-- No se han inventado ni aproximado valores: donde no se podía leer con seguridad se ha indicado "[ilegible]" o "parcialmente legible".
-
-Si deseas, puedo:
-- Intentar una segunda pasada con foco en un área específica de la tabla (indica fila/columna o coordenadas si es posible), o
-- Esperar una versión de mayor resolución para completar la transcripción completa y exacta.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 20
-
-### Características técnicas
-ARMOR (logotipo)
-
-### Modelo
-ADA-I-4300H236A
-
----
-
-### Encabezados visibles de la tabla superior
-- Aire de Salida DBT
-  - °C
-  - °F
-- Tasa de Flujo de Aire
-  - m³/h
-- Aire de Entrada DBT
-  - °C
-  - °F
-- Temperatura de Bulbo Húmedo del Aire Interior °F (°C)
-  - 62°F (17°C)
-    - Capacidad Total
-    - Capacidad Sensible
-    - Entrada de Potencia
-  - 67°F (19°C)
-    - Capacidad Total
-    - Capacidad Sensible
-    - Entrada de Potencia
-  - 72°F (22°C)
-    - Capacidad Total
-    - Capacidad Sensible
-    - Entrada de Potencia
-
-### Tabla: Datos (parte superior)
-- **Aire de Salida DBT (°C, °F):** 25, 77
-  - **Tasa de Flujo de Aire (m³/h):** 14500
-  - Filas de Aire de Entrada DBT (°C, °F) y valores bajo 62°F (17°C), 67°F (19°C), 72°F (22°C):
-    - **Aire de Entrada DBT (°C, °F):** 23, 73,4
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 78,74, 59,05, 28,38
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 89,47, 65,23, 29,71
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 92,16, 49,77, 28,57
-    - **Aire de Entrada DBT (°C, °F):** 24, 75,2
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 79,54, 63,63, 28,67
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 90,39, 69,30, 30,01
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 93,10, 54,93, 28,87
-    - **Aire de Entrada DBT (°C, °F):** 27, 80,6
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 80,34, 65,08, 28,23
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 91,30, 69,39, 31,56
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 94,04, 61,13, 28,95
-    - **Aire de Entrada DBT (°C, °F):** 31, 87,8
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 81,77, 68,16, 23,33
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 92,21, 72,85, 29,91
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 94,98, 66,49, 29,02
-
-- **Aire de Salida DBT (°C, °F):** 35, 95
-  - **Tasa de Flujo de Aire (m³/h):** 14500
-  - Filas de Aire de Entrada DBT (°C, °F) y valores bajo 62°F (17°C), 67°F (19°C), 72°F (22°C):
-    - **Aire de Entrada DBT (°C, °F):** 23, 73,4
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 73,74, 71,58, 24,32
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 81,34, 56,94, 34,65
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 83,78, 86,28, 34,05
-    - **Aire de Entrada DBT (°C, °F):** 24, 75,2
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 72,31, 57,85, 19,7
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 82,17, 59,98, 35,00
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 84,64, 84,29, 33,35
-    - **Aire de Entrada DBT (°C, °F):** 27, 80,6
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 70,04, 59,16, 20,2
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 83,02, 63,08, 35,00
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 85,49, 92,55, 33,38
-    - **Aire de Entrada DBT (°C, °F):** 31, 87,8
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 73,77, 62,52, 21,31
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 83,83, 88,26, 34,66
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 86,34, 89,95, 33,40
-
-- **Aire de Salida DBT (°C, °F):** 46, 115
-  - **Tasa de Flujo de Aire (m³/h):** 14500
-  - Filas de Aire de Entrada DBT (°C, °F) y valores bajo 62°F (17°C), 67°F (19°C), 72°F (22°C):
-    - **Aire de Entrada DBT (°C, °F):** 23, 73,4
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 75,50, 56,09, 41,62
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 82,36, 63,06, 41,41
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 64,95, 22,35, 30,80
-    - **Aire de Entrada DBT (°C, °F):** 24, 75,2
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 56,06, 19,1, 44,85
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 73,35, 62,17, 41,61
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 65,22, 22,13, 35,85
-    - **Aire de Entrada DBT (°C, °F):** 27, 80,6
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 60,53, 19,75, 43,68
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 84,35, 20,48, 48,91
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 66,28, 23,48, 35,88
-    - **Aire de Entrada DBT (°C, °F):** 31, 87,8
-      - **62°F (17°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 57,76, 19,7, 48,52
-      - **67°F (19°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 65,64, 22,4, 51,85
-      - **72°F (22°C) - Capacidad Total, Capacidad Sensible, Entrada de Potencia:** 67,61, 23,1, 36,26
-
-(Note: la tabla superior contiene más celdas y números; lo anterior corresponde a los encabezados y a las filas y valores legibles desde la imagen en sus secciones principales. Se han mantenido los encabezados tal como aparecen y los valores numéricos visibles.)
-
----
-
-### Encabezados visibles de la tabla inferior
-- Aire de Salida WBT
-  - °C
-  - °F
-- Tasa de Flujo de Aire
-  - m³/h
-- ESP
-  - Pa
-- Temperatura de Bulbo Seco del Aire Interior °F (°C)
-  - 60.8°F (16°C)
-    - Capacidad Total
-    - Entrada de Potencia
-  - 68°F (16°C)
-    - Capacidad Total
-    - Entrada de Potencia
-  - 75.2°F (16°C)
-    - Capacidad Total
-    - Entrada de Potencia
-
-### Tabla: Datos (parte inferior)
-- **Tasa de Flujo de Aire (m³/h):** 14500
-- **ESP (Pa):** 125
-- Filas por Aire de Salida WBT (°C, °F):
-  - **Aire de Salida WBT (°C, °F):** 9, 48,2
-    - **60.8°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 103,22, 352, 30,53
-    - **68°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 101,20, 345, 31,80
-    - **75.2°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 98,16, 335, 33,07
-  - **Aire de Salida WBT (°C, °F):** 6, 42,8
-    - **60.8°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 93,84, 320, 28,80
-    - **68°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 92,00, 314, 30,00
-    - **75.2°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 89,24, 304, 31,26
-  - **Aire de Salida WBT (°C, °F):** 1, 33,8
-    - **60.8°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 61,00, 208, 26,78
-    - **68°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 59,80, 204, 27,90
-    - **75.2°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 58,01, 198, 29,02
-  - **Aire de Salida WBT (°C, °F):** -6, 21,2
-    - **60.8°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 52,55, 179, 23,90
-    - **68°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 51,52, 176, 24,90
-    - **75.2°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 49,97, 171, 25,90
-  - **Aire de Salida WBT (°C, °F):** -9,5, 14,9
-    - **60.8°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 46,92, 160, 21,60
-    - **68°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 46,00, 157, 22,50
-    - **75.2°F (16°C) - Capacidad Total (kW), Mbh, Entrada de Potencia (kW):** 44,62, 152, 23,40
-
----
-
-### NOTAS:
-- ① DBT: Temperatura de Bulbo Seco.
-- ② WBT: Temperatura de Bulbo Húmedo.
-
-(Pie de página: logotipos ADINA e INVERTER, número de página 18 visible en imagen)
-
-## BROCHURE-ARMOR-PLUS-ES - Página 21
-
-### Características técnicas
-Características técnicas
-
-### Características del Ventilador
-Características del Ventilador
+## Características del Ventilador
 
 Algunas unidades tienen velocidad de motor de ventilador ajustable y cuentan con múltiples modos de presión estática: P03, P04, P05, P06 y P07. Por defecto, la unidad está configurada en el modo de presión estática P05. El usuario puede seleccionar el modo de presión estática adecuado según la demanda real de volumen de aire.
 
 Modelo: ADA-I-4036H216A
+![img-14.jpeg](img-14.jpeg)
 
-### Gráfico: Curvas de presión estática vs volumen de aire
-- **Eje vertical (izquierda) - etiqueta:** Presión estática externa (Pa)
-- **Valores visibles en eje vertical (de arriba hacia abajo):** 150, 140, 130, 120, 110, 100, 90, 80, 70, 60, 50, 40, 30, 20, 10, 0
-- **Eje horizontal (abajo) - etiqueta:** Volumen de aire
-- **Valores visibles en eje horizontal (izquierda a derecha):** 1500, 1700, 1900, 2100, 2300, 2500, 2700, 2900
-- **Curvas numeradas visibles dentro del gráfico:** 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+================================================================================
+PAGE 22
+================================================================================
 
-### Tabla: Mapeo de curvas a modos de presión estática (leyenda a la derecha del gráfico)
-- **1:** H (P07)
-- **2:** H (P06) M (P07)
-- **3:** H (P05) M (P06)
-- **4:** H (P04) M (P05) L (P07)
-- **5:** H (P03) M (P04) L (P06)
-- **6:** M (P03) L (P05) SL (P07)
-- **7:** L (P04) SL (P07)
-- **8:** L (P03) SL (P05)
-- **9:** SL (P0 )
-- **10:** SL(P03)
+# Características técnicas 
 
-### Elementos gráficos y marcas
-- Logotipo superior derecho: ARMOR
-- Texto pequeño bajo logotipo superior derecho (visible): ROOFTOP UNITS BY ADINA
-- Logotipo inferior izquierdo: ADINA
-- Logotipo inferior centro: INVERTER
-- Número de página visible (inferior derecho): 19
-
-### Notas y leyendas:
-- El gráfico muestra la relación entre Presión estática externa (Pa) y Volumen de aire para el modelo ADA-I-4036H216A.
-- Las curvas interiores están numeradas del 1 al 10 y corresponden a los modos listados en la leyenda a la derecha.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 22
-
-### Características técnicas (BROCHURE-ARMOR-PLUS-ES - Página 22)
 Modelo: ADA-I-4066H216A / ADA-I-4066H236A
+![img-15.jpeg](img-15.jpeg)
 
-### Gráfico principal (BROCHURE-ARMOR-PLUS-ES - Página 22)
-- Eje vertical (izquierda): Presión estática externa (Pa)
-  - Valores visibles (de abajo hacia arriba): 0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180
-- Eje horizontal (inferior): Volumen de aire
-  - Valores visibles (de izquierda a derecha): 2580, 2780, 2980, 3180, 3380, 3580, 3780, 3980, 4180, 4380
-- Curvas numeradas dentro del gráfico: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+================================================================================
+PAGE 23
+================================================================================
 
-### Tabla: Leyenda de curvas / relaciones número - etiqueta (BROCHURE-ARMOR-PLUS-ES - Página 22)
-- **1:** 1-H (P07)
-- **2:** 2-H (P07) M (P07)
-- **3:** 3-H (P05) M (P06)
-- **4:** 4-H (P04) M (P05) L (P07)
-- **5:** 5-H (P03) M (P04) L (P06)
-- **6:** 6-H (P03) M (P05) SL (P07)
-- **7:** 7-L (P04) SL (P07)
-- **8:** 8-L (P03) SL (P05)
-- **9:** 9-SL (P04)
-- **10:** 10-SL (P03)
+# Características técnicas
 
-### Marcas, logos y pie de página visibles (BROCHURE-ARMOR-PLUS-ES - Página 22)
-- Logo / texto superior derecho: ARMOR
-- Logo inferior izquierdo: ADINA
-- Texto/logo inferior centro: INVERTER
-- Número de página visible en pie: 20
+## **Modelo: ADA-I-4120H236A**
 
-### Notas y leyendas adicionales extraídas (BROCHURE-ARMOR-PLUS-ES - Página 22)
-- No se observan notas al pie de página ni leyendas adicionales legibles aparte de la leyenda de curvas y las etiquetas de ejes.
+![img-16.jpeg](img-16.jpeg)
 
-## BROCHURE-ARMOR-PLUS-ES - Página 23
+### **1-H (P07)**
 
-### Título principal
-Características técnicas
+### **2-H (P07)**
 
-### Encabezado / Identificación del modelo
-Modelo: ADA-I-4120H236A
+### **M (P07)**
 
-### Gráfico principal
-- Eje vertical (izquierda): Presión estática externa (Pa)
-  - Valores visibles (de arriba abajo): 210, 195, 180, 165, 150, 135, 120, 105, 90, 75, 60, 45, 30, 15, 0
-- Eje horizontal (abajo): Volumen de aire (m³/h)
-  - Valores visibles (de izquierda a derecha): 4600, 4800, 5000, 5200, 5400, 5600, 5800, 6000, 6200, 6400, 6600
-- Números de curvas visibles sobre el gráfico: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+### **3-H (P05)**
 
-### Tabla: Leyenda de curvas / Correspondencia curvas - versiones (lista lateral derecha del gráfico)
-- **Curva 1:** 1-H (P07)
-- **Curva 2:** 2-H (P07), M (P07)
-- **Curva 3:** 3-H (P05), M (P06)
-- **Curva 4:** 4-H (P04), M (P05), L (P07)
-- **Curva 5:** 5-H (P03), M (P04), L (P06)
-- **Curva 6:** 6-H (P03), M (P05), SL (P07)
-- **Curva 7:** 7-L (P04), SL (P07)
-- **Curva 8:** 8-L (P03), SL (P05)
-- **Curva 9:** 9-SL (P04)
-- **Curva 10:** 10-SL (P03)
+### **M (P06)**
 
-### Textos, logos y pie de página visibles
-- Logo/Texto superior derecho: ARMOR
-  - Texto pequeño bajo el logo (visible): ROOFTOP UNITS BY ADINA
-- Logo inferior izquierdo: ADINA®
-- Texto/Logo inferior centro: INVERTER (con ícono)
-- Número de página visible en el pie: 21
+### **4-H (P04)**
 
-### Notas y leyendas
-- No hay notas al pie adicionales visibles en la imagen (solo las leyendas ya transcritas).
-- No aparecen tablas adicionales fuera de la leyenda de curvas.
+### **M (P05)**
 
-(Transcripción realizada respetando únicamente el texto visible en la imagen proporcionada.)
+### **L (P07)**
 
-## BROCHURE-ARMOR-PLUS-ES - Página 24
+### **5-H (P03)**
 
-Archivo: BROCHURE-ARMOR-PLUS-ES — Número de página visible en el documento: 22
+### **M (P04)**
 
-### Características técnicas
+### **L (P06)**
 
-### Modelo: ADA-I-4180H236A
+### **6-H (P03)**
+
+### **M (P05)**
+
+### **SL (P07)**
+
+### **7-L (P04)**
+
+### **SL (P07)**
+
+### **8-L (P03)**
+
+### **SL (P05)**
+
+### **9-SL (P04)**
+
+### **10-SL (P03)**
+
+### **Volumen de aire (m³/h)**
+
+================================================================================
+PAGE 24
+================================================================================
+
+# Gracteristicas técnicas 
+
+## Modelo: ADA-I-4180H236A
 
 La unidad permite cambiar la correa y cuenta con tres relaciones de transmisión, cada una correspondiente a diferentes velocidades. La relación de transmisión predeterminada de la unidad es 1.9. Las correas se combinan de la siguiente manera.
+![img-17.jpeg](img-17.jpeg)
 
-### Gráfica de rendimiento
-- Eje vertical (izquierda): Presión Estática Externa (Pa)
-  - Valores visibles (de abajo hacia arriba): 0, 25, 50, 75, 100, 125, 150, 175, 200, 225, 250, 275, 300
-- Eje horizontal (abajo): Volumen de Aire (m3/h)
-  - Valores visibles (de izquierda a derecha): 7600, 8100, 8600, 9100, 9600, 10100, 10600, 11100, 11600, 12100, 12600
-- Curvas en la gráfica: tres curvas identificadas con los números 1, 2 y 3 en la gráfica
-- Leyenda (derecha de la gráfica):
-  - Relación de Transmisión
-  - 1-1.9
-  - 2-1.8
-  - 3-1.7
+| Sección del área <br> de la correa | Diámetro de la rueda <br> pequeña $(\mathrm{mm})$ | Diámetro de la rueda <br> grande $(\mathrm{mm})$ | Longitud total de <br> la correa $(\mathrm{mm})$ | Relación de <br> transmisión |
+| :--: | :--: | :--: | :--: | :--: |
+|  | 100 | 190 | 1700 | 1.9 |
+|  | 100 | 180 | 1682 | 1.8 |
+|  | 106 | 190 | 1700 | 1.8 |
+|  | 100 | 170 | 1657 | 1.7 |
+|  | 106 | 180 | 1682 | 1.7 |
+|  | 112 | 190 | 1732 | 1.7 |
 
-### Tabla: Combinaciones de correa (Sección del área de la correa: SPA)
-Encabezados de columna (parte superior de la tabla):
-- Sección del área de la correa
-- Diámetro de la rueda pequeña (mm)
-- Diámetro de la rueda grande (mm)
-- Longitud total de la correa (mm)
-- Relación de transmisión
+================================================================================
+PAGE 25
+================================================================================
 
-Filas (cada fila como viñeta, manteniendo la correspondencia de columnas):
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 100, **Diámetro de la rueda grande (mm):** 190, **Longitud total de la correa (mm):** 1700, **Relación de transmisión:** 1.9
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 100, **Diámetro de la rueda grande (mm):** 180, **Longitud total de la correa (mm):** 1682, **Relación de transmisión:** 1.8
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 106, **Diámetro de la rueda grande (mm):** 190, **Longitud total de la correa (mm):** 1700, **Relación de transmisión:** 1.8
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 100, **Diámetro de la rueda grande (mm):** 170, **Longitud total de la correa (mm):** 1657, **Relación de transmisión:** 1.7
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 106, **Diámetro de la rueda grande (mm):** 180, **Longitud total de la correa (mm):** 1682, **Relación de transmisión:** 1.7
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 112, **Diámetro de la rueda grande (mm):** 190, **Longitud total de la correa (mm):** 1732, **Relación de transmisión:** 1.7
+# Características técnicas 
 
-### Elementos adicionales visibles
-- Encabezado superior izquierdo: Características técnicas
-- Logotipos/ marcos visibles:
-  - ARMOR (logotipo, ubicado en la parte superior derecha)
-  - ADINA (logotipo, ubicado en la parte inferior izquierda)
-  - INVERTER (logotipo, ubicado en la parte inferior central)
-- Número de página visible en el pie: 22
+## Modelo: ADA-I-4240H236A
 
-### Notas y leyendas:
-- Texto en la sección explicativa sobre la correa: "La unidad permite cambiar la correa y cuenta con tres relaciones de transmisión, cada una correspondiente a diferentes velocidades. La relación de transmisión predeterminada de la unidad es 1.9. Las correas se combinan de la siguiente manera."
-- Leyenda de relaciones de transmisión junto a la gráfica: "Relación de Transmisión 1-1.9 2-1.8 3-1.7"
-
-## BROCHURE-ARMOR-PLUS-ES - Página 25
-
-### Título principal
-Características técnicas
-
-### Modelo
-Modelo: ADA-I-4240H236A
-
-### Descripción
 La unidad permite cambiar la correa y cuenta con tres relaciones de transmisión, cada una correspondiente a diferentes velocidades. La relación de transmisión predeterminada de la unidad es 1.7. Las correas se combinan de la siguiente manera.
+![img-18.jpeg](img-18.jpeg)
 
-### Gráfico (curvas de rendimiento)
-- Eje vertical: Presión Estática Externa (Pa)
-  - Marcadores visibles: 0, 25, 50, 75, 100, 125, 150, 175, 200, 225, 250, 275, 300, 325, 350
-- Eje horizontal: Volumen de Aire (m3/h)
-  - Marcadores visibles: 11000, 12200, 13400, 14600, 15800, 17000, 18200, 19400
-- Curvas numeradas en el gráfico: 1, 2, 3
-- Cuadro lateral: Relación de Transmisión
-  - 1-1.8
-  - 2-1.7
-  - 3-1.6
+| Sección del área <br> de la correa | Diámetro de la rueda <br> pequeña (mm) | Diámetro de la rueda <br> grande (mm) | Longitud total de <br> la correa (mm) | Relación de <br> transmisión |
+| :--: | :--: | :--: | :--: | :--: |
+|  | 100 | 180 | 1482 | 1.8 |
+|  | 100 | 170 | 1457 | 1.7 |
+| SPA | 106 | 180 | 1482 | 1.7 |
+|  | 100 | 160 | 1432 | 1.6 |
+|  | 106 | 170 | 1457 | 1.6 |
+|  | 112 | 180 | 1500 | 1.6 |
 
-### Tabla: Sección del área de la correa / Dimensiones y relación de transmisión (ubicada debajo del gráfico)
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 100, **Diámetro de la rueda grande (mm):** 180, **Longitud total de la correa (mm):** 1482, **Relación de transmisión:** 1.8
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 100, **Diámetro de la rueda grande (mm):** 170, **Longitud total de la correa (mm):** 1457, **Relación de transmisión:** 1.7
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 106, **Diámetro de la rueda grande (mm):** 180, **Longitud total de la correa (mm):** 1482, **Relación de transmisión:** 1.7
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 100, **Diámetro de la rueda grande (mm):** 160, **Longitud total de la correa (mm):** 1432, **Relación de transmisión:** 1.6
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 106, **Diámetro de la rueda grande (mm):** 170, **Longitud total de la correa (mm):** 1457, **Relación de transmisión:** 1.6
-- **Sección del área de la correa:** SPA, **Diámetro de la rueda pequeña (mm):** 112, **Diámetro de la rueda grande (mm):** 180, **Longitud total de la correa (mm):** 1500, **Relación de transmisión:** 1.6
+================================================================================
+PAGE 26
+================================================================================
 
-### Encabezados y pies de página / elementos gráficos
-- Encabezado visible: Características técnicas (banda superior)
-- Logos visibles en el pie: ADINA, INVERTER
-- Número de página visible en el documento: 23
+# Características técnicas
 
-### Notas y leyendas
-- Relación de transmisión predeterminada de la unidad: 1.7 (mencionado en el párrafo)
-- Las tres relaciones de transmisión se representan en el gráfico con las curvas numeradas 1, 2 y 3 y en el recuadro lateral como 1-1.8, 2-1.7, 3-1.6
+## Modelo: ADA-I-4300H236A
 
-(Transcripción realizada conforme al contenido visible en la imagen. No se ha añadido información que no aparezca en la página capturada.)
+![img-19.jpeg](img-19.jpeg)
 
-## BROCHURE-ARMOR-PLUS-ES - Página 26
-
-### Título principal
-Características técnicas
-
-### Modelo:
-ADA-I-4300H236A
-
-### Gráfico (curva característica)
-- Eje vertical (etiqueta): Presión Estática Externa (Pa)
-- Eje horizontal (etiqueta): Volumen de Aire (m³/h)
-- Marcas visibles en el eje horizontal: 12000, 13500, 15000, 16500
-- Marcas visibles en el eje vertical (de arriba a abajo): 250, 225, 200, 175, 150, 125, 100, 75, 50, 25, 0
-- Se muestra una curva descendente dentro del área del gráfico (sin valores numéricos puntuales adicionales visibles ni leyenda asociada)
-
-### Texto debajo del gráfico:
 La relación de transmisión predeterminada de la unidad es 2.4. Las correas están ajustadas de la siguiente manera:
 
-### Tabla: (sin título visible)
-- **Curva:** 1, **Relación de transmisión:** 2.4, **Polea del motor:** 2-SPA100, **Polea del ventilador:** 2-SPA236, **Correa:** SPA(1857mm), **Presión Estática Nominal (PA):** 125, **Presión Estática Máxima (PA):** 200
+|  Curva | Relación de transmisión | Polea del motor | Polea del ventilador | Correa | Presión Estática Nominal (PA) | Presión Estática Máxima (PA)  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  1 | 2.4 | 2-SPA100 | 2-SPA236 | SPA(1857mm) | 125 | 200  |
 
-### Logos y pie de página (texto visible)
-- Logo superior derecho: ARMOR
-- Texto junto al logo superior derecho: ROOFTOP UNITS BY ADINA
-- Logo inferior izquierdo: ADINA®
-- Texto inferior central: INVERTER
-- Número de página visible en la hoja: 24
+================================================================================
+PAGE 27
+================================================================================
 
-Notas y leyendas:
-- No se observan leyendas adicionales ni títulos de tabla explícitos aparte del texto ya transcrito.
+# Características técnicas 
 
-Archivo analizado: BROCHURE-ARMOR-PLUS-ES
-Número de página indicado en la solicitud: 26
-Número de página visible en la imagen: 24
+## Diagramas Eléctricos
 
-## BROCHURE-ARMOR-PLUS-ES - Página 25
+Modelo: ADA-I-4036H216A
 
-### Título principal
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 25
+| Símbolo | Nombre |
+| :--: | :--: |
+| XT1 | Tablero de cableado (3 bits) |
+| XT2 | Tablero de cableado (2 bits) |
+| AP1 | Tarjeta de control del compresor |
+| AP2 | Tarjeta de control del motor del ventilador |
+| AP3, AP4 | Tarjeta principal |
+| COMP | Compresor inverter |
+| M1, M2 | Motor de ventilador DC |
+| 4YV | Válvula de 4 vías |
+| EKV | Válvula de expansión electrónica |
+| HP | Interruptor de alta presión |
+| LP | Interruptor de baja presión |
+| RT1 | Sensor de temperatura de tubería exterior |
+| RT2 | Sensor de temperatura ambiental exterior |
+| RT3 | Sensor de temperatura de descarga |
+| 20K | Sensor de temperatura de tubería interior |
+| 15K | Sensor de temperatura ambiental interior |
+| 0H | Calentador de banda del compresor |
 
-- Características técnicas
-- Diagramas Eléctricos
-- Modelo: ADA-I-4036H216A
+![img-20.jpeg](img-20.jpeg)
 
-### Tabla de símbolos (Símbolo / Nombre)
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 25
+Esquema de las partes eléctricas en el primer nivel de la caja eléctrica
+![img-21.jpeg](img-21.jpeg)
 
-- **Símbolo:** XT1, **Nombre:** Tablero de cableado (3 bits)
-- **Símbolo:** XT2, **Nombre:** Tablero de cableado (2 bits)
-- **Símbolo:** AP1, **Nombre:** Tarjeta de control del compresor
-- **Símbolo:** AP2, **Nombre:** Tarjeta de control del motor del ventilador
-- **Símbolo:** AP3, AP4, **Nombre:** Tarjeta principal
-- **Símbolo:** COMP, **Nombre:** Compresor inverter
-- **Símbolo:** M1, M2, **Nombre:** Motor de ventilador DC
-- **Símbolo:** 4VY, **Nombre:** Válvula de 4 vías
-- **Símbolo:** EKV, **Nombre:** Válvula de expansión electrónica
-- **Símbolo:** HP, **Nombre:** Interruptor de alta presión
-- **Símbolo:** LP, **Nombre:** Interruptor de baja presión
-- **Símbolo:** RT1, **Nombre:** Sensor de temperatura de tubería exterior
-- **Símbolo:** RT2, **Nombre:** Sensor de temperatura ambiental exterior
-- **Símbolo:** RT3, **Nombre:** Sensor de temperatura de descarga
-- **Símbolo:** 20K, **Nombre:** Sensor de temperatura de tubería interior
-- **Símbolo:** 15K, **Nombre:** Sensor de temperatura ambiental interior
-- **Símbolo:** EH, **Nombre:** Calentador de banda del compresor
+Esquema de las partes eléctricas en el segundo nivel de la caja eléctrica
+![img-22.jpeg](img-22.jpeg)
 
-### Esquemas de la caja eléctrica (diagramas simplificados)
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 25
+Nota:
 
-- Esquema de las partes eléctricas en el primer nivel de la caja eléctrica
-  - Representación gráfica: AP3 encima de AP4; conectores XT2 y XT1 en la parte inferior del dibujo.
-- Esquema de las partes eléctricas en el segundo nivel de la caja eléctrica
-  - Representación gráfica: AP1 en la parte superior del recuadro y AP2 en la parte inferior del recuadro.
+1.El control central es un accesorio opcional
+2. La función de extensión es un accesorio opcional
 
-### Esquema eléctrico principal (texto visible dentro del diagrama)
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 25
+================================================================================
+PAGE 28
+================================================================================
 
-- Textos/etiquetas claramente legibles en el esquema:
-  - POWER
-  - XT1
-  - XT2
-  - L1
-  - AP3
-  - AP4
-  - AP1
-  - AP2
-  - X1
-  - X2
-  - M1
-- Nota: El diagrama contiene muchos símbolos, líneas de conexión y textos pequeños dentro del esquema que se muestran gráficamente. Se han transcrito arriba las etiquetas de texto claramente legibles sin añadir contenido no visible en la imagen.
+# Características técnicas 
 
-### Notas y leyendas
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 25
+## Diagramas Eléctricos
 
-- Nota:
-  - 1. El control central es un accesorio opcional
-  - 2. La función de extensión es un accesorio opcional
+Modelo: ADA-I-4066H216A
+![img-23.jpeg](img-23.jpeg)
 
-### Marcas y pie de página
-Archivo: BROCHURE-ARMOR-PLUS-ES - Página 25
+Esquema de las partes eléctricas en el primer nivel de la caja eléctrica 1
 
-- Logos visibles: ADINA, INVERTER
-- Número de página visible en el documento: 25
+Esquema de las partes eléctricas en el segundo nivel de la caja eléctrica 2
+![img-24.jpeg](img-24.jpeg)
 
-Notas finales:
-- Se ha respetado el texto visible sin introducir información no presente en la imagen.
-- Las tablas han sido convertidas a viñetas manteniendo encabezados en negrita.
+## Nota:
 
-## BROCHURE-ARMOR-PLUS-ES - Página 28
+1.El control central es un accesorio opcional
+2. La función de extensión es un accesorio opcional
 
-### Características técnicas
-- Características técnicas
+================================================================================
+PAGE 29
+================================================================================
 
-### Diagrams Eléctricos (Título principal)
-- Diagramas Eléctricos
+# Características técnicas 
 
-### Modelo
-- Modelo: ADA-I-4066H216A
+## Diagramas Eléctricos
 
-### Tabla: Símbolos y nombres
-- **Símbolo:** XT1, **Nombre:** Tablero de cableado (3 bits)
-- **Símbolo:** XT2, **Nombre:** Tablero de cableado (2 bits)
-- **Símbolo:** AP1, **Nombre:** Tarjeta de filtro de ondas
-- **Símbolo:** AP2, **Nombre:** Tarjeta de control del compresor
-- **Símbolo:** AP3, AP5, **Nombre:** Tarjeta principal
-- **Símbolo:** AP4, AP6, **Nombre:** Tarjeta de control del motor del ventilador
-- **Símbolo:** COMP, **Nombre:** Compresor inverter
-- **Símbolo:** M1, M2, **Nombre:** Motor de ventilador DC
-- **Símbolo:** L1~L2, **Nombre:** Reactor
-- **Símbolo:** 4V/V, **Nombre:** Válvula de 4 vías
-- **Símbolo:** EKV, **Nombre:** Válvula de expansión electrónica
-- **Símbolo:** HP, **Nombre:** Interruptor de alta presión
-- **Símbolo:** LP, **Nombre:** Interruptor de baja presión
-- **Símbolo:** 20K (AP3), **Nombre:** Sensor de temperatura de tubería exterior
-- **Símbolo:** 15K (AP3), **Nombre:** Sensor de temperatura ambiental exterior
-- **Símbolo:** 50K (AP3), **Nombre:** Sensor de temperatura de descarga
-- **Símbolo:** 20K (AP4), **Nombre:** Sensor de temperatura de tubería interior
-- **Símbolo:** 15K (AP5), **Nombre:** Sensor de temperatura ambiental interior
-- **Símbolo:** 1EA, **Nombre:** Calentador de banda del compresor
-- **Símbolo:** AP10, **Nombre:** Tarjeta de alimentación
-
-### Esquemas (pequeños diagramas)
-- Esquema de las partes eléctricas en el primer nivel de la caja eléctrica 1
-  - (Ilustración con caja que contiene: AP3, XT1, XT2)
-- Esquema de las partes eléctricas en el segundo nivel de la caja eléctrica 1
-  - (Ilustración con cajas que contienen: AP10, AP2, AP1, AP4)
-- Esquema de las partes eléctricas en la caja eléctrica 2
-  - (Ilustración con cajas que contienen: AP6, L2, AP5)
-
-### Diagrama principal
-- (Imagen: esquema eléctrico detallado de conexiones y componentes. Contenido visible como diagrama esquemático técnico sin texto adicional transcribible más allá de los componentes ya listados)
-
-### Notas y leyendas:
-- Nota:
-  - 1. El control central es un accesorio opcional
-  - 2. La función de extensión es un accesorio opcional
-
-### Encabezados y pies de página / Marcas visibles
-- Texto visible en encabezado: Características técnicas
-- Logos/Marcas visibles: ADINA, INVERTER
-- Número de página visible en el documento: 26
-
---- 
-
-(Transcripción realizada por OCR respetando el texto y la estructura visual presentes en la página)
-
-## BROCHURE-ARMOR-PLUS-ES - Página 29
-
-### Archivo: BROCHURE-ARMOR-PLUS-ES
-### Número de página (visible en el documento): 27
-
-### Título principal
-Diagramas Eléctricos
-
-### Modelo
 Modelo: ADA-I-4066H236A
+![img-25.jpeg](img-25.jpeg)
+![img-26.jpeg](img-26.jpeg)
 
-### Sección: Encabezado superior
-Características técnicas
+Esquema de las partes eléctricas en el primer nivel de la caja eléctrica 1
+![img-27.jpeg](img-27.jpeg)
 
-### Tabla: Símbolos y nombres
-- **Símbolo:** XT1, **Nombre:** Tablero de cableado (3 bits)
-- **Símbolo:** XT2, **Nombre:** Tablero de cableado (2 bits)
-- **Símbolo:** AP1, **Nombre:** Tarjeta de filtro de ondas
-- **Símbolo:** AP2, **Nombre:** Tarjeta de control del compresor
-- **Símbolo:** AP3, AP5, **Nombre:** Tarjeta principal
-- **Símbolo:** AP4, AP6, **Nombre:** Tarjeta de control del motor del ventilador
-- **Símbolo:** COMP, **Nombre:** Compresor inverter
-- **Símbolo:** M1, M2, **Nombre:** Motor de ventilador DC
-- **Símbolo:** L1 ~ L2, **Nombre:** Reactor
-- **Símbolo:** 4VY, **Nombre:** Válvula de 4 vías
-- **Símbolo:** EKV, **Nombre:** Válvula de expansión electrónica
-- **Símbolo:** HP, **Nombre:** Interruptor de alta presión
-- **Símbolo:** LP, **Nombre:** Interruptor de baja presión
-- **Símbolo:** 20K (AP3), **Nombre:** Sensor de temperatura de tubería exterior
-- **Símbolo:** 15K (AP3), **Nombre:** Sensor de temperatura ambiental exterior
-- **Símbolo:** 50K (AP3), **Nombre:** Sensor de temperatura de descarga
-- **Símbolo:** 20K (AP5), **Nombre:** Sensor de temperatura de tubería interior
-- **Símbolo:** 15K (AP5), **Nombre:** Sensor de temperatura ambiental interior
-- **Símbolo:** EH, **Nombre:** Calentador de banda del compresor
+Esquema de las partes eléctricas en el segundo nivel de la caja eléctrica 2
+![img-28.jpeg](img-28.jpeg)
 
-### Sección: Diagramas en recuadros (etiquetas visibles)
-- Recuadro izquierdo (primer nivel de la caja eléctrica 1): KM, AP3, XT2, XT1
-- Recuadro central (segundo nivel de la caja eléctrica 1): L1, AP2, AP1, AP4
-- Recuadro derecho (caja eléctrica 2): AP6, L2, AP5
+## Nota:
 
-### Leyendas debajo de los recuadros
-- Esquema de las partes eléctricas en el primer nivel de la caja eléctrica 1
-- Esquema de las partes eléctricas en el segundo nivel de la caja eléctrica 1
-- Esquema de las partes eléctricas en la caja eléctrica 2
+1.El control central es un accesorio opcional
+2. La función de extensión es un accesorio opcional
 
-### Sección: Diagrama esquemático principal
-- Imagen: Diagrama eléctrico detallado (esquema completo con múltiples conexiones, tarjetas y componentes). (El documento contiene un esquema gráfico grande con numerosas etiquetas y símbolos; el texto pequeño dentro de esta imagen no es totalmente legible en la vista proporcionada, por lo que aquí se transcribe sólo el texto claramente visible en la página fuera de la imagen).
+================================================================================
+PAGE 30
+================================================================================
 
-### Notas
-- Nota:
-- 1.El control central es un accesorio opcional
-- 2. La función de extensión es un accesorio opcional
+# Características técnicas 
 
-### Logos y marca
-- ADINA
-- INVERTER
+## Diagramas Eléctricos
 
-### Pie de página / número de página
-- Número de página visible en el documento: 27
-
---- 
-
-Fin de la transcripción fiel de la página.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 30
-
-### Título principal
-Diagramas Eléctricos
-
-### Subtítulo / Modelo
 Modelo: ADA-I-4120H236A
+![img-29.jpeg](img-29.jpeg)
+![img-30.jpeg](img-30.jpeg)
 
-### Encabezado superior / Marca
-- Características técnicas
-- ARMOR
+Esquema de las piezas eléctricas en la caja eléctrica 1
+![img-31.jpeg](img-31.jpeg)
 
-### Tabla: Símbolo y Nombre (tabla original convertida a viñetas)
-- **Símbolo:** XT1, **Nombre:** Tarjeta de conexiones (3bit)
-- **Símbolo:** XT2, **Nombre:** Tarjeta de conexiones (2bit)
-- **Símbolo:** AP1, **Nombre:** Tarjeta de filtro de onda
-- **Símbolo:** AP2, **Nombre:** Tarjeta de control del compresor
-- **Símbolo:** AP3, AP5, **Nombre:** Tarjeta principal
-- **Símbolo:** AP4, AP6, **Nombre:** Tarjeta de control del motor del ventilador
-- **Símbolo:** COMP, **Nombre:** Compresor inverter
-- **Símbolo:** M1, M2, **Nombre:** Motor de ventilador DC
-- **Símbolo:** L1 - L2, **Nombre:** Reactor
-- **Símbolo:** 4V, **Nombre:** Válvula de 4 vías
-- **Símbolo:** EKV1, **Nombre:** Bobina de la válvula de expansión electrónica de enfriamiento
-- **Símbolo:** EKV2, **Nombre:** Bobina de la válvula de expansión electrónica de calefacción
-- **Símbolo:** HP, **Nombre:** Interruptor de alta presión
-- **Símbolo:** LP, **Nombre:** Interruptor de baja presión
-- **Símbolo:** RT1 (AP3), **Nombre:** Sensor de temperatura de tubería exterior
-- **Símbolo:** RT2 (AP3), **Nombre:** Sensor de temperatura ambiental exterior
-- **Símbolo:** RT3 (AP2), **Nombre:** Sensor de temperatura de descarga
-- **Símbolo:** 20K (AP5), **Nombre:** Sensor de temperatura de tubería interior
-- **Símbolo:** 15K (AP5), **Nombre:** Sensor de temperatura ambiental interior
-- **Símbolo:** EH, **Nombre:** Calentador de banda del compresor
+Esquema de las piezas eléctricas en la caja eléctrica 2
+![img-32.jpeg](img-32.jpeg)
 
-### Esquema de las piezas eléctricas en la caja eléctrica 1
-- Elementos visibles dentro del recuadro:
-  - L1
-  - KM
-  - AP4
-  - AP3
-  - AP2
-  - AP1
-  - XT2
-  - XT1
+## Nota:
 
-### Esquema de las piezas eléctricas en la caja eléctrica 2
-- Elementos visibles dentro del recuadro:
-  - AP6
-  - L2
-  - AP5
+1.El control central es un accesorio opcional
+2. La función de extensión es un accesorio opcional
 
-### Diagrama eléctrico principal
-- En la página aparece un esquema eléctrico detallado (gráfico) con múltiples conexiones y componentes identificados por etiquetas como AP2, AP3, AP5, AP6, M1, M2, XT1, XT2, EKV1, EKV2, COMP, entre otros. (Contenido representado gráficamente; texto pequeño y simbología dentro del diagrama visibles en la imagen)
+================================================================================
+PAGE 31
+================================================================================
 
-### Notas y leyendas:
-- Nota:
-  - 1.El control central es un accesorio opcional
-  - 2. La función de extensión es un accesorio opcional
+# Características técnicas 
 
-### Encabezado / Pie de página y marcas
-- ADINA
-- INVERTER
-- Número de página visible en el documento: 28
+## Diagramas Eléctricos
 
-(Archivo: BROCHURE-ARMOR-PLUS-ES, Página analizada: imagen proporcionada mostrando página con número 28)
-
-## BROCHURE-ARMOR-PLUS-ES - Página 29
-
-### Características técnicas
-Diagramas Eléctricos
 Modelo: ADA-I-4180H236A
+![img-33.jpeg](img-33.jpeg)
 
-### Tabla: Símbolo / Nombre
-- **Símbolo:** XT1,XT2,XT3, **Nombre:** Tablero de terminales
-- **Símbolo:** AP1,AP2, **Nombre:** Placa de filtro
-- **Símbolo:** AP3,AP4, **Nombre:** Placa de control del compresor
-- **Símbolo:** AP5,AP8, **Nombre:** Placa principal
-- **Símbolo:** AP7, **Nombre:** Placa de control del motor del ventilador
-- **Símbolo:** COMP1,COMP2, **Nombre:** Compresor inverter
-- **Símbolo:** M1, **Nombre:** Motor DC del condensador
-- **Símbolo:** M2, **Nombre:** Motor del ventilador de suministro
-- **Símbolo:** L1,L2, **Nombre:** Reactor
-- **Símbolo:** EH1,EH2, **Nombre:** Banda calefactora del compresor
-- **Símbolo:** VV1, **Nombre:** Bobina de la válvula de 4 vías
-- **Símbolo:** PM, **Nombre:** Protector de fase
-- **Símbolo:** KMA1,KMA2,KM3, **Nombre:** Contactor de CA
-- **Símbolo:** EKV1, **Nombre:** Bobina de la válvula de expansión electrónica para refrigeración
-- **Símbolo:** EKV2, **Nombre:** Bobina de la válvula de expansión electrónica para calefacción
-- **Símbolo:** HP, **Nombre:** Interruptor de alta presión
-- **Símbolo:** LP, **Nombre:** Interruptor de baja presión
-- **Símbolo:** 50K, **Nombre:** Sensor de temperatura de descarga
-- **Símbolo:** 20K, **Nombre:** Sensor de temperatura de tubería
-- **Símbolo:** 15K, **Nombre:** Sensor de temperatura ambiental
+Esquema de las piezas eléctricas en la caja eléctrica 1
+![img-34.jpeg](img-34.jpeg)
 
-### Esquema de las piezas eléctricas en la caja eléctrica 1
-- AP7
-- AP4
-- AP3
-- AP2
-- AP1
-- XT2 (marcado junto a la caja)
-- XT1 (marcado junto a la caja)
-- PM (marcado junto a la caja)
-- KMB (marcado junto a la caja)
-- Leyenda debajo: Esquema de las piezas eléctricas en la caja eléctrica 1
+Esquema de las piezas eléctricas en la caja eléctrica 2
+![img-35.jpeg](img-35.jpeg)
 
-### Esquema de las piezas eléctricas en la caja eléctrica 2
-- AP8 (resaltado en la caja)
-- KM
-- KM2
-- AP5
-- XT3
-- Leyenda debajo: Esquema de las piezas eléctricas en la caja eléctrica 2
+Nota:
 
-### Diagrama esquemático
-- Diagrama eléctrico completo (representación gráfica grande en la mitad inferior de la página). (Contenido gráfico: conexiones, símbolos eléctricos y componentes según la figura; texto de detalle en el diagrama no transcrito de forma literal por tratarse de elementos gráficos densos.)
+1.El control central es un accesorio opcional
+2. La función de extensión es un accesorio opcional
 
-### Notas y leyendas:
-- Nota:
-  - 1.El control central es un accesorio opcional
-  - 2. La función de extensión es un accesorio opcional
+================================================================================
+PAGE 32
+================================================================================
 
-### Marcas y pie de página
-- ADINA
-- INVERTER
-- 29
+# Características técnicas 
 
-## BROCHURE-ARMOR-PLUS-ES - Página 32
+## Diagramas Eléctricos
 
-### Título principal
-Características técnicas
-
-### Título secundario
-Diagramas Eléctricos
-
-### Modelo
 Modelo: ADA-I-4240H236A
+![img-36.jpeg](img-36.jpeg)
 
-### Tabla: Símbolo / Nombre
-- **Símbolo:** XT1,XT2,XT3,XT4,XT5,XT6
-  - **Nombre:** Tablero de terminales
-- **Símbolo:** AP1,AP2
-  - **Nombre:** Placa de filtro
-- **Símbolo:** AP3,AP4
-  - **Nombre:** Placa de control del compresor
-- **Símbolo:** AP5,AP6
-  - **Nombre:** Placa principal
-- **Símbolo:** AP6,AP7
-  - **Nombre:** Placa de control del motor del ventilador
-- **Símbolo:** CMP1,CMP2
-  - **Nombre:** Compresor inverter
-- **Símbolo:** M1,M2
-  - **Nombre:** Motor DC del condensador
-- **Símbolo:** M3
-  - **Nombre:** Motor del ventilador de suministro
-- **Símbolo:** L1,L2
-  - **Nombre:** Reactor
-- **Símbolo:** EH1,EH3
-  - **Nombre:** Banda calefactora del compresor
-- **Símbolo:** YV1
-  - **Nombre:** Bobina de la válvula de 4 vías
-- **Símbolo:** PM
-  - **Nombre:** Protector de fase
-- **Símbolo:** KM1,KM2,KM3
-  - **Nombre:** Contactor de CA
-- **Símbolo:** EKV1
-  - **Nombre:** Bobina de la válvula de expansión electrónica para refrigeración
-- **Símbolo:** EKV2
-  - **Nombre:** Bobina de la válvula de expansión electrónica para calefacción
-- **Símbolo:** HP
-  - **Nombre:** Interruptor de alta presión
-- **Símbolo:** LP
-  - **Nombre:** Interruptor de baja presión
-- **Símbolo:** RT3 50K
-  - **Nombre:** Sensor de temperatura de descarga del compresor 1
-- **Símbolo:** RT1 20K
-  - **Nombre:** Sensor de temperatura de tubería de la unidad exterior
-- **Símbolo:** RT2 15K
-  - **Nombre:** Sensor de temperatura ambiental de la unidad exterior
-- **Símbolo:** 50K
-  - **Nombre:** Sensor de temperatura de descarga del compresor 2
-- **Símbolo:** 20K
-  - **Nombre:** Sensor de temperatura de tubería de la unidad interior
-- **Símbolo:** 15K
-  - **Nombre:** Sensor de temperatura ambiental de la unidad interior
+Esquema de las piezas eléctricas en la caja eléctrica 1
+![img-37.jpeg](img-37.jpeg)
 
-### Esquema de las piezas eléctricas en la caja eléctrica 1
-- Elementos visibles (disposición gráfica):
-  - AP4
-  - AP3
-  - AP6
-  - AP7
-  - KM
-  - KMB
-  - XT3
-  - XT5
-  - XT4
-- Leyenda bajo esquema: "Esquema de las piezas eléctricas en la caja eléctrica 1"
+Nota:
 
-### Esquema de las piezas eléctricas en la caja eléctrica 2
-- Elementos visibles (disposición gráfica):
-  - AP2
-  - AP1
-  - AP8
-  - XT1
-  - XT2
-  - KMB
-  - PM
-  - XT6
-- Leyenda bajo esquema: "Esquema de las piezas eléctricas en la caja eléctrica 2"
+1.El control central es un accesorio opcional
+2. La función de extensión es un accesorio opcional
 
-### Diagrama eléctrico principal (imagen)
-- Imagen central: esquema eléctrico detallado (gráfico grande)
-- Texto pequeño visible en el área superior izquierda del diagrama: L1~, L2~, L3~ (ubicación aproximada, texto en imagen)
-- Nota: El diagrama contiene múltiples símbolos, líneas de conexión y componentes (texto del diagrama representado como imagen; ver gráfico para detalle visual)
+================================================================================
+PAGE 33
+================================================================================
 
-### Notas y leyendas (pie de página)
-- Nota:
-  - 1.El control central es un accesorio opcional
-  - 2. La función de extensión es un accesorio opcional
+# Características técnicas 
 
-### Marcas y pie de página
-- Logo/Marca visible: ADINA
-- Logo/Marca visible: INVERTER
-- Número de página visible en el documento: 30
+## Diagramas Eléctricos
 
-(Archivo: BROCHURE-ARMOR-PLUS-ES — página indicada en el encabezado: 32; número de página visible en pie de página de la imagen: 30)
-
-## BROCHURE-ARMOR-PLUS-ES - Página 31
-
-### Características técnicas
-Diagramas Eléctricos
 Modelo: ADA-I-4300H236A
+![img-38.jpeg](img-38.jpeg)
+![img-39.jpeg](img-39.jpeg)
 
-### Tabla: Símbolo / Nombre
-- **AP1:** Placa de filtro de CA 1
-- **AP2:** Placa de filtro de CA 2
-- **AP3:** Placa de control del compresor 1
-- **AP4:** Placa de control del compresor 2
-- **AP5:** Placa de control del motor del ventilador 1
-- **AP6:** Placa de control del motor del ventilador 2
-- **AP7:** Placa de control principal
-- **COMP1:** Compresor 1
-- **COMP2:** Compresor 2
-- **EH1:** Banda calefactora eléctrica del compresor 1
-- **EH2:** Banda calefactora eléctrica del compresor 2
-- **EV1:** Bobina de válvula de expansión eléctrica 1
-- **EV2:** Bobina de válvula de expansión eléctrica 2
-- **EV3:** Bobina de válvula de expansión eléctrica 3
-- **EV4:** Bobina de válvula de expansión eléctrica 4
-- **HP1:** Interruptor de alta presión 1
-- **HP2:** Interruptor de alta presión 2
-- **KM:** Contacto del relé
-- **L1:** Contacto/terminal L1
-- **L2:** Contacto/terminal L2
-- **M1:** Motor del ventilador 1
-- **M2:** Motor del ventilador 2
-- **M3:** Motor del ventilador 3
-- **M4:** Motor del ventilador 4
-- **RT1:** Sensor de temperatura de la tubería de entrada del evaporador 1
-- **RT2:** Sensor de temperatura de la tubería de salida del evaporador 1
-- **RT3:** Sensor de temperatura de la tubería de entrada del evaporador 2
-- **RT4:** Sensor de temperatura de la tubería de salida del evaporador 2
-- **RT5:** Sensor de temperatura de la tubería de entrada del condensador 1
-- **RT6:** Sensor de temperatura de la tubería de salida del condensador 1
-- **RT7:** Sensor de temperatura de la tubería de entrada del condensador 2
-- **RT8:** Sensor de temperatura de la tubería de salida del condensador 2
-- **RT9:** Sensor de temperatura ambiente interior
-- **RT10:** Sensor de temperatura ambiente exterior
-- **RT11:** Sensor de temperatura (detalle no legible en imagen)
-- **RT12:** Sensor de temperatura (detalle no legible en imagen)
-- **RT13:** Sensor de temperatura (detalle no legible en imagen)
-- **SP1:** Sensor de presión 1
-- **SP2:** Sensor de presión 2
-- **SP3:** Sensor de presión 3
-- **SP4:** Sensor de presión 4
-- **SP5:** Sensor de presión 5
-- **SP6:** Sensor de presión 6
-- **XT1:** Placa de conexiones XT1
-- **XT2:** Placa de conexiones XT2
-- **XV1:** Válvula de 4 vías 1
-- **YV2:** Válvula de 4 vías 2
+Esquema de las piezas eléctricas en la caja eléctrica 1
+![img-40.jpeg](img-40.jpeg)
 
-Nota: Algunos renglones de texto muy pequeños en la tabla eran difíciles de leer con total claridad; los elementos no legibles se han indicado como tal para no introducir información no visible.
+Esquema de las piezas eléctricas en la caja eléctrica 2
+![img-41.jpeg](img-41.jpeg)
 
-### Esquemas de las piezas eléctricas (diagrama gráfico, etiquetas)
-- Esquema de las piezas eléctricas en la caja eléctrica 1:
-  - AP7 (caja grande superior)
-  - AP2 (caja izquierda inferior)
-  - AP1 (caja derecha inferior)
-  - XT1 (terminal inferior izquierda)
-  - XT2 (terminal inferior derecha)
-  - Leyenda bajo el esquema: "Esquema de las piezas eléctricas en la caja eléctrica 1"
-- Esquema de las piezas eléctricas en la caja eléctrica 2:
-  - AP5 (caja superior izquierda)
-  - L1 (debajo de AP5)
-  - AP3 (caja superior derecha)
-  - AP6 (caja central izquierda)
-  - AP4 (caja central derecha)
-  - KM (caja inferior izquierda)
-  - L2 (caja inferior derecha)
-  - Leyenda bajo el esquema: "Esquema de las piezas eléctricas en la caja eléctrica 2"
+Nota:
 
-### Diagrama eléctrico principal
-- Diagrama esquemático completo de conexiones eléctricas entre fuentes de alimentación, placas AP (AP1, AP2, AP3, AP4, AP5, AP6, AP7), compresores (COMP1/COMP2), motores (M1..M4), válvulas de expansión (EV1..EV4), sensores (RT1..RT13, SP1..SP6), placas de conexión XT1/XT2, y otros componentes. (El diagrama se muestra en la parte central-inferior de la página como un gráfico detallado; texto en el diagrama representa conexiones y terminales entre los elementos listados).
+1.El control central es un accesorio opcional
+2. La función de extensión es un accesorio opcional
 
-### Notas y leyendas:
-- Nota:
-  1. El control central es un accesorio opcional
-  2. La función de extensión es un accesorio opcional
+================================================================================
+PAGE 34
+================================================================================
 
-### Encabezados / pies de página / marcas
-- Logotipo: ARMOR (esquina superior derecha)
-- Logotipo: ADINA (esquina inferior izquierda)
-- Logotipo: INVERTER (junto a ADINA)
-- Número de página visible: 31
+# Características técnicas
 
-(Transcripción realizada respetando el texto visible en la imagen. Se han marcado como no legibles las descripciones de algunos sensores cuya tipografía era demasiado pequeña para una lectura segura en la imagen proporcionada.)
+## Posición de Instalación
 
-## BROCHURE-ARMOR-PLUS-ES - Página 34
+![img-42.jpeg](img-42.jpeg)
 
-### Posición de Instalación
-Posición de Instalación
+|  Espacios de Instalación para Suministro/Retorno Lateral de 3 y 5.5 Toneladas |  |   |
+| --- | --- | --- |
+|  **DIMENSIÓN (Mínima)** | mm | Pulgadas  |
+|  A | 600 | 24  |
+|  B | 1100 | 43  |
+|  C | 860 | 34  |
+|  D | 1100 | 43  |
+|  E | 1100 | 43  |
 
-### Encabezados y elementos de página
-- **Encabezado (banner superior izquierdo):** Características técnicas
-- **Logo superior derecho:** ARMOR
-- **Texto bajo logo superior derecho (visible):** ROOFTOP UNITS BY ADINA
-- **Logos pie de página (izquierda y centro):** ADINA®, INVERTER
-- **Número de página visible en pie:** 32
+================================================================================
+PAGE 35
+================================================================================
 
-### Ilustraciones y etiquetas (texto visible en los diagramas)
-- Instalación de Base en Techo
-- Instalación Sobre Losa en el Suelo
-- Conducto de Aire de Suministro
-- Conducto de Aire de Retorno
-- Espacio Libre A
-- Espacio Libre B
-- Espacio Libre C
-- Espacio Libre D
-- Espacio Libre E
+# Características técnicas 
 
-### Tabla: Espacios de Instalación para Suministro/Retorno Lateral de 3 y 5.5 Toneladas
-- **DIMENSIÓN (Mínima):** A, **mm:** 600, **Pulgadas:** 24
-- **DIMENSIÓN (Mínima):** B, **mm:** 1100, **Pulgadas:** 43
-- **DIMENSIÓN (Mínima):** C, **mm:** 860, **Pulgadas:** 34
-- **DIMENSIÓN (Mínima):** D, **mm:** 1100, **Pulgadas:** 43
-- **DIMENSIÓN (Mínima):** E, **mm:** 1100, **Pulgadas:** 43
+![img-43.jpeg](img-43.jpeg)
 
-### Notas y leyendas
-- No hay notas al pie adicionales visibles en la página.
+| Espacios Libres para Instalación de Suministro/Retorno Lateral de 10 - 20 Toneladas |  |  |
+| :--: | :--: | :--: |
+| DIMENSIÓN (Mínima) | mm | Palgadas |
+| A | 1000 | 39 |
+| B | 1500 | 59 |
+| C | 1100 | 43 |
+| D | 1100 | 43 |
+| E | 1830 | 72 |
 
-## BROCHURE-ARMOR-PLUS-ES - Página 35
+================================================================================
+PAGE 36
+================================================================================
 
-### Título principal
-Características técnicas
+# Características técnicas 
 
-### Encabezados y marcas
-- ARMOR
-- ROOFTOP UNITS BY ADINA
+![img-44.jpeg](img-44.jpeg)
+(1) Espacio Libre A
+(2) Espacio Libre B
+(3) Espacio Libre C
+(4) Espacio Libre D
+(5) Espacio Libre E
 
-### Diagrama — etiquetas visibles
-- Conducto de Aire de Suministro
-- Conducto de Aire de Retorno
-- Espacio Libre A
-- Espacio Libre B
-- Espacio Libre C
-- Espacio Libre D
-- Espacio Libre E
+Nota: Los diagramas anteriores pueden diferir del modelo real.
 
-### Tabla: Espacios Libres para Instalación de Suministro/Retorno Lateral de 10 ~ 20 Toneladas
-- **DIMENSIÓN (Mínima):** A, **mm:** 1000, **Pulgadas:** 39
-- **DIMENSIÓN (Mínima):** B, **mm:** 1500, **Pulgadas:** 59
-- **DIMENSIÓN (Mínima):** C, **mm:** 1100, **Pulgadas:** 43
-- **DIMENSIÓN (Mínima):** D, **mm:** 1100, **Pulgadas:** 43
-- **DIMENSIÓN (Mínima):** E, **mm:** 1830, **Pulgadas:** 72
+| Espacios de Instalación para Suministro/Retorno Lateral de 25 Toneladas |  |  |
+| :--: | :--: | :--: |
+| Dimensiones (Mínimas) | mm | Pulgadas |
+| A | 1000 | 39 |
+| B | 1500 | 59 |
+| C | 1100 | 43 |
+| D | 1100 | 43 |
+| E | 3000 | 118 |
 
-### Notas y leyendas
-- Logo/Marca inferior izquierda: ADINA
-- Marca inferior central: INVERTER (con ícono)
-- Número de página visible en el documento: 33
+================================================================================
+PAGE 37
+================================================================================
 
-(Transcripción realizada página por página; se ha extraído y preservado únicamente el texto visible en la imagen proporcionada.)
+![img-45.jpeg](img-45.jpeg)
 
-## BROCHURE-ARMOR-PLUS-ES - Página 34
+# Controles y Diagramas de Cableado
 
-### Características técnicas
-- Texto en cabecera: Características técnicas
-- Logotipo visible: ARMOR
-- Texto adicional visible junto al logotipo (pequeño): ROOFTOP UNITS BY ADINA
+## Adaptador a 24 Voltios (Opcional)
 
-### Diagrama (elementos de texto visibles)
-- Suministro
-- Retorno
-- Indicadores numerados en diagrama:
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
+![img-46.jpeg](img-46.jpeg)
 
-### Leyenda de indicadores (círculos numerados)
-- 1 Espacio Libre A
-- 2 Espacio Libre B
-- 3 Espacio Libre C
-- 4 Espacio Libre D
-- 5 Espacio Libre E
+## Controlador con Cable (Estándar)
 
-### Nota
-- Nota: Los diagramas anteriores pueden diferir del modelo real.
+![img-47.jpeg](img-47.jpeg)
 
-### Tabla: Espacios de Instalación para Suministro/Retorno Lateral de 25 Toneladas
-- **Dimensiones (Mínimas):** A, **mm:** 1000, **Pulgadas:** 39
-- **Dimensiones (Mínimas):** B, **mm:** 1500, **Pulgadas:** 59
-- **Dimensiones (Mínimas):** C, **mm:** 1100, **Pulgadas:** 43
-- **Dimensiones (Mínimas):** D, **mm:** 1100, **Pulgadas:** 43
-- **Dimensiones (Mínimas):** E, **mm:** 3000, **Pulgadas:** 118
+## Controlador Central (Opcional)
 
-### Pie de página y otros elementos
-- Logotipos en pie de página: ADINA, INVERTER
-- Número de página visible: 34
+![img-48.jpeg](img-48.jpeg)
 
-## BROCHURE-ARMOR-PLUS-ES - Página 37
+================================================================================
+PAGE 38
+================================================================================
 
-### Características técnicas
-- Texto visible en encabezado: Características técnicas
+# Características técnicas 
 
-### Controles y Diagramas de Cableado
-- Título principal: Controles y Diagramas de Cableado
+## Diagramas de Cableado
 
-### Adaptador a 24 Voltios (Opcional)
-- Leyenda bajo imagen: Adaptador a 24 Voltios (Opcional)
-- Imagen: adaptador negro rectangular (imagen ilustrativa, sin texto adicional)
-
-### Controlador con Cable (Estándar)
-- Leyenda bajo imagen: Controlador con Cable (Estándar)
-- Imagen: panel controlador con display y botones
-- Texto y etiquetas visibles en el controlador:
-  - Display numérico central visible: 888°F
-  - Botones y etiquetas (de izquierda a derecha / de arriba a abajo según disposición visual):
-    - SWING/ENTER
-    - TIMER
-    - MODE
-    - FUNCTION
-    - FAN
-    - ON/OFF
-  - Iconos pequeños y símbolos en el display (representados visualmente, sin texto legible adicional)
-
-### Controlador Central (Opcional)
-- Leyenda bajo imagen: Controlador Central (Opcional)
-- Imagen: pantalla táctil con hora 10:14 y varios iconos circulares de aplicaciones (sin texto legible adicional en los iconos)
-- Texto visible en pantalla táctil: 10:14
-
-### Encabezado y marcas
-- Logotipo superior derecho: ARMOR (con símbolo)
-- Texto junto al logotipo superior derecho (legible parcialmente): ROOFTOP UNITS BY ADINA (texto pequeño, presente bajo el logotipo)
-- Logotipo inferior izquierdo: ADINA
-- Logotipo inferior central: iNVERTER
-
-### Pie de página / Número de página visible en la página
-- Número de página visible en el documento: 35
-
-### Notas y leyendas
-- No se observan tablas en esta página.
-- Todas las leyendas de las imágenes se han transcrito tal como aparecen:
-  - Adaptador a 24 Voltios (Opcional)
-  - Controlador con Cable (Estándar)
-  - Controlador Central (Opcional)
-
-(Archivo analizado: BROCHURE-ARMOR-PLUS-ES, página visible en el documento: 35)
-
-## BROCHURE-ARMOR-PLUS-ES - Página 38
-
-### Características técnicas
-Características técnicas
-
-### Diagrama principal
-Diagramas de Cableado
-
-### Diagrama: Modelo: ADA-I-4036H216A / ADA-I-4066H216A
 Modelo: ADA-I-4036H216A / ADA-I-4066H216A
 
-- Interruptor ①
+## Interruptor (1)
 
-- POWER 220~240V
-- 1PH
-- 50/60Hz
+![img-49.jpeg](img-49.jpeg)
 
-- Señalización de bornas (unidad en recuadro azul):
-  - L
-  - N
-  - (símbolo de tierra)
-
-- Controlador con Cable:
-  - H1
-  - H2
-
-### Diagrama: Modelo: ADA-I-4066H236A / ADA-I-4120H236A / ADA-I-4180H236A / ADA-I-4240H236A
 Modelo: ADA-I-4066H236A / ADA-I-4120H236A / ADA-I-4180H236A / ADA-I-4240H236A
 
-- Interruptor ①
+Interruptor (1)
+![img-50.jpeg](img-50.jpeg)
 
-- POWER 220~240V
-- 3PH
-- 60Hz
+================================================================================
+PAGE 39
+================================================================================
 
-- Líneas:
-  - L1
-  - L2
-  - L3
-  - PE
+# Características técnicas 
 
-- Señalización de bornas (unidad en recuadro azul):
-  - L1
-  - L2
-  - L3
-  - PE (símbolo de tierra)
+## Diagramas de Cableado
 
-- Controlador con Cable:
-  - H1
-  - H2
+Modelo: ADA-I-4300H236A
+![img-51.jpeg](img-51.jpeg)
 
-### Encabezados y pies de página / elementos gráficos visibles
-- Logo superior derecho: ARMOR (logotipo)
-- Logo inferior izquierdo: ADINA
-- Logo inferior central: iNVERTER (con icono)
-- Número de página visible en documento: 36
+Nota: La fábrica ha dejado el circuito cerrado por defecto. Si el usuario necesita conectar el botón de parada de emergencia, por favor retire el cable de corto circuito correspondiente.
 
-### Notas y leyendas:
-- Interruptor aparece marcado con el número en círculo: ①
-- Se muestran conexiones de alimentación y controlador con cable hacia bornas H1 y H2
-- Símbolos de tierra presentes en las bornas PE
+================================================================================
+PAGE 40
+================================================================================
 
-(Transcripción hecha a partir de la página visible del documento. Se conserva texto exacto y elementos gráficos identificados.)
+# Especificación del cable de alimentación
 
-## BROCHURE-ARMOR-PLUS-ES - Página 37
+|  Modelo | Simunistro de Energía
+(V,Ph,Hz) | Capacidad del
+Interruptor de Aire | Sección Mínima del Cable
+de Alimentación $\left(\mathrm{mm}^{2}\right)$ | Cable de
+Comunicación $\left(\mathrm{mm}^{2}\right)$  |
+| --- | --- | --- | --- | --- |
+|  ADA-I-4036H216A | $220 \sim 240 \mathrm{~V}, 1 \mathrm{Ph}, 50 / 60 \mathrm{~Hz}$ | 25 A | 4.0 | 0.75  |
+|  ADA-I-4066H216A | $220 \sim 240 \mathrm{~V}, 1 \mathrm{Ph}, 50 / 60 \mathrm{~Hz}$ | 40 A | 10.0 | 0.75  |
+|  ADA-I-4066H236A | $220 \sim 240 \mathrm{~V}, 3 \mathrm{Ph}, 60 \mathrm{~Hz}$ | 40 A | 10.0 | 0.75  |
+|  ADA-I-4120H236A | $220 \sim 240 \mathrm{~V}, 3 \mathrm{Ph}, 60 \mathrm{~Hz}$ | 50 A | 10.0 | 0.75  |
+|  ADA-I-4180H236A | $220 \sim 240 \mathrm{~V}, 3 \mathrm{Ph}, 60 \mathrm{~Hz}$ | 80 A | 25.0 | 0.75  |
+|  ADA-I-4240H236A | $220 \sim 240 \mathrm{~V}, 3 \mathrm{Ph}, 60 \mathrm{~Hz}$ | 100 A | 25.0 | 0.75  |
+|  ADA-I-4300H236A | $220 \mathrm{v} / 3 \mathrm{Ph} \sim 60 \mathrm{~Hz}$ | 125 A | 25.0 | 0.75  |
 
-### Características técnicas
-- Características técnicas
+## Accesorios
 
-### Diagramas de Cableado
-- Diagramas de Cableado
+|  Modelo | Controlador con
+Cable (XK117) | Controlador Central con
+Temporizador Semanal
+(CE52-24/F(C))  |
+| --- | --- | --- |
+|  ADA-I-4036H216A | $\bullet$ | $\circ$  |
+|  ADA-I-4066H216A | $\bullet$ | $\circ$  |
+|  ADA-I-4066H236A | $\bullet$ | $\circ$  |
+|  ADA-I-4120H236A | $\bullet$ | $\circ$  |
+|  ADA-I-4180H236A | $\bullet$ | $\circ$  |
+|  ADA-I-4240H236A | $\bullet$ | $\circ$  |
+|  ADA-I-4300H236A | $\bullet$ | $\circ$  |
 
-### Modelo
-- Modelo: ADA-I-4300H236A
+Nota: " $\cdot$ "es para una parte estándar; " " es opcional.
 
-### Diagrama (elementos visibles)
-- L1
-- L2
-- L3
-- PE
-- Interruptor de Circuito
+================================================================================
+PAGE 41
+================================================================================
 
-### Unidad (representación del bloque con terminales)
-- Terminales superiores:
-  - **L1:** L1
-  - **L2:** L2
-  - **L3:** L3
-  - **(Símbolo de tierra):** conexión a PE
-- Terminales laterales (con recuadro vertical de terminales):
-  - **1:** 1
-  - **2:** 2
-  - **H1:** H1
-  - **H2:** H2
+# Dimensiones de las unidades 
 
-### Conexiones externas indicadas
-- **1, 2:** Botón de Parada de Emergencia
-- **H1, H2:** Controlador con Cable
-
-### Notas y leyendas
-- Nota: La fábrica ha dejado el circuito cerrado por defecto. Si el usuario necesita conectar el botón de parada de emergencia, por favor retire el cable de corto circuito correspondiente.
-
-### Marcas y elementos de página
-- ARMOR
-- ROOFTOP UNITS BY ADINA
-- ADINA
-- INVERTER
-- Número de página (visible): 37
-
-## BROCHURE-ARMOR-PLUS-ES - Página 38
-
-### Características técnicas
-Características técnicas
-
-### Especificación del cable de alimentación
-Especificación del cable de alimentación
-
-Tabla: Especificación del cable de alimentación
-- **Modelo:** ADA-I-4036H216A, **Suministro de Energía (V,Ph,Hz):** 220~240V, 1Ph, 50/60Hz, **Capacidad del Interruptor de Aire:** 25A, **Sección Mínima del Cable de Alimentación (mm²):** 4.0, **Cable de Comunicación (mm²):** 0.75
-- **Modelo:** ADA-I-4066H216A, **Suministro de Energía (V,Ph,Hz):** 220~240V, 1Ph, 50/60Hz, **Capacidad del Interruptor de Aire:** 40A, **Sección Mínima del Cable de Alimentación (mm²):** 10.0, **Cable de Comunicación (mm²):** 0.75
-- **Modelo:** ADA-I-4066H236A, **Suministro de Energía (V,Ph,Hz):** 220~240V, 3Ph, 60Hz, **Capacidad del Interruptor de Aire:** 40A, **Sección Mínima del Cable de Alimentación (mm²):** 10.0, **Cable de Comunicación (mm²):** 0.75
-- **Modelo:** ADA-I-4120H236A, **Suministro de Energía (V,Ph,Hz):** 220~240V, 3Ph, 60Hz, **Capacidad del Interruptor de Aire:** 50A, **Sección Mínima del Cable de Alimentación (mm²):** 10.0, **Cable de Comunicación (mm²):** 0.75
-- **Modelo:** ADA-I-4180H236A, **Suministro de Energía (V,Ph,Hz):** 220~240V, 3Ph, 60Hz, **Capacidad del Interruptor de Aire:** 80A, **Sección Mínima del Cable de Alimentación (mm²):** 25.0, **Cable de Comunicación (mm²):** 0.75
-- **Modelo:** ADA-I-4240H236A, **Suministro de Energía (V,Ph,Hz):** 220~240V, 3Ph, 60Hz, **Capacidad del Interruptor de Aire:** 100A, **Sección Mínima del Cable de Alimentación (mm²):** 25.0, **Cable de Comunicación (mm²):** 0.75
-- **Modelo:** ADA-I-4300H236A, **Suministro de Energía (V,Ph,Hz):** 220v / 3Ph ~60Hz, **Capacidad del Interruptor de Aire:** 125A, **Sección Mínima del Cable de Alimentación (mm²):** 25.0, **Cable de Comunicación (mm²):** 0.75
-
-### Accesorios
-Accesorios
-
-Tabla: Accesorios
-Encabezados: **Modelo**, **Clase**, **Controlador con Cable (XK117)**, **Controlador Central con Temporizador Semanal (CE52-24/F(C))**
-
-- **Modelo:** ADA-I-4036H216A, **Clase:** , **Controlador con Cable (XK117):** •, **Controlador Central con Temporizador Semanal (CE52-24/F(C)):** ○
-- **Modelo:** ADA-I-4066H216A, **Clase:** , **Controlador con Cable (XK117):** •, **Controlador Central con Temporizador Semanal (CE52-24/F(C)):** ○
-- **Modelo:** ADA-I-4066H236A, **Clase:** , **Controlador con Cable (XK117):** •, **Controlador Central con Temporizador Semanal (CE52-24/F(C)):** ○
-- **Modelo:** ADA-I-4120H236A, **Clase:** , **Controlador con Cable (XK117):** •, **Controlador Central con Temporizador Semanal (CE52-24/F(C)):** ○
-- **Modelo:** ADA-I-4180H236A, **Clase:** , **Controlador con Cable (XK117):** •, **Controlador Central con Temporizador Semanal (CE52-24/F(C)):** ○
-- **Modelo:** ADA-I-4240H236A, **Clase:** , **Controlador con Cable (XK117):** •, **Controlador Central con Temporizador Semanal (CE52-24/F(C)):** ○
-- **Modelo:** ADA-I-4300H236A, **Clase:** , **Controlador con Cable (XK117):** •, **Controlador Central con Temporizador Semanal (CE52-24/F(C)):** ○
-
-### Notas y leyendas:
-- Nota: "•" es para una parte estándar; "○" es opcional.
-
-### Encabezados y pies de página visibles
-- ARMOR Rooftop units by ADINA
-- ADINA
-- INVERTER
-- Número de página visible: 38
-
-## BROCHURE-ARMOR-PLUS-ES - Página 39
-
-### Características técnicas
-Características técnicas
-
-### Título principal
-Dimensiones de las unidades
-
-### Sección: ADA-I-4036H216A
 ADA-I-4036H216A
+![img-52.jpeg](img-52.jpeg)
 
-- Ilustración: dibujo dimensional (diagramas técnicos con vistas isométrica y frontal).  
-  (Diagrama sin texto adicional legible aparte de las letras de referencia en las cotas del dibujo)
-
-### Separador visual
-(línea de puntos)
-
-### Sección: ADA-I-4066H216A / ADA-I-4066H236A
 ADA-I-4066H216A / ADA-I-4066H236A
+![img-53.jpeg](img-53.jpeg)
 
-- Ilustración: dibujo dimensional (diagramas técnicos con vistas isométrica y frontal).  
-  (Diagrama sin texto adicional legible aparte de las letras de referencia en las cotas del dibujo)
+================================================================================
+PAGE 42
+================================================================================
 
-### Encabezados / Logos / Pie de página visibles
-- ARMOR
-- (texto pequeño junto al logo): ROOFTOP UNITS BY ADINA
-- ADINA
-- INVERTER
+# Dimensiones de las unidades 
 
-### Número de página visible
-- 39
+ADA-I-4120H236A
+![img-54.jpeg](img-54.jpeg)
 
-### Notas y leyendas:
-- Página compuesta principalmente por títulos, dos modelos indicados y sus ilustraciones dimensionales.
+ADA-I-4180H236A
+![img-55.jpeg](img-55.jpeg)
 
-## BROCHURE-ARMOR-PLUS-ES - Página 40
+================================================================================
+PAGE 43
+================================================================================
 
-### Características técnicas
-- Texto de encabezado visible en banda superior izquierda: "Características técnicas"
-- Logotipo superior derecho: "ARMOR"  
-  - Texto pequeño bajo el logotipo: "ROOFTOP UNITS BY ADINA" (texto muy pequeño, visible)
+# Dimensiones de las unidades 
 
-### Dimensiones de las unidades
-- Título principal de la página: "Dimensiones de las unidades"
+ADA-I-4240H236A
+![img-56.jpeg](img-56.jpeg)
 
----
+ADA-I-4300H236A
+![img-57.jpeg](img-57.jpeg)
 
-### ADA-I-4120H236A
-- Texto de sección (encabezado del primer bloque de dibujos): "ADA-I-4120H236A"
-- Contenido visual:
-  - Ilustración izquierda: vista isométrica de la unidad con cotas (dibujo técnico).
-  - Ilustración derecha: vista frontal con rejilla y cotas (dibujo técnico).
-  - Letras de referencia/cota visibles en los dibujos: A, B, C, G, H, K, L, M (letras de cotejado en los dibujos; ubicaciones correspondieren a cotas mostradas en las vistas).
-- No hay textos adicionales ni valores numéricos legibles asociados a las cotas en la imagen recortada.
+================================================================================
+PAGE 44
+================================================================================
 
----
+# Dimensiones de las unidades 
 
-### ADA-I-4180H236A
-- Texto de sección (encabezado del segundo bloque de dibujos): "ADA-I-4180H236A"
-- Contenido visual:
-  - Ilustración izquierda: vista isométrica de la unidad con cotas (dibujo técnico).
-  - Ilustración derecha: vista frontal con rejilla y cotas (dibujo técnico).
-  - Letras de referencia/cota visibles en los dibujos: (mismas letras de cotejado visibles en el bloque superior en las vistas: K, L, M y otras marcas de cotejado en los laterales y base).
-- No hay textos adicionales ni valores numéricos legibles asociados a las cotas en la imagen recortada.
+## Las unidades están en milímetros
 
----
+| Dimension <br> $(\mathrm{mm})$ | A | B | C | D | E | F | G | H | I | J | K | L | M |
+| :-- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| GK-H03NH3AS | 815 | 1450 | 1120 | 70 | 98 | 417 | 94 | 916 | 60 | 155 | 215 | 719 | 178 |
+| GK-H5.5NH3AS | 815 | 1450 | 1120 | 70 | 98 | 417 | 94 | 916 | 65 | 190 | 144 | 866 | 105 |
+| GK-H5.5NH3AF | 815 | 1450 | 1120 | 70 | 98 | 417 | 94 | 916 | 65 | 190 | 144 | 866 | 105 |
+| GK-H10NH3AF | 1215 | 1450 | 1120 | 70 | 98 | 686 | 94 | 916 | 70 | 190 | 144 | 866 | 105 |
+| GK-H15NH3AF | 1245 | 2260 | 1140 | 80 | 111 | 595 | 50 | 914 | 58 | 406 | 298 | 487 | 349 |
+| GK-H20NH3AF | 1250 | 1880 | 2240 | 85 | 115 | 590 | 158 | 2021 | 45 | 412 | 311 | 1336 | 588 |
 
-### Elementos de pie de página y marcas
-- Logotipo inferior izquierdo: "ADINA"
-- Logotipo inferior central: "INVERTER" (con ícono)
-- Número de página visible en esquina inferior derecha: "40"
+Nota: Los diagramas anteriores pueden ser diferentes al modelo real.
 
-### Notas y leyendas:
-- Línea discontinua horizontal separa los dos bloques de modelos (elemento gráfico).
-- Los dibujos son esquemas técnicos con cotas indicadas por letras; no se muestran valores numéricos en esta reproducción de la página.
+================================================================================
+PAGE 45
+================================================================================
 
-## BROCHURE-ARMOR-PLUS-ES - Página 41
+![img-58.jpeg](img-58.jpeg)
 
-### Características técnicas
-- Características técnicas (texto del encabezado en banda superior izquierda)
+# INVERTER 
 
-### Dimensiones de las unidades
-- Dimensiones de las unidades (título principal)
+## CONTÁCTANOS
 
-### Sección: ADA-I-4240H236A
-- ADA-I-4240H236A (etiqueta/modelo)
-- Ilustraciones: dos vistas del equipo (perspectiva isométrica y vista frontal/ lateral con cotas)
-- Letras y referencias de cotas visibles en los dibujos:
-  - A
-  - B
-  - C
-  - D
-  - E
-  - F
-  - G
-  - H
-  - I
-  - J
-  - K
-  - L
-  - M
-
-### Sección separadora
-- Línea punteada horizontal central (separa los dos modelos)
-
-### Sección: ADA-I-4300H236A
-- ADA-I-4300H236A (etiqueta/modelo)
-- Ilustraciones: dos vistas del equipo (perspectiva isométrica y vista frontal/lateral con cotas)
-- Letras y referencias de cotas visibles en los dibujos:
-  - A
-  - B
-  - C
-  - D
-  - E
-  - F
-  - G
-  - H
-  - I
-  - J
-  - K
-  - L
-
-### Logos y pie de página
-- ARMOR (logo, esquina superior derecha)
-- ADINA (logo, esquina inferior izquierda)
-- INVERTER (logo, junto a ADINA en pie de página)
-- Número de página visible: 41
-
-### Notas y leyendas:
-- No hay texto adicional legible aparte de títulos, modelos, letras de cotas y logos en la página.
-- Las vistas contienen cotas indicadas por las letras listadas; no se muestran valores numéricos ni unidades en la imagen proporcionada.
-
-## BROCHURE-ARMOR-PLUS-ES - Página 42
-
-### Encabezado visible
-- Características técnicas
-- ARMOR
-
-### Título principal
-- Dimensiones de las unidades
-
-### Subtítulo
-- Las unidades están en milímetros
-
-### Tabla: Dimensiones de las unidades
-- **Dimension (mm):** GK-H03NH3AS, **A:** 815, **B:** 1450, **C:** 1120, **D:** 70, **E:** 98, **F:** 417, **G:** 94, **H:** 916, **I:** 60, **J:** 155, **K:** 215, **L:** 719, **M:** 178
-- **Dimension (mm):** GK-H5.5NH3AS, **A:** 815, **B:** 1450, **C:** 1120, **D:** 70, **E:** 98, **F:** 417, **G:** 94, **H:** 916, **I:** 65, **J:** 190, **K:** 144, **L:** 866, **M:** 105
-- **Dimension (mm):** GK-H5.5NH3AF, **A:** 815, **B:** 1450, **C:** 1120, **D:** 70, **E:** 98, **F:** 417, **G:** 94, **H:** 916, **I:** 65, **J:** 190, **K:** 144, **L:** 866, **M:** 105
-- **Dimension (mm):** GK-H10NH3AF, **A:** 1215, **B:** 1450, **C:** 1120, **D:** 70, **E:** 98, **F:** 686, **G:** 94, **H:** 916, **I:** 70, **J:** 190, **K:** 144, **L:** 866, **M:** 105
-- **Dimension (mm):** GK-H15NH3AF, **A:** 1245, **B:** 2260, **C:** 1140, **D:** 80, **E:** 111, **F:** 595, **G:** 50, **H:** 914, **I:** 58, **J:** 406, **K:** 298, **L:** 487, **M:** 349
-- **Dimension (mm):** GK-H20NH3AF, **A:** 1250, **B:** 1880, **C:** 2240, **D:** 85, **E:** 115, **F:** 590, **G:** 158, **H:** 2021, **I:** 45, **J:** 412, **K:** 311, **L:** 1336, **M:** 588
-
-### Nota y leyenda
-- Nota: Los diagramas anteriores pueden ser diferentes al modelo real.
-
-### Pie de página visible
-- ADINA
-- INVERTER
-- 42
-
-## BROCHURE-ARMOR-PLUS-ES - Página 45
-
-### Título principal
-ARMOR Plus
-
-### Subtítulo / Marca
-ROOFTOP UNITS BY ADINA
-
-### Elemento gráfico / Texto destacado
-INVERTER
-
-### Sección: CONTÁCTANOS
-CONTÁCTANOS
-
-- **WWW.ADINAUSA.COM**
-
-- **Red social / Nombre 1:** Adina
-- **Red social / Nombre 2:** Adina_airconditioning
-- **Correo electrónico:** ventaslatam@adinausa.com
-- **LinkedIn / Nombre:** Adina Air Conditioning
-- **Otra red / Nombre:** Adina_airconditioning
-
-### Elemento de marca inferior
-ADINA
-
-### Encabezados y pies de página / Número de página
-- Número de página visible: no hay número de página visible en la imagen
-
-### Notas y leyendas
-- Contenido transcrito exactamente de la página visualizada, incluyendo mayúsculas, minúsculas y acentos tal como aparecen.
+(3) WWW.ADINAUSA.COM
+(4) Adina
+(5) Adina_airconditioning
+(6) ventaslatam@adinausa.com
+(8) Adina Air Conditioning
+(10) Adina_airconditioning

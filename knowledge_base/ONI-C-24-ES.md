@@ -1,174 +1,138 @@
-## ONI-C-24-ES - Página 1
-Archivo: ONI-C-24-ES (imagen provista) — Página 1
+# ONI-C-24-ES.pdf
 
-### Título principal
-Plano Explosionado
 
-### Subtítulo
-Unidad Exterior
+================================================================================
+PAGE 1
+================================================================================
+
+# Plano Explosionado
+
+## Unidad Exterior
+
 ONI-C-2418W-E24P13110
 
-### Marca / Logos visibles
-- ADINA Air Conditioning
-- ONIX SERIES
+|  No | Nombre de la parte | Código | Q'ty  |
+| --- | --- | --- | --- |
+|  1 | La cubierta de red frontal | RO811025406 | 1  |
+|  2 | El panel frontal | RO811025444 | 1  |
+|  3 | Ventilador de flujo axial | RO950043825 | 1  |
+|  4 | Motor del ventilador | RO811376504 | 1  |
+|   |  | RO811376505 |   |
+|   |  | RO950078474 |   |
+|  5 | El soporte del motor | RO811025439 | 1  |
+|  6 | Compresor | RO811424763 | 1  |
+|  7 | Conjunto del condensador | RO811153705 | 1  |
+|  8 | Placa de montaje angular | RO811025441 | 1  |
+|  9 | Placa de cubierta | RO811025445 | 1  |
+|  10 | Cubierta de red trasera (plástico) | RO811088673 | 1  |
+|  11 | Cubierta de red lateral (metal) | Consultar código de pieza con el fabricante | 1  |
+|  12 | Cubierta de red trasera (metal) |  | 1  |
+|  22 | Subconjunto de control eléctrico (frecuencia constante) |  | 1  |
+|  23 | Condensador de membrana (compresor) |  | 1  |
+|  24 | Condensador de membrana (motor ventilador) |  | 1  |
+|  25 | Pinza del condensador |  | 1  |
+|  26 | Tablero de bornes |  | 1  |
+|  27 | Cuadro eléctrico superior |  | 1  |
+|  28 | Placa de insealación eléctrica inferior |  | 1  |
+|  29 | Asiento del terminal (Frecuencia constante) |  | 1  |
+|  30 | Reactor |  | 1  |
+|  31 | Placa de insonorización | RO811026119 | 1  |
+|  32 | Soporte del sensor | RO950073170 | 1  |
+|  33 | Subconjunto de la cubierta eléctrica | RO810766211 | 1  |
+|  34 | Panel lateral derecho | RO811025412 | 1  |
+|  35 | Tapa de la válvula | RO810828090 | 1  |
+|  36 | Componentes del capilar | RO811428195 | 1  |
+|  37 | Válvula de corte (pequeña) | RO811099647 | 1  |
+|  38 | Placa de montaje de la válvula | RO811025407 | 1  |
+|  39 | Conjunto del suelo | RO811156949 | 1  |
+|  40 | Conjunto de la válvula de cuatro vías | Consultar código de pieza con el fabricante | 1  |
+|  41 | Válvula de corte (grande) | RO810804541 | 1  |
+|   |  | RO810841189 |   |
+|   |  | RO810845897 |   |
+|  42 | Conjunto de tuberías de aspiración | RO950052405 | 1  |
+|  43 | Tubería de escape de gas | RO950052995 | 1  |
+|  44 | Válvula de cuatro vías | Consultar código de pieza con el fabricante | 1  |
 
-### Tabla: Lista de piezas (parte del plano explosionado)
-- **No:** 1, **Nombre de la parte:** La cubierta de red frontal, **Código:** R0811025406, **Q'ty:** 1
-- **No:** 2, **Nombre de la parte:** El panel frontal, **Código:** R0811025444, **Q'ty:** 1
-- **No:** 3, **Nombre de la parte:** Ventilador de flujo axial, **Código:** R0950043825, **Q'ty:** 1
-- **No:** 4, **Nombre de la parte:** Motor del ventilador, **Código:** R0811376504, R0811376505, R0950078474, **Q'ty:** 1
-- **No:** 5, **Nombre de la parte:** El soporte del motor, **Código:** R0811025439, **Q'ty:** 1
-- **No:** 6, **Nombre de la parte:** Compresor, **Código:** R0811424763, **Q'ty:** 1
-- **No:** 7, **Nombre de la parte:** Conjunto del condensador, **Código:** R0811537075, **Q'ty:** 1
-- **No:** 8, **Nombre de la parte:** Placa de montaje angular, **Código:** R0811025441, **Q'ty:** 1
-- **No:** 9, **Nombre de la parte:** Placa de cubierta, **Código:** R0811025445, **Q'ty:** 1
-- **No:** 10, **Nombre de la parte:** Cubierta de red trasera (plástico), **Código:** R0811088673, **Q'ty:** 1
-- **No:** 11, **Nombre de la parte:** Cubierta de red lateral (metal), **Código:** , **Q'ty:** 1
-- **No:** 12, **Nombre de la parte:** Cubierta de red trasera (metal), **Código:** , **Q'ty:** 1
-- **No:** 22, **Nombre de la parte:** Subconjunto de control eléctrico (frecuencia constante), **Código:** , **Q'ty:** 1
-- **No:** 23, **Nombre de la parte:** Condensador de membrana (compresor), **Código:** , **Q'ty:** 1
-- **No:** 24, **Nombre de la parte:** Condensador de membrana (motor ventilador), **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 25, **Nombre de la parte:** Pinza del condensador, **Código:** , **Q'ty:** 1
-- **No:** 26, **Nombre de la parte:** Tablero de bornes, **Código:** , **Q'ty:** 1
-- **No:** 27, **Nombre de la parte:** Cuadro eléctrico superior, **Código:** , **Q'ty:** 1
-- **No:** 28, **Nombre de la parte:** Placa de inseración eléctrica inferior, **Código:** , **Q'ty:** 1
-- **No:** 29, **Nombre de la parte:** Asiento del terminal (Frecuencia constante), **Código:** , **Q'ty:** 1
-- **No:** 30, **Nombre de la parte:** Reactor, **Código:** , **Q'ty:** 1
-- **No:** 31, **Nombre de la parte:** Placa de insonorización, **Código:** R0811026119, **Q'ty:** 1
-- **No:** 32, **Nombre de la parte:** Soporte del sensor, **Código:** R0950073170, **Q'ty:** 1
-- **No:** 33, **Nombre de la parte:** Subconjunto de la cubierta eléctrica, **Código:** R0810766211, **Q'ty:** 1
-- **No:** 34, **Nombre de la parte:** Panel lateral derecho, **Código:** R0811025412, **Q'ty:** 1
-- **No:** 35, **Nombre de la parte:** Tapa de la válvula, **Código:** R0810828090, **Q'ty:** 1
-- **No:** 36, **Nombre de la parte:** Componentes del capilar, **Código:** R0811428195, **Q'ty:** 1
-- **No:** 37, **Nombre de la parte:** Válvula de corte (pequeña), **Código:** R0811099647, **Q'ty:** 1
-- **No:** 38, **Nombre de la parte:** Placa de montaje de la válvula, **Código:** R0811025407, **Q'ty:** 1
-- **No:** 39, **Nombre de la parte:** Conjunto del suelo, **Código:** R0811156949, **Q'ty:** 1
-- **No:** 40, **Nombre de la parte:** Conjunto de la válvula de cuatro vías, **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 41, **Nombre de la parte:** Válvula de corte (grande), **Código:** R0810804541, R0810841189, R0810845897, **Q'ty:** 1
-- **No:** 42, **Nombre de la parte:** Conjunto de tuberías de aspiración, **Código:** R0950052405, **Q'ty:** 1
-- **No:** 43, **Nombre de la parte:** Tubería de escape de gas, **Código:** R0950052995, **Q'ty:** 1
-- **No:** 44, **Nombre de la parte:** Válvula de cuatro vías, **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
+================================================================================
+PAGE 2
+================================================================================
 
-### Observaciones del diagrama
-- Diagrama explosionado con numeración de piezas (1–44) mostrado a la derecha de la lista de piezas.
+# **ONI X SERIES**
 
-### Encabezados / Pie de página
-- Número de página visible: 1
+![img-0.jpeg](img-0.jpeg)
 
-### Notas y leyendas:
-- Algunos ítems muestran múltiples códigos de pieza (p. ej. Motor del ventilador, Válvula de corte (grande)).
-- Para ciertas piezas (ej. Condensador de membrana (motor ventilador), Conjunto de la válvula de cuatro vías, Válvula de cuatro vías) la columna Código indica: "Consultar código de pieza con el fabricante".
+## **Plano Explosionado**
 
-## ONI-C-24-ES - Página 2
+### Unidad Interior
 
-### Encabezado / Marcas
-- ADINA Air Conditioning
-- ONIX SERIES
+#### ONI-C-2418W-I24P1311I
 
-### Título principal
-- Plano Explosionado
-- Unidad Interior
-- ONI-C-2418W-I24P13111
+|  No | Nombre de la parte | Código | Q'ty  |
+| --- | --- | --- | --- |
+|  1 | Subconjunto del panel frontal | RO950167080 | 1  |
+|  2 | Panel Frontal | RO950108574 | 1  |
+|  2-1 | Listón decorativo (izquierda) |  | 1  |
+|  2-2 | Listón decorativo (derecha) | Consultar código de pieza con el fabricante | 1  |
+|  2-3 | Ventana de visualización |  |   |
+|  3 | Filtro de aire | RO811335839 | 2  |
+|  3-1 | Filtro funcional | Consultar código de pieza con el fabricante |   |
+|  4 | Marco medio | RO950054018 | 1  |
+|  5 | Tapa roscada | RO811336332 | 2  |
+|  6 | Subconjunto del evaporador | RO811351690 | 1  |
+|  7 | PTC | Consultar código de pieza con el fabricante | 1  |
+|  8 | Ventilador de flujo cruzado | RO811349033 | 1  |
+|  9 | Subconjunto bastidor inferior | RO950168162 | 1  |
+|  10 | Enredo de alambre | Consultar código de pieza con el fabricante | 1  |
+|  11 | Soporte | RO810554649 | 1  |
+|  12 | Manguito del eje | RO810548012 | 1  |
+|  13 | Motor paso a paso | Consultar código de pieza con el fabricante | 1  |
+|  14 | Tablero izquierdo | RO811335798 | 1  |
+|  15 | Blade subassembly | RO950062970 | 1  |
+|  16 | Shaft sleeve | RO950062254 | 1  |
+|  17 | Stepping motor | RO810835647 | 1  |
+|  18 | Subconjunto del tubo de drenaje | RO810829755 | 1  |
+|  19 | Marco de montaje en pared | RO811335866 | 1  |
+|  20 | Montaje de la caja de visualización | RO950114725 | 1  |
+|  21 | Caja de visualización | RO811336331 | 1  |
+|  22 | Conjunto de pantalla P.C.B | RO950113086 | 1  |
+|  23 | Componente de voz | Consultar código de pieza con el fabricante | 1  |
+|   |  |  | 1  |
+|   |  |  | 1  |
+|   |  |  | 1  |
+|  24 | Subconjunto WIFI | RO950072456 | 1  |
+|  25 | Generador de iones positivos y negativos | Consultar código de pieza con el fabricante | 1  |
+|  26 | UVC |  | 1  |
+|  27 | Cubierta del motor | RO811335813 | 1  |
+|  28 | Placa de presión del motor | RO811335816 | 1  |
 
-### Diagrama
-- Ilustración: plano explosionado de la unidad interior con piezas numeradas (1–31). (Diagrama gráfico con llamadas numéricas visible en la página.)
+================================================================================
+PAGE 3
+================================================================================
 
-### Tabla: Lista de partes (No, Nombre de la parte, Código, Q'ty)
-- **No:** 1, **Nombre de la parte:** Subconjunto del panel frontal, **Código:** R0950167080, **Q'ty:** 1
-- **No:** 2, **Nombre de la parte:** Panel Frontal, **Código:** R0950108574, **Q'ty:** 1
-- **No:** 2-1, **Nombre de la parte:** Listón decorativo (izquierda), **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 2-2, **Nombre de la parte:** Listón decorativo (derecha), **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 2-3, **Nombre de la parte:** Ventana de visualización, **Código:** (no visible), **Q'ty:** 1
-- **No:** 3, **Nombre de la parte:** Filtro de aire, **Código:** R0811335839, **Q'ty:** 2
-- **No:** 3-1, **Nombre de la parte:** Filtro funcional, **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 4, **Nombre de la parte:** Marco medio, **Código:** R0950054018, **Q'ty:** 1
-- **No:** 5, **Nombre de la parte:** Tapa roscada, **Código:** R0811336332, **Q'ty:** 2
-- **No:** 6, **Nombre de la parte:** Subconjunto del evaporador, **Código:** R0811351690, **Q'ty:** 1
-- **No:** 7, **Nombre de la parte:** PTC, **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 8, **Nombre de la parte:** Ventilador de flujo cruzado, **Código:** R0811349033, **Q'ty:** 1
-- **No:** 9, **Nombre de la parte:** Subconjunto bastidor inferior, **Código:** R0950168162, **Q'ty:** 1
-- **No:** 10, **Nombre de la parte:** Enredo de alambre, **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 11, **Nombre de la parte:** Soporte, **Código:** R0810554649, **Q'ty:** 1
-- **No:** 12, **Nombre de la parte:** Manguito del eje, **Código:** R0810548012, **Q'ty:** 1
-- **No:** 13, **Nombre de la parte:** Motor paso a paso, **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 14, **Nombre de la parte:** Tablero izquierdo, **Código:** R0811335798, **Q'ty:** 1
-- **No:** 15, **Nombre de la parte:** Blade subassembly, **Código:** R0950062970, **Q'ty:** 1
-- **No:** 16, **Nombre de la parte:** Shaft sleeve, **Código:** R0950062254, **Q'ty:** 1
-- **No:** 17, **Nombre de la parte:** Stepping motor, **Código:** R0810835647, **Q'ty:** 1
-- **No:** 18, **Nombre de la parte:** Subconjunto del tubo de drenaje, **Código:** R0810829755, **Q'ty:** 1
-- **No:** 19, **Nombre de la parte:** Marco de montaje en pared, **Código:** R0811335866, **Q'ty:** 1
-- **No:** 20, **Nombre de la parte:** Montaje de la caja de visualización, **Código:** R0950117425, **Q'ty:** 1
-- **No:** 21, **Nombre de la parte:** Caja de visualización, **Código:** R0811336331, **Q'ty:** 1
-- **No:** 22, **Nombre de la parte:** Conjunto de pantalla P.C.B, **Código:** R0950113086, **Q'ty:** 1
-- **No:** 23, **Nombre de la parte:** Componente de voz, **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 24, **Nombre de la parte:** Subconjunto WIFI, **Código:** R0950072456, **Q'ty:** 1
-- **No:** 25, **Nombre de la parte:** Generador de iones positivos y negativos, **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 26, **Nombre de la parte:** UVC, **Código:** R0811335813, **Q'ty:** 1
-- **No:** 27, **Nombre de la parte:** Cubierta del motor, **Código:** R0811335813, **Q'ty:** 1
-- **No:** 28, **Nombre de la parte:** Placa de presión del motor, **Código:** R0811335816, **Q'ty:** 1
+# $\mathrm{ONI} \mathrm{X}$ SERIES
 
-### Encabezados / Pie de página y número de página
-- Número de página visible: 2
+## Plano Explosionado
 
-### Notas y leyendas
-- Algunas piezas indican: "Consultar código de pieza con el fabricante"
-- Diagrama con números de referencia (1–31) para correspondencia con la lista de partes
+Unidad Interior ONI-C-2418W-I24P1311I
 
-Nota: La transcripción sigue el texto visible en la página tal como aparece. Cualquier campo marcado como "Consultar código de pieza con el fabricante" se reproduce exactamente como se muestra en el documento.
-
-## ONI-C-24-ES - Página 3
-
-### Archivo: ONI-C-24-ES
-### Página: 3
-
-### Encabezados y logotipos (texto visible)
-- ADINA Air Conditioning
-- ONIX
-- SERIES
-
-### Título principal
-- Plano Explosionado
-
-### Subtítulo
-- Unidad Interior
-- ONI-C-2418W-I24P1311I
-
-### Diagrama de piezas (números visibles en la ilustración)
-- 32
-- 33
-- 34
-- 35
-- 36
-- 37
-- 38
-- 39
-- 40
-- 42
-- 43
-- 44
-- 45
-
-### Tabla: Lista de piezas (encabezados de la tabla: No / Nombre de la parte / Código / Q'ty)
-- **No:** 29, **Nombre de la parte:** Motor del ventilador, **Código:** R0950050668, R0950064866, R0950064865, **Q'ty:** 1
-- **No:** 30, **Nombre de la parte:** Soporte del motor, **Código:** R0811335817, **Q'ty:** 1
-- **No:** 31, **Nombre de la parte:** Placa de montaje, **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 32, **Nombre de la parte:** Platina derecha, **Código:** R0811335894, **Q'ty:** 1
-- **No:** 33, **Nombre de la parte:** Placa de presión del tubo, **Código:** R0811335880, **Q'ty:** 1
-- **No:** 34, **Nombre de la parte:** Cuadro eléctrico, **Código:** R0811336329, **Q'ty:** 1
-- **No:** 35, **Nombre de la parte:** Caja de control eléctrico, **Código:** R0811336333, **Q'ty:** 1
-- **No:** 36, **Nombre de la parte:** Tablero de bornes, **Código:** R0860024870, **Q'ty:** 1
-- **No:** 37, **Nombre de la parte:** Transformador, **Código:** Consultar código de pieza con el fabricante, **Q'ty:** 1
-- **No:** 38, **Nombre de la parte:** Placa de presión de alambre, **Código:** R0811336324, **Q'ty:** 1
-- **No:** 39, **Nombre de la parte:** Conjunto P.C.B, **Código:** R0950110578, **Q'ty:** 1
-- **No:** 40, **Nombre de la parte:** Sensor de temperatura ambiente, **Código:** R0811047423, **Q'ty:** 1
-- **No:** 41, **Nombre de la parte:** Sensor de temperatura de la tubería, **Código:** R0810203417, **Q'ty:** 1
-- **No:** 42, **Nombre de la parte:** Línea eléctrica, **Código:** R0810703404, **Q'ty:** 1
-- **No:** 43, **Nombre de la parte:** Subconjunto de control eléctrico, **Código:** R0950108244, **Q'ty:** 1
-- **No:** 44, **Nombre de la parte:** Control remoto, **Código:** R0950168151, **Q'ty:** 1
-- **No:** 45, **Nombre de la parte:** Soporte de control remoto, **Código:** R0811253482, **Q'ty:** 1
-
-### Pie de página / Número de página visible
-- 3
-
-### Notas y leyendas
-- (No se observan notas adicionales ni leyendas textuales aparte de las indicadas en la tabla y la ilustración)
+|  No | Nombre de la parte | Código | Q'ty  |
+| --- | --- | --- | --- |
+|  29 | Motor del ventilador | RO950050668 | 1  |
+|   |  | RO950064866 |   |
+|   |  | RO950064865 |   |
+|  30 | Soporte del motor | RO811335817 | 1  |
+|  31 | Placa de montaje | Consultar código de pieza con el fabricante | 1  |
+|  32 | Platina derecha | RO811335894 | 1  |
+|  33 | Placa de presión del tubo | RO811335880 | 1  |
+|  34 | Cuadro eléctrico | RO811336329 | 1  |
+|  35 | Caja de control eléctrico | RO811336333 | 1  |
+|  36 | Tablero de bornes | RO860024870 | 1  |
+|  37 | Transformador | Consultar código de pieza con el fabricante | 1  |
+|  38 | Placa de presión de alambre | RO811336324 | 1  |
+|  39 | Conjunto P.C.B | RO950110578 | 1  |
+|  40 | Sensor de temperatura ambiente | RO811047423 | 1  |
+|  41 | Sensor de temperatura de la tubería | RO810203417 | 1  |
+|  42 | Línea eléctrica | RO810703404 | 1  |
+|  43 | Subconjunto de control eléctrico | RO950108244 | 1  |
+|  44 | Control remoto | RO950168151 | 1  |
+|  45 | Soporte de control remoto | RO811253482 | 1  |

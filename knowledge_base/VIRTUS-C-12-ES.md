@@ -1,164 +1,136 @@
-## VIRTUS-C-12-ES - Página 1
+# VIRTUS-C-12-ES.pdf
 
-Archivo: VIRTUS-C-12-ES — Página 1
 
-### Título principal
-Planos Explosionados
+================================================================================
+PAGE 1
+================================================================================
 
-### Subtítulo
-Unidad Interior
+# Planos Explosionados Unidad Interior 
 
-### Modelo
-12K
+12 K
 
-### Encabezados visibles (logotipos)
-- ADINA Air Conditioning
-- Virtus SERIES
+| No. | Nombre de la Pieza | Código | Qty | Opcional |
+| :--: | :--: | :--: | :--: | :--: |
+| 1 | Subconjunto del panel frontal | RO950201587 | 1 |  |
+| 2 | Panel frontal | RO950182761 | 1 |  |
+| $2-1$ | Tira decorativa (izquierda) | RO950041451 | / | Opcional |
+| $2-2$ | Tira decorativa (derecha) | RO950041450 | / | Opcional |
+| $2-3$ | Ventana de visualización | / | / | Opcional |
+| 3 | Filtro de aire | RO811335843 | 2 |  |
+| $3-1$ | Filtro funcional | / | / | Opcional |
+| 4 | Marco medio | RO950050155 | 1 |  |
+| 5 | Cubierta de tornillo | RO811336322 | 1 |  |
+| 6 | Subconjunto del evaporador | RO950190636 | 1 |  |
+| 7 | PTC | / | 1 | Opcional |
+| 8 | Ventilador de flujo cruzado | RO810588315 | 1 |  |
+| 9 | Subconjunto del marco inferior | RO950176964 | 1 |  |
+| 10 | Enredo de cables |  | 1 | Opcional |
+| 11 | Rodamiento | RO810554649 | 1 |  |
+| 12 | Buje | RO810548012 | 1 |  |
+| 13 | Motor paso a paso | RO811392901 | 1 | Opcional |
+| 14 | Plataforma izquierda | RO811335810 | 1 |  |
+| 15 | Subconjunto de aspas | RO811348708 | 1 |  |
+| 16 | Buje | RO811335807 | 1 |  |
+| 17 | Motor paso a paso | RO810569305 | 1 |  |
+| 18 | Subconjunto del tubo de drenaje | RO810829755 | 1 |  |
+| 19 | Marco de montaje en pared | RO811335870 | 1 |  |
+| 20 | Conjunto de caja de visualización | RO811421020 | 1 |  |
+| 21 | Caja de visualización | RO811336331 | 1 |  |
+| 22 | conjunto de tarjeta PCB de visualización | RO811421006 | 1 |  |
+| 23 | Componente de voz | / | 1 | Opcional |
+| 24 | Subconjunto WIFI | / | 1 | Opcional |
+| 25 | enerador de iones positivos y negativo | / | 1 | Opcional |
+| 26 | UVC | / | 1 | Opcional |
+| 27 | Cubierta del motor | RO811335809 | 1 |  |
+| 28 | Placa de presión del motor | RO811335886 | 1 |  |
+| 29 | Motor del ventilador | RO810586274 | 1 |  |
+|  |  | RO810589923 |  |  |
+|  |  | RO810763373 |  |  |
+|  |  | RO810772208 |  |  |
+|  |  | RO811297303 |  |  |
+| 30 | Soporte del motor | RO811335818 | 1 |  |
+| 31 | Placa de montaje | / | 1 | Opcional |
+| 32 | Plataforma derecha | RO811335799 | 1 |  |
+| 33 | Placa de presión del tubo | RO811335882 | 1 |  |
+| 34 | Placa de la caja de control eléctrico | RO950063841 | 1 |  |
+| 35 | Caja de control eléctrico | RO950063842 | 1 |  |
+| 36 | Placa de terminales | RO860024870 | 1 |  |
+| 37 | Transformador | / | 1 | Opcional |
+| 38 | Placa de presión de cables | RO810548011 | 1 |  |
+| 39 | Conjunto de tarjeta PCB | RO950193960 | 1 |  |
+| 40 | Sensor de temperatura ambiente | RO811047423 | 1 |  |
+| 41 | Sensor de temperatura de tubería | RO810203417 | 1 |  |
+| 42 | Línea de alimentación | RO810527845 | 1 |  |
+| 43 | Subconjunto de control eléctrico | RO950196092 | 1 |  |
+| 44 | Control remoto | RO950176814 | 1 |  |
+| 45 | Soporte del control remoto | RO950059371 | 1 | Opcional |
 
----
+![img-0.jpeg](img-0.jpeg)
 
-### Tabla: Lista de piezas (tabla principal)
-(Encabezados de tabla: No., Nombre de la Pieza, Código, Qty, Opcional)
+================================================================================
+PAGE 2
+================================================================================
 
-- **No.:** 1, **Nombre de la Pieza:** Subconjunto del panel frontal, **Código:** R0950201587, **Qty:** 1, **Opcional:**
-- **No.:** 2, **Nombre de la Pieza:** Panel frontal, **Código:** R0950182761, **Qty:** 1, **Opcional:**
-- **No.:** 2-1, **Nombre de la Pieza:** Tira decorativa (izquierda), **Código:** R0950041451, **Qty:** /, **Opcional:** Opcional
-- **No.:** 2-2, **Nombre de la Pieza:** Tira decorativa (derecha), **Código:** R0950041450, **Qty:** /, **Opcional:** Opcional
-- **No.:** 2-3, **Nombre de la Pieza:** Ventana de visualización, **Código:** /, **Qty:** /, **Opcional:**
-- **No.:** 3, **Nombre de la Pieza:** Filtro de aire, **Código:** R0811335843, **Qty:** 2, **Opcional:**
-- **No.:** 3-1, **Nombre de la Pieza:** Filtro funcional, **Código:** /, **Qty:** /, **Opcional:** Opcional
-- **No.:** 4, **Nombre de la Pieza:** Marco medio, **Código:** R0950050155, **Qty:** 1, **Opcional:**
-- **No.:** 5, **Nombre de la Pieza:** Cubierta de tornillo, **Código:** R0811336322, **Qty:** 1, **Opcional:**
-- **No.:** 6, **Nombre de la Pieza:** Subconjunto del evaporador, **Código:** R0950109636, **Qty:** 1, **Opcional:**
-- **No.:** 7, **Nombre de la Pieza:** PTC, **Código:** R0810588175, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 8, **Nombre de la Pieza:** Ventilador de flujo cruzado, **Código:** R0810588315, **Qty:** 1, **Opcional:**
-- **No.:** 9, **Nombre de la Pieza:** Subconjunto del marco inferior, **Código:** R0950176964, **Qty:** 1, **Opcional:**
-- **No.:** 10, **Nombre de la Pieza:** Enredo de cables, **Código:** /, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 11, **Nombre de la Pieza:** Rodamiento, **Código:** R0810554649, **Qty:** 1, **Opcional:**
-- **No.:** 12, **Nombre de la Pieza:** Buje, **Código:** R0810548012, **Qty:** 1, **Opcional:**
-- **No.:** 13, **Nombre de la Pieza:** Motor paso a paso, **Código:** R0811392901, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 14, **Nombre de la Pieza:** Plataforma izquierda, **Código:** R0811335810, **Qty:** 1, **Opcional:**
-- **No.:** 15, **Nombre de la Pieza:** Subconjunto de aspas, **Código:** R0811348708, **Qty:** 1, **Opcional:**
-- **No.:** 16, **Nombre de la Pieza:** Buje, **Código:** R0811335807, **Qty:** 1, **Opcional:**
-- **No.:** 17, **Nombre de la Pieza:** Motor paso a paso, **Código:** R0810569305, **Qty:** 1, **Opcional:**
-- **No.:** 18, **Nombre de la Pieza:** Subconjunto del tubo de drenaje, **Código:** R0810829755, **Qty:** 1, **Opcional:**
-- **No.:** 19, **Nombre de la Pieza:** Marco de montaje en pared, **Código:** R0811335870, **Qty:** 1, **Opcional:**
-- **No.:** 20, **Nombre de la Pieza:** Conjunto de caja de visualización, **Código:** R0811412702, **Qty:** 1, **Opcional:**
-- **No.:** 21, **Nombre de la Pieza:** Caja de visualización, **Código:** R0811336331, **Qty:** 1, **Opcional:**
-- **No.:** 22, **Nombre de la Pieza:** conjunto de tarjeta PCB de visualización, **Código:** R0811412006, **Qty:** 1, **Opcional:**
-- **No.:** 23, **Nombre de la Pieza:** Componente de voz, **Código:** /, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 24, **Nombre de la Pieza:** Subconjunto WIFI, **Código:** /, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 25, **Nombre de la Pieza:** generador de iones positivos y negativo, **Código:** /, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 26, **Nombre de la Pieza:** UVC, **Código:** /, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 27, **Nombre de la Pieza:** Cubierta del motor, **Código:** R0811335809, **Qty:** 1, **Opcional:**
-- **No.:** 28, **Nombre de la Pieza:** Placa de presión del motor, **Código:** R0811335826, **Qty:** 1, **Opcional:**
-- **No.:** 29, **Nombre de la Pieza:** Motor del ventilador, **Código:** R0810568274, R0810763273, R0810772208, R0811279703, R0811129703, **Qty:** 1, **Opcional:**
-- **No.:** 30, **Nombre de la Pieza:** Soporte del motor, **Código:** R0811335818, **Qty:** 1, **Opcional:**
-- **No.:** 31, **Nombre de la Pieza:** Placa de montaje, **Código:** R0811335[ilegible], **Qty:** 1, **Opcional:** Opcional
-- **No.:** 32, **Nombre de la Pieza:** Plataforma derecha, **Código:** R0811335799, **Qty:** 1, **Opcional:**
-- **No.:** 33, **Nombre de la Pieza:** Placa de presión del tubo, **Código:** R0811335882, **Qty:** 1, **Opcional:**
-- **No.:** 34, **Nombre de la Pieza:** Placa de la caja de control eléctrico, **Código:** R0950063841, **Qty:** 1, **Opcional:**
-- **No.:** 35, **Nombre de la Pieza:** Caja de control eléctrico, **Código:** R0950063842, **Qty:** 1, **Opcional:**
-- **No.:** 36, **Nombre de la Pieza:** Placa de terminales, **Código:** R0860024870, **Qty:** 1, **Opcional:**
-- **No.:** 37, **Nombre de la Pieza:** Transformador, **Código:** /, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 38, **Nombre de la Pieza:** Placa de presión de cables, **Código:** R0810548011, **Qty:** 1, **Opcional:**
-- **No.:** 39, **Nombre de la Pieza:** Conjunto de tarjeta PCB, **Código:** R0950193940, **Qty:** 1, **Opcional:**
-- **No.:** 40, **Nombre de la Pieza:** Sensor de temperatura ambiente, **Código:** R0811047423, **Qty:** 1, **Opcional:**
-- **No.:** 41, **Nombre de la Pieza:** Sensor de temperatura de tubería, **Código:** R0810234417, **Qty:** 1, **Opcional:**
-- **No.:** 42, **Nombre de la Pieza:** Línea de alimentación, **Código:** R0810527845, **Qty:** 1, **Opcional:**
-- **No.:** 43, **Nombre de la Pieza:** Subconjunto de control eléctrico, **Código:** R0950196092, **Qty:** 1, **Opcional:**
-- **No.:** 44, **Nombre de la Pieza:** Control remoto, **Código:** R0950176814, **Qty:** 1, **Opcional:**
-- **No.:** 45, **Nombre de la Pieza:** Soporte del control remoto, **Código:** R0950595371, **Qty:** 1, **Opcional:** Opcional
+![img-1.jpeg](img-1.jpeg)
 
-Nota: Algunos códigos o caracteres muy pequeños en la imagen se presentan como "[ilegible]" donde no se alcanzó a leer con certeza.
+![img-2.jpeg](img-2.jpeg)
 
----
+# Planos Explosionados
 
-### Diagrama explosionado (lado derecho de la página)
-- Diagrama numerado con referencias visuales para las piezas listadas en la tabla.
-- Números visibles en el diagrama (marcadores de referencia de pieza): 1, 2, 2-1, 2-2, 2-3, 3, 3-1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39
-  - (Los números en el diagrama corresponden a las "No." de la tabla de piezas; algunos números aparecen varias veces en la ilustración indicando múltiples ubicaciones o subcomponentes.)
+## Unidad Exterior
 
----
+### 12K
 
-### Encabezados/Pies de página visibles
-- Número de página visible: 1 (esquina inferior derecha)
+|  No. | Nombre de la Plaza | Código | Qty | Opcional  |
+| --- | --- | --- | --- | --- |
+|  1 | Cubierta frontal de rejilla | 80811222638 | 1 |   |
+|  2 | Panel frontal | 80811222696 | 1 |   |
+|  3 | Ventilador de flujo axial | 80811002366 | 1 |   |
+|  4 | Motor del ventilador | 80900072770 | 1 |   |
+|   |  | 80900110297 |  |   |
+|   |  | 80811009338 |  |   |
+|  5 | Soporte del motor | 80900143696 | 1 |   |
+|  6 | Compresor | 80811493913 | 1 |   |
+|  7 | Conjunto del condensador | 80811238894 | 1 |   |
+|  8 | Plaza de montaje en esquina | 80811232892 | 1 |   |
+|  9 | Plaza de cubierta | 80811232895 | 1 |   |
+|  10 | Cubierta trasera de rejilla (plástico) | 80811242562 | 1 | Opcional  |
+|  11 | Cubierta lateral de rejilla (metal) |  | 1 | Opcional  |
+|  12 | Cubierta trasera de rejilla (metal) |  | 1 | Opcional  |
+|  13 | Subconjunto de control eléctrico (inverter) | 80900077707 | 1 |   |
+|  14 | Conjunto de tarjeta PCB del inversor | 80900077782 | 1 |   |
+|  15 | Plaza de terminales | 80810811295 | 1 |   |
+|  16 | Plaza superior de instalación eléctrica | 80810030815 | 1 |   |
+|  17 | Plaza inferior de instalación eléctrica | 80810030134 | 1 |   |
+|  18 | Base de terminales (inverter) | 80811232884 | 1 |   |
+|  19 | Sensor de temperatura exterior (amarrillo) | 80810600742 | 1 |   |
+|  20 | Sensor de temperatura de tubería (rojo) | 80810600743 | 1 |   |
+|  21 | Sensor de temperatura de escape (negro) | 80810600744 | 1 |   |
+|  22 | Subconjunto de control eléctrico (frecuencia constante) |  | 1 | Opción de Frecuencia Constante  |
 
----
-
-### Notas y leyendas
-- Algunas piezas marcadas como "Opcional" en la columna Opcional de la tabla.
-- Se conservó la estructura original: lista numerada con subíndices (ej. 2-1, 2-2, 2-3, 3-1).
-- Elementos de la tabla con campos no legibles se indican como "[ilegible]" o "/" según lo visible en la imagen.
-
----
-
-Fin de la transcripción de la página.
-
-## VIRTUS-C-12-ES - Página 2
-
-### Encabezado / Logos
-- ADINA Air Conditioning (logo visible, parte superior izquierda)
-- Virtus SERIES (logo visible, parte superior derecha)
-
-### Título principal
-- Planos Explosionados
-- Unidad Exterior
-- 12K
-
-### Ilustración
-- Diagrama: Plano explosionado de la unidad exterior (numeración de piezas del 1 al 44). (Gráfico central/izquierda de la página con llamadas numéricas a las piezas)
-
-### Tabla: Listado de piezas (columna izquierda, No. 1 a 22)
-- **No:** 1, **Nombre de la Pieza:** Cubierta frontal de rejilla, **Código:** R0B11232838, **Qty:** 1, **Opcional:**
-- **No:** 2, **Nombre de la Pieza:** Panel frontal, **Código:** R0B11232886, **Qty:** 1, **Opcional:**
-- **No:** 3, **Nombre de la Pieza:** Ventilador de flujo axial, **Código:** R0B05122795, **Qty:** 1, **Opcional:**
-- **No:** 4, **Nombre de la Pieza:** Motor del ventilador, **Código:** R005072915, **Qty:** 1, **Opcional:**
-- **No:** 5, **Nombre de la Pieza:** Soporte del motor, **Código:** R005013966, **Qty:** 1, **Opcional:**
-- **No:** 6, **Nombre de la Pieza:** Compresor, **Código:** R0B11439913, **Qty:** 1, **Opcional:**
-- **No:** 7, **Nombre de la Pieza:** Conjunto del condensador, **Código:** R0B11232894, **Qty:** 1, **Opcional:**
-- **No:** 8, **Nombre de la Pieza:** Placa de montaje en esquina, **Código:** R0B11232892, **Qty:** 1, **Opcional:**
-- **No:** 9, **Nombre de la Pieza:** Placa de cubierta, **Código:** R0B11232895, **Qty:** 1, **Opcional:**
-- **No:** 10, **Nombre de la Pieza:** Cubierta trasera de rejilla (plástica), **Código:** R0B11232826, **Qty:** 1, **Opcional:** Opcional
-- **No:** 11, **Nombre de la Pieza:** Cubierta lateral de rejilla (metal), **Código:** R0B11232841, **Qty:** 1, **Opcional:** Opcional
-- **No:** 12, **Nombre de la Pieza:** Cubierta trasera de rejilla (metal), **Código:** R0B11232842, **Qty:** 1, **Opcional:** Opcional
-- **No:** 13, **Nombre de la Pieza:** Subconjunto de control eléctrico (inverter), **Código:** R005077707, **Qty:** 1, **Opcional:**
-- **No:** 14, **Nombre de la Pieza:** Conjunto de tarjeta PCB del inverter, **Código:** R005077702, **Qty:** 1, **Opcional:**
-- **No:** 15, **Nombre de la Pieza:** Placa de terminales, **Código:** R0B1101595, **Qty:** 1, **Opcional:**
-- **No:** 16, **Nombre de la Pieza:** Placa superior de instalación eléctrica, **Código:** R0B0503015, **Qty:** 1, **Opcional:** Opcional Inverter
-- **No:** 17, **Nombre de la Pieza:** Placa inferior de instalación eléctrica, **Código:** R0B05036134, **Qty:** 1, **Opcional:**
-- **No:** 18, **Nombre de la Pieza:** Base de terminales (inverter), **Código:** R0B11232844, **Qty:** 1, **Opcional:**
-- **No:** 19, **Nombre de la Pieza:** Sensor de temperatura exterior (amarillo), **Código:** R005012694, **Qty:** 1, **Opcional:**
-- **No:** 20, **Nombre de la Pieza:** Sensor de temperatura de tubería (azul), **Código:** R005012364, **Qty:** 1, **Opcional:**
-- **No:** 21, **Nombre de la Pieza:** Sensor de temperatura de escape (negro), **Código:** R005005744, **Qty:** 1, **Opcional:**
-- **No:** 22, **Nombre de la Pieza:** Subconjunto de control eléctrico (frecuencia constante), **Código:** R0B0510744, **Qty:** 1, **Opcional:** Opcional de Frecuencia Constante
-
-### Tabla: Listado de piezas (columna derecha, No. 23 a 44)
-- **No:** 23, **Nombre de la Pieza:** Capacitor de membrana (compresor), **Código:** R0050122385, **Qty:** 1, **Opcional:** Opción de Frecuencia Constante
-- **No:** 24, **Nombre de la Pieza:** Capacitor de membrana (motor del ventilador), **Código:** R0050117596, **Qty:** 1, **Opcional:**
-- **No:** 25, **Nombre de la Pieza:** Clip del capacitor, **Código:** -, **Qty:** 1, **Opcional:**
-- **No:** 26, **Nombre de la Pieza:** Placa de terminales, **Código:** -, **Qty:** 1, **Opcional:**
-- **No:** 27, **Nombre de la Pieza:** Placa superior de instalación eléctrica, **Código:** -, **Qty:** 1, **Opcional:**
-- **No:** 28, **Nombre de la Pieza:** Placa inferior de instalación eléctrica, **Código:** -, **Qty:** 1, **Opcional:**
-- **No:** 29, **Nombre de la Pieza:** Base de terminales (frecuencia constante), **Código:** -, **Qty:** 1, **Opcional:**
-- **No:** 30, **Nombre de la Pieza:** Receptor, **Código:** -, **Qty:** 1, **Opcional:**
-- **No:** 31, **Nombre de la Pieza:** Placa insonorizante, **Código:** R0B11232865, **Qty:** 1, **Opcional:**
-- **No:** 32, **Nombre de la Pieza:** Soporte del sensor, **Código:** R005007370, **Qty:** 1, **Opcional:** Opcional
-- **No:** 33, **Nombre de la Pieza:** Subconjunto de cubierta eléctrica, **Código:** R0B1109889, **Qty:** 1, **Opcional:**
-- **No:** 34, **Nombre de la Pieza:** Panel lateral derecho, **Código:** R0B11232894, **Qty:** 1, **Opcional:**
-- **No:** 35, **Nombre de la Pieza:** Cubierta de válvula, **Código:** R0B11233432, **Qty:** 1, **Opcional:** Opcional
-- **No:** 36, **Nombre de la Pieza:** Componentes del capilar, **Código:** R005003737, **Qty:** 1, **Opcional:**
-- **No:** 37, **Nombre de la Pieza:** Válvula de corte (pequeña), **Código:** R0B11234924, **Qty:** 1, **Opcional:**
-- **No:** 38, **Nombre de la Pieza:** Placa de montaje de válvula, **Código:** R0B11232822, **Qty:** 1, **Opcional:**
-- **No:** 39, **Nombre de la Pieza:** Conjunto de base, **Código:** R0B1139015, **Qty:** 1, **Opcional:**
-- **No:** 40, **Nombre de la Pieza:** Conjunto de válvula de cuatro vías, **Código:** R0B110147, **Qty:** 1, **Opcional:** Opcional
-- **No:** 41, **Nombre de la Pieza:** Válvula de corte (grande), **Código:** R0B10481188, **Qty:** 1, **Opcional:**
-- **No:** 42, **Nombre de la Pieza:** Conjunto de tubería de control, **Código:** R0B0511992, **Qty:** 1, **Opcional:**
-- **No:** 43, **Nombre de la Pieza:** Tubería de escape de gas, **Código:** R005005875, **Qty:** 1, **Opcional:**
-- **No:** 44, **Nombre de la Pieza:** Válvula de cuatro vías, **Código:** R0B11232895, **Qty:** 1, **Opcional:** Opcional
-
-### Notas y leyendas:
-- Página con diagrama explosionado y listado de piezas para la Unidad Exterior 12K.
-- Número de página visible: 2 (parte inferior derecha).
-
-(Observación: La página contiene un diagrama explosionado con llamadas numéricas correspondientes a las piezas listadas. Las referencias de código se han transcrito tal como aparecen visibles en la imagen; algunos códigos o caracteres muy pequeños pueden estar sujetos a interpretación visual.)
+|  No. | Nombre de la Plaza | Código | Qty | Opcional  |
+| --- | --- | --- | --- | --- |
+|  23 | Capacitor de membrana (compresor) |  |  | Opción de Frecuencia Constante  |
+|  24 | Capacitor de membrana (motor del ventilador) |  | 1 |   |
+|  25 | Crip del capacitor |  | 1 |   |
+|  26 | Placa de terminales |  | 1 |   |
+|  27 | Placa superior de instalación eléctrica |  | 1 |   |
+|  28 | Placa inferior de instalación eléctrica |  | 1 |   |
+|  29 | Base de terminales (frecuencia constante) |  | 1 |   |
+|  30 | Resistor |  | 1 | Opcional  |
+|  31 | Placa insonorizante | 80811232860 | 1 |   |
+|  32 | Soporte del sensor | 80900073170 | 1 | Opcional  |
+|  33 | Subconjunto de cubierta eléctrica | 80810808903 | 1 |   |
+|  34 | Panel lateral derecho | 80811232894 | 1 |   |
+|  35 | Cubierta de válvula | 80811256632 | 1 | Opcional  |
+|  36 | Componentes del capilar | 80900057337 | 1 |   |
+|  37 | Válvula de corte (pequeña) | 80811349284 | 1 |   |
+|  38 | Placa de montaje de válvula | 80811232882 | 1 |   |
+|  39 | Conjunto de base | 80811351015 | 1 |   |
+|  40 | Conjunto de válvula de cuatro vías |  | 1 | Opcional  |
+|  41 | Válvula de corte (grande) | 80810841198 | 1 |   |
+|   |  | 80810841192 |  |   |
+|   |  | 80810845899 |  |   |
+|  42 | Conjunto de tubería de succión | 80811229206 | 1 |   |
+|  43 | Tubería de escape de gas | 80900065875 | 1 |   |
+|  44 | Válvula de cuatro vías |  | 1 | Opcional  |

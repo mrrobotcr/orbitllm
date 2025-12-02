@@ -1,126 +1,94 @@
-## AALEF-T-3617-ES - Página 1
+# AALEF-T-3617-ES.pdf
 
-### Encabezados y logos (zona superior)
-- ADINA
-- Air Conditioning
-- ALEF
-- SERIES
-- 36K
 
-### Título principal
-- Plano Explosionado
-- Unidad Interior
+================================================================================
+PAGE 1
+================================================================================
 
-### Imagen / Diagrama
-- Dibujo esquemático de la unidad interior con referencias numeradas (1 a 18 y 3 señalado en una vista de rejilla).
+![img-0.jpeg](img-0.jpeg)
 
-### Leyenda de referencias numeradas (visibles junto al diagrama)
-- Números de llamada visibles en el diagrama: 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
+![img-1.jpeg](img-1.jpeg)
 
-### Tabla: Lista de piezas (columna encabezados visibles)
-- **No.:**, **No. de Parte:**, **Nombre de la Parte:**, **Qty**, **Observación**
+![img-2.jpeg](img-2.jpeg)
 
-- **No.:** 1, **No. de Parte:** [ilegible], **Nombre de la Parte:** Panel frontal, **Qty:** 1, **Observación:** 
-- **No.:** 2, **No. de Parte:** [ilegible], **Nombre de la Parte:** Filtro de aire, **Qty:** 2, **Observación:** 
-- **No.:** 3, **No. de Parte:** [ilegible], **Nombre de la Parte:** marco de la cara, **Qty:** 1, **Observación:** 
-- **No.:** 4, **No. de Parte:** [ilegible], **Nombre de la Parte:** Cubierta de caja eléctrica, **Qty:** 1, **Observación:** 
-- **No.:** 5, **No. de Parte:** [ilegible], **Nombre de la Parte:** Placa de circuito impreso de pantalla, **Qty:** 1, **Observación:** 
-- **No.:** 6, **No. de Parte:** [ilegible], **Nombre de la Parte:** Caja de PCB de pantalla, **Qty:** 1, **Observación:** 
-- **No.:** 7, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 8, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 9, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 10, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 11, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 12, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 13, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 14, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 15, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 16, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 17, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 18, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 19, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 20, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 21, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 22, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 23, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 24, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 25, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 26, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** No se muestra en la vista de explosion.
-- **No.:** 27, **No. de Parte:** [ilegible], **Nombre de la Parte:** [ilegible], **Qty:** 1, **Observación:** 
-- **No.:** 28, **No. de Parte:** [ilegible], **Nombre de la Parte:** Espuma Derecho, **Qty:** 1, **Observación:** 
+# Plano Explosionado
 
-Nota: Muchos números de parte y nombres de piezas en la tabla son de tamaño reducido y no legibles con claridad en la imagen proporcionada; se han transcrito las entradas que resultan visualmente legibles y el resto se ha marcado como [ilegible] para no introducir información no visible.
+## Unidad Interior
 
-### Notas y leyendas adicionales visibles
-- Notas pequeñas junto a la tabla (texto parcialmente legible): "No se muestra en la vista de explosion."
-- Número de página centrado en pie de página: 1
+|  No. | No. de Parte | Nombre de la Parte | Qty | Observación  |
+| --- | --- | --- | --- | --- |
+|  1 | 41106-062648 | Panel frontal | 1 |   |
+|  2 | 42008-065637 | Filtro de aire | 2 |   |
+|  3 | 41106-062371 | Hanco de la cara | 1 |   |
+|  4 | 41201-065869 | Cubierta de caja eléctrica | 1 |   |
+|  5 | 31102-060995 | Placa de circuito impreso de pantalla | 1 |   |
+|  6 | 42003-065801 | Caja de PCB de pantalla | 1 |   |
+|  7 | 62011-060970 | Esquemador | 1 |   |
+|  8 | 41106-065660 | Cubierta de tornillo | 1 |   |
+|  9 | 42004-065639 | Abanico cruzado | 1 |   |
+|  10 | 42007-065801 | Muntaje de sujeción | 1 |   |
+|  11 | 22001-065881 | Hodor de interés | 1 |   |
+|  12 | 41101-065242 | Fijador de tuberías de entrada y salida | 1 |   |
+|  13 | 42003-065869 | Cubierta de motor interior | 1 |   |
+|  14 | 41106-065366 | Caja eléctrica | 1 |   |
+|  15 | 31101-065460 | PCB principal | 1 |   |
+|  16 | 10502-135528 | Transfomador | 1 |   |
+|  17 | 42001-065103 | Ajustadora de cable | 1 |   |
+|  18 | 22001-065813 | Motor de paletiza 1 | 1 |   |
+|  19 | 41106-062720 | Base | 1 |   |
+|  20 | 41101-060881 | Conjunto de paletas verticales | 2 |   |
+|  21 | 41102-060101 | Velado | 1 |   |
+|  22 | 41106-060642 | Placa de instalación | 1 |   |
+|  23 | 10104-135514 | Conjunto de sensor interior | 1 | No se revestido en la vista de explosión  |
+|  24 | 42009-000011 | Manejuice de drenaje | 1 |   |
+|  25 | 22012-065837 | Control remoto | 1 |   |
+|  26 | A1101-002513 | Control interior | 1 |   |
+|  27 | 41110-000221 | Espuma izquierda | 1 |   |
+|  28 | 41110-000200 | Espuma derecha | 1 |   |
 
---- 
-Fin de la transcripción de AALEF-T-3617-ES - Página 1.
+================================================================================
+PAGE 2
+================================================================================
 
-## AALEF-T-3617-ES - Página 2
+![img-3.jpeg](img-3.jpeg)
 
-### Archivo: AALEF-T-3617-ES — Página 2
+![img-4.jpeg](img-4.jpeg)
 
-### Título principal
-ALEF
-SERIES
-36K
+# Plano Explosionado
 
-### Título de sección
-Plano Explosionado
-Unidad Exterior
+## Unidad Exterior
 
-### Diagramas y etiquetas visuales (texto visible alrededor de los dibujos)
-- Números de referencia visibles en los dibujos: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
-- Notas visuales en dibujos: (no hay texto adicional legible aparte de los números de referencia)
+|  No. | No. de Parte | Nombre de la Parte | Qty | Observación  |
+| --- | --- | --- | --- | --- |
+|  1 | 45011-000163 | Paja | 1 | Optional  |
+|  2 | 41207-000029 | La cubierta superior | 1 |   |
+|  3 | 85011-000062 | Condensador | 1 |   |
+|  4 | 41203-000054 | Perfisterio del motor al aire libre | 1 |   |
+|  5 | 22901-000093 | Motor al aire libre | 1 |   |
+|  6 | 42004-000107 | Ventilador de hélice | 1 |   |
+|  7 | 41205-000133 | Perfisterio de la parrilla izquierda | 1 |   |
+|  8 | 41206-000054 | Placa frontal | 1 |   |
+|  9 | 85011-000066 | Guantán del ventilador | 1 |   |
+|  10 | 82907-000080 | Asombro capilar | 1 |   |
+|  11 | 85014-000090 | Compresor | 1 |   |
+|  12 | 82906-007081 | Tubería de descarga | 1 |   |
+|  13 | 82905-007170 | Tubo de succión | 1 |   |
+|  14 | 41202-000177 | Base | 1 |   |
+|  15 | 82907-007317 | Conjunto de válvula de globo | 1 |   |
+|  16 | 41204-000019 | Perfisterio de la válvula | 1 |   |
+|  17 | 82907-001041 | Conjunto de válvula de globo | 1 |   |
+|  18 | 41205-000030 | Placa Desecha | 1 |   |
+|  19 | 41201-000039 | Cubierta de caja eléctrica | 1 |   |
+|  20 | 42001-000030 | Tiro de condensadores | 1 |   |
+|  21 | 42001-000030 | Abrazadera de cable (47) | 1 |   |
+|  22 | 11104-100006 | Terminal | 1 |   |
+|  23 | 22003-000010 | Condensador del compresor | 1 |   |
+|  24 | 10303-100019 | Condensador del motor del ventilador | 1 |   |
+|  25 | 41214-000194 | Caja de piezas eléctricas | 1 |   |
+|  26 | 41208-000199 | placa dieléctrica | 1 |   |
+|  27 | 42006-000025 | Caja base | 1 |   |
+|  28 | 41201-003465 | Caja de carbón | 1 | No se muestra en la nota de explosión.  |
+|  29 | 41202-000031 | Espuma base | 1 |   |
+|  30 | 41213-000023 | Cubierta de espuma | 1 |   |
 
-### Tabla: Lista de piezas (encabezados de columnas detectados)
-- **No.**
-- **No. de Parte**
-- **Nombre de la Parte**
-- **Q'TY**
-- **Observación**
-
-### Tabla: Filas (cada fila como viñeta; se preserva el texto visible tal como aparece. Si alguna parte del texto no es completamente legible en la imagen, se indica como [ilegible].)
-- **No.:** 1, **No. de Parte:** 42011-000102, **Nombre de la Parte:** Tapa, **Q'TY:** 1, **Observación:** Opcional
-- **No.:** 2, **No. de Parte:** 42011-000201, **Nombre de la Parte:** Cubierta superior, **Q'TY:** 1, **Observación:** 
-- **No.:** 3, **No. de Parte:** 42011-000020, **Nombre de la Parte:** Condensador, **Q'TY:** 1, **Observación:** 
-- **No.:** 4, **No. de Parte:** 42001-000023, **Nombre de la Parte:** Protector del motor al aire libre, **Q'TY:** 1, **Observación:** 
-- **No.:** 5, **No. de Parte:** 42005-000023, **Nombre de la Parte:** Motor al aire libre, **Q'TY:** 1, **Observación:** 
-- **No.:** 6, **No. de Parte:** 42008-000107, **Nombre de la Parte:** Ventilador de hélice, **Q'TY:** 1, **Observación:** 
-- **No.:** 7, **No. de Parte:** 42006-000103, **Nombre de la Parte:** Protector de la parrilla izquierda, **Q'TY:** 1, **Observación:** 
-- **No.:** 8, **No. de Parte:** 42006-000054, **Nombre de la Parte:** Placa frontal, **Q'TY:** 1, **Observación:** 
-- **No.:** 9, **No. de Parte:** 42011-000201, **Nombre de la Parte:** Guardilla del ventilador, **Q'TY:** 1, **Observación:** 
-- **No.:** 10, **No. de Parte:** 43001-000201, **Nombre de la Parte:** Aislantes cilindros, **Q'TY:** 1, **Observación:** 
-- **No.:** 11, **No. de Parte:** 42001-000301, **Nombre de la Parte:** Compresor, **Q'TY:** 1, **Observación:** 
-- **No.:** 12, **No. de Parte:** 42001-000302, **Nombre de la Parte:** Tubería de descarga, **Q'TY:** 1, **Observación:** 
-- **No.:** 13, **No. de Parte:** 42002-000077, **Nombre de la Parte:** Tubería de succión, **Q'TY:** 1, **Observación:** 
-- **No.:** 14, **No. de Parte:** 42002-000077, **Nombre de la Parte:** Base, **Q'TY:** 1, **Observación:** 
-- **No.:** 15, **No. de Parte:** 42007-000031, **Nombre de la Parte:** Conjunto de salida de grasa, **Q'TY:** 1, **Observación:** 
-- **No.:** 16, **No. de Parte:** 42003-000018, **Nombre de la Parte:** Protector de la válvula, **Q'TY:** 1, **Observación:** 
-- **No.:** 17, **No. de Parte:** 42007-000117, **Nombre de la Parte:** Carcasa de salida de grasa, **Q'TY:** 1, **Observación:** 
-- **No.:** 18, **No. de Parte:** 42005-000034, **Nombre de la Parte:** Pleno derecha, **Q'TY:** 1, **Observación:** 
-- **No.:** 19, **No. de Parte:** 42001-000202, **Nombre de la Parte:** Cubierta de caja eléctrica, **Q'TY:** 1, **Observación:** 
-- **No.:** 20, **No. de Parte:** 42001-000205, **Nombre de la Parte:** Tira de condensadores, **Q'TY:** 1, **Observación:** 
-- **No.:** 21, **No. de Parte:** 42001-000206, **Nombre de la Parte:** Aislantes de cable (pc), **Q'TY:** 1, **Observación:** 
-- **No.:** 22, **No. de Parte:** 42001-000207, **Nombre de la Parte:** Tornillo, **Q'TY:** 1, **Observación:** 
-- **No.:** 23, **No. de Parte:** 42003-000109, **Nombre de la Parte:** Conector del compresor, **Q'TY:** 1, **Observación:** 
-- **No.:** 24, **No. de Parte:** 42003-000110, **Nombre de la Parte:** Conector del motor del ventilador, **Q'TY:** 1, **Observación:** 
-- **No.:** 25, **No. de Parte:** 42014-000302, **Nombre de la Parte:** Caja de bornes eléctrica, **Q'TY:** 1, **Observación:** 
-- **No.:** 26, **No. de Parte:** 42006-000203, **Nombre de la Parte:** (ilegible en la imagen), **Q'TY:** 1, **Observación:** 
-- **No.:** 27, **No. de Parte:** 42006-000204, **Nombre de la Parte:** (ilegible en la imagen), **Q'TY:** 1, **Observación:** 
-- **No.:** 28, **No. de Parte:** 42011-000301, **Nombre de la Parte:** Espuma base, **Q'TY:** 1, **Observación:** 
-- **No.:** 29, **No. de Parte:** 41210-000001, **Nombre de la Parte:** Colihunta de supurri (texto parcialmente ilegible), **Q'TY:** 1, **Observación:** No se muestra en la vista de explosion.
-
-(Observación: varias entradas en la columna "Nombre de la Parte" y algunos números de parte están parcialmente legibles o parcialmente ocultos por la resolución de la imagen; donde el texto no se distingue con claridad se marca como [ilegible] o se incluye la transcripción parcial tal como aparece.)
-
-### Notas, leyendas y pie de página
-- Logo y texto en pie de página: ADINA Air Conditioning
-- Número de página visible: 2 (centrado en el pie de página)
-
-### Observaciones sobre la imagen
-- La página contiene un plano explosionado con ilustraciones de la unidad exterior y referencias numéricas de piezas que corresponden a la tabla de partes a la derecha.
-- Algunas líneas de la tabla y algunos números de parte son difíciles de leer con claridad en la imagen proporcionada; se ha transcrito fielmente lo visible y se han marcado como [ilegible] aquellas partes cuya lectura no es segura.
-
-Si desea, puedo intentar una segunda pasada focalizada sobre la tabla para intentar una lectura más detallada de los números de parte y nombres de piezas; por favor confirme si desea que haga eso y, si es posible, facilite una imagen de mayor resolución o un recorte centrado en la tabla para mejorar la legibilidad.
+![img-5.jpeg](img-5.jpeg)

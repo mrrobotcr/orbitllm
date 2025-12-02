@@ -1,153 +1,133 @@
-## AFLEX-C-12-110-ESP - Página 1
-
-### Título principal
-Plano Explosionado
-
-### Subtítulo / Identificación
-- Unidad Exterior
-- 12K 110V
-
-### Marca / Serie (imagen superior derecha)
-- flex-C SERIES
-
-### Diagrama
-(Diagrama explosionado de la unidad exterior con números de referencia de piezas)
-
-### Tabla: Lista de partes (izquierda, No. 1 - 15)
-- **No:** 1, **Nombre de la parte:** Cubierta del ventilador, **Código:** R0811232838, **Q'ty:** 1
-- **No:** 2, **Nombre de la parte:** Conjunto de placa frontal, **Código:** R0811242466, **Q'ty:** 1
-- **No:** 3, **Nombre de la parte:** Ventilador, **Código:** R0810550099, **Q'ty:** 1
-- **No:** 4, **Nombre de la parte:** Motor del ventilador, **Código:** R0810581434 / R0810581421 / R0810485427, **Q'ty:** 1
-- **No:** 5, **Nombre de la parte:** Soporte motor, **Código:** R0811232856, **Q'ty:** 1
-- **No:** 6, **Nombre de la parte:** Compresor, **Código:** R0811364740, **Q'ty:** 1
-- **No:** 7, **Nombre de la parte:** Conjunto condensador, **Código:** R0811307549, **Q'ty:** 1
-- **No:** 8, **Nombre de la parte:** Placa de montaje del prisma, **Código:** R0811232892, **Q'ty:** 1
-- **No:** 9, **Nombre de la parte:** Conjunto placa de cubierta, **Código:** R0811232895, **Q'ty:** 1
-- **No:** 10, **Nombre de la parte:** Placa de instalación del control eléctrico, **Código:** R0811232860, **Q'ty:** 1
-- **No:** 11, **Nombre de la parte:** Cubierta de red trasera, **Código:** R0811242562, **Q'ty:** 1
-- **No:** 12, **Nombre de la parte:** Condensador de membrana (compresor), **Código:** R0810557393, **Q'ty:** 1
-- **No:** 13, **Nombre de la parte:** Condensador de membrana (motor ventilador), **Código:** R0810584404, **Q'ty:** 1
-- **No:** 14, **Nombre de la parte:** Bloque de terminales de conexión, **Código:** R050450010420, **Q'ty:** 1
-- **No:** 15, **Nombre de la parte:** Conjunto de cables, **Código:** R0810530815, **Q'ty:** 1
-
-### Tabla: Lista de partes (derecha, No. 16 - 27)
-- **No:** 16, **Nombre de la parte:** Placa de presión, **Código:** R0810536134, **Q'ty:** 1
-- **No:** 17, **Nombre de la parte:** Conjunto de insonorización, **Código:** R0811232891, **Q'ty:** 1
-- **No:** 18, **Nombre de la parte:** Conjunto asidero, **Código:** R0810808983, **Q'ty:** 1
-- **No:** 19, **Nombre de la parte:** Placa lateral derecha, **Código:** R0811232894, **Q'ty:** 1
-- **No:** 20, **Nombre de la parte:** Conjunto válvula de corte 1/2, **Código:** R0810845897, **Q'ty:** 1
-- **No:** 21, **Nombre de la parte:** Conjunto válvula de corte 1/4, **Código:** R0811349284, **Q'ty:** 1
-- **No:** 22, **Nombre de la parte:** Placa de instalación de la válvula, **Código:** R0811232882, **Q'ty:** 1
-- **No:** 23, **Nombre de la parte:** Tapa de válvula, **Código:** R0811230432, **Q'ty:** 1
-- **No:** 24, **Nombre de la parte:** Conjunto placa chasis, **Código:** R0811391015, **Q'ty:** 1
-- **No:** 25, **Nombre de la parte:** Conjunto capilar, **Código:** R0811357421, **Q'ty:** 1
-- **No:** 26, **Nombre de la parte:** Tubería de aspiración, **Código:** R0811388507, **Q'ty:** 1
-- **No:** 27, **Nombre de la parte:** Tubería de escape de gas, **Código:** R0811342137, **Q'ty:** 1
-
-### Encabezados y pie de página
-- Número de página visible: 1
-
-### Notas y observaciones visuales
-- Diagrama explosionado con números de referencia coincidentes con la lista de partes.
-- El diseño superior derecho muestra el logotipo/leyenda "flex-C SERIES".
-- Línea horizontal debajo de "Unidad Exterior / 12K 110V" que separa el título del diagrama.
-
-(Transcripción realizada a partir de la imagen de la página; se han preservado títulos, secciones y los códigos tal como aparecen en la página.)
+# AFLEX-C-12-110-ESP.pdf
 
 
+================================================================================
+PAGE 1
+================================================================================
 
-## AFLEX-C-12-110-ESP - Página 2
+# Plano Explosionado 
 
-### ADINA
-Air Conditioning
+## Unidad Exterior
 
-### Flex-C
-SERIES
-
-### Plano Explosionado
-Unidad Interior
 12K 110V
+![img-0.jpeg](img-0.jpeg)
 
-### Ilustración (referencias numeradas visibles)
-- Números de referencia visibles en la ilustración: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29
+| No | Nombre de la parte | Código | Q'ty |
+| :-- | :-- | :-- | :-- |
+| 1 | Cubierta del ventilador | RO811232838 | 1 |
+| 2 | Conjunto de placa frontal | RO811242466 | 1 |
+| 3 | Ventilador | RO810550099 | 1 |
+| 4 | Motor del ventilador | RO810843543 <br> RO810514812 <br> RO810485427 | 1 |
+| 5 | Soporte motor | RO811232856 | 1 |
+| 6 | Compresor | RO811364740 | 1 |
+| 7 | Conjunto condensador | RO811307549 | 1 |
+| 8 | Placa de montaje del prisma | RO811232892 | 1 |
+| 9 | Conjunto placa de cubierta | RO811232895 | 1 |
+| 10 | Placa de instalación del control <br> eléctrico | RO811232860 | 1 |
+| 11 | Cubierta de red trasera | RO811242562 | 1 |
+| 12 | Condensador de membrana (com- <br> presor) | RO810577393 | 1 |
+| 13 | Condensador de membrana (motor <br> ventilador) | RO810584404 | 1 |
+| 14 | Bloque de terminales de conexión | RO50450010420 | 1 |
+| 15 | Conjunto de cables | RO810530815 | 1 |
 
-### Tabla: Lista de piezas (columna encabezados: No, Nombre de la parte, Código, Q'ty)
-- **No:** 1, **Nombre de la parte:** Subconjunto del panel frontal, **Código:** R0811410211, **Q'ty:** 1
-- **No:** 2, **Nombre de la parte:** Panel frontal, **Código:** R0811089460, **Q'ty:** 1
-- **No:** 3, **Nombre de la parte:** Filtro de aire, **Código:** R0811084833, **Q'ty:** 1
-- **No:** 4, **Nombre de la parte:** Subconjunto bastidor medio, **Código:** R0810550032, **Q'ty:** 1
-- **No:** 5, **Nombre de la parte:** Tapa roscada, **Código:** R0810654499, **Q'ty:** 1
-- **No:** 6, **Nombre de la parte:** Subconjunto del evaporador, **Código:** R0811072696, **Q'ty:** 1
-- **No:** 7, **Nombre de la parte:** Placa de presión, **Código:** R0810548010, **Q'ty:** 1
-- **No:** 8, **Nombre de la parte:** Cojinete, **Código:** R0810554649, **Q'ty:** 1
-- **No:** 9, **Nombre de la parte:** Subconjunto bastidor inferior, **Código:** R0810947200, **Q'ty:** 1
-- **No:** 10, **Nombre de la parte:** Motor paso a paso, **Código:** Consultar código de parte con fabricante, **Q'ty:** 1
-- **No:** 11, **Nombre de la parte:** Cuchilla, **Código:** R0810738464, **Q'ty:** 1
-- **No:** 12, **Nombre de la parte:** Bastidor de montaje en pared, **Código:** R0810579790, **Q'ty:** 1
-- **No:** 13, **Nombre de la parte:** Placa de presión del tubo, **Código:** R0810548009, **Q'ty:** 1
-- **No:** 14, **Nombre de la parte:** Subconjunto del tubo de drenaje, **Código:** R0810872778, **Q'ty:** 1
-- **No:** 15, **Nombre de la parte:** Motor paso a paso, **Código:** R0810882041, **Q'ty:** 1
-- **No:** 16, **Nombre de la parte:** Ventilador de flujo transversal, **Código:** R0810588315, **Q'ty:** 1
-- **No:** 17, **Nombre de la parte:** Soporte del motor (abajo), **Código:** R0810553855, **Q'ty:** 1
-- **No:** 18, **Nombre de la parte:** Motor del ventilador, **Código:** R0811297303, R0810589923, R0810586274, R0810772208, R0810763373, **Q'ty:** 1
-- **No:** 19, **Nombre de la parte:** Soporte del motor (top), **Código:** R0810548001, **Q'ty:** 1
-- **No:** 20, **Nombre de la parte:** Cubierta del motor, **Código:** R0810548000, **Q'ty:** 1
-- **No:** 21, **Nombre de la parte:** Generador de iones negativos, **Código:** Consultar código de parte con fabricante, **Q'ty:** 1
 
-### Notas y leyendas
-- Página: 2
+| No | Nombre de la parte | Código | Q'ty |
+| :-- | :-- | :-- | :-- |
+| 16 | Placa de presión | RO810536134 | 1 |
+| 17 | Conjunto de insonorización | RO811232891 | 1 |
+| 18 | Conjunto asidero | RO810808983 | 1 |
+| 19 | Placa lateral derecha | RO811232894 | 1 |
+| 20 | Conjunto válvula de corte 1/2 | RO810845897 | 1 |
+| 21 | Conjunto válvula de corte 1/4 | RO811349284 | 1 |
+| 22 | Placa de instalación de la válvula | RO811232882 | 1 |
+| 23 | Tapa de válvula | RO811230432 | 1 |
+| 24 | Conjunto placa chasis | RO811391015 | 1 |
+| 25 | Conjunto capilar | RO811357421 | 1 |
+| 26 | Tubería de aspiración | RO811388507 | 1 |
+| 27 | Tubería de escape de gas | RO811342137 | 1 |
 
-(Transcripción fiel de todo el texto visible en la página)
+================================================================================
+PAGE 2
+================================================================================
 
-## AFLEX-C-12-110-ESP - Página 3
+![img-1.jpeg](img-1.jpeg)
 
-### Título principal
-Flex-C
-SERIES
+![img-2.jpeg](img-2.jpeg)
 
-### Encabezado del documento
-Plano Explosionado
-Unidad Interior
-12K 110V
+![img-3.jpeg](img-3.jpeg)
 
-### Marca / Logo (texto visible)
-ADINA
-Air Conditioning
+# **Plano Explosionado**
 
-### Diagrama explosionado (texto visible en ilustración)
-- Llamadores/etiquetas visibles en el diagrama: 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41
+## Unidad Interior
 
-### Tabla: Lista de partes (sección derecha)
-- **No:** 22, **Nombre de la parte:** Tubo calefactor eléctrico, **Código:** Consultar código de parte con fabricante, **Q'ty:** 1
-- **No:** 23, **Nombre de la parte:** Generador de iones positivos y negativos, **Código:** , **Q'ty:** 1
-- **No:** 24, **Nombre de la parte:** Soporte del sensor, **Código:** R0811333623, **Q'ty:** 1
-- **No:** 25, **Nombre de la parte:** Tablero de control eléctrico, **Código:** R0810548005, **Q'ty:** 1
-- **No:** 26, **Nombre de la parte:** Soporte, **Código:** Consultar código de parte con fabricante, **Q'ty:** 4
-- **No:** 27, **Nombre de la parte:** Caja de visualización, **Código:** R0810809906, **Q'ty:** 1
-- **No:** 28, **Nombre de la parte:** Conjunto P.C.B. de pantalla, **Código:** R0810653231, **Q'ty:** 1
-- **No:** 29, **Nombre de la parte:** Subconjunto WIFI, **Código:** , **Q'ty:** 1
-- **No:** 30, **Nombre de la parte:** Tablero de la caja de control eléctrico (metal), **Código:** Consultar código de parte con fabricante, **Q'ty:** 1
-- **No:** 31, **Nombre de la parte:** Tapa de la caja de control eléctrico, **Código:** R0811035576, **Q'ty:** 1
-- **No:** 32, **Nombre de la parte:** Transformador, **Código:** Consultar código de parte con fabricante, **Q'ty:** 1
-- **No:** 33, **Nombre de la parte:** Placa de bornes, **Código:** R0811344685, **Q'ty:** 1
-- **No:** 34, **Nombre de la parte:** Placa de presión de alambre, **Código:** R0810548011, **Q'ty:** 1
-- **No:** 35, **Nombre de la parte:** Conjunto P.C.B, **Código:** R0811035574, **Q'ty:** 1
-- **No:** 36, **Nombre de la parte:** Ensamblaje P.C.B, **Código:** R0811103993, **Q'ty:** 1
-- **No:** 37, **Nombre de la parte:** Caja de control eléctrico (carcasa metálica), **Código:** Consultar código de parte de parte con fabricante, **Q'ty:** 1
-- **No:** 38, **Nombre de la parte:** Línea eléctrica, **Código:** R0810527845, **Q'ty:** 1
-- **No:** 39, **Nombre de la parte:** Sensor de temperatura ambiente, **Código:** R08565100150K9, **Q'ty:** 1
-- **No:** 40, **Nombre de la parte:** Sensor de temperatura de la tubería, **Código:** R0810203417, **Q'ty:** 1
-- **No:** 41, **Nombre de la parte:** Generador de iones negativos, **Código:** , **Q'ty:** 1
-- **No:** 42, **Nombre de la parte:** Control remoto, **Código:** Consultar código de parte con fabricante, **Q'ty:** 
-- **No:** 43, **Nombre de la parte:** Manual, **Código:** , **Q'ty:** 
-- **No:** 44, **Nombre de la parte:** Tubo de cobre, **Código:** , **Q'ty:** 
+### 12K 110V
 
-### Notas, leyendas y otros textos visibles
-- En la tabla, la cabecera muestra: No | Nombre de la parte | Código | Q'ty
-- Página: 3 (número visible en esquina inferior derecha)
+|  No | Nombre de la parte | Código | Q'ty  |
+| --- | --- | --- | --- |
+|  1 | Subconjunto del panel frontal | RO811410211 | 1  |
+|  2 | Panel frontal | RO811089460 | 1  |
+|  3 | Filtro de aire | RO811084833 | 2  |
+|  4 | Subconjunto bastidor medio | RO810550032 | 1  |
+|  5 | Tapa roscada | RO810654499 | 1  |
+|  6 | Subconjunto del evaporador | RO811072696 | 1  |
+|  7 | Placa de presión | RO810548010 | 1  |
+|  8 | Cojinete | RO810554649 | 1  |
+|  9 | Subconjunto bastidor inferior | RO810947200 | 1  |
+|  10 | Motor paso a paso | Consultar código de parte con fabricante | 1  |
+|  11 | Cuchilla | RO810738464 | 1  |
+|  12 | Bastidor de montaje en pared | RO810579790 | 1  |
+|  13 | Placa de presión del tubo | RO810548009 | 1  |
+|  14 | Subconjunto del tubo de drenaje | RO810872778 | 1  |
+|  15 | Motor paso a paso | RO810882041 |   |
+|  16 | Ventilador de flujo transversal | RO810588315 | 1  |
+|  17 | Soporte del motor (abajo) | RO810553855 | 1  |
+|   |  | RO 811297303 | 1  |
+|   |  | RO810589923 | 1  |
+|  18 | Motor del ventilador | RO810586274 | 1  |
+|   |  | RO810772208 | 1  |
+|   |  | RO810763373 | 1  |
+|  19 | Soporte del motor (top) | RO810548001 | 1  |
+|  20 | Cubierta del motor | RO810548000 | 1  |
+|  21 | Generador de iones negativos | Consultar código de parte con fabricante | 1  |
 
----- 
+================================================================================
+PAGE 3
+================================================================================
 
-Documento: AFLEX-C-12-110-ESP — Página 3
+![img-4.jpeg](img-4.jpeg)
 
-(NOTA: Los campos en blanco corresponden a celdas donde no se visualiza texto legible en la imagen proporcionada. No se ha añadido ni inventado información.)
+![img-5.jpeg](img-5.jpeg)
+
+![img-6.jpeg](img-6.jpeg)
+
+# Plano Explosionado
+
+## Unidad Interior
+
+### 12K 110V
+
+|  No | Nombre de la parte | Código | Q'ty  |
+| --- | --- | --- | --- |
+|  22 | Tubo calefactor eléctrico |  | 1  |
+|  23 | Generador de iones positivos y negativos | Consultar código de parte con fabricante | 1  |
+|  24 | Soporte del sensor | RO811336323 | 1  |
+|  25 | Tablero de control eléctrico | RO810548005 | 1  |
+|  26 | Soporte | Consultar código de parte con fabricante | 4  |
+|  27 | Caja de visualización | RO810809906 | 1  |
+|  28 | Conjunto P.C.B. de pantalla | RO810653231 | 1  |
+|  29 | Subconjunto WIFI |  | 1  |
+|  30 | Tablero de la caja de control eléctrico (metal) | Consultar código de parte con fabricante | 1  |
+|  31 | Tapa de la caja de control eléctrico | RO811035576 | 1  |
+|  32 | Transformador | Consultar código de parte con fabricante |   |
+|  33 | Placa de bornes | RO811344685 | 1  |
+|  34 | Placa de presión de alambre | RO810548011 | 1  |
+|  35 | Conjunto P.C.B | RO811035574 | 1  |
+|  36 | Ensamblaje P.C.B | RO811103993 | 1  |
+|  37 | Caja de control eléctrico (carcasa metálica) | Consultar código de parte con fabricante | 1  |
+|  38 | Línea eléctrica | RO810527845 | 1  |
+|  39 | Sensor de temperatura ambiente | RO8565100150K9 | 1  |
+|  40 | Sensor de temperatura de la tubería | RO810203417 | 1  |
+|  41 | Generador de iones negativos |  | 1  |
+|  42 | Control remoto | Consultar código de parte con fabricante |   |
+|  43 | Manual |  |   |
+|  44 | Tubo de cobre |  |   |

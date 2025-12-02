@@ -1,109 +1,73 @@
-## VIRTU-C-18-A - Página 1
-(Nombre de archivo: VIRTU-C-18-A, Página: 1)
+# VIRTU-C-18-A.pdf
 
-### Encabezado / Logos
-- Logo: SGS (visual)
-- Logo: ONAC ACREDITADO (visual)
-- Texto visible junto a logos: ISO/IEC 17065:2012
 
-### Documento (cabecera)
+================================================================================
+PAGE 1
+================================================================================
+
+![img-0.jpeg](img-0.jpeg)
+
 SGS COLOMBIA S.A.S.
 C&P-F490101
 ORDEN No. 4200-42758
 CERTIFICADO No. CRS24373
 ORDEN CERT. No. CO-CERT240900618-02
 CERTIFICADO DE CONFORMIDAD DE PRODUCTO
-
 Adina Appliances S.A
-Complejo industrial Panama viejo Business Galera G17 Panama Viejo, Panama
+Complejo Industrial Panama viejo Busines Galera G17 Panama Viejo, Panama
 
-### Declaración principal
-Certifica que el producto identificado como Acondicionadores de aire tipo dividido Inverter con flujo de refrigerante variable descarga libre y sin ductos de aire, importados y/o fabricados y comercializados en Panamá, Costa Rica, El Salvador, Nicaragua, Guatemala y Honduras por Adina Appliances S.A. con referencias relacionadas en las siguientes páginas del presente documento, han sido evaluados de conformidad con:
+Certifica que el producto identificado como Acondicionadores de aire tipo dividido Inverter, con flujo de refrigerante variable descarga libre y sin ductos de aire, importados y/o fabricados y comercializados en Panamá, Costa Rica, El Salvador, Nicaragua, Guatemala y Honduras por Adina Appliances S.A. con referencias relacionadas en las siguientes páginas del presente documento, han sido evaluados de conformidad con:
 
-### Normativa y referencias
-- Reglamento Técnico Centroamericano RTCA 23.01.78:20 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido Inverter, con flujo refrigerante variable descarga libre y sin ductos de aire. Especificaciones de eficiencia energética.
-- Resolución 451-2021 (COMIECO-XCVIII) del 17 de diciembre de 2021 del Consejo de Ministros de Integración Económica de Centroamérica.
+Reglamento Técnico Centroamericano RTCA 23.01.78:20 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido Inverter, con flujo refrigerante variable descarga libre y sin ductos de aire. Especificaciones de eficiencia energética.
+Resolución 451-2021 (COMIECO-XCVIII) del 17 de diciembre de 2021 del Consejo de Ministros de Integración Económica de Centroamérica.
 
-### Evaluación y resultado
-Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con el esquema de certificación 5 de la norma ISO/IEC 17067-2013.
+Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con el esquema de certificación 5 de la norma ISO/IEC 17067:2013.
 
 Resultados obtenidos: CONFORME
 
-### Autorización
 Autorizado por:
 
-(Firma manuscrita)
+Camilo Ramírez
+SGS Colombia S.A.S.
+Carrera 100 No. 25C-11, Bodega 3
+Bogotá D.C., Colombia
 
-SGS COLOMBIA S.A.S.
+Fecha de Emisión: 2024-09-27
+Fecha de Vencimiento: 2027-09-27
+Versión 1
 
-### Información del autorizante
-- Camilo Ramirez
-- SGS Colombia S.A.S.
-- Carrera 100 No. 25C-11, Bodega 3
-- Bogotá D.C., Colombia
+Página 1 de 2
 
-### Fechas y versión
-- Fecha de Emisión: 2024-09-27
-- Fecha de Vencimiento: 2027-09-27
-- Versión 1
+![img-1.jpeg](img-1.jpeg)
 
-### Pie de página y otros elementos gráficos
-- Página 1 de 2
-- Elementos gráficos visibles: marca de agua ave/grupo de aves, sello/serie de logos SGS en colores, código QR (visual)
-- Bloque de texto legal en tamaño reducido (parcialmente legible, contenido no transcrito por tamaño y resolución)
+![img-2.jpeg](img-2.jpeg)
 
-## VIRTU-C-18-A - Página 2
+================================================================================
+PAGE 2
+================================================================================
 
-Archivo: VIRTU-C-18-A  
-Número de página: 2
+![img-3.jpeg](img-3.jpeg)
 
-### Título principal
-CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+![img-4.jpeg](img-4.jpeg)
 
-### Encabezado / Identificación del certificado
-SGS COLOMBIA S.A.S.  
-C&P-FA90101  
-ORDEN No. 4200-42758  
-CERTIFICADO No. CRS24373  
-ORDEN CERT. No. CO-CERT240900618-02
+# SGS COLOMBIA S.A.S.
 
-### Datos del fabricante / direcciones
-Adina Appliances S.A  
-Complejo industrial Panama viejo Busines Galera G17 Panama Viejo, Panama
+C&P-F490101 ORDEN No. 4200-42758 CERTIFICADO No. CRS24373 ORDEN CERT. No. CO-CERT240900618-02 CERTIFICADO DE CONFORMIDAD DE PRODUCTO Adina Appliances S.A Complejo Industrial Panama viejo Busines Galera G17 Panama Viejo, Panama Acondicionadores de aire tipo dividido Inverter, con flujo de refrigerante variable descarga libre y sin ductos de aire
 
-### Descripción del producto
-Acondicionadores de aire tipo dividido inverter, con flujo de refrigerante variable descarga libre y sin ductos de aire
+|  UNIDAD ENAFORADORA | UNIDAD CONDENSADORA | CAPACIDAD DE ENFRIAMIENTO (W) | TIPO DE ARTEFACTO | REEE ESTABLECIDA EN NORMA (Wt/We) | REEE DE ESTABLECIDA EN NORMA (Wt/We) | AHORRO DE ENERGÍA (%) | TEST REPORT | MARCA  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  VIRTU-C-1822WR32-I | VIRTU-C-1822WR32-E | 5275 | Mini Spát Inverter | 4,68 | 6,45 | 37,8 | GZEE240800338731 | Adina  |
 
-### Tabla: Especificaciones del equipo (fila única visible)
-- **UNIDAD EVAPORADORA:** VIRTU-C-1822WR32-1, **UNIDAD CONDENSADORA:** VIRTU-C-1822WR32-E, **CAPACIDAD DE ENFRIAMIENTO (W):** 5275, **TIPO DE ARTEFACTO:** Mini Split Inverter, **REEE ESTABLECIDA EN NORMA (W/Wc):** 4.68, **REEE DE ESTE EQUIPO (W/Wc):** 6.45, **AHORRO DE ENERGIA (%):** 37.8, **TEST REPORT:** GZEE240800338731, **MARCA:** Adina
+![img-5.jpeg](img-5.jpeg)
 
-### Etiqueta amarilla (EFICIENCIA ENERGETICA) — texto visible
-- EFICIENCIA ENERGETICA
-- ACONDICIONADORES DE AIRE TIPO DIVIDIDO INVERTER
-- Relación de Eficiencia Energética Estacional (REEE)
-- REEE establecido en esta RCT: 4.68
-- REEE de este equipo: 6.45
-- Ahorro de Energía de este Equipo: 37.8%
-- IMPORTANTE
+![img-6.jpeg](img-6.jpeg)
 
-(La etiqueta contiene además un gráfico de barra indicando 37.8% y texto adicional de información y advertencias de tamaño pequeño; presente en la imagen pero su texto completo no es legible en la resolución disponible.)
+![img-7.jpeg](img-7.jpeg)
 
-### Pie de página y notas administrativas
-- Fecha de Emisión: 2024-09-27
-- Fecha de Vencimiento: 2027-09-27
-- Versión 1
-- Página 2 de 2
+Fecha de Emisión: 2024-09-27 Fecha de Vencimiento: 2027-09-27 Versión 1 Página 2 de 2
 
-### Elementos gráficos y otros
-- Logos: SGS, ONAC (parte superior izquierda), gran logotipo SGS (superior derecha)
-- Código QR en la parte inferior derecha
-- Imagen decorativa de aves/figuras y logos SGS en la parte inferior central
-- Texto legal / bloque de letra pequeña en la parte inferior izquierda (presente pero no legible en la resolución disponible)
-- C&P-06.05 V.7 febrero 2023 (texto visible en la parte inferior)
+![img-8.jpeg](img-8.jpeg)
 
-### Texto final visible
-***FIN DEL DOCUMENTO***
+![img-9.jpeg](img-9.jpeg)
 
-### Notas y leyendas
-- El documento contiene una etiqueta de eficiencia energética en fondo amarillo con datos de REEE y porcentaje de ahorro (37.8%) cuyo texto detallado en letra pequeña no es completamente legible en la imagen proporcionada.  
-- Se ha preservado la jerarquía y los valores numéricos visibles exactamente como aparecen en la imagen.
+![img-10.jpeg](img-10.jpeg)

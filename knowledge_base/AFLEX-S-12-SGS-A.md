@@ -1,122 +1,560 @@
-## AFLEX-S-12-SGS-A - Página 1
+# AFLEX-S-12-SGS-A.pdf
 
-### Título principal
+
+================================================================================
+PAGE 1
+================================================================================
+
+![img-0.jpeg](img-0.jpeg)
+
+![img-1.jpeg](img-1.jpeg)
+
 SGS COLOMBIA S.A.S.
+C&P-F490101
+ORDEN No. 4200-42758
+CERTIFICADO No. CRS25147
+ORDEN CERT. No. NB-CERT240902324-02
+CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+Adina Appliances S.A
+Complejo industrial Panama viejo Busines Galera G17 Panama Viejo, Panama
 
-### Encabezado del documento (parte superior izquierda)
-- C&P-F490101
-- ORDEN No. 4200-42758
-- CERTIFICADO No. CRS25147
-- ORDEN CERT. No. NB-CERT240902324-02
-- CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+Certifica que el producto identificado como Acondicionadores de aire tipo dividido de velocidad
+fija, descarga libre y sin ductos de aire, importados y/o fabricados y comercializados en
+Panamá, Costa Rica, El Salvador, Nicaragua, Guatemala y Honduras por Adina Appliances
+S.A, con referencias relacionadas en las siguientes páginas del presente documento, han sido
+evaluados de conformidad con:
 
-### Identificación del fabricante / dirección
-- Adina Appliances S.A
-- Complejo industrial Panama viejo Business Galera G17 Panama Viejo, Panama
+Reglamento Técnico Centroamericano RTCA 23.01.80:21 Productos Eléctricos.
+Acondicionadores de aire tipo dividido de velocidad fija descarga libre y sin ductos de aire.
+Especificaciones de eficiencia energética.
 
-### Declaración principal
-Certifica que el producto identificado como Acondicionadores de aire tipo dividido de velocidad fija, descarga libre y sin ductos de aire, importados y/o fabricados y comercializados en Panamá, Costa Rica, El Salvador, Nicaragua, Guatemala y Honduras por Adina Appliances S.A, con referencias relacionadas en las siguientes páginas del presente documento, han sido evaluados de conformidad con:
+Resolución 468-2022 (COMIECO-XCVIII) del 2 de diciembre de 2022 del Consejo de
+Ministros de Integración Económica De Centroamérica.
 
-### Reglamentos y resoluciones citados
-- Reglamento Técnico Centroamericano RTCA 23.01.80:21 Productos Eléctricos. Acondicionadores de aire tipo dividido de velocidad fija descarga libre y sin ductos de aire. Especificaciones de eficiencia energética.
-- Resolución 468-2022 (COMIECO-XCVIII) del 2 de diciembre de 2022 del Consejo de Ministros de Integración Económica De Centroamérica.
+Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas
+de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con
+el esquema de certificación 5 de la norma ISO/IEC 17067:2013.
 
-### Evaluaciones realizadas
-Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con el esquema de certificación 5 de la norma ISO/IEC 17067:2013.
+Resultados obtenidos: CONFORME
 
-### Resultados
-- Resultados obtenidos: CONFORME
+Autorizado por:
 
-### Autorizado por
-- Autorizado por:
-  - (firma manuscrita)
-  - SGS COLOMBIA S.A.S.
+Camilo Ramírez
+SGS Colombia S.A.S.
+Carrera 100 No. 25C-11, Bodega 3
+Bogotá D.C., Colombia
 
-### Firma / Responsable
-- Camilo Ramirez
-- SGS Colombia S.A.S.
-- Carrera 100 No. 25C-11, Bodega 3
-- Bogotá D.C., Colombia
+Fecha de Emisión: 2024-09-26
+Fecha de Vencimiento: 2027-09-26
+Versión 1
+Sublicencia emitida desde 2025-02-01
+Página 1 de 2
 
-### Información de emisión y vigencia
-- Fecha de Emisión: 2024-09-26
-- Fecha de Vencimiento: 2027-09-26
-- Versión 1
-- Sublicencia emitida desde 2025-02-01
-- Página 1 de 2
+La vigencia de la presente sublicencia está ligada al certificado origen CRS24349
 
-### Nota de vigencia (pie de página)
-- La vigencia de la presente sublicencia está ligada al certificado origen CRS24349
+![img-2.jpeg](img-2.jpeg)
 
-### Texto legal y leyendas adicionales (parte inferior, texto pequeño)
-- Any holder of this document is advised that information contained herein reflects the Companys findings at the time of its intervention only and within the limits of the scope of the inspection, testing or certification applied for.
-- This document is issued by the Company under its General Conditions of Service accessible at https://www.sgs.com/terms_and_conditions.htm and, where applicable, the relevant certification scheme.
-- Any unauthorized alteration, forgery or falsification of the content or appearance of this document is unlawful and offenders may be prosecuted to the fullest extent of the law.
+![img-3.jpeg](img-3.jpeg)
 
-### Elementos gráficos visibles
-- Logos: SGS (arriba derecha), ONAC acreditado (arriba centro)
-- Marca de agua con aves/gráfico de aves en la parte inferior
-- Código QR (parte inferior derecha)
+================================================================================
+PAGE 2
+================================================================================
 
-Archivo: AFLEX-S-12-SGS-A — Página: 1
+![img-4.jpeg](img-4.jpeg)
 
-## AFLEX-S-12-SGS-A - Página 2
+![img-5.jpeg](img-5.jpeg)
 
-Archivo: AFLEX-S-12-SGS-A
-Página: 2
+SGS COLOMBIA S.A.S. C&P-F490101 ORDEN No. 4200-42758 CERTIFICADO No. CR525147 ORDEN CERT. No. NB-CERT240902324-02 CERTIFICADO DE CONFORMIDAD DE PRODUCTO Adina Appliances S.A Complejo industrial Panama viejo Busines Galera G17 Panama Viejo, Panama Acondicionadores de aire tipo dividido de velocidad fija, descarga libre y sin ductos de aire
 
-### Encabezado / Logos
-SGS (logotipo)
-ONAC ACREDITADO (logotipo)
+|  UNIDAD EVAPORADORA | UNIDAD CONDENSADORA | CAPACIDAD DE ENFRIAMIENTO (W) | TIPO DE ARTEFACTO | REEE ESTABLECIDA EN NORMA (Wh/Ww) | REEE DE ESTE EQUIPO (Wh/Ww) | AHORRO DE ENERGÍA (%) | TEST REPORT | MARCA  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  AFLEX-S-12-I | AFLEX-S-12-E | 3520 | Més Sost | 3,52 | 3,82 | 8,5 | AMEE240900252151 | ADINA  |
 
-### Información general (encabezado del documento)
-SGS COLOMBIA S.A.S.  
-C&P-F490101  
-ORDEN No. 4200-42758  
-CERTIFICADO No. CRS25147  
-ORDEN CERT. No. NB-CERT2409092324-02  
-CERTIFICADO DE CONFORMIDAD DE PRODUCTO  
-Adina Appliances S.A  
-Complejo industrial Panama viejo Busines Galera G17 Panama Viejo, Panama  
-Acondicionadores de aire tipo dividido de velocidad fija, descarga libre y sin ductos de aire
+![img-6.jpeg](img-6.jpeg)
 
-### Tabla principal (datos del equipo)
-- **UNIDAD EVAPORADORA:** AFLEX-S-12-I
-- **UNIDAD CONDENSADORA:** AFLEX-S-12-E
-- **CAPACIDAD DE ENFRIAMIENTO (W):** 3520
-- **TIPO DE ARTEFACTO:** Mini Split
-- **REEE ESTABLECIDA EN NORMA (W/W)e:** 3,52
-- **REEE DE ESTE EQUIPO (W/W)e:** 3,82
-- **AHORRO DE ENERGÍA (%):** 8,5
-- **TEST REPORT:** AHEE240900252151
-- **MARCA:** ADINA
+|  EFICIENCIA ENERGÉTICA |  |  |  |  |  |  |  |  |  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  Relación de Eficiencia Energética Estacional (REEE) |  |  |  |  |  |  |  |  |  |   |
+|  REEE estabilidad en esta ETCA |  |  |  |  |  |  |  |  |  |   |
+|  (W) |  |  |  |  |  |  |  |  |  |   |
+|  (E) |  |  |  |  |  |  |  |  |  |   |
+|  (F) |  |  |  |  |  |  |  |  |  |   |
+|  (G) |  |  |  |  |  |  |  |  |  |   |
+|  (H) |  |  |  |  |  |  |  |  |  |   |
+|  (I) |  |  |  |  |  |  |  |  |  |   |
+|  (J) |  |  |  |  |  |  |  |  |  |   |
+|  (K) |  |  |  |  |  |  |  |  |  |   |
+|  (L) |  |  |  |  |  |  |  |  |  |   |
+|  (M) |  |  |  |  |  |  |  |  |  |   |
+|  (N) |  |  |  |  |  |  |  |  |  |   |
+|  (O) |  |  |  |  |  |  |  |  |  |   |
+|  (P) |  |  |  |  |  |  |  |  |  |   |
+|  (Q) |  |  |  |  |  |  |  |  |  |   |
+|  (R) |  |  |  |  |  |  |  |  |  |   |
+|  (S) |  |  |  |  |  |  |  |  |  |   |
+|  (T) |  |  |  |  |  |  |  |  |  |   |
+|  (U) |  |  |  |  |  |  |  |  |  |   |
+|  (V) |  |  |  |  |  |  |  |  |  |   |
+|  (W) |  |  |  |  |  |  |  |  |  |   |
+|  (X) |  |  |  |  |  |  |  |  |  |   |
+|  (Y) |  |  |  |  |  |  |  |  |  |   |
+|  (Z) |  |  |  |  |  |  |  |  |  |   |
+|  (Z1) |  |  |  |  |  |  |  |  |  |   |
+|  (Z2) |  |  |  |  |  |  |  |  |  |   |
+|  (Z3) |  |  |  |  |  |  |  |  |  |   |
+|  (Z4) |  |  |  |  |  |  |  |  |  |   |
+|  (Z5) |  |  |  |  |  |  |  |  |  |   |
+|  (Z6) |  |  |  |  |  |  |  |  |  |   |
+|  (Z7) |  |  |  |  |  |  |  |  |  |   |
+|  (Z8) |  |  |  |  |  |  |  |  |  |   |
+|  (Z9) |  |  |  |  |  |  |  |  |  |   |
+|  (Z10) |  |  |  |  |  |  |  |  |  |   |
+|  (Z11) |  |  |  |  |  |  |  |  |  |   |
+|  (Z12) |  |  |  |  |  |  |  |  |  |   |
+|  (Z13) |  |  |  |  |  |  |  |  |  |   |
+|  (Z14) |  |  |  |  |  |  |  |  |  |   |
+|  (Z15) |  |  |  |  |  |  |  |  |  |   |
+|  (Z16) |  |  |  |  |  |  |  |  |  |   |
+|  (Z17) |  |  |  |  |  |  |  |  |  |   |
+|  (Z18) |  |  |  |  |  |  |  |  |  |   |
+|  (Z19) |  |  |  |  |  |  |  |  |  |   |
+|  (Z20) |  |  |  |  |  |  |  |  |  |   |
+|  (Z21) |  |  |  |  |  |  |  |  |  |   |
+|  (Z22) |  |  |  |  |  |  |  |  |  |   |
+|  (Z23) |  |  |  |  |  |  |  |  |  |   |
+|  (Z24) |  |  |  |  |  |  |  |  |  |   |
+|  (Z25) |  |  |  |  |  |  |  |  |  |   |
+|  (Z26) |  |  |  |  |  |  |  |  |  |   |
+|  (Z27) |  |  |  |  |  |  |  |  |  |   |
+|  (Z28) |  |  |  |  |  |  |  |  |  |   |
+|  (Z29) |  |  |  |  |  |  |  |  |  |   |
+|  (Z30) |  |  |  |  |  |  |  |  |  |   |
+|  (Z31) |  |  |  |  |  |  |  |  |  |   |
+|  (Z32) |  |  |  |  |  |  |  |  |  |   |
+|  (Z33) |  |  |  |  |  |  |  |  |  |   |
+|  (Z34) |  |  |  |  |  |  |  |  |  |   |
+|  (Z35) |  |  |  |  |  |  |  |  |  |   |
+|  (Z36) |  |  |  |  |  |  |  |  |  |   |
+|  (Z37) |  |  |  |  |  |  |  |  |  |   |
+|  (Z38) |  |  |  |  |  |  |  |  |  |   |
+|  (Z39) |  |  |  |  |  |  |  |  |  |   |
+|  (Z40) |  |  |  |  |  |  |  |  |  |   |
+|  (Z41) |  |  |  |  |  |  |  |  |  |   |
+|  (Z42) |  |  |  |  |  |  |  |  |  |   |
+|  (Z43) |  |  |  |  |  |  |  |  |  |   |
+|  (Z44) |  |  |  |  |  |  |  |  |  |   |
+|  (Z45) |  |  |  |  |  |  |  |  |  |   |
+|  (Z46) |  |  |  |  |  |  |  |  |  |   |
+|  (Z47) |  |  |  |  |  |  |  |  |  |   |
+|  (Z48) |  |  |  |  |  |  |  |  |  |   |
+|  (Z49) |  |  |  |  |  |  |  |  |  |   |
+|  (Z50) |  |  |  |  |  |  |  |  |  |   |
+|  (Z51) |  |  |  |  |  |  |  |  |  |   |
+|  (Z52) |  |  |  |  |  |  |  |  |  |   |
+|  (Z53) |  |  |  |  |  |  |  |  |  |   |
+|  (Z54) |  |  |  |  |  |  |  |  |  |   |
+|  (Z55) |  |  |  |  |  |  |  |  |  |   |
+|  (Z56) |  |  |  |  |  |  |  |  |  |   |
+|  (Z57) |  |  |  |  |  |  |  |  |  |   |
+|  (Z58) |  |  |  |  |  |  |  |  |  |   |
+|  (Z59) |  |  |  |  |  |  |  |  |  |   |
+|  (Z60) |  |  |  |  |  |  |  |  |  |   |
+|  (Z61) |  |  |  |  |  |  |  |  |  |   |
+|  (Z62) |  |  |  |  |  |  |  |  |  |   |
+|  (Z63) |  |  |  |  |  |  |  |  |  |   |
+|  (Z64) |  |  |  |  |  |  |  |  |  |   |
+|  (Z65) |  |  |  |  |  |  |  |  |  |   |
+|  (Z66) |  |  |  |  |  |  |  |  |  |   |
+|  (Z67) |  |  |  |  |  |  |  |  |  |   |
+|  (Z68) |  |  |  |  |  |  |  |  |  |   |
+|  (Z69) |  |  |  |  |  |  |  |  |  |   |
+|  (Z70) |  |  |  |  |  |  |  |  |  |   |
+|  (Z71) |  |  |  |  |  |  |  |  |  |   |
+|  (Z72) |  |  |  |  |  |  |  |  |  |   |
+|  (Z73) |  |  |  |  |  |  |  |  |  |   |
+|  (Z74) |  |  |  |  |  |  |  |  |  |   |
+|  (Z75) |  |  |  |  |  |  |  |  |  |   |
+|  (Z76) |  |  |  |  |  |  |  |  |  |   |
+|  (Z77) |  |  |  |  |  |  |  |  |  |   |
+|  (Z78) |  |  |  |  |  |  |  |  |  |   |
+|  (Z79) |  |  |  |  |  |  |  |  |  |   |
+|  (Z80) |  |  |  |  |  |  |  |  |  |   |
+|  (Z81) |  |  |  |  |  |  |  |  |  |   |
+|  (Z82) |  |  |  |  |  |  |  |  |  |   |
+|  (Z83) |  |  |  |  |  |  |  |  |  |   |
+|  (Z84) |  |  |  |  |  |  |  |  |  |   |
+|  (Z85) |  |  |  |  |  |  |  |  |  |   |
+|  (Z86) |  |  |  |  |  |  |  |  |  |   |
+|  (Z87) |  |  |  |  |  |  |  |  |  |   |
+|  (Z88) |  |  |  |  |  |  |  |  |  |   |
+|  (Z89) |  |  |  |  |  |  |  |  |  |   |
+|  (Z90) |  |  |  |  |  |  |  |  |  |   |
+|  (Z91) |  |  |  |  |  |  |  |  |  |   |
+|  (Z92) |  |  |  |  |  |  |  |  |  |   |
+|  (Z93) |  |  |  |  |  |  |  |  |  |   |
+|  (Z94) |  |  |  |  |  |  |  |  |  |   |
+|  (Z95) |  |  |  |  |  |  |  |  |  |   |
+|  (Z96) |  |  |  |  |  |  |  |  |  |   |
+|  (Z97) |  |  |  |  |  |  |  |  |  |   |
+|  (Z98) |  |  |  |  |  |  |  |  |  |   |
+|  (Z99) |  |  |  |  |  |  |  |  |  |   |
+|  (Z100) |  |  |  |  |  |  |  |  |  |   |
+|  (Z101) |  |  |  |  |  |  |  |  |  |   |
+|  (Z102) |  |  |  |  |  |  |  |  |  |   |
+|  (Z103) |  |  |  |  |  |  |  |  |  |   |
+|  (Z104) |  |  |  |  |  |  |  |  |  |   |
+|  (Z105) |  |  |  |  |  |  |  |  |  |   |
+|  (Z106) |  |  |  |  |  |  |  |  |  |   |
+|  (Z107) |  |  |  |  |  |  |  |  |  |   |
+|  (Z108) |  |  |  |  |  |  |  |  |  |   |
+|  (Z109) |  |  |  |  |  |  |  |  |  |   |
+|  (Z110) |  |  |  |  |  |  |  |  |  |   |
+|  (Z111) |  |  |  |  |  |  |  |  |  |   |
+|  (Z112) |  |  |  |  |  |  |  |  |  |   |
+|  (Z113) |  |  |  |  |  |  |  |  |  |   |
+|  (Z114) |  |  |  |  |  |  |  |  |  |   |
+|  (Z115) |  |  |  |  |  |  |  |  |  |   |
+|  (Z116) |  |  |  |  |  |  |  |  |  |   |
+|  (Z117) |  |  |  |  |  |  |  |  |  |   |
+|  (Z118) |  |  |  |  |  |  |  |  |  |   |
+|  (Z119) |  |  |  |  |  |  |  |  |  |   |
+|  (Z120) |  |  |  |  |  |  |  |  |  |   |
+|  (Z121) |  |  |  |  |  |  |  |  |  |   |
+|  (Z122) |  |  |  |  |  |  |  |  |  |   |
+|  (Z123) |  |  |  |  |  |  |  |  |  |   |
+|  (Z124) |  |  |  |  |  |  |  |  |  |   |
+|  (Z125) |  |  |  |  |  |  |  |  |  |   |
+|  (Z126) |  |  |  |  |  |  |  |  |  |   |
+|  (Z127) |  |  |  |  |  |  |  |  |  |   |
+|  (Z128) |  |  |  |  |  |  |  |  |  |   |
+|  (Z129) |  |  |  |  |  |  |  |  |  |   |
+|  (Z130) |  |  |  |  |  |  |  |  |  |   |
+|  (Z131) |  |  |  |  |  |  |  |  |  |   |
+|  (Z132) |  |  |  |  |  |  |  |  |  |   |
+|  (Z133) |  |  |  |  |  |  |  |  |  |   |
+|  (Z134) |  |  |  |  |  |  |  |  |  |   |
+|  (Z135) |  |  |  |  |  |  |  |  |  |   |
+|  (Z136) |  |  |  |  |  |  |  |  |  |   |
+|  (Z137) |  |  |  |  |  |  |  |  |  |   |
+|  (Z138) |  |  |  |  |  |  |  |  |  |   |
+|  (Z139) |  |  |  |  |  |  |  |  |  |   |
+|  (Z140) |  |  |  |  |  |  |  |  |  |   |
+|  (Z141) |  |  |  |  |  |  |  |  |  |   |
+|  (Z142) |  |  |  |  |  |  |  |  |  |   |
+|  (Z143) |  |  |  |  |  |  |  |  |  |   |
+|  (Z144) |  |  |  |  |  |  |  |  |  |   |
+|  (Z145) |  |  |  |  |  |  |  |  |  |   |
+|  (Z146) |  |  |  |  |  |  |  |  |  |   |
+|  (Z147) |  |  |  |  |  |  |  |  |  |   |
+|  (Z148) |  |  |  |  |  |  |  |  |  |   |
+|  (Z149) |  |  |  |  |  |  |  |  |  |   |
+|  (Z150) |  |  |  |  |  |  |  |  |  |   |
+|  (Z151) |  |  |  |  |  |  |  |  |  |   |
+|  (Z152) |  |  |  |  |  |  |  |  |  |   |
+|  (Z153) |  |  |  |  |  |  |  |  |  |   |
+|  (Z154) |  |  |  |  |  |  |  |  |  |   |
+|  (Z155) |  |  |  |  |  |  |  |  |  |   |
+|  (Z156) |  |  |  |  |  |  |  |  |  |   |
+|  (Z157) |  |  |  |  |  |  |  |  |  |   |
+|  (Z158) |  |  |  |  |  |  |  |  |  |   |
+|  (Z159) |  |  |  |  |  |  |  |  |  |   |
+|  (Z160) |  |  |  |  |  |  |  |  |  |   |
+|  (Z161) |  |  |  |  |  |  |  |  |  |   |
+|  (Z162) |  |  |  |  |  |  |  |  |  |   |
+|  (Z163) |  |  |  |  |  |  |  |  |  |   |
+|  (Z164) |  |  |  |  |  |  |  |  |  |   |
+|  (Z165) |  |  |  |  |  |  |  |  |  |   |
+|  (Z166) |  |  |  |  |  |  |  |  |  |   |
+|  (Z167) |  |  |  |  |  |  |  |  |  |   |
+|  (Z168) |  |  |  |  |  |  |  |  |  |   |
+|  (Z169) |  |  |  |  |  |  |  |  |  |   |
+|  (Z170) |  |  |  |  |  |  |  |  |  |   |
+|  (Z171) |  |  |  |  |  |  |  |  |  |   |
+|  (Z172) |  |  |  |  |  |  |  |  |  |   |
+|  (Z173) |  |  |  |  |  |  |  |  |  |   |
+|  (Z174) |  |  |  |  |  |  |  |  |  |   |
+|  (Z175) |  |  |  |  |  |  |  |  |  |   |
+|  (Z176) |  |  |  |  |  |  |  |  |  |   |
+|  (Z177) |  |  |  |  |  |  |  |  |  |   |
+|  (Z178) |  |  |  |  |  |  |  |  |  |   |
+|  (Z179) |  |  |  |  |  |  |  |  |  |   |
+|  (Z180) |  |  |  |  |  |  |  |  |  |   |
+|  (Z181) |  |  |  |  |  |  |  |  |  |   |
+|  (Z182) |  |  |  |  |  |  |  |  |  |   |
+|  (Z183) |  |  |  |  |  |  |  |  |  |   |
+|  (Z184) |  |  |  |  |  |  |  |  |  |   |
+|  (Z185) |  |  |  |  |  |  |  |  |  |   |
+|  (Z186) |  |  |  |  |  |  |  |  |  |   |
+|  (Z187) |  |  |  |  |  |  |  |  |  |   |
+|  (Z188) |  |  |  |  |  |  |  |  |  |   |
+|  (Z189) |  |  |  |  |  |  |  |  |  |   |
+|  (Z190) |  |  |  |  |  |  |  |  |  |   |
+|  (Z191) |  |  |  |  |  |  |  |  |  |   |
+|  (Z192) |  |  |  |  |  |  |  |  |  |   |
+|  (Z193) |  |  |  |  |  |  |  |  |  |   |
+|  (Z194) |  |  |  |  |  |  |  |  |  |   |
+|  (Z195) |  |  |  |  |  |  |  |  |  |   |
+|  (Z196) |  |  |  |  |  |  |  |  |  |   |
+|  (Z197) |  |  |  |  |  |  |  |  |  |   |
+|  (Z198) |  |  |  |  |  |  |  |  |  |   |
+|  (Z199) |  |  |  |  |  |  |  |  |  |   |
+|  (Z200) |  |  |  |  |  |  |  |  |  |   |
+|  (Z201) |  |  |  |  |  |  |  |  |  |   |
+|  (Z202) |  |  |  |  |  |  |  |  |  |   |
+|  (Z203) |  |  |  |  |  |  |  |  |  |   |
+|  (Z204) |  |  |  |  |  |  |  |  |  |   |
+|  (Z205) |  |  |  |  |  |  |  |  |  |   |
+|  (Z206) |  |  |  |  |  |  |  |  |  |   |
+|  (Z207) |  |  |  |  |  |  |  |  |  |   |
+|  (Z208) |  |  |  |  |  |  |  |  |  |   |
+|  (Z209) |  |  |  |  |  |  |  |  |  |   |
+|  (Z210) |  |  |  |  |  |  |  |  |  |   |
+|  (Z211) |  |  |  |  |  |  |  |  |  |   |
+|  (Z212) |  |  |  |  |  |  |  |  |  |   |
+|  (Z213) |  |  |  |  |  |  |  |  |  |   |
+|  (Z214) |  |  |  |  |  |  |  |  |  |   |
+|  (Z215) |  |  |  |  |  |  |  |  |  |   |
+|  (Z216) |  |  |  |  |  |  |  |  |  |   |
+|  (Z217) |  |  |  |  |  |  |  |  |  |   |
+|  (Z218) |  |  |  |  |  |  |  |  |  |   |
+|  (Z219) |  |  |  |  |  |  |  |  |  |   |
+|  (Z220) |  |  |  |  |  |  |  |  |  |   |
+|  (Z221) |  |  |  |  |  |  |  |  |  |   |
+|  (Z222) |  |  |  |  |  |  |  |  |  |   |
+|  (Z223) |  |  |  |  |  |  |  |  |  |   |
+|  (Z224) |  |  |  |  |  |  |  |  |  |   |
+|  (Z225) |  |  |  |  |  |  |  |  |  |   |
+|  (Z226) |  |  |  |  |  |  |  |  |  |   |
+|  (Z227) |  |  |  |  |  |  |  |  |  |   |
+|  (Z228) |  |  |  |  |  |  |  |  |  |   |
+|  (Z229) |  |  |  |  |  |  |  |  |  |   |
+|  (Z230) |  |  |  |  |  |  |  |  |  |   |
+|  (Z231) |  |  |  |  |  |  |  |  |  |   |
+|  (Z232) |  |  |  |  |  |  |  |  |  |   |
+|  (Z233) |  |  |  |  |  |  |  |  |  |   |
+|  (Z234) |  |  |  |  |  |  |  |  |  |   |
+|  (Z235) |  |  |  |  |  |  |  |  |  |   |
+|  (Z236) |  |  |  |  |  |  |  |  |  |   |
+|  (Z237) |  |  |  |  |  |  |  |  |  |   |
+|  (Z238) |  |  |  |  |  |  |  |  |  |   |
+|  (Z239) |  |  |  |  |  |  |  |  |  |   |
+|  (Z240) |  |  |  |  |  |  |  |  |  |   |
+|  (Z241) |  |  |  |  |  |  |  |  |  |   |
+|  (Z242) |  |  |  |  |  |  |  |  |  |   |
+|  (Z243) |  |  |  |  |  |  |  |  |  |   |
+|  (Z244) |  |  |  |  |  |  |  |  |  |   |
+|  (Z245) |  |  |  |  |  |  |  |  |  |   |
+|  (Z246) |  |  |  |  |  |  |  |  |  |   |
+|  (Z247) |  |  |  |  |  |  |  |  |  |   |
+|  (Z248) |  |  |  |  |  |  |  |  |  |   |
+|  (Z249) |  |  |  |  |  |  |  |  |  |   |
+|  (Z250) |  |  |  |  |  |  |  |  |  |   |
+|  (Z251) |  |  |  |  |  |  |  |  |  |   |
+|  (Z252) |  |  |  |  |  |  |  |  |  |   |
+|  (Z253) |  |  |  |  |  |  |  |  |  |   |
+|  (Z254) |  |  |  |  |  |  |  |  |  |   |
+|  (Z255) |  |  |  |  |  |  |  |  |  |   |
+|  (Z256) |  |  |  |  |  |  |  |  |  |   |
+|  (Z257) |  |  |  |  |  |  |  |  |  |   |
+|  (Z258) |  |  |  |  |  |  |  |  |  |   |
+|  (Z259) |  |  |  |  |  |  |  |  |  |   |
+|  (Z260) |  |  |  |  |  |  |  |  |  |   |
+|  (Z261) |  |  |  |  |  |  |  |  |  |   |
+|  (Z262) |  |  |  |  |  |  |  |  |  |   |
+|  (Z263) |  |  |  |  |  |  |  |  |  |   |
+|  (Z264) |  |  |  |  |  |  |  |  |  |   |
+|  (Z265) |  |  |  |  |  |  |  |  |  |   |
+|  (Z266) |  |  |  |  |  |  |  |  |  |   |
+|  (Z267) |  |  |  |  |  |  |  |  |  |   |
+|  (Z268) |  |  |  |  |  |  |  |  |  |   |
+|  (Z269) |  |  |  |  |  |  |  |  |  |   |
+|  (Z270) |  |  |  |  |  |  |  |  |  |   |
+|  (Z271) |  |  |  |  |  |  |  |  |  |   |
+|  (Z272) |  |  |  |  |  |  |  |  |  |   |
+|  (Z273) |  |  |  |  |  |  |  |  |  |   |
+|  (Z274) |  |  |  |  |  |  |  |  |  |   |
+|  (Z275) |  |  |  |  |  |  |  |  |  |   |
+|  (Z276) |  |  |  |  |  |  |  |  |  |   |
+|  (Z277) |  |  |  |  |  |  |  |  |  |   |
+|  (Z278) |  |  |  |  |  |  |  |  |  |   |
+|  (Z279) |  |  |  |  |  |  |  |  |  |   |
+|  (Z280) |  |  |  |  |  |  |  |  |  |   |
+|  (Z281) |  |  |  |  |  |  |  |  |  |   |
+|  (Z282) |  |  |  |  |  |  |  |  |  |   |
+|  (Z283) |  |  |  |  |  |  |  |  |   |
+|  (Z284) |  |  |  |  |  |  |  |  |  |   |
+|  (Z285) |  |  |  |  |  |  |  |  |   |
+|  (Z286) |  |  |  |  |  |  |  |  |   |
+|  (Z287) |  |  |  |  |  |  |  |  |   |
+|  (Z288) |  |  |  |  |  |  |  |  |   |
+|  (Z289) |  |  |  |  |  |  |  |  |   |
+|  (Z290) |  |  |  |  |  |  |  |  |   |
+|  (Z291) |  |  |  |  |  |  |  |  |   |
+|  (Z292) |  |  |  |  |  |  |  |  |   |
+|  (Z293) |  |  |  |  |  |  |  |  |   |
+|  (Z294) |  |  |  |  |  |  |  |   |
+|  (Z295) |  |  |  |  |  |  |  |  |   |
+|  (Z296) |  |  |  |  |  |  |  |   |
+|  (Z297) |  |  |  |  |  |  |  |   |
+|  (Z298) |  |  |  |  |  |  |  |   |
+|  (Z299) |  |  |  |  |  |  |  |   |
+|  (Z299) |  |  |  |  |  |  |  |   |
+|  (Z2910) |  |  |  |  |  |  |  |   |
+|  (Z2911) |  |  |  |  |  |  |  |   |
+|  (Z2912) |  |  |  |  |  |  |   |
+|  (Z2913) |  |  |  |  |  |  |   |
+|  (Z2913) |  |  |  |  |  |  |   |
+|  (Z2914) |  |  |  |  |  |  |   |
+|  (Z2914) |  |  |  |  |  |  |   |
+|  (Z2915) |  |  |  |  |  |  |   |
+|  (Z2915) |  |  |  |  |  |  |   |
+|  (Z2916) |  |  |  |  |  |   |
+|  (Z2916) |  |  |  |  |  |  |   |
+|  (Z2917) |  |  |  |  |  |  |   |
+|  (Z2917) |  |  |  |  |  |   |
+|  (Z2918) |  |  |  |  |  |   |
+|  (Z2918) |  |  |  |  |  |   |
+|  (Z2919) |  |  |  |  |  |   |
+|  (Z2920) |  |  |  |  |  |   |
+|  (Z2919) |  |  |  |  |  |   |
+|  (Z29110) |  |  |  |  |  |   |
+|  (Z29111) |  |  |  |  |  |   |
+|  (Z29112) |  |  |  |  |  |   |
+|  (Z2913) |  |  |  |  |  |   |
+|  (Z2914) |  |  |  |  |  |   |
+|  (Z2915) |  |  |  |  |  |   |
+|  (Z2916) |  |  |  |  |  |   |
+|  (Z2917) |  |  |  |  |  |   |
+|  (Z2918) |  |  |  |  |  |   |
+|  (Z2919) |  |  |  |  |  |   |
+|  (Z2920) |  |  |  |  |  |   |
+|  (Z2919) |  |  |  |  |   |
+|  (Z29110) |  |  |  |  |  |   |
+|  (Z29111) |  |  |  |  |   |
+|  (Z291111) |  |  |  |  |   |
+|  (Z29112) |  |  |  |  |  |   |
+|  (Z29113) |  |  |  |  |   |
+|  (Z29114) |  |  |  |  |   |
+|  (Z29114) |  |  |  |  |   |
+|  (Z29115) |  |  |  |  |   |
+|  (Z29116) |  |  |  |  |   |
+|  (Z29117) |  |  |  |  |   |
+|  (Z29118) |  |  |  |  |   |
+|  (Z29119) |  |  |  |  |   |
+|  (Z29120) |  |  |  |  |   |
+|  (Z291112) |  |  |  |   |
+|  (Z29113) |  |  |  |  |   |
+|  (Z29114) |  |  |  |   |
+|  (Z29115) |  |  |  |   |
+|  (Z29116) |  |  |  |  |   |
+|  (Z29117) |  |  |  |   |
+|  (Z29118) |  |  |  |   |
+|  (Z29119) |  |  |  |   |
+|  (Z29120) |  |  |  |   |
+|  (Z29119) |  |  |  |   |
+|  (Z29121) |  |  |  |   |
+|  (Z291111) |  |  |  |   |
+|  (Z291121) |  |  |  |   |
+|  (Z29122) |  |  |  |   |
+|  (Z29122) |  |  |  |   |
+|  (Z29122) |  |  |  |   |
+|  (Z29123) |  |  |  |   |
+|  (Z29123) |  |  |  |   |
+|  (Z29124) |  |  |  |   |
+|  (Z29124) |  |  |  |   |
+|  (Z29125) |  |  |  |   |
+|  (Z29125) |  |  |   |
+|  (Z29126) |  |  |  |   |
+|  (Z29127) |  |  |   |
+|  (Z29127) |  |  |   |
+|  (Z29128) |  |  |  |   |
+|  (Z29128) |  |  |   |
+|  (Z29129) |  |  |   |
+|  (Z29130) |  |  |   |
+|  (Z29131) |  |  |   |
+|  (Z29131) |  |  |   |
+|  (Z29132) |  |  |   |
+|  (Z29132) |  |  |   |
+|  (Z29133) |  |  |   |
+|  (Z29133) |  |  |   |
+|  (Z29133) |  |  |   |
+|  (Z29134) |  |  |   |
+|  (Z29135) |  |  |   |
+|  (Z29136) |  |  |   |
+|  (Z29137) |  |  |   |
+|  (Z29138) |  |  |   |
+|  (Z29139) |  |  |   |
+|  (Z29139) |  |  |   |
+|  (Z29140) |  |  |   |
+|  (Z29131) |  |  |   |
+|  (Z29141) |  |  |   |
+|  (Z29142) |  |  |   |
+|  (Z29142) |  |  |   |
+|  (Z29143) |  |  |   |
+|  (Z29143) |  |  |   |
+|  (Z29144) |  |  |   |
+|  (Z29144) |  |  |   |
+|  (Z29145) |  |  |   |
+|  (Z29145) |  |  |   |
+|  (Z29145) |  |  |   |
+|  (Z29146) |  |  |   |
+|  (Z29146) |  |  |   |
+|  (Z29147) |  |  |   |
+|  (Z29147) |  |  |   |
+|  (Z29148) |  |  |   |
+|  (Z29148) |  |  |   |
+|  (Z29149) |  |  |   |
+|  (Z2915) |  |  |   |
+|  (Z2915) |  |  |   |
+|  (Z2915) |  |  |   |
+|  (Z2915) |  |  |   |
+|  (Z2916) |  |  |   |
+|  (Z2916) |  |  |   |
+|  (Z2916) |  |  |   |
+|  (Z2916) |  |  |   |
+|  (Z2917) |  |  |   |
+|  (Z2917) |  |  |   |
+|  (Z2917) |  |  |   |
+|  (Z2918) |  |  |   |
+|  (Z2918) |  |  |   |
+|  (Z2918) |  |  |   |
+|  (Z2919) |  |  |   |
+|  (Z2919) |  |  |   |
+|  (Z2919) |  |  |   |
+|  (Z2919) |  |  |   |
+|  (Z2919) |  |  |   |
+|  (Z2919) |  |  |   |
+|  (Z2919) |  |  |   |
+|  (Z2919) |  |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
+|  (Z2919) |  |   |
 
-### Etiqueta amarilla (EFICIENCIA ENERGÉTICA) — texto visible
-EFICIENCIA ENERGÉTICA  
-Resolución de Eficiencia Energética (REEE/EE)  
-Acondicionadores de Aire Tipo Dividido de Velocidad Fija
-
-Relación de Eficiencia Energética Estacional (REEE)  
-- REEE establecida en norma: 3,52  
-- REEE de este equipo: 3,82
-
-Ahorro de Energía de este Equipo: 8,5%
-
-IMPORTANTE  
-(Se observa texto pequeño no legible completamente en la imagen que contiene advertencias y aclaraciones sobre la medición del ahorro de energía y condiciones de prueba)
-
-### Pie / Final del documento
-***FIN DEL DOCUMENTO***
-
-Fecha de Emisión: 2024-09-26  
-Fecha de Vencimiento: 2027-09-26  
-Versión 1  
-Sublicencia emitida desde 2025-02-01  
-Página 2 de 2
-
-(Leyenda y texto pequeño en el pie con logotipos y un código QR; parte del texto en letra pequeña no es completamente legible en la imagen proporcionada)
-
-### Notas y leyendas
-- Logotipos SGS y ONAC visibles en la parte superior.
-- Código QR visible en la esquina inferior derecha.
-- Texto muy pequeño y líneas de legalidad en la parte inferior no completamente legibles en la imagen suministrada; se transcribió lo claramente distinguible.

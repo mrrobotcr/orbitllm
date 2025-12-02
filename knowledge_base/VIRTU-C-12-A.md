@@ -1,9 +1,11 @@
-## VIRTU-C-12-A - Página 1
+# VIRTU-C-12-A.pdf
 
-Archivo: VIRTU-C-12-A - Página 1
 
-### CERTIFICADO DE CONFORMIDAD DE PRODUCTO
-Archivo: VIRTU-C-12-A - Página 1
+================================================================================
+PAGE 1
+================================================================================
+
+![img-0.jpeg](img-0.jpeg)
 
 SGS COLOMBIA S.A.S.
 C&P-F490101
@@ -11,117 +13,75 @@ ORDEN No. 4200-42758
 CERTIFICADO No. CRS24372
 ORDEN CERT. No. CO-CERT240900618-01
 CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+Adina Appliances S.A
+Complejo Industrial Panama viejo Busines Galera G17 Panama Viejo, Panama
 
-Adina Appliances S.A.
-Complejo industrial Panama viejo Business Galera G17 Panama Viejo, Panama
+Certifica que el producto identificado como Acondicionadores de aire tipo dividido Inverter, con flujo de refrigerante variable descarga libre y sin ductos de aire, importados y/o fabricados y comercializados en Panamá, Costa Rica, El Salvador, Nicaragua, Guatemala y Honduras por Adina Appliances S.A. con referencias relacionadas en las siguientes páginas del presente documento, han sido evaluados de conformidad con:
 
-### Certificación / Alcance
-Archivo: VIRTU-C-12-A - Página 1
-
-Certifica que el producto identificado como Acondicionadores de aire tipo dividido Inverter con flujo de refrigerante variable descarga libre y sin ductos de aire, importados y/o fabricados y comercializados en Panamá, Costa Rica, El Salvador, Nicaragua, Guatemala y Honduras por Adina Appliances S.A. con referencias relacionadas en las siguientes páginas del presente documento, han sido evaluados de conformidad con:
-
-### Reglamentación y referencias
-Archivo: VIRTU-C-12-A - Página 1
-
-- Reglamento Técnico Centroamericano RTCA 23.01.78:20 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido Inverter, con flujo refrigerante variable descarga libre y sin ductos de aire. Especificaciones de eficiencia energética.
-- Resolución 451-2021 (COMIECO-XCVIII) del 17 de diciembre de 2021 del Consejo de Ministros de Integración Económica de Centroamérica.
-
-### Evaluación y resultados
-Archivo: VIRTU-C-12-A - Página 1
+Reglamento Técnico Centroamericano RTCA 23.01.78:20 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido Inverter, con flujo refrigerante variable descarga libre y sin ductos de aire. Especificaciones de eficiencia energética.
+Resolución 451-2021 (COMIECO-XCVIII) del 17 de diciembre de 2021 del Consejo de Ministros de Integración Económica de Centroamérica.
 
 Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con el esquema de certificación 5 de la norma ISO/IEC 17067:2013.
 
 Resultados obtenidos: CONFORME
 
-### Autorizado por / Firma
-Archivo: VIRTU-C-12-A - Página 1
-
 Autorizado por:
-(firma)
 
-SGS COLOMBIA S.A.S.
-
-Camilo Ramirez
+Camilo Ramírez
 SGS Colombia S.A.S.
 Carrera 100 No. 25C-11, Bodega 3
 Bogotá D.C., Colombia
 
-### Fechas y versión
-Archivo: VIRTU-C-12-A - Página 1
-
-- Fecha de Emisión: 2024-09-27
-- Fecha de Vencimiento: 2027-09-27
-- Versión 1
+Fecha de Emisión: 2024-09-27
+Fecha de Vencimiento: 2027-09-27
+Versión 1
 
 Página 1 de 2
 
-### Elementos gráficos y otras leyendas visibles
-Archivo: VIRTU-C-12-A - Página 1
+![img-1.jpeg](img-1.jpeg)
 
-- Logotipos visibles: SGS (arriba a la izquierda y arriba a la derecha), ONAC ACREDITADO (en recuadro verde).
-- Marca de agua / gráfico de aves y elementos decorativos en el fondo.
-- Código QR en la parte inferior derecha.
-- Pie de página con icono de globo y repetición del logotipo "SGS" en colores (texto no transcrito por ser gráfico).
-- Texto muy pequeño en el pie inferior no legible en la imagen proporcionada (no se transcribe para no introducir información no visible).
+![img-2.jpeg](img-2.jpeg)
 
-### Notas y leyendas
-Archivo: VIRTU-C-12-A - Página 1
+================================================================================
+PAGE 2
+================================================================================
 
-- Se mantienen exactamente los textos visibles en la imagen; no se ha añadido ni inferido información adicional.
+![img-3.jpeg](img-3.jpeg)
 
-## VIRTU-C-12-A - Página 2
+![img-4.jpeg](img-4.jpeg)
 
-### Archivo: VIRTU-C-12-A, Página: 2
+SGS COLOMBIA S.A.S. C&P-F490101 ORDEN No. 4200-42758 CERTIFICADO No. CRS24372 ORDEN CERT. No. CO-CERT240900618-01 CERTIFICADO DE CONFORMIDAD DE PRODUCTO Adina Appliances S.A Complejo Industrial Panama viejo Busines Galera G17 Panama Viejo, Panama Acondicionadores de aire tipo dividido Inverter, con flujo de refrigerante variable descarga libre y sin ductos de aire
 
-### Título principal
-CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+|  UNIDAD ENAFORADORA | UNIDAD CONDENSADORA | CAPACIDAD DE ENFRIAMIENTO (W) | TIPO DE ARTEFACTO | REEE ESTABLECIDA EN NORMA (Wt/We) | REEE DE ESTABLECIDA EN NORMA (Wt/We) | REEE DE ESTABLECIDA EN EQUIPO (Wt/We) | AHORRO DE ENERGÍA (%) | TEST REPORT | MARCA  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  VIRTU-C-1222WR32-1 | VIRTU-C-1222WR32-E | 3516 | Mini Spát Inverter | 4,68 | 6,45 | 37,8 | GZEE240800338631 | Adina |   |
 
-### Encabezado y datos de certificación
-- SGS COLOMBIA S.A.S.
-- C&P-F490101
-- ORDEN No. 4200-42758
-- CERTIFICADO No. CRS24372
-- ORDEN CERT. No. CO-CERT240900618-01
-- CERTIFICADO DE CONFORMIDAD DE PRODUCTO
-- Adina Appliances S.A
-- Complejo industrial Panama viejo Busines Galera G17 Panama Viejo, Panama
-- Acondicionadores de aire tipo dividido inverter, con flujo de refrigerante variable descarga libre y sin ductos de aire
+EFICIENCIA ENERGÉTICA Relación de Eficiencia Energética Estacional (REEE) Dependiendo como se establece en el artículo 23.81.10.20 ACONDICIONADORES DE AIRE TIPO DIVIDIDO INVERTER
 
-### Tabla: Datos del equipo (presentada en el documento)
-- **UNIDAD EVAPORADORA:** VIRTU-C-1222WR32-1
-- **UNIDAD CONDENSADORA:** VIRTU-C-1222WR32-E
-- **CAPACIDAD DE ENFRIAMIENTO (W):** 3516
-- **TIPO DE ARTEFACTO:** Mini Split Inverter
-- **REEE ESTABLECIDA EN NORMA (W/We):** 4.88
-- **REEE DE ESTE EQUIPO (W/We):** 8.45
-- **AHORRO DE ENERGIA (%):** 37.8
-- **TEST REPORT:** GZEE240800336631
-- **MARCA:** Adina
+|  Básica | 42,00 | Egoz | Energía Inverter  |
+| --- | --- | --- | --- |
+|  1222W | 1222WR32-E | Capacidad de Refriamiento, 378 m³, 1000 l/1 mA |   |
+|  1222W | 1222WR32-E | Potencia Eléctrica, 1 kW A |   |
+|  1222W | 1222WR32-E |  |   |
+|  1222W | 1222WR32-E |  |   |
+|  1222W | 1222WR32-E |  |   |
 
-### Etiqueta amarilla (eficiencia energética) — texto visible
-- EFICIENCIA ENERGETICA
-- ACONDICIONADORES DE AIRE TIPO DIVIDIDO INVERTER
-- Relación de Eficiencia Energética Estacional (REEE)
-- Ahorro de Energia de este Equipo
-- 37.8%
-- IMPORTANTE
+Educación de Eficiencia Energética Estacional (REEE)
 
-### Texto central destacado
-- ***FIN DEL DOCUMENTO***
+|  REEE establecido en esta RTEA: | 1000Wt | 4,68  |
+| --- | --- | --- |
+|  REEE de este equipo: | 1000Wt | 4,68  |
+|  Ahorro de Energía de este Equipo: | 37,8% |   |
+|  37,8% |  |   |
 
-### Fechas y versión (pie de página)
-- Fecha de Emisión: 2024-09-27
-- Fecha de Vencimiento: 2027-09-27
-- Versión 1
-- Página 2 de 2
+IMPORTANTE El ahorro de energía está dependido de los usos y hábitos del aparato, así como de la producción del equipo. La situación no debe influirse del producto hasta que haya sido adquirido por el consumidor final.
 
-### Elementos gráficos y otros textos visibles
-- Logotipos: SGS, ONAC (parte superior)
-- Repetición de logotipo SGS en la franja inferior con figuras de aves coloreadas
-- Código QR (parte inferior derecha)
-- Texto en letra pequeña (bloque legal) en la parte inferior izquierda (legible como bloque de texto, contenido no transcrito palabra por palabra por ser muy pequeño en la imagen)
-- Código en pie de página central: C&P-C-06.05 V.7 febrero 2023
+***FIN DEL DOCUMENTO***
 
-### Notas y leyendas
-- Se mantiene la ortografía y los valores según aparecen en el documento.
-- Se han convertido las filas de la tabla a viñetas y se han destacado los encabezados de columna en negritas según solicitado.
+Fecha de Emisión: 2024-09-27 Fecha de Vencimiento: 2027-09-27 Versión 1 Página 2 de 2
+
+![img-5.jpeg](img-5.jpeg)
+
+![img-6.jpeg](img-6.jpeg)
+
+![img-7.jpeg](img-7.jpeg)

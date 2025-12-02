@@ -1,271 +1,147 @@
-## MANUAL-CONECTIVIDAD-WIFI-2025 - Página 1
+# MANUAL-CONECTIVIDAD-WIFI-2025.pdf
 
-### Título principal
-INSTRUCTIVO  
-CONECTIVIDAD  
-WI-FI
 
-### Logotipo / Marca (parte superior derecha)
-ADINA®  
-Air Conditioning
+================================================================================
+PAGE 1
+================================================================================
 
-### Elementos de pie / series (parte inferior derecha)
-- Máxima SERIES
-- ONIX SERIES
-- Virtus SERIES
+![img-0.jpeg](img-0.jpeg)
 
-### Elementos gráficos con texto (visibles)
-- Símbolo "Wi‑Fi" (iconografía, sin texto adicional)
+# INSTRUCTIVO CONECTIVIDAD WI-FI
 
-### Notas y leyendas:
-- No se observan notas al pie ni leyendas textuales adicionales en la página.
+![img-1.jpeg](img-1.jpeg)
 
-## MANUAL-CONECTIVIDAD-WIFI-2025 - Página 2
+================================================================================
+PAGE 2
+================================================================================
 
-### ADINA Air Conditioning
-ADINA Air Conditioning
+# Paso 1: Descargar la aplicación 
 
-### Paso 1: Descargar la aplicación
 Debes descargar la aplicación Smart Life, desarrollada por Tuya, que es compatible con nuestros sistemas.
 
 Link de descarga directa:
-- 👉 http://e.tuya.com/smartlife
+http://e.tuya.com/smartlife
 
-También puedes escanear el código QR incluido en el manual impreso del equipo, que te redigirá a la misma app.
+También puedes escanear el código
+QR incluido en el manual impreso del equipo, que te redirigirá a la misma app.
+![img-2.jpeg](img-2.jpeg)
 
-Imagen (derecha):
-- ADINA
-- Icono y texto de la aplicación: Smart Life
+## Paso 2: Abrir la aplicación y agregar el dispositivo
 
-### Paso 2: Abrir la aplicación y agregar el dispositivo
 Abre la aplicación Smart Life en tu celular.
 
-Imagen (interfaz de la aplicación):
-- My Home ..
-- Learn about the new DIY homepage
-- Don't show again
-- (icono de sol) -- °C
-- Energy Saving
-- All Devices
-- Edit
+My Home ..
 
-### Notas y leyendas:
-- (Ícono de documento junto al texto sobre el código QR)
-- (Ícono de mano señalando junto al enlace de descarga)
+## Learn about the new DIY homepage
 
-## MANUAL-CONECTIVIDAD-WIFI-2025 - Página 3
+![img-3.jpeg](img-3.jpeg)
 
-### Encabezado visible
-- ADINA Air Conditioning
+================================================================================
+PAGE 3
+================================================================================
 
-### Pulsa el boton (+) ubicado en la esquina superior derecha.
-- Pulsa el boton (+) ubicado en la esquina superior derecha.
+Pulsa el boton ( + ) ubicado en la esquina superior derecha.
+![img-4.jpeg](img-4.jpeg)
 
-### Captura de pantalla (menú desplegable)
-- My Home ..
-- Learn about DIY homep...
-- Don't show again
-- Add Device
-- Create Scene
-- Add Quick Toggle Card
-- Scan
-- All Devices
-- Edit
+Se desplegará un menú para seleccionar como se agregará un equipo. Selecciona la primer opcion (Add Device).
+![img-5.jpeg](img-5.jpeg)
 
-### Sección de instrucciones
-- Se desplegará un menú para seleccionar como se agregará un equipo. Selecciona la primer opcion (Add Device).
+================================================================================
+PAGE 4
+================================================================================
 
-### Captura de pantalla (pantalla "Add Device")
-- Add Device
-- Searching for nearby devices. Make sure your device has entered pairing mode.
+# ADINA 
 
-### Notas y leyendas:
-- Iconos y elementos visuales presentes (botón + en esquina superior derecha, icono de usuario, icono de micrófono, radar de búsqueda).
+## We
 
-## MANUAL-CONECTIVIDAD-WIFI-2025 - Página 4
+![img-6.jpeg](img-6.jpeg)
 
-### ADINA Air Conditioning
-ADINA Air Conditioning (logo visible)
+## Add Manually
 
-### Imagen / Ventana: Add Manually
-- Add Manually
-- Electrical
-- Socket
-- Lighting
-- Sensors
-- Plug (BLE+Wi‑Fi)
-- Socket (Wi‑Fi)
-- Socket (Zigbee)
-- Large Home Appliances
+![img-7.jpeg](img-7.jpeg)
 
-### Texto principal
-Se desplegará una ventana para seleccionar el tipo de equipo de forma manual.
+## Paso 3: Seleccionar el tipo de equipo
 
-### Paso 3: Seleccionar el tipo de equipo
 Dentro del menú de categorías, selecciona:
-- Large Home Appliances > Air Conditioning WiFi
-- (Electrodomésticos grandes > Aire acondicionado con WiFi)
 
-### Captura de pantalla: Add Device (listas y categorías visibles)
-- Add Device
-- Categorías visibles (lista vertical, tal como aparece):
-  - Large Home Appliances
-  - Small Home Appliances
-  - Kitchen Appliances
-  - Exercise & Health
-  - Camera & Locks
-  - Gateway Control
-  - Outdoor Travel
-  - Energy
-  - Entertainment
-  - Industry & Agriculture
-  - Others
-- Iconos y opciones de Air Conditioning visibles (fila superior de la sección Air Conditioning):
-  - Air Conditioner (BLE+Wi‑Fi)
-  - Air Conditioner (Wi‑Fi)
-  - Air Conditioner (Zigbee)
-- Otras opciones visibles en la sección Refrigeration (fila inferior de la captura):
-  - Refrigerator (BLE+Wi‑Fi)
-  - Refrigerator (Wi‑Fi)
-  - Refrigerator (BLE)
+## Large Home Appliances > Air Conditioning WiFi
 
-### Notas y leyendas:
-- Página contiene imágenes de la interfaz de la aplicación para añadir dispositivos manualmente y para seleccionar categorías.
-- Número de página visible: 4
+(Electrodomésticos grandes > Aire acondicionado con WiFi)
+![img-8.jpeg](img-8.jpeg)
 
-## MANUAL-CONECTIVIDAD-WIFI-2025 - Página 5
+================================================================================
+PAGE 5
+================================================================================
 
-### ADINA Air Conditioning
-ADINA Air Conditioning
+# Paso 4: <br> Ingresar tu red WiFi 
 
-### Paso 4:  
-Ingresar tu red WiFi
+Toca el icono del aire acondicionado WiFi.
+Luego introduce el nombre (SSID) y la contraseña de tu red WiFi de 2.4 GHz .
+Importante: No es compatible con redes 5 GHz .
 
-Toca el icono del aire acondicionado WiFi.  
-Luego introduce el nombre (SSID) y la contraseña de tu red WiFi de 2.4 GHz.  
-🔒 Importante: No es compatible con redes 5 GHz.
+## Select 2.4 GHz Wi-Fi Network and enter password.
 
-### Capturas de pantalla (texto visible)
+If your Wi-Fi is 5 GHz , please set it to be 2.4 GHz . Common router setting method
+$\times$ Wi-Fi - 5Ghz
+Wi-Fi - 2.4Ghz
 
-- Imagen izquierda (captura de selección de red):
-  - Select 2.4 GHz Wi-Fi Network and enter password.
-  - If your Wi-Fi is 5GHz, please set it to be 2.4GHz. Common router setting method
-  - Wi-Fi - 5GHz (aparece marcado con una X)
-  - Wi-Fi - 2.4Ghz (aparece seleccionado)
-  - Adina Wifi
-  - Password
+## $\Theta$
 
-- Imagen derecha (captura de entrada de contraseña):
-  - Select 2.4 GHz Wi-Fi Network and enter password.
-  - Adina Wifi
-  - (campo de contraseña)
-  - Next
-
----
-
-### Paso 5:  
-Poner el equipo en modo de emparejamiento
+## Paso 5: Poner el equipo en modo de emparejamiento
 
 Ahora vamos a poner el aire en modo de búsqueda de red WiFi:
+
 - En el control remoto, pulsa 6 veces el botón "Display".
 - Escucharás un pitido por cada vez que lo pulses.
 - Después del sexto pitido, el equipo emitirá una serie de pitidos indicando que entró al modo de emparejamiento.
 - El símbolo de WiFi comenzará a parpadear, ya sea rápido o lento.
 
-### Imagen lateral (Reset the device)
+Reset the device
+![img-9.jpeg](img-9.jpeg)
 
-- Reset the device
-- (imagen del dispositivo con un botón)
-- Press and hold the RESET button for 5 seconds until the indicator blinks (subject to the user manual).
-- Botón azul en la pantalla: Confirm the indicator is blinking
-- Enlace o texto inferior: Reset Device Step by Step
+Press and hold the RESET button for 5 seconds until the indicator blinks (subject to the user manual).
 
-### Notas y leyendas:
-- Página contiene iconografía y capturas de pantalla que muestran la selección de la red 2.4 GHz y la confirmación del parpadeo del indicador para emparejamiento.
-- Se mantiene la instrucción explícita: no compatible con redes 5 GHz.
+================================================================================
+PAGE 6
+================================================================================
 
-(Archivo: MANUAL-CONECTIVIDAD-WIFI-2025 — Página 5)
+Cuando el símbolo de Wifi esté parpadeando, tocaremos la opción de Confirmación de Parpadeo (confirm the indicator is blinkin) en la applicación movil.
 
-## MANUAL-CONECTIVIDAD-WIFI-2025 - Página 6
+## Paso 6: Confirmar tipo de parpadeo
 
-### ADINA Air Conditioning
-ADINA
-Air Conditioning
-
-### Texto superior izquierdo
-Cuando el simbolo de Wifi esté parpadeando, tocaremos la opción de Confirmación de Parpadeo (confirm the indicator is blinkin) en la aplicación movil.
-
----
-
-### Paso 6: Confirmar tipo de parpadeo
 En la app, selecciona la opción que coincida con el tipo de parpadeo del símbolo WiFi en tu unidad (rápido o lento).
 
-### Imagen (derecha, captura de pantalla con instrucciones en inglés)
-- Encabezado de la imagen: Reset the device
-- Texto dentro de la imagen: Press and hold the RESET button for 5 seconds until the indicator blinks (subject to the user manual).
-- Texto del modal en la imagen: Select the status of the indicator light or hear the beep:
-- Botones mostrados en el modal:
-  - Blink Slowly
-  - Blink Quickly
+## Reset the device
 
----
+![img-10.jpeg](img-10.jpeg)
 
-### Imagen (inferior izquierda, pantalla de emparejamiento)
-- Encabezado de la imagen: Connecting Device
-- Subtexto de la imagen: Keep the network stable.
-- Indicador de tiempo en la imagen: 01:56
-- (Íconos de navegación en la parte inferior de la pantalla de la app, visibles pero sin texto legible adicional)
+Press and hold the RESET button for 5 seconds until the indicator blinks (subject to the user manual).
 
----
+Select the status of the indicator light or hear the beep:
 
-### Paso 7: Esperar el emparejamiento
+Blink Slowly Blink Quickly
+
+Connecting Device
+Keep the network stable.
+
+01:56
+
+## Paso 7: Esperar el emparejamiento
+
 La aplicación tardará hasta 5 minutos en emparejarse con tu equipo.
 Durante este tiempo, se establecerá la comunicación entre el aire y tu celular.
 
----
+================================================================================
+PAGE 7
+================================================================================
 
-### Notas y leyendas:
-- Página contiene logo y marca ADINA Air Conditioning en la parte superior derecha.
-- No se identifican tablas en esta página.
+# Paso 8: Personalizar el nombre del equipo 
 
-## MANUAL-CONECTIVIDAD-WIFI-2025 - Página 7
+Una vez finalizada la configuración, podrás asignarle un nombre al aire acondicionado, por ejemplo:
+"Cuarto Principal" o "Oficina", para facilitar el control si tienes varios equipos.
+![img-11.jpeg](img-11.jpeg)
 
-### ADINA Air Conditioning
-ADINA Air Conditioning
+## Paso 9: iListo para usar!
 
-### Paso 8: Personalizar el nombre del equipo
-Una vez finalizada la configuración, podrás asignarle un nombre al aire acondicionado, por ejemplo: “Cuarto Principal” o “Oficina”, para facilitar el control si tienes varios equipos.
-
-### Imagen (diálogo en la app)
-- Add Device (texto en la parte superior de la pantalla de la app)
-- Device Information (título del cuadro)
-- Adina AC Split System (campo de texto con el nombre del equipo)
-- Whether to add to the home page (texto de opción)
-- Yes (botón/selector)
-- Cancel (botón)
-- Finish (botón)
-
----
-
-### Paso 9: ¡Listo para usar!
-¡Tu aire acondicionado inteligente está configurado correctamente y listo para usarse desde tu celular!
-
-### Imágenes (pantallas de la app)
-Imagen izquierda (pantalla de control):
-- Adina AC Split System (encabezado de la pantalla)
-- 24°C (valor de temperatura, grande en pantalla)
-- Device on (texto en el botón/indicador circular)
-
-Imagen derecha (pantalla "My Home"):
-- My Home ..
-- Learn about the new DIY homepage
-- Don't show again
-- -- °C (texto parcial visible en tarjeta de temperatura)
-- Energy Saving (tarjeta)
-- All Devices (tarjeta)
-- Adina AC Split Sys... (tarjeta con nombre del equipo, truncado)
-- Edit (botón en la parte inferior de la tarjeta)
-
-### Notas y leyendas:
-- Logo superior: ADINA (Air Conditioning)
-- Las imágenes son capturas de pantalla de la app móvil con elementos de la interfaz (títulos, botones y tarjetas) tal como aparecen en la página.
+iTu aire acondicionado inteligente está configurado correctamente y listo para usarse desde tu celular!
+![img-12.jpeg](img-12.jpeg)

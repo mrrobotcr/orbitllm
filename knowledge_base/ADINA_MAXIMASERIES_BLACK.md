@@ -1,161 +1,99 @@
-## ADINA_MAXIMASERIES_BLACK - Página 1
+# ADINA_MAXIMASERIES_BLACK.pdf
 
-### Título principal
-ADINA
-Air Conditioning
 
-(Imagen unidad interior con display: 26°)
+================================================================================
+PAGE 1
+================================================================================
 
-### Máxima SERIES BLACK
-Máxima
-SERIES
-BLACK
+![img-0.jpeg](img-0.jpeg)
 
-### Sección informativa principal
-- Los equipos ADINA - MÁXIMA SERIES - BLACK funcionan con Wifi incorporado. La unidad se podrá controlar a través del móvil o tablet, descargando su app gratuita. Más todas las grandes ventajas y estilo que nos ofrecen los equipos ADINA.
+# 26: 
 
-### Logotipo / Marca secundaria
-- INVERTER+
+![img-1.jpeg](img-1.jpeg)
 
-### Iconos y características (lado derecho, de arriba hacia abajo)
-- Botón de emergencia
-- Anti-frío
-- Deshumidificación independiente
-- Modo de suspensión
-- Bajo nivel de ruido
-- Temporizador 24 horas
-- Reinicio automático
-- Drenaje dual
+## ¡EFICIENCIA Y TECNOLOGÍA EN LA PALMA DE TU MANO!
 
-### Eslogan principal
-¡EFICIENCIA Y TECNOLOGÍA EN LA PALMA DE TU MANO!
+![img-2.jpeg](img-2.jpeg)
 
-### Productos mostrados
-- Máxima SERIES BLACK (presentación en caja, paquete de unidad interior y unidad exterior)
+================================================================================
+PAGE 2
+================================================================================
 
-### Marcas y certificaciones (parte inferior, iconos visibles)
-- eco
-- GOLD fin
-- Wi-Fi
+# Especificaciones técnicas
 
-### Notas y leyendas
-- ADINA (marca en unidad y packaging)
+## Maxima BLACK SERIES
 
-## ADINA_MAXIMASERIES_BLACK - Página 2
+|  Tipo de control |  | 12K-295EER | 18K-295EER | 24K-295EER  |
+| --- | --- | --- | --- | --- |
+|  Capacidad de refrigeración nominal |  | 12000(2047-13625) | 18000(6095-21155) | 24000(4606-24900)  |
+|   |  | 3517(600-3700) | 5275(1200-6200) | 7030(1350-7300)  |
+|  Capacidad calefífica nominal |  | N/A | N/A | N.A  |
+|   |  | N/A | N/A | N.A  |
+|  EER para refrigeración |  | W/W | 11.60-3.45 | 11.45-3.35  |
+|  COP para calefacción |  | W/W | N/A | N.A  |
+|  SEER |  | Btu / W | 20 | 20  |
+|  Clasificación HSPF (Región IV) |  |  | N/A | N/A  |
+|  Eliminación de humedad |  | Litros/h | 1.3 | 1.5  |
+|  Presión |  | MPa | 4.5 | 4.5  |
+|   | Baja (SP) | MPa | 1.9 | 1.9  |
+|  Nivel de ruido interior en la refrigeración |  | 48(A) | 39 | 48  |
+|   | Med. | 85(A) | 35 | 42  |
+|   | Baja | 85(A) | 30 | 37  |
+|  Nivel de ruido exterior |  | 85(A) | 52 | 53  |
+|  Datos eléctricos |  |  |  |   |
+|  Nivel de ruido exterior |  |  | 208-230V-80Hz | 208-230V-80Hz  |
+|  Rango de voltaje |  | V | 165-265 | 165-265  |
+|  Comente nominal | Enfriamiento | A | 4.8(1.0-7.9) | 7.5(1.6-11)  |
+|   | Calefacción | A | 4.8 | N/A  |
+|  Entrada nominal | Enfriamiento | W | 1520(220-1500) | 1570(250-2590)  |
+|   | Calefacción | W | N/A | N/A  |
+|  Comente máxima | Enfriamiento | A | 7.0 | 11.0  |
+|   | Calefacción | A | N/A | N/A  |
+|  Entrada de potencia máxima | Enfriamiento | W | 1540 | 2590  |
+|   | Calefacción | W | N/A | N/A  |
+|  Sistema de refrigeración |  |  |  |   |
+|  Refrigerante / Carga |  | Gramo | R410A/720g 25.400Z | R410A/950g 33.55sz  |
+|   |  |  | R0900032UEZ | C-6RZ146H1DJ  |
+|  Compresor | MFO |  | OMCC | 546WD  |
+|   | Tipo |  | Rotativo | Rotativo  |
+|  Sistema de ventiladores |  |  |  |   |
+|  Capacidad de aire interno (refrigeración/calefacción) |  | m³/h | 650 | 1000  |
+|  Tipo de ventilador interior |  |  | Flujo cruzado | Flujo cruzado  |
+|   | Enfriamiento | rpm | 1200/1800/800 | 1200/1000/800  |
+|  Velocidad del ventilador en interiores H/ML | Calefacción | rpm | N/A | N/A  |
+|   | Geco | rpm | 650 | 650  |
+|   | Reposo | rpm | 650 | 650  |
+|  Salida del motor del ventilador interior |  | W | 25 | 45  |
+|  Tipo de ventilador exterior |  |  | Heliox | Heliox  |
+|  Velocidad del ventilador exterior |  | rpm | 900/850/810/810/510 | 1000  |
+|  Salida del motor del ventilador exterior |  | W | 33 | 52  |
+|  Generadores |  |  |  |   |
+|  Tubería de conexión | Gais | Inches | 95/52 (3/8") | 99/52 (3/8")  |
+|   | Líquido | Inches | 96(1/4") | 96(1/4")  |
+|  Tubería de drenaje |  |  | O.D 16mm | O.D 16mm  |
+|  Otros |  |  |  |   |
+|  Zona adecuada |  |  |  |   |
+|  Dimensiones netas (N x D x H) | Interior | mm | 811-292-203 | 1010-315-220  |
+|   | Exterior | mm | 777-290-498 | 653-349-602  |
+|  Peso neto | Interior | kg | 8.9 | 13  |
+|   | Exterior | kg | 24 | 31  |
+|  Dimensiones del embalse (N x D x H) | Interior | mm | 595-366-275 | 1096-390-297  |
+|   | Exterior | mm | 519-325-920 | 990-395-928  |
+|  Peso bruto | Interior | kg | 11 | 16  |
+|   | Exterior | kg | 29 | 35  |
 
-### Especificaciones técnicas | Máxima SERIES BLACK
-(Encabezado principal en la parte superior izquierda)
+![img-3.jpeg](img-3.jpeg)
 
----
+# Tecnología ADINA
 
-### Tabla de especificaciones (tabla principal)
-(Se muestra una tabla de múltiples columnas con especificaciones por modelo. A continuación se listan los encabezados de fila visibles tal como aparecen en la tabla. Los valores específicos por columna aparecen en la tabla impresa; a continuación se mantienen los encabezados y los rótulos visibles.)
+Sin comprometer el confort que un aire acondicionado Adina puede proveer, la compañía se ha comprometido con el medio ambiente. De esta manera, se propuso a implementar el refrigerante R- 410A, el cual se encarga de reducir el consumo energético mientras mantiene la confortable temperatura de la habitación. Así se logra una sensación de bienestar y descanso donde un aire acondicionado Adina está climatizando.
 
-- **Tipo**
-  - Solo refrigeración
-- **Tipo de control**
-  - Remoto
-- **Capacidad de refrigeración nominal** (Btu/h)
-- **Capacidad calorífica nominal** (W)
-- **EER para refrigeración** (W/W)
-- **COP para calefacción** (W/W)
-- **SEER**
-- **Clasificación HSPF (Región V)**
-- **Eliminación de humedad** (L/h)
-- **Presión**
-  - Alta (MPa)
-  - Baja (MPa)
-- **Nivel de ruido interior en la refrigeración** (dB(A))
-  - Alto
-  - Medio
-  - Bajo
-- **Nivel de ruido exterior** (dB(A))
-- **Nivel de ruido exterior** (otra columna con valores)
-- **Voltaje**
-  - 208-230V~60Hz
-  - 208-230V~60Hz / 208-230V~60Hz/1P (variantes visibles)
-- **Rango de voltaje** (V)
-- **Corriente nominal**
-  - Enfriamiento (A)
-  - Calefacción (A)
-- **Entrada mínima**
-  - Enfriamiento (W)
-  - Calefacción (W)
-- **Corriente máxima**
-  - Enfriamiento (A)
-  - Calefacción (A)
-- **Entrada máxima**
-  - Enfriamiento (W)
-  - Calefacción (W)
-- **Refrigerante / Carga**
-  - Gas: R410A (presencia de R410A visible)
-- **Compresor**
-  - Modelo (varios modelos listados)
-- **Motor / Tipo**
-  - Información de tipo y marca de compresor (varios códigos de modelo visibles en la tabla)
-- **Tipo de ventilador interior**
-  - (rótulos de velocidad y modelo)
-- **Tipo de ventilador exterior**
-  - (rótulos de velocidad y modelo)
-- **Velocidad del ventilador interior** (rpm)
-- **Velocidad del ventilador exterior** (rpm)
-- **Salida del motor del ventilador interior** (W)
-- **Salida del motor del ventilador exterior** (W)
-- **Tipo de ventilador exterior**
-  - Hélice
-- **Tubería de conexión**
-  - Líquido (Inches)
-  - Gas (Inches)
-- **Tubería de drenaje**
-  - O.D. 16mm (texto visible junto a la referencia de drenaje)
-- **Zona acústica**
-- **Dimensiones netas (interior/exterior)** (mm)
-  - Interior: medidas visibles en mm (varias filas)
-  - Exterior: medidas visibles en mm (varias filas)
-- **Peso neto**
-  - Interior (kg)
-  - Exterior (kg)
-- **Peso bruto**
-  - Interior (kg)
-  - Exterior (kg)
+![img-4.jpeg](img-4.jpeg)
 
-Nota: La tabla contiene múltiples columnas de modelos con valores numéricos detallados por cada fila anterior. Los encabezados y rótulos de fila aquí se han preservado exactamente según aparecen en la página.
+¡Eficiencia y tecnología en la palma de tu mano!
 
----
+www.adinausa.com
 
-### Tecnología ADINA (panel derecho superior)
-- **Tecnología ADINA**
-  - (Icono R410A al lado del título)
-  - Texto del párrafo:
-    - "Sin comprometer el confort que un aire acondicionado Adina puede proveer, la compañía se ha comprometido con el medio ambiente. De esta manera, se propuso a implementar el refrigerante R-410A, el cual se encarga de reducir el consumo energético mientras mantiene la confortable temperatura de la habitación. Así se logra una sensación de bienestar y descanso donde un aire acondicionado Adina está climatizando."
+![img-5.jpeg](img-5.jpeg)
 
----
-
-### Imagenes y leyendas visuales (panel derecho)
-- Fotografía superior: familia (imagen con caras pixeladas/borrosas)
-- Fotografía inferior derecha: persona con laptop en sala
-- Leyenda inferior junto a la imagen:
-  - "¡Eficiencia y tecnología en la palma de tu mano!"
-  - "www.adinausa.com"
-
----
-
-### Tecnología ADINA INVERTER (parte inferior izquierda)
-- **Tecnología ADINA INVERTER**
-  - Texto del párrafo:
-    - "Nuestra tecnología Inverter regula el funcionamiento del compresor en nuestros equipos de forma que trabajen a una velocidad más constante, lo que permite un gran ahorro de energía."
-
----
-
-### Marca y logotipos (parte inferior izquierda)
-- ADINA (logotipo)
-- "Air Conditioning" (texto bajo el logotipo)
-
----
-
-### Notas y pie de página visibles
-- No se aprecian pies de página con texto adicional legible aparte de los elementos ya transcritos (logos, sitio web y slogans).
-
----
-
-Fin de la transcripción de la página.
+![img-6.jpeg](img-6.jpeg)

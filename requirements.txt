@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-google-generativeai
 python-dotenv
 openai
 tiktoken

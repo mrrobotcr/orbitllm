@@ -1,150 +1,134 @@
-## VENTO-C-3618_ES - Página 1
+# VENTO-C-3618_ES.pdf
 
-### Título principal
-Planos Explosionados
-Unidad Interior
+
+================================================================================
+PAGE 1
+================================================================================
+
+![img-0.jpeg](img-0.jpeg)
+
+# Planos Explosionados
+
+## Unidad Interior
+
+### 36K
+
+|  No. | Descripción de los Materiales | Código | Qty | Opcional  |
+| --- | --- | --- | --- | --- |
+|  1 | Subensamble del panel frontal | 950142323 | 1 |   |
+|  2 | Panel frontal | 950142817 | 1 |   |
+|  2-1 | Tira decorativa (izquierda) |  | 1 |   |
+|  2-2 | Tira decorativa (derecha) |  | 1 |   |
+|  2-3 | Ventana de visualización | / | / |   |
+|  3 | Filtro de aire | 811375820 | 2 |   |
+|  3-1 | Filtro funcional | / | / | Opcional  |
+|  4 | Marco mediano | 811375635 | 1 |   |
+|  5 | Cubierta de tornillo | 811336332 | 3 |   |
+|  6 | Subensamble del evaporador | 811459034 | 1 |   |
+|  7 | PTC |  | 1 | Opcional  |
+|  8 | Ventilador de flujo cruzado | 811405423 | 1 |   |
+|  9 | Subensamble del marco inferior | 811470017 | 1 |   |
+|  10 | Enredo de cables | / | / | Opcional  |
+|  11 | Rodamiento | 810554649 | 1 |   |
+|  12 | Motor paso a paso |  | 1 | Opcional  |
+|  13 | Tablero izquierdo | 811335798 | 1 |   |
+|  14 | Subensamble de la pala | 811405810 | 1 |   |
+|  15 | Buje del eje | 811335807 | 2 |   |
+|  16 | Motor paso a paso (derecho) | 810835647 | 1 |   |
+|  17 | Motor paso a paso (izquierdo) | 811448208 | 1 |   |
+|  18 | Subensamble de tubería de drenaje | 810829755 | 1 |   |
+|  19 | Marco de montaje en pared | 811375808 | 1 |   |
+|  20 | Subensamble de caja de visualización | 811474865 | 1 |   |
+|  21 | Caja de visualización | 811336331 | 1 |   |
+|  22 | Subensamble de P.C.B de visualización | 811474866 | 1 |   |
+|  23 | Componente de voz |  | 1 | Opcional  |
+|  24 | Subensamble WiFi |  | 1 | Opcional  |
+|  25 | Generador de iones positivos y negativos |  | 1 | Opcional  |
+|  26 | JVC |  | 1 | Opcional  |
+|  27 | Cubierta del motor | 811335813 | 1 |   |
+|  28 | Placa de presión del motor | 811335816 | 1 |   |
+|  29 | Motor del ventilador | 811394995 | 1 |   |
+|   |  | 811394996 |  |   |
+|  30 | Soporte del motor | 811335817 | 1 |   |
+|  31 | Placa de montaje |  | 1 | Opcional  |
+|  32 | Tablero derecho | 811335894 | 1 |   |
+|  33 | Placa de presión de tubería | 811335880 | 1 |   |
+|  34 | Placa de circuito de la caja de control eléctrico | 811336329 | 1 |   |
+|  35 | Caja de control eléctrico | 811336333 | 1 |   |
+|  36 | Placa de terminales | 860024870 | 1 |   |
+|  37 | Transformador |  | 1 | Opcional  |
+|  38 | Placa de presión de cables | 811336324 | 1 |   |
+|  39 | Subensamble de P.C.B | 950124575 | 1 |   |
+|  40 | Sensor de temperatura ambiente | 811047423 | 1 |   |
+|  41 | Sensor de temperatura de tubería | 810203417 | 1 |   |
+|  42 | Línea de alimentación | 810703404 | 1 |   |
+|  43 | Subensamble de control eléctrico | 950126225 | 1 |   |
+|  44 | Control remoto | 950110571 | 1 |   |
+|  45 | Soporte del control remoto |  | 1 | Opcional  |
+
+![img-1.jpeg](img-1.jpeg)
+
+================================================================================
+PAGE 2
+================================================================================
+
+![img-2.jpeg](img-2.jpeg)
+
+# Planos Explosionados
+
+Unidad Exterior
+
 36K
 
-### Encabezado / Logotipos
-- ADINA Air Conditioning (logotipo)
-- Vento SERIES (logotipo)
+|  No. | Descripción del Material | Código | Qty | Opcional  |
+| --- | --- | --- | --- | --- |
+|  1 | La cubierta de la red frontal | 811025406 | 1 |   |
+|  2 | El panel frontal | 811025444 | 1 |   |
+|  3 | Ventilador de flujo axial | 950043825 | 1 |   |
+|  4 | Motor del ventilador | 811376504 |  |   |
+|   |  | 811376505 | 1 |   |
+|   |  | 950078474 |  |   |
+|  5 | Soporte del motor | 811025439 | 1 |   |
+|  6 | Compresor | 811424762 | 1 |   |
+|  7 | Ensamble del condensador | 811261632 | 1 |   |
+|  8 | Placa de montaje en esquina | 811025441 | 1 |   |
+|  9 | Panel de cubierta | 811025445 | 1 |   |
+|  10 | Cubierta de red trasera (plástico) | 811088673 | 1 | Opcional  |
+|  11 | Cubierta de red lateral (metal) |  | 1 | Opcional  |
+|  12 | Cubierta de red trasera (metal) |  | 1 | Opcional  |
+|  13 | Subensamble de control eléctrico (inversor) | 950047631 | 1 |   |
+|  14 | Ensamble de P.C.B del inversor | 950047718 | 1 |   |
+|  15 | Placa de terminales | 810811295 | 1 |   |
+|  16 | Placa superior de instalación eléctrica | 810530815 | 1 | INVERTER  |
+|  17 | Placa inferior de instalación eléctrica | 810536134 | 1 | Opcional  |
+|  18 | Base de terminales (inversor) | 811025429 | 1 |   |
+|  19 | Sensor de temperatura exterior (amarillo) | 810650742 | 1 |   |
+|  20 | Sensor de temperatura de tubería (rojo) | 810650743 | 1 |   |
+|  21 | Sensor de temperatura de escape (negro) | 810650744 | 1 |   |
+|  22 | Subensamble de control eléctrico (frecuencia constante) |  | 1 |   |
+|  23 | Capacitor de membrana (compresor) |  | 1 |   |
+|  24 | Capacitor de membrana (motor del ventilador) |  | 1 | ON OFF  |
+|  25 | Clip de capacitor |  | 1 | Opcional  |
+|  26 | Placa de terminales |  | 1 |   |
+|  27 | Placa superior de instalación eléctrica |  | 1 |   |
+|  28 | Placa inferior de instalación eléctrica |  | 1 |   |
+|  29 | Base de terminales (frecuencia constante) |  | 1 |   |
+|  30 | Reactor |  | 1 | Opcional  |
+|  31 | Panel insonorizante | 811026119 | 1 |   |
+|  32 | Soporte del sensor | 950073170 | 1 | Opcional  |
+|  33 | Subensamble de cubierta eléctrica | 810766211 | 1 |   |
+|  34 | Panel lateral derecho | 811025412 | 1 |   |
+|  35 | Cubierta de la válvula | 810828090 | 1 | Opcional  |
+|  36 | Componentes capilares | 811420845 | 1 |   |
+|  37 | Válvula de corte (pequeña) | 811099647 | 1 |   |
+|  38 | Placa de montaje de la válvula | 811025407 | 1 |   |
+|  39 | Ensamble del piso | 811134756 | 1 |   |
+|  40 | Ensamble de la válvula de cuatro vías |  | 1 | Opcional  |
+|  41 | Válvula de corte (grande) | 810804541 |  |   |
+|   |  | 810841189 | 1 |   |
+|   |  | 810845897 |  |   |
+|  42 | Ensamble de tubería de succión | 950042434 | 1 |   |
+|  43 | Tubería de escape de gas | 950052343 | 1 |   |
+|  44 | Válvula de cuatro vías |  | 1 | Opcional  |
 
-### Tabla: Lista de piezas (parte izquierda del plano)
-Encabezados de la tabla: No., Descripción de los Materiales, Código, Qty, Opcional
-
-- **No.:** 1, **Descripción de los Materiales:** Subensamble del panel frontal, **Código:** 950142323, **Qty:** 1, **Opcional:**
-- **No.:** 2, **Descripción de los Materiales:** Panel frontal, **Código:** 950142817, **Qty:** 1, **Opcional:**
-- **No.:** 2-1, **Descripción de los Materiales:** Tira decorativa (izquierda), **Código:** (no legible / vacío), **Qty:** 1, **Opcional:**
-- **No.:** 2-2, **Descripción de los Materiales:** Tira decorativa (derecha), **Código:** (no legible / vacío), **Qty:** 1, **Opcional:**
-- **No.:** 2-3, **Descripción de los Materiales:** Ventana de visualización, **Código:** /, **Qty:** 1, **Opcional:**
-- **No.:** 3, **Descripción de los Materiales:** Filtro de aire, **Código:** 811375820, **Qty:** 2, **Opcional:**
-- **No.:** 3-1, **Descripción de los Materiales:** Filtro frontal, **Código:** /, **Qty:** (no legible), **Opcional:** Opcional
-- **No.:** 4, **Descripción de los Materiales:** Marco mediano, **Código:** 811375635, **Qty:** 1, **Opcional:**
-- **No.:** 5, **Descripción de los Materiales:** Cubierta de tornillo, **Código:** 811333632, **Qty:** 3, **Opcional:**
-- **No.:** 6, **Descripción de los Materiales:** Subensamble del evaporador, **Código:** 811450934, **Qty:** 1, **Opcional:**
-- **No.:** 7, **Descripción de los Materiales:** PTC, **Código:** (no legible / vacío), **Qty:** 1, **Opcional:** Opcional
-- **No.:** 8, **Descripción de los Materiales:** Ventilador de flujo cruzado, **Código:** 811405423, **Qty:** 1, **Opcional:**
-- **No.:** 9, **Descripción de los Materiales:** Subensamble del marco inferior, **Código:** 811470017, **Qty:** 1, **Opcional:**
-- **No.:** 10, **Descripción de los Materiales:** Enredo de cables, **Código:** /, **Qty:** 1, **Opcional:** (marcado como Opcional en la columna)
-- **No.:** 11, **Descripción de los Materiales:** Rodamiento, **Código:** 810556469, **Qty:** 1, **Opcional:**
-- **No.:** 12, **Descripción de los Materiales:** Motor paso a paso, **Código:** 811305019, **Qty:** 1, **Opcional:**
-- **No.:** 13, **Descripción de los Materiales:** Tablero izquierdo, **Código:** 811335798, **Qty:** 1, **Opcional:**
-- **No.:** 14, **Descripción de los Materiales:** Subensamble de la pala, **Código:** 811405801, **Qty:** 1, **Opcional:**
-- **No.:** 15, **Descripción de los Materiales:** Buje del eje, **Código:** 811335807, **Qty:** 2, **Opcional:**
-- **No.:** 16, **Descripción de los Materiales:** Motor paso a paso (derecho), **Código:** 810856427, **Qty:** 1, **Opcional:**
-- **No.:** 17, **Descripción de los Materiales:** Motor paso a paso (izquierdo), **Código:** 811448208, **Qty:** 1, **Opcional:**
-- **No.:** 18, **Descripción de los Materiales:** Subensamble de tubería de drenaje, **Código:** 810829755, **Qty:** 1, **Opcional:**
-- **No.:** 19, **Descripción de los Materiales:** Marco de montaje en pared, **Código:** 811375808, **Qty:** 1, **Opcional:**
-- **No.:** 20, **Descripción de los Materiales:** Subensamble de caja de visualización, **Código:** 811474865, **Qty:** 1, **Opcional:**
-- **No.:** 21, **Descripción de los Materiales:** Caja de visualización, **Código:** 811336331, **Qty:** 1, **Opcional:**
-- **No.:** 22, **Descripción de los Materiales:** Subensamble de P.C.B de visualización, **Código:** 811474866, **Qty:** 1, **Opcional:**
-- **No.:** 23, **Descripción de los Materiales:** Componente de voz, **Código:** /, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 24, **Descripción de los Materiales:** Subensamble WiFi, **Código:** /, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 25, **Descripción de los Materiales:** Generador de iones positivos y negativos, **Código:** /, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 26, **Descripción de los Materiales:** UVC, **Código:** /, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 27, **Descripción de los Materiales:** Cubierta del motor, **Código:** 811335813, **Qty:** 1, **Opcional:**
-- **No.:** 28, **Descripción de los Materiales:** Placa de presión del motor, **Código:** 811335816, **Qty:** 1, **Opcional:**
-- **No.:** 29, **Descripción de los Materiales:** Motor del ventilador, **Código:** 811304995, **Qty:** 1, **Opcional:**
-- **No.:** 30, **Descripción de los Materiales:** Soporte del motor, **Código:** 811335817, **Qty:** 1, **Opcional:**
-- **No.:** 31, **Descripción de los Materiales:** Placa de montaje, **Código:** 811335891, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 32, **Descripción de los Materiales:** Tablero derecho, **Código:** 811335894, **Qty:** 1, **Opcional:**
-- **No.:** 33, **Descripción de los Materiales:** Placa de presión de tubería, **Código:** 811335880, **Qty:** 1, **Opcional:**
-- **No.:** 34, **Descripción de los Materiales:** Placa de circuito de la caja de control eléctrico, **Código:** 811336329, **Qty:** 1, **Opcional:**
-- **No.:** 35, **Descripción de los Materiales:** Caja de control eléctrico, **Código:** 811336333, **Qty:** 1, **Opcional:**
-- **No.:** 36, **Descripción de los Materiales:** Placa de terminales, **Código:** 800024870, **Qty:** 1, **Opcional:**
-- **No.:** 37, **Descripción de los Materiales:** Transformador, **Código:** (no legible / vacío), **Qty:** 1, **Opcional:** Opcional
-- **No.:** 38, **Descripción de los Materiales:** Placa de presión de cables, **Código:** 811336324, **Qty:** 1, **Opcional:**
-- **No.:** 39, **Descripción de los Materiales:** Subensamble de P.C.B., **Código:** 950124575, **Qty:** 1, **Opcional:**
-- **No.:** 40, **Descripción de los Materiales:** Sensor de temperatura ambiente, **Código:** 811024423, **Qty:** 1, **Opcional:**
-- **No.:** 41, **Descripción de los Materiales:** Sensor de temperatura de tubería, **Código:** 810203417, **Qty:** 1, **Opcional:**
-- **No.:** 42, **Descripción de los Materiales:** Línea de alimentación, **Código:** 810703404, **Qty:** 1, **Opcional:**
-- **No.:** 43, **Descripción de los Materiales:** Subensamble de control eléctrico, **Código:** 950126225, **Qty:** 1, **Opcional:**
-- **No.:** 44, **Descripción de los Materiales:** Control remoto, **Código:** 950110571, **Qty:** 1, **Opcional:**
-- **No.:** 45, **Descripción de los Materiales:** Soporte del control remoto, **Código:** (no legible / vacío), **Qty:** 1, **Opcional:** Opcional
-
-### Sección visual / Diagrama (parte derecha del plano)
-- Contiene un diagrama explosionado de la unidad interior con números de referencia coincidentes con la lista de piezas (1 a 45).
-- Se representan visualmente: panel frontal, filtros, ventilador, motor, palas, caja de control, placas PCB, sensores, caja de visualización, soporte de montaje en pared, y otros subensambles numerados.
-- Flechas y recuadros punteados indican subensambles 2-1, 2-2, 2-3, 3-1, etc. (correspondencia visual con la tabla de piezas).
-
-### Notas, leyendas y otros textos visibles
-- En la parte inferior derecha aparece el número de página: 1
-- Encabezados/Marcas: "ADINA Air Conditioning" (arriba izquierda), "Vento SERIES" (arriba derecha)
-- No se observan notas al pie de página adicionales legibles aparte de la lista de piezas y el diagrama.
-
-### Observaciones sobre legibilidad
-- Algunos códigos aparecen como "/" o no son legibles en la imagen; se han preservado como se muestran ("/" o "(no legible / vacío)").
-- La transcripción respeta la numeración y la nomenclatura visible en la página, manteniendo la relación entre números de referencia y descripciones de piezas.
-
-(Archivo: VENTO-C-3618_ES, Página: 1)
-
-## VENTO-C-3618_ES - Página 2
-
-### Encabezado del documento
-- ADINA Air Conditioning
-- Vento SERIES
-- Planos Explosionados
-- Unidad Exterior
-- 36K
-
-### Tabla: Lista de Material (tabla principal)
-- **No.:** 1, **Descripción del Material:** La cubierta de la red frontal, **Código:** 811025406, **Qty:** 1, **Opcional:**
-- **No.:** 2, **Descripción del Material:** El panel frontal, **Código:** 811025444, **Qty:** 1, **Opcional:**
-- **No.:** 3, **Descripción del Material:** Ventilador de flujo axial, **Código:** 950048325, **Qty:** 1, **Opcional:**
-- **No.:** 4, **Descripción del Material:** Motor del ventilador, **Código:** 811376504, 811376505, 950078474, **Qty:** 1, **Opcional:**
-- **No.:** 5, **Descripción del Material:** Soporte del motor, **Código:** 811025439, **Qty:** 1, **Opcional:**
-- **No.:** 6, **Descripción del Material:** Compresor, **Código:** 811242762, **Qty:** 1, **Opcional:**
-- **No.:** 7, **Descripción del Material:** Ensamble del condensador, **Código:** 811216632, **Qty:** 1, **Opcional:**
-- **No.:** 8, **Descripción del Material:** Placa de montaje en esquina, **Código:** 811025441, **Qty:** 1, **Opcional:**
-- **No.:** 9, **Descripción del Material:** Panel de cubierta, **Código:** 811025445, **Qty:** 1, **Opcional:**
-- **No.:** 10, **Descripción del Material:** Cubierta de red trasera (plástico), **Código:** 811086873, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 11, **Descripción del Material:** Cubierta de red lateral (metal), **Código:** , **Qty:** 1, **Opcional:** Opcional
-- **No.:** 12, **Descripción del Material:** Cubierta de red trasera (metal), **Código:** , **Qty:** 1, **Opcional:** Opcional
-- **No.:** 13, **Descripción del Material:** Subensamble de control eléctrico (inversor), **Código:** 950047631, **Qty:** 1, **Opcional:**
-- **No.:** 14, **Descripción del Material:** Ensamble de P.C.B del inversor, **Código:** 950047718, **Qty:** 1, **Opcional:**
-- **No.:** 15, **Descripción del Material:** Placa de terminales, **Código:** 810811295, **Qty:** 1, **Opcional:**
-- **No.:** 16, **Descripción del Material:** Placa superior de instalación eléctrica, **Código:** 810530815, **Qty:** 1, **Opcional:**
-- **No.:** 17, **Descripción del Material:** Placa inferior de instalación eléctrica, **Código:** 810536134, **Qty:** 1, **Opcional:**
-- **No.:** 18, **Descripción del Material:** Base de terminales (inversor), **Código:** 811025429, **Qty:** 1, **Opcional:**
-- **No.:** 19, **Descripción del Material:** Sensor de temperatura exterior (amarillo), **Código:** 810650742, **Qty:** 1, **Opcional:**
-- **No.:** 20, **Descripción del Material:** Sensor de temperatura de tubería (rojo), **Código:** 810650743, **Qty:** 1, **Opcional:**
-- **No.:** 21, **Descripción del Material:** Sensor de temperatura de escape (negro), **Código:** 810650744, **Qty:** 1, **Opcional:**
-- **No.:** 22, **Descripción del Material:** Subensamble de control eléctrico (frecuencia constante), **Código:** , **Qty:** 1, **Opcional:**
-- **No.:** 23, **Descripción del Material:** Capacitor de membrana (compresor), **Código:** 811026119, **Qty:** 1, **Opcional:**
-- **No.:** 24, **Descripción del Material:** Capacitor de membrana (motor del ventilador), **Código:** , **Qty:** 1, **Opcional:**
-- **No.:** 25, **Descripción del Material:** Clip de capacitor, **Código:** , **Qty:** 1, **Opcional:**
-- **No.:** 26, **Descripción del Material:** Placa de terminales, **Código:** , **Qty:** 1, **Opcional:**
-- **No.:** 27, **Descripción del Material:** Placa superior de instalación eléctrica, **Código:** , **Qty:** 1, **Opcional:**
-- **No.:** 28, **Descripción del Material:** Placa inferior de instalación eléctrica, **Código:** , **Qty:** 1, **Opcional:**
-- **No.:** 29, **Descripción del Material:** Base de terminales (frecuencia constante), **Código:** , **Qty:** 1, **Opcional:**
-- **No.:** 30, **Descripción del Material:** Reactor, **Código:** , **Qty:** 1, **Opcional:**
-- **No.:** 31, **Descripción del Material:** Panel ionizador, **Código:** 811026119, **Qty:** 1, **Opcional:**
-- **No.:** 32, **Descripción del Material:** Soporte del sensor, **Código:** 950073170, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 33, **Descripción del Material:** Subensamble de cubierta eléctrica, **Código:** 810762211, **Qty:** 1, **Opcional:**
-- **No.:** 34, **Descripción del Material:** Panel lateral derecho, **Código:** 811025412, **Qty:** 1, **Opcional:**
-- **No.:** 35, **Descripción del Material:** Cubierta de la válvula, **Código:** 810828090, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 36, **Descripción del Material:** Componentes capilares, **Código:** 811420845, **Qty:** 1, **Opcional:**
-- **No.:** 37, **Descripción del Material:** Válvula de corte (pequeña), **Código:** 811099647, **Qty:** 1, **Opcional:**
-- **No.:** 38, **Descripción del Material:** Placa de montaje de la válvula, **Código:** 811025407, **Qty:** 1, **Opcional:**
-- **No.:** 39, **Descripción del Material:** Ensamble del piso, **Código:** 811134756, **Qty:** 1, **Opcional:**
-- **No.:** 40, **Descripción del Material:** Ensamble de la válvula de cuatro vías, **Código:** 810804541, **Qty:** 1, **Opcional:** Opcional
-- **No.:** 41, **Descripción del Material:** Válvula de corte (grande), **Código:** 810841189, 810845897, **Qty:** 1, **Opcional:**
-- **No.:** 42, **Descripción del Material:** Ensamble de tubería de succión, **Código:** 950042434, **Qty:** 1, **Opcional:**
-- **No.:** 43, **Descripción del Material:** Tubería de escape de gas, **Código:** 950052343, **Qty:** 1, **Opcional:**
-- **No.:** 44, **Descripción del Material:** Válvula de cuatro vías, **Código:** , **Qty:** 1, **Opcional:** Opcional
-
-### Ilustración explosionada y leyendas visibles
-- Diagrama explosionado con referencias numeradas 1 a 44 (figuras con líneas de llamada a las piezas listadas).
-- Texto en el diagrama cercano a las piezas:
-  - "INVERTER Opcional" (ubicado junto a las piezas relacionadas con inversor)
-  - "ON OFF Opcional" (ubicado junto a piezas relacionadas con encendido/apagado)
-
-### Encabezados/Pies de página y elementos menores
-- Número de página visible: 2
-
-### Notas y leyendas
-- Algunas filas de la tabla muestran la palabra "Opcional" en la columna correspondiente (ej.: items 10, 11, 12, 32, 35, 40, 44).
-- En la tabla hay celdas con múltiples códigos listados (por ejemplo item 4 y item 41).
-- Algunas celdas de "Código" no contienen texto legible en la imagen y han sido dejadas vacías en esta transcripción para no inventar números.
-
-Archivo: VENTO-C-3618_ES, Página: 2
+![img-3.jpeg](img-3.jpeg)

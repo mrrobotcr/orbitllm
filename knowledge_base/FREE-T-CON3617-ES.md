@@ -1,71 +1,50 @@
-## FREE-T-CON3617-ES - Página 1
+# FREE-T-CON3617-ES.pdf
 
-### [Encabezado / Logotipos]
-- ADINA
-- Air Conditioning
-- Gold
-- SERIES
 
-### [Elemento gráfico principal]
-- Freedom
-- SERIES
+================================================================================
+PAGE 1
+================================================================================
 
-### [Título principal]
-- Plano Explosionado
+# ![img-0.jpeg](img-0.jpeg) 
 
-### [Subtítulo]
-- Condesandora
+## Plano Explosionado
 
-### [Especificación]
-- 36K BTU
-- MY2023
+Condesandora
 
-### Notas y leyendas:
-- Línea horizontal decorativa en la parte superior de la página
-- No se observan números de página impresos en la imagen (se ha indicado "Página 1" en el nombre de archivo)
+## 36K BTU
 
-## FREE-T-CON3617-ES - Página 2
+MY2023
 
-### Título principal
-FREE-T-CON3617
+================================================================================
+PAGE 2
+================================================================================
 
-### Encabezados visibles (logotipos / marcas)
-- ADINA Air Conditioner
-- Gold series
+![img-1.jpeg](img-1.jpeg)
 
-### Ilustración (diagrama de piezas)
-- Diagrama con piezas numeradas: 1, 2, 3, 4, 5, 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
-- (Figura central con representación gráfica de las piezas numeradas)
-
-### Tabla: Lista de piezas (transcripción exacta)
-- **NO.:** 1, **Nuevo código:** 45801-000032, **Nombre de la pieza:** Cuadro de soporte, **cantidad:** 1, **Observación:**
-- **NO.:** 2, **Nuevo código:** 45007-000044, **Nombre de la pieza:** La cubierta superior, **cantidad:** 1, **Observación:**
-- **NO.:** 3, **Nuevo código:** 45005-000272, **Nombre de la pieza:** Conjunto de soporte del motor, **cantidad:** 1, **Observación:**
-- **NO.:** 4, **Nuevo código:** 25001-000428, **Nombre de la pieza:** Motor CC sin escobillas, **cantidad:** 1, **Observación:**
-- **NO.:** 5, **Nuevo código:** 35001-000710, **Nombre de la pieza:** Piezas de la caja de control eléctrica, **cantidad:** 1, **Observación:**
-- **NO.:** 5.1, **Nuevo código:** 42001-000036, **Nombre de la pieza:** Clips de alambre, **cantidad:** 1, **Observación:**
-- **NO.:** 5.2, **Nuevo código:** 35005-000075, **Nombre de la pieza:** Bloques de terminales, **cantidad:** 1, **Observación:**
-- **NO.:** 5.3, **Nuevo código:** 35001-000731, **Nombre de la pieza:** Componentes de control electrónico, **cantidad:** 1, **Observación:**
-- **NO.:** 5.4, **Nuevo código:** 35005-000166, **Nombre de la pieza:** Bloques de terminales, **cantidad:** 1, **Observación:**
-- **NO.:** 5.5, **Nuevo código:** 42001-000039, **Nombre de la pieza:** Clips de alambre, **cantidad:** 1, **Observación:**
-- **NO.:** 5.6, **Nuevo código:** 43301-000042, **Nombre de la pieza:** Conjunto de placa de montaje eléctrico, **cantidad:** 1, **Observación:** (panel superior)
-- **NO.:** 5.7, **Nuevo código:** 25004-000256, **Nombre de la pieza:** Sensor de temperatura, **cantidad:** 1, **Observación:**
-- **NO.:** 6, **Nuevo código:** 95015-001935, **Nombre de la pieza:** Conjunto de válvula de expansión, **cantidad:** 1, **Observación:** electrónica
-- **NO.:** 7, **Nuevo código:** 25009-000121, **Nombre de la pieza:** Bobina de válvula de expansión electrónica, **cantidad:** 1, **Observación:**
-- **NO.:** 8, **Nuevo código:** 95015-001970, **Nombre de la pieza:** Conjunto de tubo de retorno, **cantidad:** 1, **Observación:**
-- **NO.:** 9, **Nuevo código:** 95015-001934, **Nombre de la pieza:** Conjunto de tubo de escape, **cantidad:** 1, **Observación:**
-- **NO.:** 10, **Nuevo código:** 95017-000031, **Nombre de la pieza:** Compresores Meizhi, **cantidad:** 1, **Observación:**
-- **NO.:** 11, **Nuevo código:** 45801-000023, **Nombre de la pieza:** columna de soporte, **cantidad:** 3, **Observación:**
-- **NO.:** 12, **Nuevo código:** 43301-000041, **Nombre de la pieza:** Panel lateral inferior, **cantidad:** 1, **Observación:**
-- **NO.:** 13, **Nuevo código:** 41202-000347, **Nombre de la pieza:** Componentes del chasis, **cantidad:** 1, **Observación:**
-- **NO.:** 14, **Nuevo código:** 43301-000039, **Nombre de la pieza:** Placa de fijación derecha, **cantidad:** 1, **Observación:**
-- **NO.:** 15, **Nuevo código:** 95003-004344, **Nombre de la pieza:** Componentes del condensador, **cantidad:** 1, **Observación:**
-- **NO.:** 16, **Nuevo código:** 45008-000276, **Nombre de la pieza:** Deflector, **cantidad:** 1, **Observación:**
-- **NO.:** 17, **Nuevo código:** 43301-000040, **Nombre de la pieza:** Cubierta controlada electrónicamente, **cantidad:** 1, **Observación:**
-- **NO.:** 18, **Nuevo código:** 45009-000057, **Nombre de la pieza:** palas axiales, **cantidad:** 1, **Observación:**
-
-### Notas y leyendas
-- Texto y números de página visibles: Página 2 (indicado en la instrucción de salida)
-- Línea divisoria y marco alrededor de la tabla visibles en la imagen
-
-(Documento: FREE-T-CON3617-ES — Página 2)
+|  NO. | Nuevo código | Nombre de la pieza | Cantidad | Observación  |
+| --- | --- | --- | --- | --- |
+|  1 | 45801-000032 | Cuadro de soporte | 1 |   |
+|  2 | 45007-000044 | La cubierta superior | 1 |   |
+|  3 | 45005-000272 | Conjunto de soporte del motor | 1 |   |
+|  4 | 25001-000428 | Motor CC sin escobillas | 1 |   |
+|  5 | 35001-000710 | Piezas de la caja de control eléctrica | 1 |   |
+|  5.1 | 42001-000036 | Cijas de alambre | 1 |   |
+|  5.2 | 35005-000075 | Bloques de terminales | 1 |   |
+|  5.3 | 35001-000731 | Componentes de control electrónico | 1 |   |
+|  5.4 | 35005-000166 | Bloques de terminales | 1 |   |
+|  5.5 | 42001-000039 | Cijas de alambre | 1 |   |
+|  5.6 | 43301-000042 | Conjunto de placa de montaje eléctrico (panel superior) | 1 |   |
+|  5.7 | 25004-000256 | Sensor de temperatura | 1 |   |
+|  6 | 95015-001935 | Conjunto de válvula de expansión electrónica | 1 |   |
+|  7 | 25009-000121 | Bobina de válvula de expansión electrónica | 1 |   |
+|  8 | 95015-001970 | Conjunto de tubo de retorno | 1 |   |
+|  9 | 95015-001934 | Conjunto de tubo de escape | 1 |   |
+|  10 | 95017-000031 | Compresores Meizhi | 1 |   |
+|  11 | 45801-000023 | columna de soporte | 3 |   |
+|  12 | 43301-000041 | Panel lateral inferior | 1 |   |
+|  13 | 41202-000347 | Componentes del chasis | 1 |   |
+|  14 | 43301-000039 | Placa de fijación derecha | 1 |   |
+|  15 | 95003-004344 | Componentes del condensador | 1 |   |
+|  16 | 45008-000276 | Deflector | 1 |   |
+|  17 | 43301-000040 | Cubierta controlada electrónicamente | 1 |   |
+|  18 | 45009-000057 | palas asiales | 1 |   |
