@@ -1,110 +1,231 @@
 # ONI-C-12-RTCA-A.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
 # CERTIFICADO DE CONFORMIDAD CERTIFICATE OF CONFORMITY
 
-**Certificado No./Certificate No.:** 4924123.01COC **Número de Informe/Report No.:** 4908567.57 **Fecha de la última revisión/Last revision date:** 2024-08-09 **Fecha de emisión inicial/Initial issue date:** 2024-08-09 **Fecha de próxima vigilancia/Next surveillance date:** 2025-08-09
+DEKRA
 
-**Titular del certificado/Certificate Holder**
-- **Nombre/Name:** Adina Appliances SA
-- **Dirección/Address:** Complejo Industrial Panama Viejo Business Galera G17 Panama Viejo, Panama 07188 Panama
-- **Fabricante/Manufacturer**
-- **Nombre/Name:** Dirección/Address
+Certificado No /Certificate No .: 4924123.01COC
 
-**Planta de fabricación/Manufacturing Plant**
-- **Nombre/Name:** Dirección/Address
+Número de informe/Report No : 4908567.57
 
-Este certificado de conformidad se basa en los resultados de una muestra del producto mencionado a continuación y es para verificar que la muestra evaluada cumplió con los requisitos mencionados a continuación, pero esto no implica la evaluación de otros productos con el mismo diseño que los evaluados. Además, esto no permite el uso de ninguna marca de conformidad de DEKRA.
+Fecha de la última revisión/Last revision date:
 
-This certificate of conformity is based on the results of a sample of the below-mentioned product and is to verify that the evaluated sample had complied with the below-mentioned requirements, but this does not imply assessment of other products with same design to the evaluated item. In addition, this does not permit the use of any conformity marks of DEKRA.
+2024-08-09
 
-**Producto/Product:** Acondicionador de aire tipo inverter / Split type inverter air conditioner
-**Marca/Trademark:** Adina
-**Identificación del producto evaluado/Identification of the product evaluated**
-- **Tipo/Type:** Indoor, ONI-C-1218W-I
-- **Nodo:** Indoor, ONI-C-1218W-E
-- **No. de serie/Serial number:** Indoor, 330114204533718211130122
-- **Capacidad/Capacity:** 3516 W (12000 BTU/h)
-- **E ahorro de energía/Energy Saving:** 12.5%
+Fecha de emisión Inicial/Initial issue date :
 
-**Procedimiento de pruebas/Test procedure:** (COMIECO) RTCA 23.01.78:20
+2024-08-09
 
-**Norma aplicada/Applied Standard:** NOM-026-ENER-2015
+Fecha de caducidad/Expiry date: 2027-08-09
 
-**Observación/Remarks:** Este certificado está sujeto al esquema 5 de ISO/IEC 17067:2013. / This certificate is subjected to scheme 5 of ISO/IEC 17067:2013.
+Fecha de próxima vigilancia /Next surveillance date:
+2025-08-09
+
+Titular del certificado/ Certificate Holder
+
+Nombre/Name:
+
+Adina Appliances SA
+
+Dirección/Address: Complejo Industrial Panama Viejo Busines Galera G17 Panama Viejo, Panama 07188 Panama
+
+Fabricante/Manufacturer
+
+Nombre/Name:
+
+Dirección/Address:
+
+Planta de fabricación/ Manufacturing Plant
+Nombre/Name:
+
+Dirección/Address:
+
+Este certificado de conformidad se basa en los resultados de una muestra del producto mencionado a continuación yes para
+verificar que la muestra evaluada cumplió con los requisitos mencionados a continuación, pero esto no implica la evaluación
+de otros productos con el mismo diseño que los evaluados. Además, esto no permite el uso de ninguna marca de
+conformidad de DEKRA
+
+This certificate of conformity is based on the results of a sample of the below-menboned product and is to verify that the
+evaluated sample had complied with the below ment oned requirements, but this does not imply assessment of other products
+with same design to the evaluated item. In addition, this does not permit the use of any conformity marks of DEKRA
+
+Producto/Product:
+Acondicionador de aire t po Inverter /Split type Inverter air conditioner
+
+Marca /Trademark:
+
+Adina
+
+Identificación del producto evaluado! Identification of the product evaluated
+
+Tipol Type:
+
+Indoor, ONI-C-1218W4:Outdoor; ONI-C-1218W-E
+
+No. de serie /Serial number
+
+Indoor: G30114204533716211130122; Outdoor. G36114203733717211130122
+
+Capacidad/Capacity
+
+3516 W (12000 BTU/h)
+
+El ahorro de energia!
+
+12.6%
+
+Energy Saving:
+
+Procedimiento de pruebas/ (COMIECO) RTCA 23.01.78:20
+Test procedure:
+
+Norma aplicada /
+Applied Standard:
+
+NOM-026-ENER-2015
+
+Observación / Remarks:
+
+Este certificado está sujeto al esquema 5 de ISONIEC 17067: 2013. / This certificate is subjected to scheme 5 of ISO/ IEC
+17067 2013
 
 DEKRA Certification B.V.
-
-B.T.M Holtus
-Managing Director
-© Integral publication of this certificate and adjoining reports is allowed
 
 Nelson Coelho
 Certification Manager
 
-DEKRA Certification B.V. Rodovia Dom Pedro I, S/N km 87 - Unidade 20 - Edifício da Vinci - Ponte Alta - Atibala / SP
+B.T.M Holtus
+Managing Director
+& Integral publication of this certificate and adjoining reports is allowed
 
-CEP 12944-000 - Brasil - Tel.: +55 11 4418-7268 Webpage: https://dekra.com.br/p/home/
+DEKRA Certification B.V. Rodovia Dom Pedro 1, S/N km 87 - Unidade 20 - Edificio da Vinci - Ponte Alla - Alibeia / SP
+
+<!-- PageFooter="CEP 12944-000 - Brasil - Tel: +55 11 4418-7269 Webpage: https: //dekra.com.brip?homal" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# ANEXO AL CERTIFICADO DE CONFORMIDAD
+<!-- PageHeader="ANEXO AL CERTIFICADO DE CONFORMIDAD ANNEX TO CERTIFICATE OF CONFORMITY" -->
 
-## ANNEX TO CERTIFICATE OF CONFORMITY
+Historial De Certificación/Certification History:
 
-### Historial De Certificación/Certificación History:
+<table>
+<tr>
+<th>Fecha/Date</th>
+<th>Contenido/Content</th>
+<th>Certificado No./Certificate No.</th>
+</tr>
+<tr>
+<td>2024-08-09</td>
+<td>Initial issuance</td>
+<td>4924123.01COC</td>
+</tr>
+</table>
 
-|  Fecha/Date | Contenido/Content | Certificado No./Certificate No.  |
-| --- | --- | --- |
-|  2024-08-09 | Initial issuance | 4924123.01COC  |
+DEKRA
 
-### AHORRO DE ENERGÍA / ENERGY SAVING:
+AHORRO DE ENERGÍA / ENERGY SAVING:
 
-|  REEE de este equipo /Current REEE data for the equipment (Wt/We) (BTU/Wh) | REEE de este equipo Etiquetado en la etiqueta /Current REEE data for the equipment indicated on the label (Wt/We) (BTU/Wh) | REEE establecido en la Norma /REEE given by the standard /Regulation (Wt/We) (BTU/Wh)  |
-| --- | --- | --- |
-|  5.33/18 | 5.27/18 | 4.68/16  |
+REEE de este equipo /Current
+REEE data for the equipment
+(Wt/We) (BTU/Wh)
 
-|  Potencia eléctrica / Power rating (W) | Ahorro de energía indicado en la etiqueta de consumo de energía /Indicated energy saving in the energy consumption's label [%] | Ahorro de energía / Energy saving [%]  |
-| --- | --- | --- |
-|  1250 | 12.6 | 13.9  |
+REEE de este equipo Etiquetado en
+la etiqueta /Current REEE data for
+the equipment indicated on the
+label (Wt/We) (BTU/Wh)
 
-### FOTO DE ETIQUETA / PHOTO OF LABEL:
+REEE establecido en la Norma
+/REEE given by the standard
+/Regulation (Wt/We) (BTU/Wh)
 
-#### EFICIENCIA ENERGÉTICA
+5.33/18
 
-**Relación de Eficiencia Energética Estacional (REEE)**
+5.27/18
 
-**Eficiencia energética estacional en el REEE 2021-2026**
+4.68/16
 
-#### ACONDICIONADORES DE AIRE TIPO DIMINIO INVERTER
+Potencia eléctrica /
+Power rating (W)
 
-|  Número | Atención | Tipo | Obligación  |
-| --- | --- | --- | --- |
-|  1 | Acompañamiento de energía |  |   |
-|  2 | Acompañamiento de energía |  |   |
-|  3 | Acompañamiento de energía |  |   |
-|  4 | Acompañamiento de energía de este equipo con otros del mismo tipo |  |   |
-|  5 | Acompañamiento de energía de este equipo con otros del mismo tipo |  |   |
-|  6 | Acompañamiento de energía de este equipo con otros del mismo tipo |  |   |
+Ahorro de energía indicado en la
+etiqueta de consumo de energía /
+Indicated energy saving in the
+energy consumption's label [%]
 
-#### Relación de Eficiencia Energética Estacional (REEE)
+Ahorro de energía /
+Energy saving [%]
 
-|  REEE establecido en este REEE: |  | 4.68  |
-| --- | --- | --- |
-|   |  | (Wt/We)  |
-|  REEE de este equipo: |  | 5.27  |
-|   |  | (BTU/Wh)  |
-|  Ahorro de Energía de este Equipo: |  |   |
-|  12.6% |  |   |
+1250
 
-#### IMPORTANTE
+12.6
 
-El ahorro de energía será imponible en los casos y fallidos del usuario, así como de la instalación del equipo.
+13.9
 
-La etiqueta de cada refuerzo del producto hasta que haya sido adquirido por el consumidor final.
+FOTO DE ETIQUETA / PHOTO OF LABEL:
+
+<table>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td colspan="3">Relación de Eficiencia Energetien Estacional (REEE)</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>5.27</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+EFICIENCIA ENERGÉTICA
+Relación De Etoloosla Ese vietos Estarkral (REEE)
+
+ACONDICIONADORES DE AIRE TIFO OMDIDO INVERTER
+
+Canipani al cerauno és thorga de agli equipo cen atrox dol nime bpo
+
+Ahorro de Energia do este Equipo
+
+12,6%
+
+## IMPORTANTE
+<!-- PageNumber="Page 2 of 2" -->
+

@@ -17,3 +17,8 @@ env/
 
 # Project specific
 # knowledge_base/
+shards_cache.json
+
+# Docker / Let's Encrypt
+acme.json
+letsencrypt/

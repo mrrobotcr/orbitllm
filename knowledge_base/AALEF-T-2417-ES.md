@@ -1,94 +1,447 @@
 # AALEF-T-2417-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+ALEF
+SERIES
+24K
 
-![img-1.jpeg](img-1.jpeg)
+# Plano Explosionado Unidad Interior
 
-# Plano Explosionado
+<table>
+<tr>
+<th>No.</th>
+<th>Part No.</th>
+<th>Detalle</th>
+<th>Cantidad</th>
+<th>Comentario</th>
+</tr>
+<tr>
+<td>1</td>
+<td>41108-002088</td>
+<td>Panel frontal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>01102-000045</td>
+<td>PCD de Pantalla</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>42003 000001</td>
+<td>Caja de PCB de Pantalla</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>42000-000001</td>
+<td>Filtro de aire</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>41 108-000006</td>
+<td>Tapa de Tomillo</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>41105 000146</td>
+<td>Tapa de Caja Eléciron</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>41106-002361</td>
+<td>Marco Frontal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>B</td>
+<td>41103-000484</td>
+<td>Aleta</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>41101-000042</td>
+<td>Ensamble de Aletas Verticales</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>22001-000021</td>
+<td>Motor de Aletas</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>31 101-001013</td>
+<td>PCD Principal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>10104-100014</td>
+<td>Ensamble de Sensor Interior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>11204-100028</td>
+<td>Terminal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>NO</td>
+<td>Transformador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>41106-000386</td>
+<td>Caja Eléctrica</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>41102-000002</td>
+<td>Base</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>41101-000224</td>
+<td>Fijador de Tubos de Entrada Y Salida</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>22001-000240</td>
+<td>Motor de Unidad Interior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>42000 000046</td>
+<td>Tapa de Motor de Unidad Interior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>42009-000011</td>
+<td>Tubería de Drenaje</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>41 109-000019</td>
+<td>Plaza de Instalación</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>92011-002754</td>
+<td>Evaporador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>42004-000002</td>
+<td>Ventilador Radial</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>42007-000001</td>
+<td>Soporte de Rodamiento</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>41 101-000251</td>
+<td>Camisa de Rodamiento</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>22007-000107</td>
+<td>Cable de Corriente</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>22013 004649</td>
+<td>Control Remoto</td>
+<td>1</td>
+<td rowspan="4">No representado en place explosionado</td>
+</tr>
+<tr>
+<td>28</td>
+<td>A1101-002076</td>
+<td>Ca a de Embalaje Unidad Interior</td>
+<td>1</td>
+</tr>
+<tr>
+<td>29</td>
+<td>A2000-000080</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>30</td>
+<td>A2008-000059</td>
+<td>Espuma Empaque Derecha</td>
+<td>1</td>
+</tr>
+</table>
 
-## Unidad Interior
+<!-- PageFooter="AALEF-T-2417" -->
+<!-- PageBreak -->
 
-![img-2.jpeg](img-2.jpeg)
 
-|  No. | Part No. | Detalle | Cantidad | Comentario  |
-| --- | --- | --- | --- | --- |
-|  1 | 41106-002088 | Panel frontal | 1 |   |
-|  2 | 31102-000085 | PCB de Pantalla | 1 |   |
-|  3 | 42003-000001 | Caja de PCB de Pantalla | 1 |   |
-|  4 | 42008-000001 | Filtro de aire | 2 |   |
-|  5 | 41108-000066 | Tapa de Tornillo | 1 |   |
-|  6 | 41105-000146 | Tapa de Caja Eléctrica | 1 |   |
-|  7 | 41106-002351 | Marco Frontal | 1 |   |
-|  8 | 41103-000484 | Aleta | 1 |   |
-|  9 | 41101-000042 | Ensamble de Aletas Verticales | 2 |   |
-|  10 | 22001-000321 | Motor de Aletas | 1 |   |
-|  11 | 31101-001633 | PCB Principal | 1 |   |
-|  12 | 10104-100014 | Ensamble de Sensor Interior | 1 |   |
-|  13 | 11304-100028 | Terminal | 1 |   |
-|  14 | NO | Transformador | 1 |   |
-|  15 | 41105-000366 | Caja Eléctrica | 1 |   |
-|  16 | 41102-000032 | Base | 1 |   |
-|  17 | 41101-000224 | Fijador de Tubos de Entrada y Salida | 1 |   |
-|  18 | 22001-000240 | Motor de Unidad Interior | 1 |   |
-|  19 | 42003-000045 | Tapa de Motor de Unidad Interior | 1 |   |
-|  20 | 42009-000011 | Tubería de Drenaje | 1 |   |
-|  21 | 41109-000019 | Placa de Instalación | 1 |   |
-|  22 | 92011-002754 | Evaporador | 1 |   |
-|  23 | 42004-000002 | Ventilador Radial | 1 |   |
-|  24 | 42007-000001 | Soporte de Rodamiento | 1 |   |
-|  25 | 41101-000251 | Camisa de Rodamiento | 1 |   |
-|  26 | 22007-000107 | Cable de Corriente | 1 |   |
-|  27 | 22013-004549 | Control Remoto | 1 | No representado en plano explosionado  |
-|  28 | A1101-002076 | Caja de Embalaje Unidad Interior | 1 |   |
-|  29 | A2006-000050 | Espuma Empaque Izquierda | 1 |   |
-|  30 | A2006-000059 | Espuma Empaque Derecha | 1 |   |
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-![img-3.jpeg](img-3.jpeg)
 
-![img-4.jpeg](img-4.jpeg)
+ALEF
+SERIES
+24K
 
-# Plano Explosionado
+# Plano Explosionado Unidad Exterior
 
-# Unidad Exterior
+<table>
+<tr>
+<th>No.</th>
+<th>Part No.</th>
+<th>Detalle</th>
+<th>Cantidad</th>
+<th>Comentario</th>
+</tr>
+<tr>
+<td>1</td>
+<td>41202-000384</td>
+<td>Base</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>41208-000149</td>
+<td>Placa Divisors</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>82014-000689</td>
+<td>Ensamble de Compresor Y Accesorios</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>92006-001654</td>
+<td>Tubería de Aspiración</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>92006-000188</td>
+<td>Tuberia de Drena a</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>11201-002164</td>
+<td>Ensamble PCB exterior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>42001-000038</td>
+<td>Abrazadera de Cable</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>11304-100004</td>
+<td>Terminal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>41205-000084</td>
+<td>Placa Derecha</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>41204-000018</td>
+<td>Soporte de Válvula</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>92007-001066</td>
+<td>Valvula de 3 Vias</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>92008-000258</td>
+<td>Valvula de 2 Vlas</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>41201-000029</td>
+<td>Tapa de Caja Eléctnca</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>92007-017737</td>
+<td>Ensamble de Tuberia Capilar</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>42011-000169</td>
+<td>Rejilla</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>92011-008546</td>
+<td>Condensador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>41207-000033</td>
+<td>Cubierta Superior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>41205-000130</td>
+<td>Placa Izquierda</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>41200-000052</td>
+<td>Soporte de Motor Exterior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>22001-000493</td>
+<td>Motor de Unidad Exterior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>12004-000104</td>
+<td>Aspas del Ventilador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>41208-000055</td>
+<td>Placa Frontal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>42011-000081</td>
+<td>Protector de Ventilador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>10104-100058</td>
+<td>Sensor de temperatura Ambiente</td>
+<td>1</td>
+<td rowspan="5">No representado en plano explosionado</td>
+</tr>
+<tr>
+<td>26</td>
+<td>A2005 000540</td>
+<td>Caja Base</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>A1201-000396</td>
+<td>Empaque de cartón</td>
+<td>1</td>
+</tr>
+<tr>
+<td>27</td>
+<td>A1202-000028</td>
+<td>Espuma de Empaque Base</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28</td>
+<td>41213-000019</td>
+<td>Espuma de Empaque Cobertor</td>
+<td>1</td>
+</tr>
+</table>
 
-![img-5.jpeg](img-5.jpeg)
-
-|  No. | Part No. | Detalle | Cantidad | Comentario  |
-| --- | --- | --- | --- | --- |
-|  1 | 41202-000364 | Base | 1 |   |
-|  2 | 41208-000149 | Placa Divisoria | 1 |   |
-|  3 | 92014-000599 | Ensamble de Compresor Y Accesorios | 1 |   |
-|  4 | 92006-001654 | Tubería de Aspiración | 1 |   |
-|  5 | 92008-000489 | Tubería de Drenaje | 1 |   |
-|  6 | 31201-002164 | Ensamble PCB exterior | 1 |   |
-|  7 | 42001-000038 | Abrazadera de Cable | 1 |   |
-|  8 | 11304-100004 | Terminal | 1 |   |
-|  9 | 41205-000084 | Placa Derecha | 1 |   |
-|  10 | 41204-000018 | Soporte de Válvula | 1 |   |
-|  11 | 92007-001066 | Válvula de 3 Vías | 1 |   |
-|  12 | 92008-000258 | Válvula de 2 Vías | 1 |   |
-|  13 | 41201-000029 | Tapa de Caja Eléctrica | 1 |   |
-|  14 | 92007-017737 | Ensamble de Tubería Capilar | 1 |   |
-|  15 | 42011-000169 | Rejilla | 1 |   |
-|  16 | 92011-008546 | Condensador | 1 |   |
-|  17 | 41207-000033 | Cubierta Superior | 1 |   |
-|  18 | 41205-000130 | Placa Izquierda | 1 |   |
-|  19 | 41203-000052 | Soporte de Motor Exterior | 1 |   |
-|  20 | 22001-000493 | Motor de Unidad Exterior | 1 |   |
-|  21 | 42004-000104 | Aspas del Ventilador | 1 |   |
-|  22 | 41208-000055 | Placa Frontal | 1 |   |
-|  23 | 42011-000081 | Protector de Ventilador | 1 |   |
-|  24 | 10104-100056 | Sensor de temperatura Ambiente | 1 |   |
-|  25 | A2005-000540 | Caja Base | 1 | No representado en plano explosionado  |
-|  26 | A1201-000396 | Empaque de cartón | 1 |   |
-|  27 | A1202-000028 | Espuma de Empaque Base | 1 |   |
-|  28 | 41213-000019 | Espuma de Empaque Cobertor | 1 |   |

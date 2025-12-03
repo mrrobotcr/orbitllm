@@ -1,95 +1,585 @@
 # AFLEX-C-BROCHURE-TEC-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+# Eficiencia SEER 13
 
-![img-1.jpeg](img-1.jpeg)
+Tecnologia de punta, diseño y calidad
+son solo algunos puntos que ADINA y
+sus equipos de aire acondicionado
+tienen para ofrecerte. Te invitamos a
+conocer el Aire acondicionado ADINA
+FLEX SERIES - ON / OFF.
 
-# ¡Flexible y versátil, la mejor tecnología en tus manos!
+Serpentin de cobre
+y aleta de aluminio
 
-![img-2.jpeg](img-2.jpeg)
+¡Flexible y versátil, la mejor tecnología en tus manos!
+
+<!-- PageFooter="FLEX - C" -->
+<!-- PageFooter="V-29052025" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# Especificaciones técnicas 
 
-| Modelo del Sistema |  | AFLEX-C12-110 | AFLEX-C12 | AFLEX-C18 | AFLEX-C24 | AFLEX-C36 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Modelo Unidad Interior |  | AFLEX-C12-110-I | AFLEX-C12-I | AFLEX-C18-I | AFLEX-C24-I | AFLEX-C36-I |
-| Modelo Unidad Exterior |  | AFLEX-C12-110-E | AFLEX-C12-E | AFLEX-C18-E | AFLEX-C24-E | AFLEX-C36-E |
-| Tecnología |  | On/Off | On/Off | On/Off | On/Off | On/Off |
-| Modelo de Fábrica |  | 12 K | 12 K | 18 K | 24 K | 36 K |
-| Unidad Interior |  | 793B | 793B | 900B | 1025 | 1100 |
-| Unidad Exterior |  | W22B | W22B | W45 | W45 | W28 |
+# Especificaciones técnicas
+
+<table>
+<tr>
+<td>Modelo del Sistema</td>
+<td>AFLEX-C12-110</td>
+<td>AFLEX-C12</td>
+<td>AFLEX-C18</td>
+<td>AFLEX-C24</td>
+<td>AFLEX-C36</td>
+</tr>
+<tr>
+<td>Modelo Unidad Interior</td>
+<td>AFLEX-C12-110-I</td>
+<td>AFLEX-C12-I</td>
+<td>AFLEX-C18-1</td>
+<td>AFLEX-C24-I</td>
+<td>AFLEX-C36-I</td>
+</tr>
+<tr>
+<td>Modelo Unidad Exterior</td>
+<td>AFLEX-C12-110-E</td>
+<td>AFLEX-C12-E</td>
+<td>AFLEX-C18-E</td>
+<td>AFLEX-C24-E</td>
+<td>AFLEX-C36-E</td>
+</tr>
+<tr>
+<td>Tecnología</td>
+<td>On/Off</td>
+<td>On/Off</td>
+<td>On/Off</td>
+<td>On/Off</td>
+<td>On/Off</td>
+</tr>
+<tr>
+<td>Modelo de Fábrica</td>
+<td>12K</td>
+<td>12K</td>
+<td>18K</td>
+<td>24K</td>
+<td>36K</td>
+</tr>
+<tr>
+<td>Unidad Interior</td>
+<td>790B</td>
+<td>790B</td>
+<td>900B</td>
+<td>1025</td>
+<td>1100</td>
+</tr>
+</table>
+
+Unidad Exterior
+
+W22B
+
+W22B
+
+W45
+
+W45
+
+W28
 
 ## Datos Eléctricos
 
-| Fuente de Alimentación |  | $\mathrm{Ph} \mathrm{V}$-Hz | 115V/60HZ | 220-230V/60HZ | 220-230V/60HZ | 220-230V/60HZ | 220-230V/60HZ |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Tipo |  |  | Split | Split | Split | Split | Split |
-| Modo de Fuente de Alimentación |  |  | Interior | Interior | Interior | Interior | Interior |
-| Tipo de Control |  |  | Remoto | Remoto | Remoto | Remoto | Remoto |
-|  | Capacidad | BTU | 11542 | 11942 | 17401 | 23884 | 36000 |
-|  | Entrada de Alimentación | W | 1077 | 1076 | 1569 | 2153 | 2997 |
-|  | Corriente | A | 9,5 | 4,9 | 7,2 | 9,9 | 14 |
-|  | EER | W/W | 3,52 | 3,52 | 3,52 | 3,52 | 3,52 |
-| Eliminación de Humedad |  | L/h | 1,2 | 1,2 | 1,2 | 1,2 | 1,2 |
-| Máximo Consumo de Energía |  | W | 1499 | 1499 | 2248 | 2997 | 4496 |
-| Corriente Máxima |  | A | 7,0 | 13 | 11 | 14 | 21 |
+<table>
+<tr>
+<th colspan="2">Fuente de Alimentación</th>
+<th>Ph-V-Hz</th>
+<th>115V/60HZ</th>
+<th>220-230V/60HZ</th>
+<th>220-230V/60HZ</th>
+<th>220-230V/60HZ</th>
+<th>220-230V/60HZ</th>
+</tr>
+<tr>
+<td colspan="2">Tipo</td>
+<td></td>
+<td>Split</td>
+<td>Split</td>
+<td>Split</td>
+<td>Split</td>
+<td>Split</td>
+</tr>
+<tr>
+<td colspan="2">Modo de Fuente de Alimentación</td>
+<td></td>
+<td>Interior</td>
+<td>Interior</td>
+<td>Interior</td>
+<td>Interior</td>
+<td>Interior</td>
+</tr>
+<tr>
+<td colspan="2">Tipo de Control</td>
+<td></td>
+<td>Remoto</td>
+<td>Remoto</td>
+<td>Remoto</td>
+<td>Remoto</td>
+<td>Remoto</td>
+</tr>
+<tr>
+<td rowspan="4">Climatización (Frío)</td>
+<td>Capacidad</td>
+<td>BTU</td>
+<td>11942</td>
+<td>11942</td>
+<td>17401</td>
+<td>23884</td>
+<td>36000</td>
+</tr>
+<tr>
+<td>Entrada de Alimentación</td>
+<td>W</td>
+<td>1077</td>
+<td>1076</td>
+<td>1569</td>
+<td>2153</td>
+<td>2997</td>
+</tr>
+<tr>
+<td>Corriente</td>
+<td>A</td>
+<td>9,5</td>
+<td>4,9</td>
+<td>7,2</td>
+<td>9,9</td>
+<td>14</td>
+</tr>
+<tr>
+<td>EER</td>
+<td>W/W</td>
+<td>3,52</td>
+<td>3,52</td>
+<td>3,52</td>
+<td>3,52</td>
+<td>3,52</td>
+</tr>
+<tr>
+<td colspan="2">Eliminación de Humedad</td>
+<td>L/h</td>
+<td>1,2</td>
+<td>1,2</td>
+<td>1,2</td>
+<td>1,2</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td colspan="2">Máximo Consumo de Energía</td>
+<td>W</td>
+<td>1499</td>
+<td>1499</td>
+<td>2248</td>
+<td>2997</td>
+<td>4496</td>
+</tr>
+</table>
+
+Corriente Máxima
+
+A
+
+7,0
+
+13
+
+11
+
+14
+
+21
 
 ## Datos de Refrigeración
 
-| Modelo |  |  | ASM113ND1LEIZ | ASM113ED1LEIZ | ASP160NSUPT | ASF170NE1UKTU | ASG270N1UMP |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Tipo |  |  | Rotativo | Rotativo | Rotativo | Rotativo | Rotativo |
-|  | Marea |  | GMCC | GMCC | GMCC | GMCC | GMCC |
-|  | Amplificador, Rotor de Bloqueo (LRA) | A | 54 | 28,1 | 43 | 50,1 | 50,1 |
-|  | Condensador | $\mu \mathrm{F}$ | 70 | 45 | 45 | 45 | 45 |
+<table>
+<tr>
+<td rowspan="5">Compresor</td>
+<td colspan="2">Modelo</td>
+<td>ASM113N01UDZ</td>
+<td>ASM113E01UDZ</td>
+<td>ASF165N03UFT</td>
+<td>ASF175N01UKTU</td>
+<td>ASG270N1UMP</td>
+</tr>
+<tr>
+<td colspan="2">Tipo</td>
+<td>Rotativo</td>
+<td>Rotativo</td>
+<td>Rotativo</td>
+<td>Rotativo</td>
+<td>Rotativo</td>
+</tr>
+<tr>
+<td colspan="2">Marca</td>
+<td>GMCC</td>
+<td>GMCC</td>
+<td>GMCC</td>
+<td>GMCC</td>
+<td>GMCC</td>
+</tr>
+<tr>
+<td colspan="2">Amplificador, Rotor de Bloqueo (LRA) A</td>
+<td>54</td>
+<td>28,1</td>
+<td>43</td>
+<td>50,1</td>
+<td>50,1</td>
+</tr>
+<tr>
+<td>Condensador</td>
+<td>µF</td>
+<td>70</td>
+<td>45</td>
+<td>45</td>
+<td>45</td>
+<td>45</td>
+</tr>
+</table>
 
 ## Sistema de Ventilación
 
-|  | Motor del Ventilador | Marca |  | Welling | Welling/Broad-Ocean/Tongde/LT | Welling/Broad-Ocean/Tongde/LT | Welling/Broad-Ocean/Tongde | Welling/Broad - <br> Ocean/Tongde/LT |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  | Interior | Condensador | $\mu \mathrm{F}$ | 2 | 1,2 | 2 | 3 | 3 |
-|  |  | Velocidad del Motor | RPM | 1320 | 1320 | 1250 | 1150 | 1280 |
-|  | Evaporadora | a. Número de Filas |  | 2 | 2 | 2 | 2 | 2 |
-|  |  | b. Paso de tubo (a) X paso de fila (b) | mm | $21 \times 12,7$ | $21 \times 12,7$ | $21 \times 12,7$ | $21 \times 12,7$ | $21 \times 12,7$ |
-|  |  | c. Material de la Aleta |  | Hidrófila | Hidrófila | Hidrófila | Hidrófila | Hidrófila |
-|  |  | d. Diámetro Exterior del Tubo | mm | $\varphi 7$ | $\varphi 7$ | $\varphi 7$ | $\varphi 7$ | $\varphi 7$ |
-|  |  | e. Longitud de la Bobina x (alto) x (ancho) | mm | $612 \times 252 \times 25,4$ | $612 \times 252 \times 25,4$ | $700 \times 336 \times 25,4$ | $778 \times 315 \times 25,4$ | $870 \times 420 \times 25,4$ |
-|  | Flujo de Aire Interior |  | $\mathrm{m}^{2} / \mathrm{h}$ | 550/550/450/400 | 550/500/450/400 | 820/720/620/520 | 1200/1050/900/800 | 1200/1100/1020/880 |
-|  | Nivel de Ruido | dB(A) | 42/40/38/36 | 42/40/38/36 | 44/41/38/35 | 47/43/40/37 | 48/45/42/39 |
-|  | Peso Neto |  | Kg | 7,7 | 7,7 | 10,2 | 13 | 16 |
-|  | Peso Bruto |  | Kg | 9,4 | 9,4 | 12,3 | 15,4 | 18,4 |
-|  | Dimensión de la Unidad (Ancho * Alto * Profundidad) |  | mm | 790²200²270 | 790²200²270 | 900²220²291 | 1025²320²235 | 1100²325²245 |
-|  | Dimensión de la Empaque (Ancho * Alto * Profundidad) |  | mm | 870²265²335 | 870²265²335 | 970²290²345 | 1105²315²405 | 1190²335²420 |
-|  | Motor del Ventilador | Marca |  | Welling/BroadOcean | Welling/BroadOcean/Tongle | Welling/BroadOcean/Tongle | Welling/LT | Broad-Ocean/Tongle |
-|  | Exterior | Condensador | $\mu \mathrm{F}$ | 6 | 2,5 | 2,5 | 3 | 4 |
-|  |  | Velocidad del Motor | RPM | 860 | 860 | 880 | 880 | 880 |
-|  | Condensador | a. Número de Filas |  | 1 | 1 | 1 | 1 | 2 |
-|  |  | b. Paso de tubo (a) X paso de fila (b) | mm | 19.5 X 11.6 | 19.5 X 11.6 | 19.5 X 11.6 | 22 X 19.5 | 22 X 19.5 |
-|  |  | c. Material de la Aleta |  | Hidrófila | Hidrófila | Hidrófila | Hidrófila | Hidrófila con Reculminiento Dorado |
-|  |  | d. Diámetro Exterior del Tubo | mm | $\varphi 5$ | $\varphi 5$ | $\varphi 5$ | $\varphi 7$ | $\varphi 7$ |
-|  |  | e. Longitud de la Bobina x (alto) x (ancho) | mm | $655 \times 507 \times 11.6$ | $655 \times 507 \times 11.6$ | $748 \times 507 \times 11.6$ | $862 \times 572 \times 19.5$ | $914 \times 884 \times 660 \times$ 38,1 |
-|  | Nivel de Ruido | dB(A) | 52 | 52 | 54 | 57 | 56 |  |
-|  | Dimensión de la Unidad (Ancho * Alto * Profundidad) |  | mm | 660²530²250 | 660²530²250 | 780²560²270 | 820²635²310 | 860²720²220 |
-|  | Peso Neto | Kg | 24 | 24 | 31,5 | 37 | 43 |  |
-|  | Peso Bruto | Kg | 27,8 | 27,8 | 35,8 | 41,9 | 46,8 |  |
-|  | Dimensión de la Empaque (Ancho * Alto * Profundidad) |  | mm | 768 X 575 X 338 | 775 X 581 X 339 | 880 X 602 X 330 | 972 X 680 X 400 | 982 X 770 X 438 |
-|  | Tipo de Refrigerante |  | R410A | R410A | R410A | R410A | R410A | R410A |
-|  | Refrigerante | Kg | 0,49 | 0,42 | 0,76 | 1 | 1,65 |  |
+<table>
+<tr>
+<th rowspan="14">Unidad Interior</th>
+<th rowspan="3">Motor del Ventilador Interior</th>
+<th>Marca</th>
+<th></th>
+<th>Welling</th>
+<th>Welling/Broad - Ocean/Tongde/LT</th>
+<th>Welling/Broad - Ocean/Tongde/LT</th>
+<th>Welling/Broad - Ocean/Tongde</th>
+<th>Welling/Broad - Ocean/Tongde/LT</th>
+</tr>
+<tr>
+<td>Condensador</td>
+<td>µF</td>
+<td>2</td>
+<td>1,2</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Velocidad del Motor</td>
+<td>RPM</td>
+<td>1320</td>
+<td>1320</td>
+<td>1250</td>
+<td>1150</td>
+<td>1280</td>
+</tr>
+<tr>
+<td rowspan="5">Evaporadora</td>
+<td>a. Número de Filas</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>b. Paso de tubo (a) X paso de fila (b)</td>
+<td>mm</td>
+<td>21 x 12,7</td>
+<td>21 x 12,7</td>
+<td>21 x 12,7</td>
+<td>21 x 12,7</td>
+<td>21 × 12,7</td>
+</tr>
+<tr>
+<td>c. Material de la Aleta</td>
+<td></td>
+<td>Hidrófila</td>
+<td>Hidrófila</td>
+<td>Hidrófila</td>
+<td>Hidrófila</td>
+<td>Hidrófila</td>
+</tr>
+<tr>
+<td>d. Diámetro Exterior del Tubo</td>
+<td>mm</td>
+<td>¢7</td>
+<td>47</td>
+<td>47</td>
+<td>47</td>
+<td>47</td>
+</tr>
+<tr>
+<td>e. Longitud de la Bobina x (alto) x (ancho)</td>
+<td>mm</td>
+<td>612 × 252 × 25,4</td>
+<td>612 × 252 × 25,4</td>
+<td>$7 0 0 \times 3 3 6 \times 2 5 . 4$</td>
+<td>778 x 315 × 25,4</td>
+<td>870 x 420 × 25,4</td>
+</tr>
+<tr>
+<td colspan="2">Flujo de Aire Interior</td>
+<td>m3/h</td>
+<td>550/500/450/400</td>
+<td>550/500/450/400</td>
+<td>820/720/620/520</td>
+<td>1200/1050/900/800</td>
+<td>1200/1100/1020/880</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de Ruido</td>
+<td>dB(A)</td>
+<td>42/40/38/36</td>
+<td>42/40/38/36</td>
+<td>44/41/38/35</td>
+<td>47/43/40/37</td>
+<td>48/45/42/39</td>
+</tr>
+<tr>
+<td colspan="2">Peso Neto</td>
+<td>Kg</td>
+<td>7,7</td>
+<td>7,7</td>
+<td>10,2</td>
+<td>13</td>
+<td>16</td>
+</tr>
+<tr>
+<td colspan="2">Peso Bruto</td>
+<td>Kg</td>
+<td>9,4</td>
+<td>9,4</td>
+<td>12,3</td>
+<td>15,4</td>
+<td>18,4</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión de la Unidad (Ancho * Alto * Profundidad)</td>
+<td>mm</td>
+<td>790*200*270</td>
+<td>790*200*270</td>
+<td>900*220*291</td>
+<td>1025*320*235</td>
+<td>1100*325*245</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión de la Empaque (Ancho * Alto * Profundidad)</td>
+<td>mm</td>
+<td>870*265*335</td>
+<td>870*265*335</td>
+<td>970*290*345</td>
+<td>1105*315*405</td>
+<td>1190*330*420</td>
+</tr>
+<tr>
+<td rowspan="15">Unidad Exterior</td>
+<td rowspan="3">Motor del Ventilador Exterior</td>
+<td>Marca</td>
+<td></td>
+<td>Welling/Broad- Ocean</td>
+<td>Welling/Broad- Ocean/Tongle</td>
+<td>Welling/Broad- Ocean/Tongle</td>
+<td>Welling/LT</td>
+<td>Broad-Ocean/Tongle</td>
+</tr>
+<tr>
+<td>Condensador</td>
+<td>µF</td>
+<td>6</td>
+<td>2,5</td>
+<td>2,5</td>
+<td>3</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Velocidad del Motor</td>
+<td>RPM</td>
+<td>860</td>
+<td>860</td>
+<td>880</td>
+<td>880</td>
+<td>880</td>
+</tr>
+<tr>
+<td rowspan="5">Condensadora</td>
+<td>a. Número de Filas</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>b. Paso de tubo (a) X paso de fila (b)</td>
+<td>mm</td>
+<td>19.5 X 11.6</td>
+<td>19.5 X 11.6</td>
+<td>19.5 X 11.6</td>
+<td>22 × 19.5</td>
+<td>22 X 19.5</td>
+</tr>
+<tr>
+<td>c. Material de la Aleta</td>
+<td></td>
+<td>Hidrófila</td>
+<td>Hidrófila</td>
+<td>Hidrófila</td>
+<td>Hidrófila</td>
+<td>Hidrófila con Recubrimiento Dorado</td>
+</tr>
+<tr>
+<td>d. Diámetro Exterior del Tubo</td>
+<td>mm</td>
+<td>45</td>
+<td>φ5</td>
+<td>$4 5$</td>
+<td>47</td>
+<td>47</td>
+</tr>
+<tr>
+<td>e. Longitud de la Bobina x (alto) x (ancho)</td>
+<td>mm</td>
+<td>655 X 507 X 11.6</td>
+<td>655 X 507 X 11.6</td>
+<td>748 X 507 X 11.6</td>
+<td>862 X 572 X 19.5</td>
+<td>914 × 884 X 660 X 38.1</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de Ruido</td>
+<td>dB(A)</td>
+<td>52</td>
+<td>52</td>
+<td>54</td>
+<td>57</td>
+<td>56</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión de la Unidad $^ { * }$</td>
+<td>mm</td>
+<td>660*530*250</td>
+<td>660*530*250</td>
+<td>780*560*270</td>
+<td>820*635*310</td>
+<td>860*720*320</td>
+</tr>
+<tr>
+<td colspan="2">Peso Neto</td>
+<td>Kg</td>
+<td>24</td>
+<td>24</td>
+<td>31,5</td>
+<td>37</td>
+<td>43</td>
+</tr>
+<tr>
+<td colspan="2">Peso Bruto</td>
+<td>Kg</td>
+<td>27,8</td>
+<td>27,8</td>
+<td>35,8</td>
+<td>41,9</td>
+<td>46,8</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión de la Empaque (Ancho * Alto * Profundidad)</td>
+<td>mm</td>
+<td>768 X 575 X 338</td>
+<td>775 X 581 × 339</td>
+<td>880 X 602 × 330</td>
+<td>972 × 680 × 400</td>
+<td>982 X 770 X 438</td>
+</tr>
+<tr>
+<td colspan="2">Tipo de Refrigerante</td>
+<td></td>
+<td>R410A</td>
+<td>R410A</td>
+<td>R410A</td>
+<td>R410A</td>
+<td>R410A</td>
+</tr>
+<tr>
+<td>Refrigerante</td>
+<td></td>
+<td>Kg</td>
+<td>0,49</td>
+<td>0,42</td>
+<td>0,76</td>
+<td>1</td>
+<td>1,65</td>
+</tr>
+<tr>
+<td>Otros</td>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="5">Tubo de Refrigeración</td>
+<td></td>
+<td>Lado de Liquído</td>
+<td>inch</td>
+<td>1/ 4</td>
+<td>1 / 4</td>
+<td>1 / 4</td>
+<td>1 / 4</td>
+<td>3/8</td>
+</tr>
+<tr>
+<td colspan="2">Lado de Gas</td>
+<td>inch</td>
+<td>1/ 2</td>
+<td>3/ 8</td>
+<td>1/2</td>
+<td>1/ 2</td>
+<td>5/8</td>
+</tr>
+<tr>
+<td colspan="2">Rango de Temperatura Ambiente (°C) Enfriamiento al Aire Libre</td>
+<td>°℃</td>
+<td>$1 6 \sim 4 3$</td>
+<td>$1 6 \sim 4 3$</td>
+<td>$1 6 \sim 4 3$</td>
+<td>$1 6 \sim 4 3$</td>
+<td>$1 6 \sim 4 3$</td>
+</tr>
+<tr>
+<td colspan="2">Longitud Máxima, Tubo de Refrigeración</td>
+<td>m</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>15</td>
+<td>15</td>
+</tr>
+<tr>
+<td colspan="2">Diferencia de Nivel Máxima</td>
+<td>m</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>8</td>
+<td>8</td>
+</tr>
+</table>
 
-Otros
+<!-- PageFooter="FLEX - C" -->
+<!-- PageFooter="¡La tecnología más avanzada, adaptable a tus necesidades! www.adinausa.com" -->
 
-|  | Lado de Líquido | inch | $1 / 4$ | $1 / 4$ | $1 / 4$ | $1 / 4$ | $3 / 8$ |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  | Lado de Gas | inch | $1 / 2$ | $3 / 8$ | $1 / 2$ | $1 / 2$ | $5 / 8$ |  |
-|  | Rango de Temperatura Ambiente ( ${ }^{\circ} \mathrm{C}$ ) Enfriamiento al Aire Libre | ${ }^{\circ} \mathrm{C}$ | $16-43$ | $16-43$ | $16-43$ | $16-43$ | $16-43$ | $16-43$ |
-|  | Longitud Máxima, Tubo de Refrigeración | m | 12 | 12 | 12 | 15 | 15 |  |
-|  | Diferencia de Nivel Máxima | m | 7 | 7 | 7 | 8 | 8 |  |

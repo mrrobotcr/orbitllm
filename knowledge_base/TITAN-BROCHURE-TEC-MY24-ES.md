@@ -1,199 +1,887 @@
 # TITAN-BROCHURE-TEC-MY24-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+TITAN
+SERIES
 
-# Alta Eficiencia SEER 18
+Alta Eficiencia
+SEER 18
 
-- Serpentines de Cobre con Aletas de Aluminio
-- Protección **C** **LD** 100
+il
 
-![img-1.jpeg](img-1.jpeg)
+· Serpentines de Cobre
+con Aletas de Aluminio
 
-![img-2.jpeg](img-2.jpeg)
+· Protección
 
-![img-3.jpeg](img-3.jpeg)
+SYSTEM CERTIFICATION
+O
 
-Los equipos de aire acondicionado Adina de la serie TITAN ofrecen una solución versátil y eficiente para cualquier oficina o negocio. Ahora disponibles con opciones de evaporadoras tipo Piso Techo, Cassette y Manejadora Central, estos sistemas proporcionan capacidades de 3 y 5 toneladas, asegurando un confort superior y un significativo ahorro energético. Con la serie TITAN, puedes estar seguro de obtener rendimiento y fiabilidad en climatización.
+SGS
+
+AHRI
+
+CERTIFIED
+TM
+www.ahridirectory.org
+
+!
+
+Botón de
+emergencia
+
+9
+
+Deshumidificador
+independiente
+
+# INVERTER&
+
+Los equipos de aire acondicionado Adina de la
+serie TITAN ofrecen una solución versátil y
+eficiente para cualquier oficina o negocio. Ahora
+disponibles con opciones de evaporadoras tipo
+Piso Techo, Cassette y Manejadora Central,
+estos sistemas proporcionan capacidades de 3
+y 5 toneladas, asegurando un confort superior y
+un significativo ahorro energético. Con la serie
+TITAN, puedes estar seguro de obtener
+rendimiento y fiabilidad en climatización.
+
+<!-- PageFooter="TITAN-MY2024" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-![img-4.jpeg](img-4.jpeg)
+TITAN
+SERIES
 
-### **Especificaciones técnicas**
+ADINA
 
+INVERTETİ
+
+Especificaciones técnicas
 Piso techo
 
-|  Modelo del sistema |  | ATI-T-PTC3618DC | ATI-T-PTC6018DC  |
-| --- | --- | --- | --- |
-|  Fuente de alimentación | V/Ph/Hz | 208~230V/60Hz/1ph | 208~230V/60Hz/1ph  |
-|  Enfriamiento | Capacidad | Btu/h | 36000  |
-|   | Capacidad | W | 10548  |
-|   | Número de filas |  | 3  |
-|   | Espaciado de aletas | mm | 1,5  |
-|   | Material de las aletas |  | Aleta de Aluminio Hidrófila  |
-|  Serpentín interior | Diámetro exterior del tubo | mm | φ7  |
-|   | Material del tubo |  | Tubo de cobre con ranurado interior  |
-|   | Longitud x altura x ancho de la bobina | mm | 940*294*38.1  |
-|   | Número de circuitos |  | 7  |
-|   | Marca |  | Lifeng  |
-|   | Modelo |  | RD(AL)132HA  |
-|   | Tipo de motor |  | Motor DC  |
-|  Motor de ventilador interior | Entrada | W | 166  |
-|   | Corriente de funcionamiento | A | 0.8  |
-|   | Condensador | uF | /  |
-|   | Velocidad (alta/media/baja) | rpm | 1400/1200/1100  |
-|  Flujo de aire interior (Alto/Medio/Bajo) |  | m³/h | 1650/1380/1120  |
-|  Nivel de ruido interior (Alto/Medio/Bajo) |  | dB(A) | 51/46/44  |
-|  Dimensión interior | Unidad (An x Al x Pr) | mm | 1275x235x675  |
-|   | Caja (An x Al x Pr) | mm | 1350x305x748  |
-|  Peso Interior | Neto | kg | 30  |
-|   | Bruto | kg | 35  |
-|  Refrigerante | Tipo |  | R410a  |
-|  Tubo de refrigerante | Lado del líquido | (in)/mm | 3/8 - 9,52  |
-|   | Lado del gas | (in)/mm | 5/8 - 15.88  |
-|  Diámetro de la tubería de drenaje de agua |  | mm | OD25  |
-|   | Control de funcionamiento |  | Control remoto  |
+<table>
+<tr>
+<th colspan="3">Modelo del sistema</th>
+<th>ATI-T-PTC3618DC</th>
+<th>ATI-T-PTC6018DC</th>
+</tr>
+<tr>
+<th colspan="2">Fuente de alimentación</th>
+<th>V/Ph/Hz</th>
+<th>$2 0 8 \sim 2 3 0 V / 6 0 H z / 1 p h$</th>
+<th>$2 0 8 \sim 2 3 0 V / 6 0 H z / 1 p h$</th>
+</tr>
+<tr>
+<td rowspan="2">Enfriamiento</td>
+<td>Capacidad</td>
+<td>Btu/h</td>
+<td>36000</td>
+<td>60000</td>
+</tr>
+<tr>
+<td>Capacidad</td>
+<td>W</td>
+<td>10548</td>
+<td>15822</td>
+</tr>
+<tr>
+<td rowspan="7">Serpentín interior</td>
+<td>Número de filas</td>
+<td></td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Espaciado de aletas</td>
+<td>mm</td>
+<td>1,5</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>Material de las aletas</td>
+<td></td>
+<td>Aleta de Aluminio Hidrófila</td>
+<td>Aleta de Aluminio Hidrófila</td>
+</tr>
+<tr>
+<td>Diámetro exterior del tubo</td>
+<td>mm</td>
+<td>47</td>
+<td>47</td>
+</tr>
+<tr>
+<td>Material del tubo</td>
+<td></td>
+<td>Tubo de cobre con ranurado interior</td>
+<td>Tubo de cobre con ranurado interior</td>
+</tr>
+<tr>
+<td>Longitud $x$ altura x ancho de la bobina</td>
+<td>mm</td>
+<td>$9 4 0 * 2 9 4 * 3 8 . 1$</td>
+<td>1300×294×37.8</td>
+</tr>
+<tr>
+<td>Número de circuitos</td>
+<td></td>
+<td>7</td>
+<td>10</td>
+</tr>
+<tr>
+<td rowspan="7">Motor de ventilador interior</td>
+<td colspan="2">Marca</td>
+<td>Lifeng</td>
+<td>Lifeng</td>
+</tr>
+<tr>
+<td colspan="2">Modelo</td>
+<td>$R D \left( A L \right) 1 3 2 H A$</td>
+<td>RD40HU</td>
+</tr>
+<tr>
+<td colspan="2">Tipo de motor</td>
+<td>Motor DC</td>
+<td>Motor DC</td>
+</tr>
+<tr>
+<td>Entrada</td>
+<td>W</td>
+<td>166</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Corriente de funcionamiento</td>
+<td>A</td>
+<td>0.8</td>
+<td>0.9</td>
+</tr>
+<tr>
+<td>Condensador</td>
+<td>uF</td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td>Velocidad (alta/media/baja)</td>
+<td>$r p m$</td>
+<td>1400/1200/1100</td>
+<td>1350/1260/1170</td>
+</tr>
+<tr>
+<td colspan="2">Flujo de aire interior (Alto/Medio/Bajo)</td>
+<td>$m 3 / h$</td>
+<td>1650/1380/1120</td>
+<td>2180/2070/1900</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de ruido interior (Alto/Medio/Bajo)</td>
+<td>$d B \left( A \right)$</td>
+<td>51/46/44</td>
+<td>54/52/50</td>
+</tr>
+<tr>
+<td rowspan="2">Dimensión interior</td>
+<td>Unidad $\left( A n \times A l \times P r \right)$</td>
+<td>mm</td>
+<td>$1 2 7 5 \times 2 3 5 \times 6 7 5$</td>
+<td>1635x235x675</td>
+</tr>
+<tr>
+<td>$\mathrm { c a i a } \left( A n \times A l \times P r \right)$</td>
+<td>mm</td>
+<td>$1 3 5 0 \times 3 0 5 \times 7 4 8$</td>
+<td>$1 7 1 0 \times 3 0 5 \times 7 4 8$</td>
+</tr>
+<tr>
+<td rowspan="2">Peso Interior</td>
+<td>Neto</td>
+<td>kg</td>
+<td>30</td>
+<td>38</td>
+</tr>
+<tr>
+<td>Bruto</td>
+<td>kg</td>
+<td>35</td>
+<td>43</td>
+</tr>
+<tr>
+<td>Refrigerante</td>
+<td>Tipo</td>
+<td></td>
+<td>R410a</td>
+<td>R410a</td>
+</tr>
+<tr>
+<td rowspan="2">Tubo de refrigerante</td>
+<td>Lado del líquido</td>
+<td>(In)/mm</td>
+<td>$3 / 8 \quad - \quad 9 , 5 2$</td>
+<td>$3 / 8 \quad - \quad 9 , 5 2$</td>
+</tr>
+<tr>
+<td>Lado del gas</td>
+<td>(In)/mm</td>
+<td>$5 / 8 \quad - \quad 1 5 . 8 8$</td>
+<td>$3 / 4 \quad - \quad 1 9 . 0 5$</td>
+</tr>
+<tr>
+<td colspan="2">Diámetro de la tubería de drenaje de agua</td>
+<td>mm</td>
+<td>OD25</td>
+<td>OD25</td>
+</tr>
+<tr>
+<td colspan="2">Control de funcionamiento</td>
+<td></td>
+<td>Control remoto</td>
+<td>Control remoto</td>
+</tr>
+</table>
 
-**Elegancia, calidad y versatilidad en tus espacios diarios.**
+Elegancia, calidad y versatilidad en tus espacios diarios.
+www.adinausa.com
 
-**www.adinausa.com**
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-# Especificaciones técnicas
+TITAN
+SERIES
 
-Cassette
+## Especificaciones técnicas Cassette
 
-|  Modelo del sistema |  |  | ATI-T-CSC3618DC | ATI-T-CSC6018DC  |
-| --- | --- | --- | --- | --- |
-|  Fuente de alimentación |  | V/Hz/Ph | 208-230V/60Hz/1ph | 208-230V/60Hz/1ph  |
-|  Enfriamiento | Capacidad | Btu/h | 36000 | 60000  |
-|   | Capacidad | W | 10548 | 16115  |
-|  Serpentín interior | Número de filas |  | 2 | 3  |
-|   | Espaciado de aletas | mm | 1.2 | 1.3  |
-|   | Material de las aletas |  | Aleta de Aluminio Hidrófila | Aleta de Aluminio Hidrófila  |
-|   | Diámetro exterior del tubo | mm | $\varphi 5$ | $\varphi 5$  |
-|   | Material del tubo |  | Tubo de cobre con ranurado interior | Tubo de cobre con ranurado interior  |
-|   | Longitud x altura x ancho de la bobina | mm | 2050×254×23.2 | 2050×254×34.8  |
-|   | Número de circuitos |  | 12 | 12  |
-|  Motor de ventilador interior | Marca |  | Kaibang | Lifeng  |
-|   | Modelo |  | ZWR60-E51 | RD100HD1  |
-|   | Tipo de motor |  | Motor DC | Motor DC  |
-|   | Entrada | W | 135 | 160  |
-|   | Corriente de funcionamiento | A | 0.6 | 0.7  |
-|   | Condensador | uF | 730/670/620 | /  |
-|   | Velocidad (alta/media/baja) | rpm | 730/670/620 | 860/800/720  |
-|  Flujo de aire interior (Alto/Medio/Bajo) |  | m3/h | 1740/1600/1460 | 2000/1840/1740  |
-|  Nivel de ruido interior (Alto/Medio/Bajo) |  | dB(A) | 50/48/46 | 52/49/46  |
-|  Dimensión interior | Unidad (An x Al x Pr) | mm | 840x290x840 | 840x290x840  |
-|   | Caja (An x Al x Pr) | mm | 935x350x935 | 935x350x935  |
-|  Peso Interior | Neto | kg | 26 | 28  |
-|   | Bruto | kg | 31 | 33  |
-|  Panel | Unidad (An. x Al. x Pr.) | mm | 950×45×950 | 950×45×950  |
-|   | Embalaje (An. x Al. x Pr.) | mm | 1035×90×1035 | 1035×90×1035  |
-|   | Neto/Bruto | kg | 6.0/9.0 | 6.0/9.0  |
-|  Refrigerante | Tipo |  | R410a | R410a  |
-|  Tubo de refrigerante | Lado del líquido | $(\ln ) / \mathrm{mm}$ | 3/8 - 9,52 | 3/8 - 9,52  |
-|   | Lado del gas | $(\ln ) / \mathrm{mm}$ | 5/8 - 15.88 | 3/4 - 19.05  |
-|  Diámetro de la tubería de drenaje de agua |  | mm | OD25 | OD25  |
-|   | Control de funcionamiento |  | Control remoto | Control remoto  |
+<table>
+<tr>
+<th colspan="3">Modelo del sistema</th>
+<th>ATI-T-CSC3618DC</th>
+<th>ATI-T-CSC6018DC</th>
+</tr>
+<tr>
+<th colspan="2">Fuente de alimentación</th>
+<th>V/Hz/Ph</th>
+<th>$2 0 8 \sim 2 3 0 V / 6 0 H z / 1 p h$</th>
+<th>208~230V/60Hz/1ph</th>
+</tr>
+<tr>
+<td rowspan="2">Enfriamiento</td>
+<td>Capacidad</td>
+<td>Btu/h</td>
+<td>36000</td>
+<td>60000</td>
+</tr>
+<tr>
+<td>Capacidad</td>
+<td>W</td>
+<td>10548</td>
+<td>16115</td>
+</tr>
+<tr>
+<td rowspan="7">Serpentín interior</td>
+<td>Número de filas</td>
+<td></td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Espaciado de aletas</td>
+<td>mm</td>
+<td>1.2</td>
+<td>1.3</td>
+</tr>
+<tr>
+<td>Material de las aletas</td>
+<td></td>
+<td>Aleta de Aluminio Hidrófila</td>
+<td>Aleta de Aluminio Hidrófila</td>
+</tr>
+<tr>
+<td>Diámetro exterior del tubo</td>
+<td>mm</td>
+<td>45</td>
+<td>$5</td>
+</tr>
+<tr>
+<td>Material del tubo</td>
+<td></td>
+<td>Tubo de cobre con ranurado interior</td>
+<td>Tubo de cobre con ranurado interior</td>
+</tr>
+<tr>
+<td>Longitud x altura x ancho de la bobina</td>
+<td>mm</td>
+<td>2050×254×23.2</td>
+<td>2050×254×34.8</td>
+</tr>
+<tr>
+<td>Número de circuitos</td>
+<td></td>
+<td>12</td>
+<td>12</td>
+</tr>
+<tr>
+<td rowspan="7">Motor de ventilador interior</td>
+<td>Marca</td>
+<td></td>
+<td>Kaibang</td>
+<td>Lifeng</td>
+</tr>
+<tr>
+<td colspan="2">Modelo</td>
+<td>ZWR60-E51</td>
+<td>RD100HD1</td>
+</tr>
+<tr>
+<td colspan="2">Tipo de motor</td>
+<td>Motor DC</td>
+<td>Motor DC</td>
+</tr>
+<tr>
+<td>Entrada</td>
+<td>W</td>
+<td>135</td>
+<td>160</td>
+</tr>
+<tr>
+<td>Corriente de funcionamiento</td>
+<td>A</td>
+<td>0.6</td>
+<td>0.7</td>
+</tr>
+<tr>
+<td>Condensador</td>
+<td>uF</td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td>Velocidad (alta/media/baja)</td>
+<td>rpm</td>
+<td>730/670/620</td>
+<td>860/800/720</td>
+</tr>
+<tr>
+<td colspan="2">Flujo de aire interior (Alto/Medio/Bajo)</td>
+<td>$m 3 / h$</td>
+<td>1740/1600/1460</td>
+<td>2000/1840/1740</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de ruido interior (Alto/Medio/Bajo)</td>
+<td>$d B \left( A \right)$</td>
+<td>50/48/46</td>
+<td>52/49/46</td>
+</tr>
+<tr>
+<td rowspan="2">Dimensión interior</td>
+<td>Unidad $\left( A n \times A l \times P r \right)$</td>
+<td>$m m$</td>
+<td>840×290×840</td>
+<td>840×290×840</td>
+</tr>
+<tr>
+<td>$\mathrm { c a j a } \left( A n \times A l \times P r \right)$</td>
+<td>$m m$</td>
+<td>$9 3 5 \times 3 5 0 \times 9 3 5$</td>
+<td>$9 3 5 \times 3 5 0 \times 9 3 5$</td>
+</tr>
+<tr>
+<td rowspan="3">Peso Interior</td>
+<td>Neto</td>
+<td>kg</td>
+<td>26</td>
+<td>28</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td rowspan="2">31</td>
+<td rowspan="2">33</td>
+</tr>
+<tr>
+<td>Bruto</td>
+<td>$k g$</td>
+</tr>
+<tr>
+<td rowspan="3">Panel</td>
+<td>Unidad $\left( A n . x \quad A l . x \quad P r . \right)$</td>
+<td>mm</td>
+<td>$9 5 0 \times 4 5 \times 9 5 0$</td>
+<td>$9 5 0 \times 4 5 \times 9 5 0$</td>
+</tr>
+<tr>
+<td>Embalaje $\left( A n \cdot x A l \cdot x P r \right)$</td>
+<td>mm</td>
+<td>$1 0 3 5 \times 9 0 \times 1 0 3 5$</td>
+<td>$1 0 3 5 \times 9 0 \times 1 0 3 5$</td>
+</tr>
+<tr>
+<td>Neto/Bruto</td>
+<td>$k g$</td>
+<td>6.0/9.0</td>
+<td>$6 . 0 / 9 . 0$</td>
+</tr>
+<tr>
+<td>Refrigerante</td>
+<td>Tipo</td>
+<td></td>
+<td>R410a</td>
+<td>R410a</td>
+</tr>
+<tr>
+<td rowspan="2">Tubo de refrigerante</td>
+<td>Lado del líquido</td>
+<td>(In)/mm</td>
+<td>$3 / 8 \quad - \quad 9 , 5 2$</td>
+<td>$3 / 8 \quad - \quad 9 , 5 2$</td>
+</tr>
+<tr>
+<td>Lado del gas</td>
+<td>$\left( \ln \right) / m m$</td>
+<td>$5 / 8 \quad - \quad 1 5 . 8 8$</td>
+<td>$3 / 4 \quad - \quad 1 9 . 0 5$</td>
+</tr>
+<tr>
+<td colspan="2">Diámetro de la tubería de drenaje de agua</td>
+<td>mm</td>
+<td>OD25</td>
+<td>OD25</td>
+</tr>
+<tr>
+<td></td>
+<td>Control de funcionamiento</td>
+<td></td>
+<td>Control remoto</td>
+<td>Control remoto</td>
+</tr>
+</table>
 
-Elegancia, calidad y versatilidad en tus espacios diarios.
+<!-- PageFooter="Elegancia, calidad y versatilidad en tus espacios diarios. www.adinausa.com" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 4
 ================================================================================
 
-# Especificaciones técnicas
+TITAN
+SERIES
 
-## Manejadora de Aire Central
+ADINA
 
-|  Modelo del sistema |  |  | ATI-T-AHU3618DC | ATI-T-AHU6018DC  |
-| --- | --- | --- | --- | --- |
-|  Refrigeración | Capacidad nominal |  | 36000 | 60000  |
-|  Datos eléctricos | Fuente de alimentación | V/Ph/Hz | 208-230V/60Hz/1ph | 208-230V/60Hz/1ph  |
-|   | Protección máxima contra sobrecorriente |  | 15 | 15  |
-|   | Rango de Voltaje |  | 187/253 | 187/253  |
-|  Motor del ventilador | Modelo |  | ZWK702B500013 | ZWK702D000004  |
-|   | Potencia |  | $1 / 2 \mathrm{HP}$ | $3 / 4 \mathrm{HP}$  |
-|   | FLA |  | 3,8 | 5,4  |
-|  Soplador | Diámetro |  | $12-1 / 4^{\prime \prime}$ | $12-1 / 4^{\prime \prime}$  |
-|   | Ancho |  | $13^{\prime \prime}$ | $13^{\prime \prime}$  |
-|  Serpentín interior | Número de filas |  | $4 * 2$ | $5 * 2$  |
-|   | Número de tubos en U |  | $40 * 2$ | $75 * 2$  |
-|   | Diámetro exterior y tipo de tubo |  | Tubo de cobre con ranurado interior/7mm | Tubo de cobre con ranurado interior/7mm  |
-|   | Espaciado/grosor/tipo de aletas | mm | 1.5/0.095/ Aleta de Aluminio Hidrófila | 1.5/0.095/Aleta de Aluminio Hidrófila  |
-|   | Paso de tubo(a) x paso de fila(b) | mm | 21/12.7 | 21/12.7  |
-|   | Número de circuitos |  | $4 * 2$ | $6 * 2$  |
-|  Intensidad acústica | $\mathrm{dB}(\mathrm{A})$ |  | 57 | 62  |
-|  Ventilador interior | Caudal de aire, CFM |  | 1200 | 2000  |
-|  Tipo de expansión |  |  | TXV | TXV  |
-|  Tamaño de la conexión de refrigerante | Lado de succión |  | $3 / 4^{\prime \prime}$ | $7 / 8^{\prime \prime}$  |
-|   | Lado del líquido |  | $3 / 8^{\prime \prime}$ | $3 / 8^{\prime \prime}$  |
-|  Unidad interior | Dimensiones (An*Al*Pr) | mm | 534*1181*534 | 534*1423*623  |
-|   | Embalaje (An*Al*Pr) | mm | 584*1321*623 | 623*1575*712  |
-|  Peso del equipo |  | kg | 56 | 80  |
+### Especificaciones técnicas Manejadora de Aire Central
 
-Elegancia, calidad y versatilidad en tus espacios diarios. www.adinausa.com
+<table>
+<tr>
+<th colspan="3">Modelo del sistema</th>
+<th>ATI-T-AHU3618DC</th>
+<th>ATI-T-AHU6018DC</th>
+</tr>
+<tr>
+<th>Refrigeración</th>
+<th colspan="2">Capacidad nominal</th>
+<th>36000</th>
+<th>60000</th>
+</tr>
+<tr>
+<td rowspan="3">Datos eléctricos</td>
+<td>Fuente de alimentación</td>
+<td>V/Ph/Hz</td>
+<td>208~230V/60Hz/1ph</td>
+<td>208~230V/60Hz/1ph</td>
+</tr>
+<tr>
+<td colspan="2">Protección máxima contra sobrecorriente</td>
+<td>15</td>
+<td>15</td>
+</tr>
+<tr>
+<td colspan="2">Rango de Voltaje</td>
+<td>187/253</td>
+<td>187/253</td>
+</tr>
+<tr>
+<td rowspan="3">Motor del ventilador</td>
+<td colspan="2">Modelo</td>
+<td>ZWK702B500013</td>
+<td>ZWK702D000004</td>
+</tr>
+<tr>
+<td colspan="2">Potencia</td>
+<td>1/2HP</td>
+<td>3/4HP</td>
+</tr>
+<tr>
+<td colspan="2">FLA</td>
+<td>3,8</td>
+<td>5,4</td>
+</tr>
+<tr>
+<td rowspan="2">Soplador</td>
+<td colspan="2">Diámetro</td>
+<td>$1 2 - 1 / 4 ^ { \prime \prime }$</td>
+<td>12-1/4"</td>
+</tr>
+<tr>
+<td colspan="2">Ancho</td>
+<td>13"</td>
+<td>13"</td>
+</tr>
+<tr>
+<td rowspan="6">Serpentín interior</td>
+<td colspan="2">Número de filas</td>
+<td>4*2</td>
+<td>5*2</td>
+</tr>
+<tr>
+<td colspan="2">Número de tubos en U</td>
+<td>40*2</td>
+<td>75*2</td>
+</tr>
+<tr>
+<td colspan="2">Diámetro exterior y tipo de tubo</td>
+<td>Tubo de cobre con ranurado interior/7mm</td>
+<td>Tubo de cobre con ranurado interior/7mm</td>
+</tr>
+<tr>
+<td>Espaciado/grosor/tipo de aletas</td>
+<td>mm</td>
+<td>1.5/0.095/ Aleta de Aluminio Hidrófila</td>
+<td>1.5/0.095/Aleta de Aluminio Hidrófila</td>
+</tr>
+<tr>
+<td>Paso de tubo(a) x paso de fila(b)</td>
+<td>mm</td>
+<td>$2 1 / 1 2 . 7$</td>
+<td>$2 1 / 1 2 . 7$</td>
+</tr>
+<tr>
+<td colspan="2">Número de circuitos</td>
+<td>$4 ^ { * } 2$</td>
+<td>6*2</td>
+</tr>
+<tr>
+<td>Intensidad acústica</td>
+<td colspan="2">dB(A)</td>
+<td>57</td>
+<td>62</td>
+</tr>
+<tr>
+<td>Ventilador interior</td>
+<td colspan="2">Caudal de aire, CFM</td>
+<td>1200</td>
+<td>2000</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Tipo de expansión</td>
+<td>TXV</td>
+<td>$T X V$</td>
+</tr>
+<tr>
+<td rowspan="2">Tamaño de la conexión de refrigerante</td>
+<td colspan="2">Lado de succión</td>
+<td>$3 / 4 ^ { \prime \prime }$</td>
+<td>$7 / 8 ^ { \prime \prime }$</td>
+</tr>
+<tr>
+<td colspan="2">Lado del líquido</td>
+<td>$3 / 8 ^ { \prime \prime }$</td>
+<td>$3 / 8 ^ { \prime \prime }$</td>
+</tr>
+<tr>
+<td rowspan="2">Unidad interior</td>
+<td>Dimensiones (An*Al*Pr)</td>
+<td>mm</td>
+<td>534*1181*534</td>
+<td>$5 3 4 ^ { * } 1 4 2 3 ^ { * } 6 2 3$</td>
+</tr>
+<tr>
+<td>Embalaje (An*Al*Pr)</td>
+<td>mm</td>
+<td>$5 8 4 * 1 3 2 1 * 6 2 3$</td>
+<td>$6 2 3 * 1 5 7 5 * 7 1 2$</td>
+</tr>
+<tr>
+<td colspan="2">Peso del equipo</td>
+<td>kg</td>
+<td>56</td>
+<td>80</td>
+</tr>
+</table>
+
+<!-- PageFooter="Elegancia, calidad y versatilidad en tus espacios diarios. www.adinausa.com" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 5
 ================================================================================
 
-![img-5.jpeg](img-5.jpeg)
 
-## Especificaciones técnicas
+TITAN
+SERIES
 
-### Condensadora
+#### Especificaciones técnicas Condensadora
 
-|  Modelo del sistema |  |  | ATI-T-CON3618FR | ATI-T-CON6018FR  |
-| --- | --- | --- | --- | --- |
-|  Fuente de alimentación |  | V/Hz/Ph | 208~230V/60Hz/1ph | 208~230V/60Hz/1ph  |
-|  Capacidad |  | Btu/h | 36000 | 60000  |
-|  SEER |  |  | 18 | 18  |
-|  Consumo Máximo |  | W | 4400 | 6700  |
-|  Presión máxima de funcionamiento (MPa) | Descargar | MPa | 4.2 | 4.2  |
-|   | Succión | MPa | 1.5 | 1.5  |
-|  Compresor | Marca |  | GMCC | HIGHLY  |
-|   | Modelo |  | KTM240D43UMT | GTH420SKPC8DQ  |
-|   | Tipo |  | Rotativo | Rotativo  |
-|   | Capacidad | W | 7740 | 11800  |
-|   | Potencia | W | 2065 | 3580  |
-|   | Corriente nominal (RLA) | A | 9.4 | 15.8  |
-|   | Aceite refrigerante | ml | 620 | 1050  |
-|  Serpentín exterior | Número de filas |  | 2 | 2  |
-|   | Espaciado de aletas | mm | 1.2 | 1.2  |
-|   | Material de las aletas |  | Aleta de Aluminio | Aleta de Aluminio  |
-|   | Diámetro exterior del tubo | mm | Híifrillila | Híifrillila  |
-|   | Material del tubo |  | Tubo de cobre con ranurado interior | Tubo de cobre con ranurado interior  |
-|   | Longitud x altura x ancho de la bobina | mm | 2187×585×23.2 | 2187×800×23.2  |
-|   | Número de circuitos |  | 4 | 10  |
-|   | Tipo de motor |  | Motor DC | Motor DC  |
-|   | Marca |  | BROADOCEAN | BROADOCEAN  |
-|  Motor exterior | Modelo |  | ZW511D000018L | ZW511D000018L  |
-|   | Capacitor | mF | / | /  |
-|   | Velocidad | rpm | 1000 | 1050  |
-|  Flujo de aire exterior |  | m³/h | 5500 | 7000  |
-|  Nivel de ruido exterior |  | dB(A) | 61 | 62  |
-|  Dimensiones exteriores | Unidad (An x Al x Pr) | mm | 740×633×740 | 740×843×740  |
-|   | Embalaje (An x Al x Pr) | mm | 769×656×769 | 769×865×769  |
-|  Peso exterior | Neto | kg | 52 | 66  |
-|   | Bruto | kg | 57 | 71  |
-|  Refrigerante | Tipo |  | R410a | R410a  |
-|   | Carga | g | 2300 | 3000  |
-|  Tipo de expansión |  |  | Válvula de expansión electrónica | Válvula de expansión electrónica  |
-|  Tubo de refrigerante | Lado del líquido | (in)/mm | 3/8 - 9.52 | 3/8 - 9.52  |
-|   | Lado del gas | (in)/mm | 5/8 - 15.88 | 3/4 - 19.05  |
-|   | Longitud máxima de la tubería de refrigerante | m | 25 | 30  |
-|   | Diferencia máxima de nivel | m | 15 | 20  |
+<table>
+<tr>
+<th colspan="2">Modelo del sistema</th>
+<th></th>
+<th>ATI-T-CON3618FR</th>
+<th>ATI-T-CON6018FR</th>
+</tr>
+<tr>
+<td colspan="2">Fuente de alimentación</td>
+<td>$V / H z / P h$</td>
+<td>$2 0 8 \sim 2 3 0 V / 6 0 H z / 1 p h$</td>
+<td>$2 0 8 \sim 2 3 0 V / 6 0 H z / 1 p h$</td>
+</tr>
+<tr>
+<td colspan="2">Capacidad</td>
+<td>Btu/h</td>
+<td>36000</td>
+<td>60000</td>
+</tr>
+<tr>
+<td colspan="2">SEER</td>
+<td></td>
+<td>18</td>
+<td>18</td>
+</tr>
+<tr>
+<td colspan="2">Consumo Máximo</td>
+<td>W</td>
+<td>4400</td>
+<td>6700</td>
+</tr>
+<tr>
+<td rowspan="2">Presión máxima de funcionamiento (MPa)</td>
+<td>Descargar</td>
+<td>MPa</td>
+<td>4.2</td>
+<td>4.2</td>
+</tr>
+<tr>
+<td>Succión</td>
+<td>MPa</td>
+<td>1,5</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td rowspan="7">Compresor</td>
+<td>Marca</td>
+<td></td>
+<td>GMCC</td>
+<td>HIGHLY</td>
+</tr>
+<tr>
+<td colspan="2">Modelo</td>
+<td>KTM240D43UMT</td>
+<td>GTH420SKPC8DQ</td>
+</tr>
+<tr>
+<td colspan="2">Tipo</td>
+<td>Rotativo</td>
+<td>Rotativo</td>
+</tr>
+<tr>
+<td>Capacidad</td>
+<td>W</td>
+<td>7740</td>
+<td>11800</td>
+</tr>
+<tr>
+<td>Potencia</td>
+<td>W</td>
+<td>2065</td>
+<td>3580</td>
+</tr>
+<tr>
+<td>Corriente nominal (RLA)</td>
+<td>$A$</td>
+<td>9.4</td>
+<td>15.8</td>
+</tr>
+<tr>
+<td>Aceite refrigerante</td>
+<td>$m l$</td>
+<td>620</td>
+<td>1050</td>
+</tr>
+<tr>
+<td rowspan="7">Serpentín exterior</td>
+<td>Número de filas</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Espaciado de aletas</td>
+<td>mm</td>
+<td>1.2</td>
+<td>1.2</td>
+</tr>
+<tr>
+<td>Material de las aletas</td>
+<td></td>
+<td>Aleta de Aluminio Hidrófila</td>
+<td>Aleta de Aluminio Hidrófila</td>
+</tr>
+<tr>
+<td>Diámetro exterior del tubo</td>
+<td>mm</td>
+<td>45</td>
+<td>45</td>
+</tr>
+<tr>
+<td>Material del tubo</td>
+<td></td>
+<td>Tubo de cobre con ranurado interior</td>
+<td>Tubo de cobre con ranurado interior</td>
+</tr>
+<tr>
+<td>Longitud x altura x ancho de la bobina</td>
+<td>mm</td>
+<td>2187×585×23.2</td>
+<td>2187×800×23.2</td>
+</tr>
+<tr>
+<td colspan="2">Número de circuitos</td>
+<td>4</td>
+<td>10</td>
+</tr>
+<tr>
+<td rowspan="5">Motor exterior</td>
+<td>Tipo de motor</td>
+<td></td>
+<td>Motor DC</td>
+<td>Motor DC</td>
+</tr>
+<tr>
+<td>Marca</td>
+<td></td>
+<td>BROADOCEAN</td>
+<td>BROADOCEAN</td>
+</tr>
+<tr>
+<td colspan="2">Modelo</td>
+<td>ZW511D000018L</td>
+<td>ZW511D000018L</td>
+</tr>
+<tr>
+<td>Capacitor</td>
+<td>mF</td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td>Velocidad</td>
+<td>rpm</td>
+<td>1000</td>
+<td>1050</td>
+</tr>
+<tr>
+<td colspan="2">Flujo de aire exterior</td>
+<td>$m 3 / h$</td>
+<td>5500</td>
+<td>7000</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de ruido exterior</td>
+<td>$d B \left( A \right)$</td>
+<td>61</td>
+<td>62</td>
+</tr>
+<tr>
+<td rowspan="2">Dimensiones exteriores</td>
+<td>Unidad $\left( A n \times A l \times P r \right)$</td>
+<td>mm</td>
+<td>$7 4 0 \times 6 3 3 \times 7 4 0$</td>
+<td>740×843×740</td>
+</tr>
+<tr>
+<td>Embalaje $\left( A n \times A l \times P r \right)$</td>
+<td>mm</td>
+<td>$7 6 9 \times 6 5 6 \times 7 6 9$</td>
+<td>$7 6 9 \times 8 6 5 \times 7 6 9$</td>
+</tr>
+<tr>
+<td rowspan="2">Peso exterior</td>
+<td>Neto</td>
+<td>$k g$</td>
+<td>52</td>
+<td>66</td>
+</tr>
+<tr>
+<td>Bruto</td>
+<td>kg</td>
+<td>57</td>
+<td>71</td>
+</tr>
+<tr>
+<td rowspan="2">Refrigerante</td>
+<td>Tipo</td>
+<td></td>
+<td>R410a</td>
+<td>R410a</td>
+</tr>
+<tr>
+<td>Carga</td>
+<td>g</td>
+<td>2300</td>
+<td>3000</td>
+</tr>
+<tr>
+<td colspan="2">Tipo de expansión</td>
+<td></td>
+<td>Válvula de expansión electrónica</td>
+<td>Válvula de expansión electrónica</td>
+</tr>
+<tr>
+<td rowspan="4">Tubo de refrigerante</td>
+<td>Lado del líquido</td>
+<td>(In)/mm</td>
+<td>$3 / 8 \quad - \quad 9 , 5 2$</td>
+<td>$3 / 8 \quad - \quad 9 , 5 2$</td>
+</tr>
+<tr>
+<td>Lado del gas</td>
+<td>$\left( \ln \right) / m m$</td>
+<td>$5 / 8 \quad - \quad 1 5 . 8 8$</td>
+<td>$3 / 4 \quad - \quad 1 9 . 0 5$</td>
+</tr>
+<tr>
+<td>Longitud máxima de la tubería de refrigerante</td>
+<td>$m$</td>
+<td>25</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Diferencia máxima de nivel</td>
+<td>$m$</td>
+<td>15</td>
+<td>20</td>
+</tr>
+</table>
 
-Elegancia, calidad y versatilidad en tus espacios diarios. www.adinausa.com
+Elegancia, calidad y versatilidad en tus espacios diarios.
+www.adinausa.com
+

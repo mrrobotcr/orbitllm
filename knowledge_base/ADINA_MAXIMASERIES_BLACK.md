@@ -1,99 +1,500 @@
 # ADINA_MAXIMASERIES_BLACK.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+# Máxima SERIES BLACK
 
-# 26: 
-
-![img-1.jpeg](img-1.jpeg)
+Los equipos ADINA - MAXIMA
+SERIES - BLACK funcionan
+con Wifi incorporado. La
+unidad se podrá controlar a
+través del móvil o tablet,
+descargando su app gratuita.
+Más todas las grandes
+ventajas y estilo que nos
+ofrecen los equipos ADINA.
 
 ## ¡EFICIENCIA Y TECNOLOGÍA EN LA PALMA DE TU MANO!
 
-![img-2.jpeg](img-2.jpeg)
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# Especificaciones técnicas
+<!-- PageHeader="Especificaciones técnicas" -->
+<!-- PageHeader="Máxima SERIES" -->
 
-## Maxima BLACK SERIES
+<table>
+<tr>
+<th colspan="6"></th>
+</tr>
+<tr>
+<th colspan="2"></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td colspan="2" rowspan="2"></td>
+<td></td>
+<td>1200512017-190351</td>
+<td>11000/1095 211551</td>
+<td></td>
+</tr>
+<tr>
+<td>₩</td>
+<td></td>
+<td></td>
+<td>7030/1300-73001</td>
+</tr>
+<tr>
+<td colspan="2">Capacidad cake Fra Torriani</td>
+<td></td>
+<td></td>
+<td></td>
+<td>HA</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>W</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>1130/324</td>
+<td>11.45 335</td>
+<td>1116/ 3.35</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">BEER</td>
+<td></td>
+<td>20</td>
+<td>20</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Eliminación te humedad</td>
+<td></td>
+<td>13</td>
+<td></td>
+<td>22</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>45</td>
+<td>45</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>42</td>
+<td>4</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td></td>
+<td>#</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>HP</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>208-230V-BURG</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>163-200</td>
+<td>165-205</td>
+<td>108 235</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>10 0(1 7-14)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>₩</td>
+<td>1020(230-15009</td>
+<td></td>
+<td>21001720-01001</td>
+</tr>
+<tr>
+<td></td>
+<td>Coatracción</td>
+<td>W</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>A</td>
+<td></td>
+<td>110</td>
+<td>140</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>N</td>
+<td></td>
+<td>NA</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>₩</td>
+<td></td>
+<td>5000</td>
+<td>270</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>W</td>
+<td></td>
+<td>NA</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Gnima</td>
+<td>14104720- 35 4002</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>CAR2145H DJ</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Tiện</td>
+<td></td>
+<td></td>
+<td></td>
+<td>HECHT</td>
+</tr>
+<tr>
+<td colspan="4"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>1050</td>
+<td>1450</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1200/1000/200</td>
+<td>1200/1000/040</td>
+<td>1050050000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>HA</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>800</td>
+<td>550</td>
+<td>505</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>₩</td>
+<td>23</td>
+<td></td>
+<td>45</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>Felice</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Melecittad del ventilador polenta</td>
+<td></td>
+<td></td>
+<td>1000</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>₩</td>
+<td>33</td>
+<td>62</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="6"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tị bạn de conexión</td>
+<td>Liquido</td>
+<td>inche</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Tubono do oriale</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1010-815-220</td>
+<td>1168-340-25#</td>
+</tr>
+<tr>
+<td></td>
+<td>Estanor</td>
+<td></td>
+<td>777-200-498</td>
+<td></td>
+<td>020-880-400</td>
+</tr>
+<tr>
+<td>Fred nato</td>
+<td></td>
+<td>kg</td>
+<td></td>
+<td></td>
+<td>I</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>A</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1090-390-207</td>
+<td>1262-420-337</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>819:125.520</td>
+<td></td>
+<td>040-430-732</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>11</td>
+<td>H</td>
+<td>21</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>kg</td>
+<td></td>
+<td></td>
+<td>H</td>
+</tr>
+</table>
 
-|  Tipo de control |  | 12K-295EER | 18K-295EER | 24K-295EER  |
-| --- | --- | --- | --- | --- |
-|  Capacidad de refrigeración nominal |  | 12000(2047-13625) | 18000(6095-21155) | 24000(4606-24900)  |
-|   |  | 3517(600-3700) | 5275(1200-6200) | 7030(1350-7300)  |
-|  Capacidad calefífica nominal |  | N/A | N/A | N.A  |
-|   |  | N/A | N/A | N.A  |
-|  EER para refrigeración |  | W/W | 11.60-3.45 | 11.45-3.35  |
-|  COP para calefacción |  | W/W | N/A | N.A  |
-|  SEER |  | Btu / W | 20 | 20  |
-|  Clasificación HSPF (Región IV) |  |  | N/A | N/A  |
-|  Eliminación de humedad |  | Litros/h | 1.3 | 1.5  |
-|  Presión |  | MPa | 4.5 | 4.5  |
-|   | Baja (SP) | MPa | 1.9 | 1.9  |
-|  Nivel de ruido interior en la refrigeración |  | 48(A) | 39 | 48  |
-|   | Med. | 85(A) | 35 | 42  |
-|   | Baja | 85(A) | 30 | 37  |
-|  Nivel de ruido exterior |  | 85(A) | 52 | 53  |
-|  Datos eléctricos |  |  |  |   |
-|  Nivel de ruido exterior |  |  | 208-230V-80Hz | 208-230V-80Hz  |
-|  Rango de voltaje |  | V | 165-265 | 165-265  |
-|  Comente nominal | Enfriamiento | A | 4.8(1.0-7.9) | 7.5(1.6-11)  |
-|   | Calefacción | A | 4.8 | N/A  |
-|  Entrada nominal | Enfriamiento | W | 1520(220-1500) | 1570(250-2590)  |
-|   | Calefacción | W | N/A | N/A  |
-|  Comente máxima | Enfriamiento | A | 7.0 | 11.0  |
-|   | Calefacción | A | N/A | N/A  |
-|  Entrada de potencia máxima | Enfriamiento | W | 1540 | 2590  |
-|   | Calefacción | W | N/A | N/A  |
-|  Sistema de refrigeración |  |  |  |   |
-|  Refrigerante / Carga |  | Gramo | R410A/720g 25.400Z | R410A/950g 33.55sz  |
-|   |  |  | R0900032UEZ | C-6RZ146H1DJ  |
-|  Compresor | MFO |  | OMCC | 546WD  |
-|   | Tipo |  | Rotativo | Rotativo  |
-|  Sistema de ventiladores |  |  |  |   |
-|  Capacidad de aire interno (refrigeración/calefacción) |  | m³/h | 650 | 1000  |
-|  Tipo de ventilador interior |  |  | Flujo cruzado | Flujo cruzado  |
-|   | Enfriamiento | rpm | 1200/1800/800 | 1200/1000/800  |
-|  Velocidad del ventilador en interiores H/ML | Calefacción | rpm | N/A | N/A  |
-|   | Geco | rpm | 650 | 650  |
-|   | Reposo | rpm | 650 | 650  |
-|  Salida del motor del ventilador interior |  | W | 25 | 45  |
-|  Tipo de ventilador exterior |  |  | Heliox | Heliox  |
-|  Velocidad del ventilador exterior |  | rpm | 900/850/810/810/510 | 1000  |
-|  Salida del motor del ventilador exterior |  | W | 33 | 52  |
-|  Generadores |  |  |  |   |
-|  Tubería de conexión | Gais | Inches | 95/52 (3/8") | 99/52 (3/8")  |
-|   | Líquido | Inches | 96(1/4") | 96(1/4")  |
-|  Tubería de drenaje |  |  | O.D 16mm | O.D 16mm  |
-|  Otros |  |  |  |   |
-|  Zona adecuada |  |  |  |   |
-|  Dimensiones netas (N x D x H) | Interior | mm | 811-292-203 | 1010-315-220  |
-|   | Exterior | mm | 777-290-498 | 653-349-602  |
-|  Peso neto | Interior | kg | 8.9 | 13  |
-|   | Exterior | kg | 24 | 31  |
-|  Dimensiones del embalse (N x D x H) | Interior | mm | 595-366-275 | 1096-390-297  |
-|   | Exterior | mm | 519-325-920 | 990-395-928  |
-|  Peso bruto | Interior | kg | 11 | 16  |
-|   | Exterior | kg | 29 | 35  |
+# Tecnología ADINA INVERTERS
 
-![img-3.jpeg](img-3.jpeg)
+Nuestra tecnologia Inverter regula el
+funcionamiento del compresor en
+nuestros equipos de forma que trabajen
+a una velocidad más constante, lo que
+permite un gran ahorro de energía.
 
 # Tecnología ADINA
 
-Sin comprometer el confort que un aire acondicionado Adina puede proveer, la compañía se ha comprometido con el medio ambiente. De esta manera, se propuso a implementar el refrigerante R- 410A, el cual se encarga de reducir el consumo energético mientras mantiene la confortable temperatura de la habitación. Así se logra una sensación de bienestar y descanso donde un aire acondicionado Adina está climatizando.
+Sin comprometer el confort que
+un aire acondicionado Adina
+puede proveer, la compañía se
+ha comprometido con el medio
+ambiente. De esta manera, se
+propuso a implementar el
+refrigerante R- 410A, el cual se
+encarga de reducir el consumo
+energético mientras mantiene la
+confortable temperatura de la
+habitación. Asi se logra una
+sensación de bienestar y
+descanso
+donde un
+aire
+acondicionado Adina
+está
+climatizando:
 
-![img-4.jpeg](img-4.jpeg)
-
-¡Eficiencia y tecnología en la palma de tu mano!
+¡Eficiencia y tecnología en la
+palma de tu mano!
 
 www.adinausa.com
 
-![img-5.jpeg](img-5.jpeg)
-
-![img-6.jpeg](img-6.jpeg)

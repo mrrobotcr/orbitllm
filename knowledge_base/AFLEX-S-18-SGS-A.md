@@ -1,13 +1,11 @@
 # AFLEX-S-18-SGS-A.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
-
-![img-1.jpeg](img-1.jpeg)
+VAGHEC 12065:1011
+BỘ CHỈ 00
 
 SGS COLOMBIA S.A.S.
 C&P-F490101
@@ -15,6 +13,7 @@ ORDEN No. 4200-41892
 CERTIFICADO No. CRS25146
 ORDEN CERT. No. CO-CERT240400223-33
 CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+
 Adina Appliances S.A
 Complejo industrial Panama viejo Busines Galera G17 Panama Viejo, Panama
 
@@ -39,7 +38,9 @@ Resultados obtenidos: CONFORME
 
 Autorizado por:
 
-Camilo Ramírez
+SGS COLOMBIA S.A.S.
+
+Camilo Ramirez
 SGS Colombia S.A.S.
 Carrera 100 No. 25C-11, Bodega 3
 Bogotá D.C., Colombia
@@ -47,39 +48,124 @@ Bogotá D.C., Colombia
 Fecha de Emisión: 2024-04-04
 Fecha de Vencimiento: 2027-04-04
 Versión 1
-Sublicencia emitida desde 2025-01-31
-Página 1 de 2
 
 La vigencia de la presente sublicencia está ligada al certificado origen CRS23328
 
-![img-2.jpeg](img-2.jpeg)
+Any complaint, appeal or enquiry about the validity of this certificate/report may be sent to
+co.servicioalcliente@sgs.com, via phone No. (+57) 6016069292 and its validity can be
+checked at https://www.sgs.com/en/certified-clients-and-products.
+
+This document is issued by the Company under its General Conditions of Service
+accessible at http://www.sgs.com/terms and conditions.htm. Attention is drawn to the
+limitation of liability, indemnification and jurisdiction issues defined therein.
+
+Any holder of this document is advised that information contained hereon reflects the
+Company's findings at the time of its intervention only and within the limits of Client's
+instructions, if any. The Company's sole responsibility is to its client and this document
+does not exonerate parties to a transaction from exercising all their rights and obligations
+under the transaction documents. Any unauthorized alteration, forgery or falsification of
+the content or appearance of this document is unlawful, and offenders may be prosecuted
+to the fullest extent of the law.
+
+<!-- PageFooter="C&P-C-06-05 V.7 febrero 2023" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-![img-3.jpeg](img-3.jpeg)
 
-![img-4.jpeg](img-4.jpeg)
+SGS COLOMBIA S.A.S.
+C&P-F490101
+ORDEN No. 4200-41892
+CERTIFICADO No. CRS25146
+ORDEN CERT. No. CO-CERT240400223-33
+CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+Adina Appliances S.A
+Complejo industrial Panama viejo Busines Galera G17 Panama Viejo, Panama
+Acondicionadores de alre tipo dividido de velocidad hija, descarga libre y sin ductos de alre
 
-# SGS COLOMBIA S.A.S.
+<table>
+<tr>
+<th>UNIDAD EVAPORADORA</th>
+<th>UNIDAD CONDENSADORA</th>
+<th>CAPACIDAD DE ENFRIAMIENTO (</th>
+<th>TIPO DE ARTEFACTO</th>
+<th>REEE ESTABLECIDA EN NORMA (WUW=)</th>
+<th>REEE DE ESTE EQUIPO (wwwe)</th>
+<th>AHORRO DE ENERGIA</th>
+<th>TEST REPORT</th>
+<th>MARCA</th>
+</tr>
+<tr>
+<td>AFLEX STOT</td>
+<td>AFLEX S 15 E</td>
+<td>5275</td>
+<td>Mii Soll</td>
+<td>0,52</td>
+<td>3,91</td>
+<td>11.1</td>
+<td>AHEE240100002051</td>
+<td>ADINA</td>
+</tr>
+</table>
 
-C&P-F490101 ORDEN No. 4200-41892 CERTIFICADO No. CRS25146 ORDEN CERT. No. CO-CERT240400223-33 CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+<table>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-Adina Appliances S.A Complejo industrial Panama viejo Busines Galera G17 Panama Viejo, Panama Acondicionadores de aire tipo dividido de velocidad fija, descarga libre y sin ductos de aire
+# DACIENCIA ENERGETICA
 
-|  UNIDAD EVAPORADORA | UNIDAD CONDENSADORA | CAPACIDAD DE ENFRIAMIENTO (W) | TIPO DE ARTEFACTO | REEE ESTABLECIDA EN NORMA (W/W) | REEE DE ESTABLECIDA EN NORMA (W/W) | AHORRO DE ENERGÍA (%) | TEST REPORT | MARCA  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  AFLEX-S-18-I | AFLEX-S-18-E | 5275 | Nire Spill | 3,52 | 2,91 | 11,1 | AMEE240100002051 | ADINA  |
+ACCHO CIONADORES DE ARE TO DIVIDIDO DE TELOCELADILMA
 
-![img-5.jpeg](img-5.jpeg)
+Relación da Etriendi Premioen Estacional (REHE)
 
-Fecha de Emisión: 2024-04-04 Fecha de Vencimiento: 2027-04-04 Versión 1 Subticiencia emitida desde 2025-01-31 Página 2 de 2
+Khong da Lòngà de điền quận
 
-![img-6.jpeg](img-6.jpeg)
+11,1%
 
-La vigencia de la presente sublicencia está ligada al certificado origen CRS25328
+IMPORTANTE
 
-![img-7.jpeg](img-7.jpeg)
+<table>
+<tr>
+<td></td>
+<td>1,3,52</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-![img-8.jpeg](img-8.jpeg)
+# FIN DEL DOCUMENTO
+
+Fecha de Emisión: 2024-04-04
+
+Fecha de Vencimiento: 2027-04-04
+Versión 1
+
+

@@ -1,89 +1,448 @@
 # AMAX-T-12-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-# Màxima SERIES 12K 
+Máxima
+SERIES
+12K
 
-![img-0.jpeg](img-0.jpeg)
+# Plano Explosionado Unidad Interior
 
-## Plano Explosionado
+<table>
+<tr>
+<th>No.</th>
+<th>No. de Parte</th>
+<th>Nombre de la Parte</th>
+<th>Q'ty</th>
+<th>Observación</th>
+</tr>
+<tr>
+<td>1</td>
+<td>41106-002054</td>
+<td>Panel frontal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>42008-000039</td>
+<td>Filtro de aire</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>41106-002375</td>
+<td>Marco de la cara</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>$4 1 2 0 1 - 0 0 0 0 6 8$</td>
+<td>Cubierta de caja eléctrica</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>$3 1 1 0 2 - 0 0 0 0 8 5$</td>
+<td>PCB de pantalla</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>42003-000001</td>
+<td>Caja de PCB de pantalla</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>$9 2 0 1 1 - 0 0 3 1 4 9$</td>
+<td>Evaporador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>41108-000066</td>
+<td>Tapa de tornillo</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>42004-000001</td>
+<td>Ventilador cruzado</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>42007-000001</td>
+<td>Montaje de rodamiento</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>22001-000267</td>
+<td>Motor interior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>41101-000242</td>
+<td>Fijador de tuberías de entrada y salida</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>42003-000051</td>
+<td>Cubierta de motor interior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>$4 1 1 0 5 - 0 0 0 1 0 4$</td>
+<td>Caja eléctrica</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>31101-000191</td>
+<td>PCB principal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>NO</td>
+<td>Transformador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>42001-000103</td>
+<td>Abrazadera de cable</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">18</td>
+<td>22001-000313</td>
+<td>Motor de paletas 1</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>$2 2 0 0 1 - 0 0 0 3 1 8$</td>
+<td>Motor de paletas 2</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>$4 1 1 0 1 - 0 0 0 0 8 7$</td>
+<td>Base</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>41103-000033</td>
+<td>Conjunto de paletas verticales</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>$4 1 1 0 3 - 0 0 0 1 0 2$</td>
+<td>Veleta</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>$2 2$</td>
+<td>41109-000041</td>
+<td>Placa de instalación</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>$1 0 1 0 4 - 1 0 0 0 1 4$</td>
+<td>Conjunto de sensor interior</td>
+<td>1</td>
+<td rowspan="7">No se muestra en la vista de explosión.</td>
+</tr>
+<tr>
+<td>24</td>
+<td>22013-000237</td>
+<td>Control remoto</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25</td>
+<td>32001-000094</td>
+<td>WiFi</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>42009-000011</td>
+<td>Manguera de drenaje</td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td>$A 1 1 0 1 - 0 0 1 8 2 3$</td>
+<td>Cartón interior</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td>41110-000230</td>
+<td>Espuma izquierda</td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td>41110-000274</td>
+<td>Espuma derecha</td>
+<td></td>
+</tr>
+</table>
 
-Unidad Interior
+<!-- PageBreak -->
 
-| No. | No. de Parte | Nombre de la Parte | Q'ty | Observación |
-| :--: | :--: | :--: | :--: | :--: |
-| 1 | 41106-002054 | Panel frontal | 1 |  |
-| 2 | 42008-000039 | Filtro de aire | 2 |  |
-| 3 | 41106-002375 | Marco de la cara | 1 |  |
-| 4 | 41201-000068 | Cubierta de caja eléctrica | 1 |  |
-| 5 | 31102-000085 | PCB de pantalla | 1 |  |
-| 6 | 42003-000001 | Caja de PCB de pantalla | 1 |  |
-| 7 | 92011-003149 | Evaporador | 1 |  |
-| 8 | 41108-000066 | Tapa de tornillo | 2 |  |
-| 9 | 42004-000001 | Ventilador cruzado | 1 |  |
-| 10 | 42007-000001 | Montaje de rodamiento | 1 |  |
-| 11 | 22001-000267 | Motor interior | 1 |  |
-| 12 | 41101-000242 | Fijador de tuberías de entrada y salida | 1 |  |
-| 13 | 42003-000051 | Cubierta de motor interior | 1 |  |
-| 14 | 41105-000104 | Caja eléctrica | 1 |  |
-| 15 | 31101-000191 | PCB principal | 1 |  |
-| 16 | NO | Transformador | 1 |  |
-| 17 | 42001-000103 | Abrazadera de cable | 1 |  |
-| 18 | 22001-000313 | Motor de paletas 1 | 1 |  |
-|  | 22001-000318 | Motor de paletas 2 | 1 |  |
-| 19 | 41101-000087 | Base | 2 |  |
-| 20 | 41103-000033 | Conjunto de paletas verticales | 1 |  |
-| 21 | 41103-000102 | Veleta | 1 |  |
-| 22 | 41109-000041 | Placa de instalación | 1 |  |
-| 23 | 10104-100014 | Conjunto de sensor interior | 1 | No se muestra en la vista de explosión. |
-| 24 | 22013-000237 | Control remoto | 1 |  |
-| 25 | 32001-000094 | WiFi |  |  |
-| 26 | 42009-000011 | Manguera de drenaje |  |  |
-| 27 | A1101-001823 | Cartón interior |  |  |
-| 28 | 41110-000230 | Espuma izquierda |  |  |
-| 29 | 41110-000274 | Espuma derecha |  |  |
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# Máxima SERIES 12K 
+Máxima
+SERIES
+12K
 
-## Plano Explosionado Unidad Exterior
+Plano Explosionado
+Unidad Exterior
 
-![img-1.jpeg](img-1.jpeg)
-
-| No. | No. de Parte | Nombre de la Parte | Q'ty | Observación |
-| :--: | :--: | :--: | :--: | :--: |
-| 1 | 42011-000183 | Reja | 1 | Opcional |
-| 2 | 41207-000029 | Cubierta superior | 1 |  |
-| 3 | 92011-000797 | Condensador | 1 |  |
-| 4 | 41203-000053 | Soporte de motor al aire libre | 1 |  |
-| 5 | 22001-000049 | Motor al aire libre | 1 |  |
-| 6 | 42004-000107 | Ventilador de hélice | 1 |  |
-| 7 | 41205-000133 | Soporte de rejilla izquierda | 1 |  |
-| 8 | 41206-000054 | Placa frontal | 1 |  |
-| 9 | 42011-000088 | Protector del ventilador | 1 |  |
-| 10 | 92007-009177 | Montaje capilar | 1 |  |
-| 11 | 92014-000142 | Compresor | 1 |  |
-| 12 | 92006-000478 | Tubería de descarga | 1 |  |
-| 13 | 92007-005363 | Tubo de succión | 1 |  |
-| 14 | 41202-000177 | Base | 1 |  |
-| 15 | 92008-000051 | Válvula bidireccional | 1 |  |
-| 16 | 41204-000018 | Soporte de válvula | 1 |  |
-| 17 | 92007-001041 | Válvula de tres vías | 1 |  |
-| 18 | 41205-000206 | Placa Derecha | 1 |  |
-| 19 | 41201-000029 | Cubierta de la caja eléctrica | 1 |  |
-| 20 | 42001-000038 | Abrazadera de cable | 1 |  |
-| 21 | 11304-100017 | Terminal | 1 |  |
-| 22 | 31201-001063 | Montaje de PCB al aire libre | 1 |  |
-| 23 | 22011-000002 | Inductor | 1 |  |
-| 24 | 41208-000141 | Placa divisoria | 1 |  |
-| 25 | 10104-100047 | Montaje de sensores exteriores | 1 | No se muestra en la vista de explosión. |
-| 26 | A1201-001927 | Gabinete cartón | 1 |  |
-| 27 | A2005-000530 | Base cartón | 1 |  |
-| 28 | A1202-000039 | Espuma base | 1 |  |
-| 29 | 41213-000030 | Cubierta de espuma | 1 |  |
+<table>
+<tr>
+<th>No.</th>
+<th>No. de Parte</th>
+<th>Nombre de la Parte</th>
+<th>Q'ty</th>
+<th>Observación</th>
+</tr>
+<tr>
+<td>1</td>
+<td>42011-000183</td>
+<td>$R e j a$</td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>2</td>
+<td>41207-000029</td>
+<td>Cubierta superior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>92011-000797</td>
+<td>Condensador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>41203-000053</td>
+<td>Soporte de motor al aire libre</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>22001-000049</td>
+<td>Motor al aire libre</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>42004-000107</td>
+<td>Ventilador de hélice</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>41205-000133</td>
+<td>Soporte de rejilla izquierda</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>41206-000054</td>
+<td>Placa frontal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>42011-000088</td>
+<td>Protector del ventilador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>92007-009177</td>
+<td>Montaje capilar</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>92014-000142</td>
+<td>Compresor</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>92006-000478</td>
+<td>Tubería de descarga</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>92007-005363</td>
+<td>Tubo de succión</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>41202-000177</td>
+<td>Base</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>92008-000051</td>
+<td>Válvula bidireccional</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>41204-000018</td>
+<td>Soporte de válvula</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>92007-001041</td>
+<td>Válvula de tres vías</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>41205-000206</td>
+<td>Placa Derecha</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>41201-000029</td>
+<td>Cubierta de la caja eléctrica</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>42001-000038</td>
+<td>Abrazadera de cable</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>11304-100017</td>
+<td>Terminal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>31201-001063</td>
+<td>Montaje de PCB al aire libre</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>22011-000002</td>
+<td>Inductor</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>$4 1 2 0 8 - 0 0 0 1 4 1$</td>
+<td>Placa divisoria</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>10104-100047</td>
+<td>Montaje de sensores exteriores</td>
+<td>1</td>
+<td rowspan="5">No se muestra en la vista de explosión.</td>
+</tr>
+<tr>
+<td>26</td>
+<td>A1201-001927</td>
+<td>Gabinete cartón</td>
+<td>1</td>
+</tr>
+<tr>
+<td>27</td>
+<td>A2005-000530</td>
+<td>$B a s e \quad c a r t n$</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28</td>
+<td>A1202-000039</td>
+<td>Espuma base</td>
+<td>1</td>
+</tr>
+<tr>
+<td>29</td>
+<td>$4 1 2 1 3 - 0 0 0 0 3 0$</td>
+<td>Cubierta de espuma</td>
+<td>1</td>
+</tr>
+</table>

@@ -1,44 +1,171 @@
 # CON-60-TITAN-MY24-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+Plano Explosionado
+Unidad Exterior (Modelo Inverter)
+60K
 
-# **Plano Explosionado**
+TITAN
+SERIES
 
-## Unidad Exterior (Modelo Inverter)
+<table>
+<tr>
+<th>$N o$</th>
+<th>Nombre de la parte</th>
+<th>Código</th>
+<th>Q'ty</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Marco de soporte</td>
+<td>RO45801-000032</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Tapa superior</td>
+<td>RO45007-000044</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Conjunto de soporte del motor</td>
+<td>RO45005-000272</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Motores de corriente continua sin escobillas</td>
+<td>RO25001-000428</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Piezas de la caja de control eléctrico</td>
+<td>RO35001-000743</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5,1</td>
+<td>Conjunto de la placa de montaje de control electrónico (panel superior)</td>
+<td>RO43301-000043</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5,2</td>
+<td>Soporte (bloque de terminales)</td>
+<td>R046701-000077</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5,3</td>
+<td>Radiador</td>
+<td>R011901-100088</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5,4</td>
+<td>Caja de control eléctrico</td>
+<td>RO45006-001384</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5,5</td>
+<td rowspan="2">Bloques de terminales</td>
+<td>RO35005-000075</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5,6</td>
+<td>RO35005-000166</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5,7</td>
+<td>Placa del módulo de conversión de frecuencia</td>
+<td>RO35001-000727</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Conjunto válvula de expansión electrónica</td>
+<td>RO95015-001941</td>
+<td>1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Bobina de la válvula de expansión electrónica</td>
+<td>RO25009-000121</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Conjunto válvula de baja presión</td>
+<td>RO95015-001968</td>
+<td>1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Conjunto del tubo de escape</td>
+<td>R095015-001938</td>
+<td>1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Compresor</td>
+<td>RO95017-000205</td>
+<td>1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Columna de soporte</td>
+<td>R045801-000035</td>
+<td>3</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Panel lateral inferior</td>
+<td>RO45003-000361</td>
+<td>1</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Componentes del chasis</td>
+<td>RO45004-000560</td>
+<td>1</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Placa de fijación derecha</td>
+<td>RO46101-000351</td>
+<td>1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Componentes del condensador</td>
+<td>R095003-004338</td>
+<td>1</td>
+</tr>
+<tr>
+<td>16</td>
+<td></td>
+<td>RO45008-000276</td>
+<td>1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>$\frac { \text { Defletor } } { \text { Tapa con control ele tronico } }$</td>
+<td>RO45006-001480</td>
+<td>1</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Aspas axiales</td>
+<td>RO45009-000057</td>
+<td>1</td>
+</tr>
+</table>
 
-### 60K
-
-![img-1.jpeg](img-1.jpeg)
-
-|  No | Nombre de la parte | Código | Q'ty  |
-| --- | --- | --- | --- |
-|  1 | Marco de soporte | R045801-000032 | 1  |
-|  2 | Tapa superior | R045007-000044 | 1  |
-|  3 | Conjunto de soporte del motor | R045005-000272 | 1  |
-|  4 | Motores de corriente continua sin escobillas | R025001-000428 | 1  |
-|  5 | Piezas de la caja de control eléctrico | R035001-000743 | 1  |
-|  5.1 | Conjunto de la placa de montaje de control electrónico (panel superior) | R043301-000043 | 1  |
-|  5.2 | Soporte (bloque de terminales) | R046701-000077 | 1  |
-|  5.3 | Radiador | R011901-100088 | 1  |
-|  5.4 | Caja de control eléctrico | R045006-001384 | 1  |
-|  5.5 | Bloques de terminales | R035005-000075 | 1  |
-|  5.6 |  | R035005-000166 | 1  |
-|  5.7 | Placa del módulo de conversión de frecuencia | R035001-000727 | 1  |
-|  6 | Conjunto válvula de expansión electrónica | R095015-001941 | 1  |
-|  7 | Bobina de la válvula de expansión electrónica | R025009-000121 | 1  |
-|  8 | Conjunto válvula de baja presión | R095015-001968 | 1  |
-|  9 | Conjunto del tubo de escape | R095015-001938 | 1  |
-|  10 | Compresor | R095017-000205 | 1  |
-|  11 | Columna de soporte | R045801-000035 | 3  |
-|  12 | Panel lateral inferior | R045003-000361 | 1  |
-|  13 | Componentes del chasis | R045004-000560 | 1  |
-|  14 | Placa de fijación derecha | R046101-000351 | 1  |
-|  15 | Componentes del condensador | R095003-004338 | 1  |
-|  16 | Deflector | R045008-000276 | 1  |
-|  17 | Tapa con control electrónico | R045006-001480 | 1  |
-|  18 | Aspas axiales | R045009-000057 | 1  |

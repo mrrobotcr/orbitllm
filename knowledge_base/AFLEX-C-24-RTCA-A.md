@@ -1,130 +1,231 @@
 # AFLEX-C-24-RTCA-A.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
 # CERTIFICADO DE CONFORMIDAD CERTIFICATE OF CONFORMITY
 
-**Certificado No./Certificate No.:** 4913647.04COC
-**Número de informe/Report No.:** 4913009.54
-**Fecha de la última revisión/Last revision date:** 2024-01-25
-**Fecha de emisión inicial/Initial issue date:** 2024-01-25
-**Fecha de próxima vigilancia/Next surveillance date:** 2025-01-25
-**Fecha de caducidad/Expiry date:** 2027-01-25
+DEKRA
 
-**Titular del certificado/Certificate Holder:**
-- **Nombre/Name:** ADINA APPLIANCES SA
-- **Dirección/Address:** Complejo Industrial Panama Viejo Business Galera G17 Panama Viejo, Panama 07188 Panama
+Certificado No,/Certificate No .:
+4913847.04COC
 
-**Fabricante/Manufacturer:**
-- **Nombre/Name:** ADINA APPLIANCES SA
-- **Dirección/Address:** Complejo Industrial Panama Viejo Business Galera G17 Panama Viejo, Panama 07188 Panama
+Número de informe/ Report No .:
 
-**Fabricante/Manufacturer:**
-- **Nombre/Name:** ADINA APPLIANCES SA
-- **Dirección/Address:** Complejo Industrial Panama Viejo Business Galera G17 Panama Viejo, Panama 07188 Panama
+4913009.54
 
-Este certificado de conformidad se basa en los resultados de una muestra del producto mencionado a continuación y es para verificar que la muestra evaluada cumplió con los requisitos mencionados a continuación, pero esto no implica la evaluación de otros productos con el mismo diseño que los evaluados. Además, esto no permite el uso de ninguna marca de conformidad de DEKRA.
+Fecha de la última revisión/Last revision date:
 
-This certificate of conformity is based on the results of a sample of the below-mentioned product and is to verify that the evaluated sample had complied with the below-mentioned requirements, but this does not imply assessment of other products with the same design to the evaluated item. In addition, this does not permit the use of any conformity marks of DEKRA.
+2024-01-25
 
-**Product/Product:** Fixed speed split type air conditioner / Airy accondicionado de velocidad fija
-**Marca/Trademark:** Adina
-**Identificación del producto evaluado/Identification of the product evaluated:**
-- **Tipo/Type:** AFLEX-C-24-LAFLEX-C-24-E
-- **No. De serie/Serial number:** Indoor: G30114204533716312150127; Outdoor: G38114203733717312150127; 7034 W (24000 BTU/h)
-- **Capacidad de enfriamiento:** 7034 W (24000 BTU/h)
-- **Cooling Capacity:** 1%
-- **El ahorro de energía/Energy:** 1%
+Fecha de emisión inicial/Initial issue date:
 
-**Procedimiento de pruebas/Test procedure:** RTCA 23.01.80:21
+2024-01-25
 
-**Norma aplicada/Applied Standard:** NOM-023-ENER-2018
+Fecha de caducidad/Expiry date: 2027-01-25
 
-**Observación/Remarks:** Este certificado está sujeto al esquema 5 de ISO/IEC 17067:2013. / This certificate is subjected to scheme 5 of ISO/IEC 17067:2013.
+Fecha de próxima vigilancia /Next surveillance dato:
+
+2025-01-25
+
+Titular del certificado/Certificate Holder
+
+Nombre/Name:
+
+ADINA APPLIANCES SA
+
+Dirección/Address:
+Complejo Industrial Panama Viejo Busines Galera G17 Panama Viejo, Panama
+07188 Panama
+
+Fabricante/Manufacturer
+
+Nombre.Name:
+
+Dirección/Address:
+
+Planta de fabricación/ Manufacturing Plant
+Nombre/Name
+
+Dirección/Address:
+
+Este certificado de conformidad se basa en los resultados de una muestra del producto mencionado a
+continuación y es para verificar que la muestra evaluada cumplió con los requisitos mencionados a continuación,
+pero esto no implica la evaluación de otros productos con el mismo diseño que los evaluados. Además, esto no
+permite el uso de ninguna marca de conformidad de DEKRA.
+
+This certificate of conformity is based on the results of a sample of the below-mentioned product and is to verify
+that the evaluated sample had complied with the below-mentioned requirements, but this does not imply
+assessment of other products with same design to the evaluated item. In addition, this does not permit the use of
+any conformity marks of DEKRA
+
+<table>
+<tr>
+<td colspan="3">Producto/Product: Fixed speed split type air conditioner / Aire acondicionado de velocidad fija Marca / Trademark: Adina Identificación del producto evaluado/ Identification of the product evaluated</td>
+</tr>
+<tr>
+<td>Tipo/ Type:</td>
+<td colspan="2">AFLEX-C-24-1.AFLEX-C-24-E</td>
+</tr>
+<tr>
+<td>No. De serie /Serial number</td>
+<td>Indoor; G30114204533716312150127, Outdoor,</td>
+<td>G36114203733717312160127</td>
+</tr>
+<tr>
+<td>Capacidad de enfriamiento /Cooling Capacity: El ahorro de energia Energy Saving:</td>
+<td colspan="2">7034 W (24000 BTUin) 1%</td>
+</tr>
+<tr>
+<td>Procedimiento de pruebas /Test procedure:</td>
+<td colspan="2">RTCA 23.01.80-21</td>
+</tr>
+<tr>
+<td>Norma aplicada /Applied Standard:</td>
+<td colspan="2">NOM-023-ENER-2018</td>
+</tr>
+</table>
+
+Observación / Remarks:
+
+Este certificado está sujeto al esquema 5 de ISO/IEC 17067:2013. / This certificate is subjected to scheme 5 of
+ISO/IEC 17067-2013.
 
 DEKRA Certification B.V.
 
 B.T.M Holtus
 Managing Director
+
 Nelson Coelho
 Certification Manager
 
-© Integral publication of this certificate and adjoining reports is allowed
+@ Integral publication of this certificate and adjoining reports is allowed
 
-DEKRA Certification B.V. Av. Gerónimo de Camargo, 2000 - Ressaca - Atibaia / SP - CEP 12944-000 - Brasil
-Tel.: +55 11 4418-7268 Webpage: https://dekra.com.br/pbhome/
+DEKRA Certification B.V. Av. Gerónimo de Camargo, 2000 - Ressaca - Abbaia / SP - CEP 12944-000 - Brasil
+Tel .: +55 11 4418-7288 Webpage: https://dekra.com.br/pt/home/
 
-DEKRA Certification B.V. Meander 1051, 6825 MJ Arnhem P.O. Box 5185, 6802 ED Arnhem, The Netherlands
-T +31 88 96 83000 F +31 88 96 83100 - https://www.dekra-product-safety.com - Company registration 09085396
+DEKRA Certification B.V. Meander 1051, 6825 MJ Amher P.O. Box 5185, 6802 ED Arnhem, The Netherlands
+T +31 86 96 83000 F +31 89 96 63100 - https://www.dakra-product safety.com - Company registration 09085396
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# ANEXO AL CERTIFICADO DE CONFORMIDAD
+<!-- PageHeader="ANEXO AL CERTIFICADO DE CONFORMIDAD ANNEX TO CERTIFICATE OF CONFORMITY" -->
 
-# ANNEX TO CERTIFICATE OF CONFORMITY
+Historial De Certificación/Certification History:
 
-## Historial De Certificación/Certification History:
+<table>
+<tr>
+<th>Fecha/Date</th>
+<th>Contenido/Content</th>
+<th>Certificado No./Certificate No.</th>
+</tr>
+<tr>
+<td colspan="2">2024-01-25 Emisión inicial/Initial issuance</td>
+<td>4913647.04COC</td>
+</tr>
+</table>
 
-|  Fecha/Date | Contenido/Content | Certificado No./Certificate No.  |
-| --- | --- | --- |
-|  2024-01-25 | Emisión inicial/Initial issuance | 4913647.04COC  |
+DEKRA
 
 ## AHORRO DE ENERGÍA / ENERGY SAVING:
 
-|  REEE de este equipo /Current REEE data for the equipment (Wt/We) (BTU/Wh) | REEE de este equipo Etiquetado en la etiqueta /Current REEE data for the equipment indicated on the label (Wt/We) (BTU/Wh) | REEE establecido en la Norma /REEE given by the standard /Regulation (Wt/We) (BTU/Wh)  |
-| --- | --- | --- |
-|  3.61/12 | 3.57/12.2 | 3.52/12  |
+<table>
+<tr>
+<th>REEE de este equipo /Current REEE data for the equipment (Wt/We) (BTU/Wh)</th>
+<th>REEE de este equipo Etiquetado en la etiqueta /Current REEE data for the equipment indicated on the label (Wt/We) (BTU/Wh)</th>
+<th>REEE establecido en la Norma /REEE given by the standard /Regulation (Wt/We) (BTU/Wh)</th>
+</tr>
+<tr>
+<td>3.61/12</td>
+<td>3.57/12.2</td>
+<td>3.52/12</td>
+</tr>
+</table>
 
-|  Potencia eléctrica / Power rating (W) | Ahorro de energía indicado en la etiqueta de consumo de energía / Indicated energy saving in the energy consumption's label [%] | Ahorro de energía / Energy saving [%]  |
-| --- | --- | --- |
-|  2131 | 1 | 2.6  |
+<table>
+<tr>
+<th>Potencia eléctrica / Power rating (W)</th>
+<th>Ahorro de energía indicado en la etiqueta de consumo de energía / Indicated energy saving in the energy consumption's label [%]</th>
+<th>Ahorro de energía / Energy saving [%]</th>
+</tr>
+<tr>
+<td>2131</td>
+<td>1</td>
+<td>2.6</td>
+</tr>
+</table>
 
-## Representative model-FOTO DE ETIQUETA / PHOTO OF LABEL:
+Representative model-FOTO DE ETIQUETA / PHOTO OF LABEL:
 
-### EFICIENCIA ENERGÉTICA
+EFICIENCIA ENERGÉTICA
+Relación de Eficiencia Energética Estacional (REEE)
+Determinada como se establece en el RTCA 23.01.80:21
 
-Relación de Eficiencia Energética Estacional (REEE) Determinada como se establece en el RTCA 23.01.80.21
+ACONDICIONADORES DE AIRE TIPO DIVIDIDO DE VELOCIDAD FIJA
 
-### ACONDICIONADORES DE AIRE TIPO DIVIDIDO DE VELOCIDAD FIJA
+<table>
+<tr>
+<th>Marca:</th>
+<th>ADINA</th>
+<th>Tipo:</th>
+<th>Minisplit</th>
+</tr>
+<tr>
+<td>Unidad evaporadora</td>
+<td>AFLEX-C-241</td>
+<td>Capacidad de enfriamiento:</td>
+<td>7034W(24000BTU1)</td>
+</tr>
+<tr>
+<td>Unidad condensadora:</td>
+<td>AFLEX-C-24-F</td>
+<td>Potencia Hectrica:</td>
+<td>2131W</td>
+</tr>
+</table>
 
-|  Marca: | AD/NA | Tipo: | Min/split  |
-| --- | --- | --- | --- |
-|  Unidad evaporadora: | AFLEX-C-24-I | Capacidad de enfriamiento: | 7034W(24000BTU/h)  |
-|  Unidad condensadora: | AFLEX-C-24-E | Potencia Eléctrica: | 2131W  |
+Compare el consumo de energía de este equipo con otros del mismo tipo
+antes de comprar
 
-Compare el consumo de energía de este equipo con otros del mismo tipo antes de comprar.
+Relación de Eficiencia Energética Estacional (REEE)
 
-### Relación de Eficiencia Energética Estacional (REEE)
+<table>
+<tr>
+<td rowspan="2">REEE establecido en este RTCA:</td>
+<td>(WI/We)</td>
+<td>3,52</td>
+</tr>
+<tr>
+<td>(BTW/hW)</td>
+<td>(12)</td>
+</tr>
+<tr>
+<td rowspan="2">REEE de este equipo:</td>
+<td>(WI/We)</td>
+<td>3,57</td>
+</tr>
+<tr>
+<td>(BTU/W)</td>
+<td>(12,2)</td>
+</tr>
+</table>
 
-|  REEE establecido en este RTCA: | (Wt/We) | 3.52  |
-| --- | --- | --- |
-|   | (BTU/Wh) | (12)  |
-|  REEE de este equipo: | (Wt/We) | 3.57  |
-|   | (BTU/Wh) | (12.2)  |
+Ahorro de Energía de este Equipo
 
-### Ahorro de Energía de este Equipo
+## IMPORTANTE
 
-1%
+El ahorro de energia real dependerá de los usos y hábitos del usuario, asi como de la
+localización del equipo.
 
-- 0%
-- 10%
-- 20%
-- 30%
-- 40%
-- 50%
-- 60%
-- 70%
-- 80%
-- 90%
-- 100%
+La etiqueta no debe retirarse del producto hasta que haya sido adquirido por el
+consumidor final
 
-### IMPORTANTE
+<!-- PageNumber="Page 2 of 2" -->
 
-El ahorro de energía real dependerá de los usos y hábitos del usuario, así como de la localización del equipo.
-
-La etiqueta no debe retirarse del producto hasta que haya sido adquirido por el consumidor final.

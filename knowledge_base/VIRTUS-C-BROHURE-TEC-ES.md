@@ -1,184 +1,760 @@
 # VIRTUS-C-BROHURE-TEC-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+ADINA®
+®
+Air Conditioning
 
-# AÑINA 
+Virtus
 
-## AÑINA
+Virtus
+SERIES
 
-## Virtus
+# Máxima Eficiencia SEER 22
 
-## R32
+Nuestra línea de Mini Split serie VIRTUS
+combina un diseño moderno y elegante
+que se adapta a cualquier espacio. Con
+conexión WiFi incorporada, permite control
+remoto y optimización del rendimiento. Su
+estructura ligera y discreta proporciona un
+ambiente climatizado y sofisticado.
 
-## Máxima Eficiencia SEER 22
+¡Descubre la perfecta armonía con la
+Línea VIRTUS de ADINA!
 
-Nuestra línea de Mini Split série VIRTUS combina un diseño moderno y elegante que se adapta a cualquier espacio. Con conexión WiFi incorporada, permite control remoto y optimización del rendimiento. Su estructura ligera y discreta proporciona un ambiente climatizado y sofisticado.
-¡Descubre la perfecta armonía con la Línea VIRTUS de ADINA!
+<!-- PageBreak -->
 
-Comfort de frecuencia ultratapa
-Recordatorio de eliminación de polvo
-Pantalla LED oculta
-Arranque suave
-Prueba de moho
-Temporizador de 24 horas
-Botón de Emergencia
 
-## eCÓ
-
-## VIRITUS
-
-## eCÓ
-
-## VIRTUS
-
-## QWERTIER
-
-## VIRTUS de ADINA
-
-¡Elegancia y Control en Cada Espacio!
 
 ================================================================================
 PAGE 2
 ================================================================================
 
+
 # Especificaciones Técnicas
 
-|  Modelo del Sistema |  |  | VIRTU-C-1222 | VIRTU-C-12110 | VIRTU-C-1822 | VIRTU-C-2422  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  Modelo Unidad Interior |  |  | VIRTU-C-1222-I | VIRTU-C-12110-I | VIRTU-C-1822-I | VIRTU-C-2422-I  |
-|  Modelo Unidad Exterior |  |  | VIRTU-C-1222-E | VIRTU-C-12110-E | VIRTU-C-1822-E | VIRTU-C-2422-E  |
-|  Tipo de Equipo |  |  | Split | Split | Split | Split  |
-|  Modo de Fuente de Alimentación |  |  | Interior | Interior | Interior | Interior  |
-|  Tipo de Control |  |  | Remoto | Remoto | Remoto | Remoto  |
-|  Eficiencia (SEER) |  |  | (Btu/h)/W | 22 | 22 | 22  |
-|  Refrigeración | Capacidad |  | BTU | 12,000 | 12,000 | 18,000  |
-|  Eliminación de Humedad |  |  | L/h | 1,2 | 1,2 | 1,8  |
+Virtus
+
+SERIES
+
+<table>
+<tr>
+<th></th>
+<th colspan="2">Modelo del Sistema</th>
+<th>VIRTU-C-1222</th>
+<th>VIRTU-C-12110</th>
+<th>VIRTU-C-1822</th>
+<th>VIRTU-C-2422</th>
+</tr>
+<tr>
+<th></th>
+<th colspan="2">Modelo Unidad Interior</th>
+<th>VIRTU-C-1222-I</th>
+<th>VIRTU-C-12110-I</th>
+<th>VIRTU-C-1822-I</th>
+<th>VIRTU-C-2422-I</th>
+</tr>
+<tr>
+<th></th>
+<th colspan="2">Modelo Unidad Exterior</th>
+<th>VIRTU-C-1222-E</th>
+<th>VIRTU-C-12110-E</th>
+<th>VIRTU-C-1822-E</th>
+<th>VIRTU-C-2422-E</th>
+</tr>
+<tr>
+<td>Tipo de Equipo</td>
+<td colspan="2"></td>
+<td>Split</td>
+<td>Split</td>
+<td>Split</td>
+<td>Split</td>
+</tr>
+<tr>
+<td colspan="3">Modo de Fuente de Alimentación</td>
+<td>Interior</td>
+<td>Interior</td>
+<td>Interior</td>
+<td>Interior</td>
+</tr>
+<tr>
+<td>Tipo de Control</td>
+<td colspan="2"></td>
+<td>Remoto</td>
+<td>Remoto</td>
+<td>Remoto</td>
+<td>Remoto</td>
+</tr>
+<tr>
+<td>Eficiencia (SEER)</td>
+<td></td>
+<td>(Btu/h)/W</td>
+<td>22</td>
+<td>22</td>
+<td>22</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Refrigeración</td>
+<td>Capacidad</td>
+<td>BTU</td>
+<td>12,000</td>
+<td>12,000</td>
+<td>18,000</td>
+<td>24,000</td>
+</tr>
+</table>
+
+Eliminación de Humedad
+
+L/h
+
+1,2
+
+1,2
+
+1,8
+
+2,7
 
 ## Datos Eléctricos
 
-|  Fuente de Alimentación |  |  | Ph-V-Hz | 220-230V/60Hz | 115V/60Hz | 220-230V/60Hz | 220-230V/60Hz  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  Entrada de Alimentación |  |  | W | 974 | 974 | 1453 | 1927  |
-|  Corriente Nominal |  |  | A | 4,4 | 4,4 | 6,6 | 8,8  |
-|  Consumo de Energía Máximo |  |  | W | 1461 | 1461 | 2180 | 2891  |
-|  Corriente Máxima |  |  | A | 6,8 | 13,1 | 10,2 | 13,5  |
+<table>
+<tr>
+<th>Fuente de Alimentación</th>
+<th>Ph-V-Hz</th>
+<th>220-230V/60Hz</th>
+<th>115V/60Hz</th>
+<th>220-230V/60Hz</th>
+<th>220-230V/60Hz</th>
+</tr>
+<tr>
+<td>Entrada de Alimentación</td>
+<td>W</td>
+<td>974</td>
+<td>974</td>
+<td>1453</td>
+<td>1927</td>
+</tr>
+<tr>
+<td>Corriente Nominal</td>
+<td>A</td>
+<td>4,4</td>
+<td>4,4</td>
+<td>6,6</td>
+<td>8,8</td>
+</tr>
+<tr>
+<td>Consumo de Energía Máximo</td>
+<td>W</td>
+<td>1461</td>
+<td>1461</td>
+<td>2180</td>
+<td>2891</td>
+</tr>
+</table>
+
+Corriente Máxima
+
+A
+
+6,8
+
+13,1
+
+10,2
+
+13,5
 
 ## Datos de Refrigeración
 
-|  Modelo |  |  |  | KSN98D21UEZ31 | FTZ-AN098ACBA-G | FTZ-AM142AFBA-B | KTN150D53UFZ3  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  Tipo |  |  |  | Rotativo | Rotativo | Rotativo | Rotativo  |
-|  Marca |  |  |  | GMCC | GREE | GREE | GMCC  |
-|  Motor de Ventilador Interior | Marca |  |  | Welling/Broad-Ocean/Tongde/LT | Welling/Broad-Ocean/Tongde/LT | Welling/Broad-Ocean/Tongde | Welling/Broad-Ocean/Tongde  |
-|   | Capacitor |  | uF | 1,2 | 1,2 | 2 | 3  |
-|   | Velocidad del Motor (Alta/Media/Baja) |  | RPM | 1320 | 1320 | 1250 | 1150  |
-|  Evaporadora | a.Número de Filas |  |  | 2 | 2 | 2 | 2  |
-|   | b.Paso del Tubo (a) X Paso de Fila (b) |  | mm | 21x12.7 | 21x12.7 | 21x12.7 | 21x12.7  |
-|   | c.Material del Serpentín |  |  | Aluminio Hidrófilo | Aluminio Hidrófilo | Aluminio Hidrófilo | Aluminio Hidrófilo  |
-|   | d.Diámetro Exterior del Tubo |  | mm | Φ7 | Φ7 | Φ7 | Φ7  |
-|   | e.Longitud de la Bobina X Altura X Ancho |  | mm | 612x252x25.4 | 612x252x25.4 | 778x336x25.4 | 778x336x25.4  |
-|   | f. Material del Tubo y Aleta |  |  | Cobre / Aluminio Hidrófilo | Cobre / Aluminio Hidrófilo | Cobre / Aluminio Hidrófilo | Cobre / Aluminio Hidrófilo  |
-|  Flujo de Aire Interior |  |  | m3/h | 550/500/450/400 | 550/500/450/400 | 820/720/620/520 | 1150/1080/1000/850  |
-|  Nivel de Ruido |  |  | dB(A) | 42/40/38/36 | 44/41/38/35 | 44/41/38/35 | 46/43/40/37  |
-|  Dimensión del Equipo (An X Al X Pr) |  |  | mm | 805*197*270 | 805*197*270 | 910*225*295 | 1030*223*3319  |
-|  Dimensión del Caja (An X Al X Pr) |  |  | mm | 864*265*332 | 864*265*332 | 1102*305*395 | 1102*305*395  |
-|  Motor de Ventilador Exterior | Marca |  |  | Welling/LT | Welling/LT | Welling/LT | Broad-Ocean  |
-|   | Capacitor |  | uF | 1 | 1 | 1 | 1  |
-|   | Velocidad del Motor |  | Rpm | 900 | 900 | 900 | 850  |
-|  Condensadora | a.Número de Filas |  |  | 1 | 1 | 1 | 2  |
-|   | b.Paso del Tubo (a) X Paso de Fila (b) |  | mm | 19.5x11.6 | 19.5x11.6 | 19.5x11.6 | 19.5X11.6  |
-|   | c.Material del Serpentín |  |  | Aluminio Hidrófilo | Aluminio Hidrófilo | Aluminio Hidrófilo | Aluminio Hidrófilo  |
-|   | d.Diámetro Exterior del Tubo y Tipo |  | mm | Φ5 | Φ5 | Φ5 | Φ5  |
-|   | e.Longitud de la Bobina X Altura X Ancho |  | mm | 655x507x11.6 | 655x507x11.6 | 748x507x11.6 | 742/712*585*23.2  |
-|   | f. Material del Tubo y Aleta |  |  | Cobre / Aluminio Hidrófilo | Cobre / Aluminio Hidrófilo | Cobre / Aluminio Hidrófilo | Cobre / Aluminio Hidrófilo  |
-|  Nivel de Ruido |  |  | dB(A) | 50 | 50 | 54 | 55  |
-|  Dimensión de la Unidad (An X Al X Pr) |  |  | mm | 660*530*250 | 768*560*270 | 780*560*270 | 820*635*310  |
-|  Dimensión de la Caja (An X Al X Pr) |  |  | mm | 768×575×338 | 889×575×250 | 889×612×359 | 968*688x402  |
-|  Tipo de Refrigerante |  |  |  | R32 | R32 | R32 | R32  |
-|  Carga de Refrigerante |  |  | Kg | 0,4 | 0,4 | 0,59 | 0,97  |
+<table>
+<tr>
+<th rowspan="3">Compresor</th>
+<th colspan="3">Modelo</th>
+<th>KSN98D21UEZ31</th>
+<th>FTZ-AN098ACBA-G</th>
+<th>FTZ-AM142AFBA-B</th>
+<th>KTN150D53UFZ3</th>
+</tr>
+<tr>
+<th colspan="3">Tipo</th>
+<th>Rotativo</th>
+<th>Rotativo</th>
+<th>Rotativo</th>
+<th>Rotativo</th>
+</tr>
+<tr>
+<th colspan="2">Marca</th>
+<th></th>
+<th>GMCC</th>
+<th>GREE</th>
+<th>GREE</th>
+<th>GMCC</th>
+</tr>
+<tr>
+<td rowspan="13">Unidad Interior</td>
+<td rowspan="3">Motor de Ventilador Interior</td>
+<td colspan="2">Marca</td>
+<td>Welling/Broad- Ocean/Tongde/LT</td>
+<td>Welling/Broad- Ocean/Tongde/LT</td>
+<td>Welling/Broad- Ocean/Tongde</td>
+<td>Welling/Broad- Ocean/Tongde</td>
+</tr>
+<tr>
+<td>Capacitor</td>
+<td>uF</td>
+<td>1,2</td>
+<td>1,2</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Velocidad del Motor (Alta/Media/Baja)</td>
+<td>RPM</td>
+<td>1320</td>
+<td>1320</td>
+<td>1250</td>
+<td>1150</td>
+</tr>
+<tr>
+<td rowspan="6">Evaporadora</td>
+<td>a.Número de Filas</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>b.Paso del Tubo (a) X Paso de Fila (b)</td>
+<td>mm</td>
+<td>21×12.7</td>
+<td>21×12.7</td>
+<td>21×12.7</td>
+<td>21×12.7</td>
+</tr>
+<tr>
+<td>c.Material del Serpentín</td>
+<td></td>
+<td>Aluminio Hidrófilo</td>
+<td>Aluminio Hidrófilo</td>
+<td>Aluminio Hidrófilo</td>
+<td>Aluminio Hidrófilo</td>
+</tr>
+<tr>
+<td>d.Diámetro Exterior del Tubo</td>
+<td>mm</td>
+<td>¢7</td>
+<td>¢7</td>
+<td>¢7</td>
+<td>¢7</td>
+</tr>
+<tr>
+<td>e.Longitud de la Bobina X Altura X Ancho</td>
+<td>mm</td>
+<td>612x252x25.4</td>
+<td>612×252×25.4</td>
+<td>778x336x25.4</td>
+<td>778x336x25.4</td>
+</tr>
+<tr>
+<td colspan="2">f .Material del Tubo y Aleta</td>
+<td>Cobre / Aluminio Hidrófilo</td>
+<td>Cobre / Aluminio Hidrófilo</td>
+<td>Cobre / Aluminio Hidrófilo</td>
+<td>Cobre / Aluminio Hidrófilo</td>
+</tr>
+<tr>
+<td colspan="2">Flujo de Aire Interior</td>
+<td>m3/h</td>
+<td>550/500/450/400</td>
+<td>550/500/450/400</td>
+<td>820/720/620/520</td>
+<td>1150/1080/1000/850</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de Ruido</td>
+<td>dB(A)</td>
+<td>42/40/38/36</td>
+<td>44/41/38/35</td>
+<td>44/41/38/35</td>
+<td>46/43/40/37</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión del Equipo (An X Al X Pr)</td>
+<td>mm</td>
+<td>805*197*270</td>
+<td>805*197*270</td>
+<td>910*225*295</td>
+<td>1030*223*3319</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión del Caja (An X Al X Pr)</td>
+<td>mm</td>
+<td>864*265*332</td>
+<td>864*265*332</td>
+<td>1102*305*395</td>
+<td>1102*305*395</td>
+</tr>
+<tr>
+<td rowspan="14">Unidad Exterior</td>
+<td rowspan="3">Motor de Ventilador Exterior</td>
+<td colspan="2">Marca</td>
+<td>Welling/LT</td>
+<td>Welling/LT</td>
+<td>Welling/LT</td>
+<td>Broad-Ocean</td>
+</tr>
+<tr>
+<td>Capacitor</td>
+<td>uF</td>
+<td>1</td>
+<td>/</td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td>Velocidad del Motor</td>
+<td>Rpm</td>
+<td>900</td>
+<td>900</td>
+<td>900</td>
+<td>850</td>
+</tr>
+<tr>
+<td rowspan="6">Condensadora</td>
+<td>a.Número de Filas</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+</tr>
+<tr>
+<td>b.Paso del Tubo (a) X Paso de Fila (b)</td>
+<td>mm</td>
+<td>19.5x11.6</td>
+<td>19.5x11.6</td>
+<td>19.5×11.6</td>
+<td>19.5X11.6</td>
+</tr>
+<tr>
+<td>c.Material del Serpentín</td>
+<td></td>
+<td>Aluminio Hidrófilo</td>
+<td>Aluminio Hidrófilo</td>
+<td>Aluminio Hidrófilo</td>
+<td>Aluminio Hidrófilo</td>
+</tr>
+<tr>
+<td>d.Diámetro Exterior del Tubo y Tipo</td>
+<td>mm</td>
+<td>$5</td>
+<td>$5</td>
+<td>$5</td>
+<td>$5</td>
+</tr>
+<tr>
+<td>e.Longitud de la Bobina X Altura X Ancho</td>
+<td>mm</td>
+<td>655x507×11.6</td>
+<td>655x507×11.6</td>
+<td>748x507×11.6</td>
+<td>742/712*585*23.2</td>
+</tr>
+<tr>
+<td colspan="2">f .Material del Tubo y Aleta</td>
+<td>Cobre / Aluminio Hidrófilo</td>
+<td>Cobre / Aluminio Hidrófilo</td>
+<td>Cobre / Aluminio Hidrófilo</td>
+<td>Cobre / Aluminio Hidrófilo</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de Ruido</td>
+<td>dB(A)</td>
+<td>50</td>
+<td></td>
+<td>54</td>
+<td>55</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión de la Unidad (An X AI X Pr)</td>
+<td>mm</td>
+<td>660*530*250</td>
+<td>$\frac { 5 0 } { 7 6 8 * 5 6 0 * 2 7 }$</td>
+<td>780*560*270</td>
+<td>820*635*310</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión de la Caja (An X AI X Pr)</td>
+<td>mm</td>
+<td>768×575×338</td>
+<td>889×575×250</td>
+<td>889×612×359</td>
+<td>968*688x402</td>
+</tr>
+<tr>
+<td colspan="2">Tipo de Refrigerante</td>
+<td></td>
+<td>R32</td>
+<td>R32</td>
+<td>R32</td>
+<td>R32</td>
+</tr>
+<tr>
+<td colspan="2">Carga de Refrigerante</td>
+<td>Kg</td>
+<td>0,4</td>
+<td>0,4</td>
+<td>0,59</td>
+<td>0,97</td>
+</tr>
+<tr>
+<td colspan="8">Conexiones de Tubería de Cobre</td>
+</tr>
+<tr>
+<td rowspan="6">Tubo del Refrigerante</td>
+<td></td>
+<td>Lado Líquido</td>
+<td>inch</td>
+<td>1/4</td>
+<td>1/4</td>
+<td>1/4</td>
+<td>1/4</td>
+</tr>
+<tr>
+<td colspan="2">Lado de Gas</td>
+<td>inch</td>
+<td>3/8</td>
+<td>3/8</td>
+<td>$1 / 2$</td>
+<td>5/8</td>
+</tr>
+<tr>
+<td colspan="2">Rango de Temperatura Ambiente de Trabajo (℃) Refrigeración: Exterior</td>
+<td>ºC</td>
+<td>16~52</td>
+<td>$1 6 \sim 5 2$</td>
+<td>$1 6 \sim 5 2$</td>
+<td>$1 6 \sim 5 2$</td>
+</tr>
+<tr>
+<td colspan="2">Rango de temperatura ambiente de trabajo (C) Calefacción: Exterior</td>
+<td>ºC</td>
+<td>$- 1 5 \sim 2 4$</td>
+<td>$- 1 5 \sim 2 4$</td>
+<td>$- 1 5 \sim 2 4$</td>
+<td>$- 1 5 \sim 2 4$</td>
+</tr>
+<tr>
+<td colspan="2">Longitud Máxima de la Tubería de Refrigerante</td>
+<td>m</td>
+<td>12</td>
+<td>12</td>
+<td>12</td>
+<td>15</td>
+</tr>
+<tr>
+<td colspan="2">Diferencia Máxima de Nivel</td>
+<td>m</td>
+<td>7</td>
+<td>7</td>
+<td>7</td>
+<td>8</td>
+</tr>
+</table>
 
-## Conexiones de Tubería de Cobre
+<!-- PageFooter="¡Elegancia y Control en Cada Espacio! www.adinausa.com" -->
+<!-- PageBreak -->
 
-|  Lado Líquido | inch | 1/4 | 1/4 | 1/4 | 1/4  |
-| --- | --- | --- | --- | --- | --- |
-|  Lado de Gas | inch | 3/8 | 3/8 | 1/2 | 5/8  |
-|  Rango de Temperatura Ambiente de Trabajo (°C) |  |  |  |  |   |
-|  Refrigeración: Exterior | °C | 16~52 | 16~52 | 16~52 | 16~52  |
-|  Rango de temperatura ambiente de trabajo (°C) Calefacción: Exterior | °C | -15~24 | -15~24 | -15~24 | -15~24  |
-|  Longitud Máxima de la Tubería de Refrigerante | m | 12 | 12 | 12 | 15  |
-|  Diferencia Máxima de Nivel | m | 7 | 7 | 7 | 8  |
+
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-# Especificaciones Técnicas 
 
-| Modelo del Sistema |  |  | VIRTU-C-3622 |
-| :--: | :--: | :--: | :--: |
-| Modelo Unidad Interior |  |  | VIRTU-C-3622-I |
-| Modelo Unidad Exterior |  |  | VIRTU-C-3622-E |
-| Tipo de Equipo |  |  | Split |
-| Modo de Fuente de Alimentación |  |  | Interior |
-| Tipo de Control |  |  | Remoto |
-| Eficiencia (SEER) |  | (Btu/h)/W | 22 |
-| Refrigeración | Capacidad | BTU | 36,000 |
-| Eliminación de Humedad |  | L/h | 3,7 |
+# Especificaciones Técnicas
+
+<table>
+<tr>
+<th></th>
+<th colspan="2">Modelo del Sistema</th>
+<th>VIRTU-C-3622</th>
+</tr>
+<tr>
+<th colspan="3">Modelo Unidad Interior</th>
+<th>VIRTU-C-3622-I</th>
+</tr>
+<tr>
+<td colspan="3">Modelo Unidad Exterior</td>
+<td>VIRTU-C-3622-E</td>
+</tr>
+<tr>
+<td colspan="3">Tipo de Equipo</td>
+<td>Split</td>
+</tr>
+<tr>
+<td colspan="3">Modo de Fuente de Alimentación</td>
+<td>Interior</td>
+</tr>
+<tr>
+<td colspan="3">Tipo de Control</td>
+<td>Remoto</td>
+</tr>
+<tr>
+<td colspan="2">Eficiencia (SEER)</td>
+<td>(Btu/h)/W</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Refrigeración</td>
+<td>Capacidad</td>
+<td>BTU</td>
+<td>36,000</td>
+</tr>
+<tr>
+<td colspan="2">Eliminación de Humedad</td>
+<td>L/h</td>
+<td>3,7</td>
+</tr>
+</table>
 
 ## Datos Eléctricos
 
-| Fuente de Alimentación |  | $\mathrm{Ph}-\mathrm{V}-\mathrm{Hz}$ | 220-230V/60Hz |
-| :--: | :--: | :--: | :--: |
-| Entrada de Alimentación |  | W | 2980 |
-| Corriente Nominal |  | A | 14 |
-| Consumo de Energía Máximo |  | W | 4483 |
-| Corriente Máxima |  | A | 21 |
+<table>
+<tr>
+<th>Fuente de Alimentación</th>
+<th>Ph-V-Hz</th>
+<th>220-230V/60Hz</th>
+</tr>
+<tr>
+<td>Entrada de Alimentación</td>
+<td>W</td>
+<td>2980</td>
+</tr>
+<tr>
+<td>Corriente Nominal</td>
+<td>A</td>
+<td>14</td>
+</tr>
+<tr>
+<td>Consumo de Energía Máximo</td>
+<td>W</td>
+<td>4483</td>
+</tr>
+<tr>
+<td>Corriente Máxima</td>
+<td>A</td>
+<td>21</td>
+</tr>
+</table>
 
 ## Datos de Refrigeración
 
-|  | Modelo |  |  | KTM240D57UMT |
-| :--: | :--: | :--: | :--: | :--: |
-|  | Tipo |  |  | Rotativo |
-|  | Marca |  |  | GMCC |
-|  | Motor de Ventilador Interior | Marca |  | Welling/BroadOcean/Tongde/LT |
-|  |  | Capacitor | uF | 2 |
-|  |  | Velocidad del Motor (Alta/Media/Baja) | RPM | 1400 |
-|  | Evaporadora | a.Número de Filas |  | 2 |
-|  |  | b.Paso del Tubo (a) X Paso de Fila (b) | mm | $21 \times 12.7$ |
-|  |  | c.Material del Serpentín |  | Aluminio Hidrófilo |
-|  |  | d.Diámetro Exterior del Tubo | mm | $\Phi 7$ |
-|  |  | e.Longitud de la Bobina X Altura X Ancho | mm | $920 \times 420 \times 25.4$ |
-|  |  | f. Material del Tubo y Aleta |  | Cobre / Aluminio Hidrófilo |
-|  | Flujo de Aire Interior |  | $\mathrm{m} 3 / \mathrm{h}$ | 550/500/450/400 |
-|  | Nivel de Ruido |  | $\mathrm{dB}(\mathrm{A})$ | 1300/1200/100/900 |
-|  | Dimensión del Equipo (An X Al X Pr) |  | mm | 1165*326*232 |
-|  | Dimensión del Caja (An X Al X Pr) |  | mm | 1243+409*319 |
-|  | Motor de Ventilador Exterior | Marca |  | Broad-Ocean |
-|  |  | Capacitor | uF | $/$ |
-|  |  | Velocidad del Motor | Rpm | 900 |
-|  | Condensadora | a.Número de Filas |  | 2 |
-|  |  | b.Paso del Tubo (a) X Paso de Fila (b) | mm | $21 \times 18.2$ |
-|  |  | c.Material del Serpentín |  | Aluminio Hidrófilo |
-|  |  | d.Diámetro Exterior del Tubo y Tipo | mm | $\Phi 7$ |
-|  |  | e.Longitud de la Bobina X Altura X Ancho | mm | 965/935*756*36.4 |
-|  |  | f. Material del Tubo y Aleta |  | Cobre / Aluminio Hidrófilo |
-|  | Nivel de Ruido |  | $\mathrm{dB}(\mathrm{A})$ | 60 |
-|  | Dimensión de la Unidad (An X Al X Pr) |  | mm | 920*810*340 |
-|  | Dimensión de la Caja (An X Al X Pr) |  | mm | 1059*877*453 |
-|  | Tipo de Refrigerante |  |  | R32 |
-|  | Carga de Refrigerante |  | Kg | 1,45 |
+<table>
+<tr>
+<td rowspan="3">Compresor</td>
+<td colspan="3">Modelo</td>
+<td>KTM240D57UMT</td>
+</tr>
+<tr>
+<td colspan="3">Tipo</td>
+<td>Rotativo</td>
+</tr>
+<tr>
+<td>Marca</td>
+<td colspan="2"></td>
+<td>GMCC</td>
+</tr>
+<tr>
+<td rowspan="13">Unidad Interior</td>
+<td rowspan="3">Motor de Ventilador Interior</td>
+<td colspan="2">Marca</td>
+<td>Welling/Broad- Ocean/Tongde/LT</td>
+</tr>
+<tr>
+<td>Capacitor</td>
+<td>uF</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Velocidad del Motor (Alta/Media/Baja)</td>
+<td>RPM</td>
+<td>1400</td>
+</tr>
+<tr>
+<td rowspan="6">Evaporadora</td>
+<td>a.Número de Filas</td>
+<td></td>
+<td>2</td>
+</tr>
+<tr>
+<td>b.Paso del Tubo (a) X Paso de Fila (b)</td>
+<td>mm</td>
+<td>21×12.7</td>
+</tr>
+<tr>
+<td>c.Material del Serpentín</td>
+<td></td>
+<td>Aluminio Hidrófilo</td>
+</tr>
+<tr>
+<td>d.Diámetro Exterior del Tubo</td>
+<td>mm</td>
+<td>¢7</td>
+</tr>
+<tr>
+<td>e.Longitud de la Bobina X Altura X Ancho</td>
+<td>mm</td>
+<td>920x420×25.4</td>
+</tr>
+<tr>
+<td colspan="2">f .Material del Tubo y Aleta</td>
+<td>Cobre / Aluminio Hidrófilo</td>
+</tr>
+<tr>
+<td colspan="2">Flujo de Aire Interior</td>
+<td>m3/h</td>
+<td>550/500/450/400</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de Ruido</td>
+<td>dB(A)</td>
+<td>1300/1200/100/900</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión del Equipo (An X AI X Pr)</td>
+<td>mm</td>
+<td>1165*326*232</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión del Caja (An X AI X Pr)</td>
+<td>mm</td>
+<td>1243+409*319</td>
+</tr>
+<tr>
+<td rowspan="14">Unidad Exterior</td>
+<td rowspan="3">Motor de Ventilador Exterior</td>
+<td>Marca</td>
+<td></td>
+<td>Broad-Ocean</td>
+</tr>
+<tr>
+<td>Capacitor</td>
+<td>uF</td>
+<td>/</td>
+</tr>
+<tr>
+<td>Velocidad del Motor</td>
+<td>Rpm</td>
+<td>900</td>
+</tr>
+<tr>
+<td rowspan="6">Condensadora</td>
+<td>a.Número de Filas</td>
+<td></td>
+<td>2</td>
+</tr>
+<tr>
+<td>b.Paso del Tubo (a) X Paso de Fila (b)</td>
+<td>mm</td>
+<td>21×18.2</td>
+</tr>
+<tr>
+<td>c.Material del Serpentín</td>
+<td></td>
+<td>Aluminio Hidrófilo</td>
+</tr>
+<tr>
+<td>d.Diámetro Exterior del Tubo y Tipo</td>
+<td>mm</td>
+<td>¢7</td>
+</tr>
+<tr>
+<td>e.Longitud de la Bobina X Altura X Ancho</td>
+<td>mm</td>
+<td>965/935*756*36.4</td>
+</tr>
+<tr>
+<td colspan="2">f .Material del Tubo y Aleta</td>
+<td>Cobre / Aluminio Hidrófilo</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de Ruido</td>
+<td>dB(A)</td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión de la Unidad (An X Al X Pr)</td>
+<td>mm</td>
+<td>920*810*340</td>
+</tr>
+<tr>
+<td colspan="2">Dimensión de la Caja (An X AI X Pr)</td>
+<td>mm</td>
+<td>1059*877*453</td>
+</tr>
+<tr>
+<td colspan="3">Tipo de Refrigerante</td>
+<td>R32</td>
+</tr>
+<tr>
+<td colspan="2">Carga de Refrigerante</td>
+<td>Kg</td>
+<td>1,45</td>
+</tr>
+<tr>
+<td colspan="5">Conexiones de Tubería de Cobre</td>
+</tr>
+<tr>
+<td rowspan="6">Tubo del Refrigerante</td>
+<td></td>
+<td>Lado Líquido</td>
+<td>inch</td>
+<td>3/8</td>
+</tr>
+<tr>
+<td colspan="2">Lado de Gas</td>
+<td>inch</td>
+<td>5/8</td>
+</tr>
+<tr>
+<td colspan="2">Rango de Temperatura Ambiente de Trabajo (℃) Refrigeración: Exterior</td>
+<td>ºC</td>
+<td>16~52</td>
+</tr>
+<tr>
+<td colspan="2">Rango de temperatura ambiente de trabajo (C) Calefacción: Exterior</td>
+<td>ºC</td>
+<td>-15~24</td>
+</tr>
+<tr>
+<td colspan="2">Longitud Máxima de la Tubería de Refrigerante</td>
+<td>m</td>
+<td>15</td>
+</tr>
+<tr>
+<td colspan="2">Diferencia Máxima de Nivel</td>
+<td>m</td>
+<td>8</td>
+</tr>
+</table>
 
-## Conexiones de Tubería de Cobre
+# Tecnología ADINA INVERTER&
 
-|  | Lado Líquido | inch | $3 / 8$ |
-| :--: | :--: | :--: | :--: |
-|  | Lado de Gas | inch | $5 / 8$ |
-|  | Rango de Temperatura Ambiente de Trabajo ( ${ }^{\circ} \mathrm{C}$ ) Refrigeración: Exterior | ${ }^{\circ} \mathrm{C}$ | $16-52$ |
-|  | Rango de temperatura ambiente de trabajo ( ${ }^{\circ} \mathrm{C}$ ) Calefacción: Exterior | ${ }^{\circ} \mathrm{C}$ | $-15-24$ |
-|  | Longitud Máxima de la Tubería de Refrigerante | m | 15 |
-|  | Diferencia Máxima de Nivel | m | 8 |
+Nuestra tecnología Inverter regula el
+funcionamiento del compresor en
+nuestros equipos de forma que
+trabajen a una velocidad más
+constante, lo que permite un gran
+ahorro de energía.
+
+¡Elegancia y Control en Cada Espacio!
+www.adinausa.com
+

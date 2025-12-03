@@ -1,1428 +1,2914 @@
 # Manual de usuario Cassette-Piso Techo-Condensadora Gold.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-# GOLd SERIES 
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-## MANUAL DE USUARIO
+# SERIES
+
+MANUAL DE USUARIO
 
 MODELOS
 
 36K 60K
 
+<!-- PageBreak -->
+
+
+
 ================================================================================
 PAGE 2
 ================================================================================
 
-# Parte 1 
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-## Información general
+## Parte 1
 
-1. Nombres de los modelos de unidades interiores/exteriores
-2. Apariencia externa
-3. Características
+### Información general
+
+1\. Nombres de los modelos de unidades interiores/exteriores
+
+2\. Apariencia externa
+
+3\. Características
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-1. Nombres de los modelos de unidades interiores/exteriores 1.1 Unidades interiores R410A (capacidad multiplicada por 10008tu/h)
+ADINA®
+Air Conditioning
 
-|  Tipo de unidades interiores | Modelo de unidades interiores | Capacidad (Btu/h) | Capacidad(kW) | Suministro eléctrico  |
-| --- | --- | --- | --- | --- |
-|  Piso Techo | TCE-24ZCRA/U2I-C | 24000 | 7.1 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
-|   | TCE-36ZCRA/U2I-C | 36000 | 10.5 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
-|   | TCE-48ZCRA/U2I-C | 48000 | 14 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
-|   | TCE-60ZCRA/U2I-C | 60000 | 16 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
-|  Cassette | TCE-24CCRA/U2I-C | 24000 | 7.1 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
-|   | TCE-36CCRA/U2I-C | 36000 | 10.5 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
-|   | TCE-48CCRA/U2I-C | 48000 | 14 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
-|   | TCE-60CCRA/U2I-C | 60000 | 16 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
-|  Ducto | TCE-24D2CRA/U2I-C | 24000 | 7.1 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
-|   | TCE-36D2CRA/U2I-C | 36000 | 10.5 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
-|   | TCE-48D2CRA/U2I-C | 48000 | 14 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
-|   | TCE-60D2CRA/U2I-C | 60000 | 16 | $220 \sim 230 \mathrm{~V} 60 \mathrm{~Hz} 1 \mathrm{~Ph}$  |
+#### 1. Nombres de los modelos de unidades interiores/exteriores
 
-1.2 Unidades exteriores
+##### 1.1 Unidades interiores
 
-Modelo de unidad exterior y unidad interior correspondiente
+R410A (capacidad multiplicada por 1000Btu/h)
 
-|  Tipo de unidades exteriores | Modelo de unidad exterior | Suministro eléctrico | Capacidad (Btu/h) | Modo compresor | Marca del compresor  |
-| --- | --- | --- | --- | --- | --- |
-|  Unidad exterior | TCE-24CA/U2O-C | 24000 | $\begin{gathered} 220 \sim 230 \mathrm{~V} \ 60 \mathrm{~Hz} 1 \mathrm{~Ph} \end{gathered}$ | ASH232DG-C8DU | HIGHLY  |
-|   | TCE-36CA/U2O-C | 36000 | $\begin{gathered} 220 \sim 230 \mathrm{~V} \ 60 \mathrm{~Hz} 1 \mathrm{~Ph} \end{gathered}$ | ATH356UN-C9EU | HIGHLY  |
-|   | TCE-48CA/U2O-C | 48000 | $\begin{gathered} 220 \sim 230 \mathrm{~V} \ 60 \mathrm{~Hz} 1 \mathrm{~Ph} \end{gathered}$ | C-5BP140H16A | Panasonic  |
-|   | TCE-60CA/U2O-C | 60000 | $\begin{gathered} 220 \sim 230 \mathrm{~V} \ 60 \mathrm{~Hz} 1 \mathrm{~Ph} \end{gathered}$ | C-5BP160H16A | Panasonic  |
+<table>
+<tr>
+<th>Tipo de unidades interiores</th>
+<th>Modelo de unidades interiores</th>
+<th>Capacidad (Btu/h)</th>
+<th>Capacidad(kW)</th>
+<th>Suministro eléctrico</th>
+</tr>
+<tr>
+<td rowspan="4">Piso Techo</td>
+<td>TCE-24ZCRA/U21-C</td>
+<td>24000</td>
+<td>7.1</td>
+<td>220~230V 60Hz 1Ph</td>
+</tr>
+<tr>
+<td>TCE-36ZCRA/U21-C</td>
+<td>36000</td>
+<td>10.5</td>
+<td>$2 2 0 ^ { \circ } 2 3 0 V 6 0 H z 1 P h$</td>
+</tr>
+<tr>
+<td>TCE-48ZCRA/U21-C</td>
+<td>48000</td>
+<td>14</td>
+<td>$2 2 0 ^ { \circ } 2 3 0 V 6 0 H z 1 P h$</td>
+</tr>
+<tr>
+<td>TCE-60ZCRA/U21-C</td>
+<td>60000</td>
+<td>16</td>
+<td>$2 2 0 ^ { \circ } 2 3 0 V 6 0 H _ { 2 } 1 P h$</td>
+</tr>
+<tr>
+<td rowspan="4">Cassette</td>
+<td>TCE-24CCRA/U21-C</td>
+<td>24000</td>
+<td>7.1</td>
+<td>$2 2 0 ^ { \circ } 2 3 0 V 6 0 H _ { 2 } 1 P h$</td>
+</tr>
+<tr>
+<td>TCE-36CCRA/U21-C</td>
+<td>36000</td>
+<td>10.5</td>
+<td>$2 2 0 ^ { \circ } 2 3 0 V 6 0 H _ { 2 } 1 P h$</td>
+</tr>
+<tr>
+<td>TCE-48CCRA/U21-C</td>
+<td>48000</td>
+<td>14</td>
+<td>$2 2 0 ^ { \circ } 2 3 0 V 6 0 H z 1 P h$</td>
+</tr>
+<tr>
+<td>TCE-60CCRA/U21-C</td>
+<td>60000</td>
+<td>16</td>
+<td>$2 2 0 \sim 2 3 0 V \quad 6 0 H z \quad 1 P h$</td>
+</tr>
+<tr>
+<td rowspan="4">Ducto</td>
+<td>TCE-24D2CRA/U21-C</td>
+<td>24000</td>
+<td>7.1</td>
+<td>$2 2 0 \sim 2 3 0 V \quad 6 0 H z \quad 1 P h$</td>
+</tr>
+<tr>
+<td>TCE-36D2CRA/U21-C</td>
+<td>36000</td>
+<td>10.5</td>
+<td>$2 2 0 ^ { \sim } 2 3 0 V 6 0 H _ { Z } 1 P h$</td>
+</tr>
+<tr>
+<td>TCE-48D2CRA/U21-C</td>
+<td>48000</td>
+<td>14</td>
+<td>$2 2 0 ^ { \sim } 2 3 0 V 6 0 H _ { Z } 1 P h$</td>
+</tr>
+<tr>
+<td>TCE-60D2CRA/U21-C</td>
+<td>60000</td>
+<td>16</td>
+<td>$2 2 0 ^ { \circ } 2 3 0 V 6 0 H _ { 2 } 1 P h$</td>
+</tr>
+</table>
+
+##### 1.2 Unidades exteriores
+
+###### Modelo de unidad exterior y unidad interior correspondiente
+
+<table>
+<tr>
+<th>Tipo de unidades exteriores</th>
+<th>Modelo de unidad exterior</th>
+<th>Suministro eléctrico</th>
+<th>Capacidad (Btu/h)</th>
+<th>Modo compresor</th>
+<th>Marca del compresor</th>
+</tr>
+<tr>
+<td rowspan="4">Unidad exterior</td>
+<td>TCE-24CA/U20-C</td>
+<td>24000</td>
+<td>220~230V 60Hz 1Ph</td>
+<td>ASH232DG-C8DU</td>
+<td>HIGHLY</td>
+</tr>
+<tr>
+<td>TCE-36CA/U20-C</td>
+<td>36000</td>
+<td>220~230V 60Hz 1Ph</td>
+<td>ATH356UN-C9EU</td>
+<td>HIGHLY</td>
+</tr>
+<tr>
+<td>TCE-48CA/U20-C</td>
+<td>48000</td>
+<td>220~230V 60Hz 1Ph</td>
+<td>C-SBP140H16A</td>
+<td>Panasonic</td>
+</tr>
+<tr>
+<td>TCE-60CA/U20-C</td>
+<td>60000</td>
+<td>220~230V 60Hz 1Ph</td>
+<td>C-SBP160H16A</td>
+<td>Panasonic</td>
+</tr>
+</table>
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 4
 ================================================================================
 
-# 2. Aspecto exterior 
+ADINA®
+Air Conditioning
 
-2.1 Unidades interiores
-![img-0.jpeg](img-0.jpeg)
-2.2 Unidades exteriores
-![img-1.jpeg](img-1.jpeg)
+#### 2. Aspecto exterior
+
+##### 2.1 Unidades interiores
+
+##### 2.2 Unidades exteriores
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 5
 ================================================================================
 
-# 3. Características 
+ADINA®
+Air Conditioning
+
+#### 3. Características
 
 Esta serie de noticias tiene las siguientes mejoras y características destacadas. 1. Apariencia elegante
-2. Rendimiento y eficacia mucho mejores
-3. Cuerpo compacto con capacidad de carga más competitiva.
-4. Compresores fiables y conocidos.
-5. Puesta en marcha con control de 24 V , seguridad.
-6. Adaptamos el pistón estrangulador instalado en la unidad interior, fácil de mantener.
-7. Fácil de instalar la unidad.
+
+2\. Rendimiento $y$ eficacia mucho mejores
+
+3\. Cuerpo compacto con capacidad de carga más competitiva.
+
+4\. Compresores fiables $y$ conocidos.
+
+5\. Puesta en marcha con control de 24V, seguridad.
+
+6\. Adaptamos el pistón estrangulador instalado en la unidad interior, fácil de mantener.
+
+7\. Fácil de instalar la unidad.
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 6
 ================================================================================
 
-# Parte 2 
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-## Unidades interiores
+## Parte 2 Unidades interiores
 
-1. Características
-2. Dimensiones
-3. Espacio de servicio
-4. Diagramas de cableado
-5. Características eléctricas
-6. Niveles sonoros
+1\. Características
+
+2\. Dimensiones
+
+3\. Espacio de servicio
+
+4\. Diagramas de cableado
+
+5\. Características eléctricas
+
+6\. Niveles sonoros
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 7
 ================================================================================
 
-1. Características
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-Tipo Techo \& Suelo
+### 1. Características
 
-1. Nuevo diseño, aspecto más moderno y elegante.
-![img-2.jpeg](img-2.jpeg)
-2. Instalación conveniente.
+Tipo Techo & Suelo
 
-- El tipo techo puede instalarse fácilmente en una esquina del techo incluso si el techo es muy estrecho.
-- Es especialmente útil cuando la instalación de un aire acondicionado en el centro del techo es imposible debido a una estructura como una iluminación.
+1\.
+Nuevo diseño, aspecto más moderno y elegante.
 
-3. Oscilación automática en dirección vertical y flujo de aire de amplio ángulo.
+2\. Instalación conveniente.
 
-- El control direccional del flujo de aire minimiza la resistencia del aire y produce un flujo de aire más amplio en dirección vertical.
-- El rango de descarga de aire horizontal se amplía, lo que garantiza una distribución de aire más amplia para proporcionar una circulación de aire más cómoda sin importar dónde se instale la unidad.
+\- El tipo techo puede instalarse fácilmente en una esquina del techo incluso si el techo es muy estrecho.
 
-4. Tres niveles de velocidad del ventilador, diseño más humanista, cumple con diferentes requisitos de suministro de aire.
-5. Resistente al agua mediante el uso de una película plástica absorbente en el colector de agua.
-6. Operación fácil.
-7. El control por cable está disponible, especialmente para habitaciones de hotel, oficinas, etc.
+\- Es especialmente útil cuando la instalación de un aire acondicionado en el centro del techo es imposible debido a una estructura como una
+iluminación.
+
+3\. Oscilación automática en dirección vertical y flujo de aire de amplio ángulo.
+
+\- El control direccional del flujo de aire minimiza la resistencia del aire y produce un flujo de aire más amplio en dirección vertical.
+
+\- El rango de descarga de aire horizontal se amplía, lo que garantiza una distribución de aire más amplia para proporcionar una circulación de
+aire más cómoda sin importar dónde se instale la unidad.
+
+4\. Tres niveles de velocidad del ventilador, diseño más humanista, cumple con diferentes requisitos de suministro de aire.
+
+5\. Resistente al agua mediante el uso de una película plástica absorbente en el colector de agua.
+
+6\. Operación fácil.
+
+7\. El control por cable está disponible, especialmente para habitaciones de hotel, oficinas, etc.
 
 Casete
 
-1. Nuevo diseño más adecuado para la decoración de la habitación.
-![img-3.jpeg](img-3.jpeg)
-2. El agua condensada puede elevarse hasta 750 mm , lo que es conveniente para la instalación.
-3. Los filtros pueden retirarse fácilmente para limpieza y mantenimiento.
-4. Operación silenciosa mediante el uso de un ventilador interior 3D optimizado.
-5. El control por cable está disponible, especialmente para habitaciones de hotel, oficinas, etc.
+1\.
+Nuevo diseño más adecuado para la decoración de la habitación.
 
-# DUCTO 
+2\. El agua condensada puede elevarse hasta 750 mm, lo que es conveniente para la instalación.
 
-1. Es opcional tener la entrada de aire desde la parte posterior o inferior con el mismo tamaño de placa, lo que será muy flexible y conveniente para la instalación.
-2. Los filtros pueden retirarse fácilmente para limpieza.
-3. El agua condensada puede drenarse desde la izquierda o derecha.
-4. El diseño en forma de ' $V$ ' del evaporador aumenta el área de intercambio de calor y, por lo tanto, aumenta su eficiencia.
+3\.
+Los filtros pueden retirarse fácilmente para limpieza y mantenimiento.
+
+4\.
+Operación silenciosa mediante el uso de un ventilador interior 3D optimizado.
+
+5\.
+El control por cable está disponible, especialmente para habitaciones de hotel, oficinas, etc.
+
+DUCTO
+
+1\.
+Es opcional tener la entrada de aire desde la parte posterior o inferior con el mismo tamaño de placa, lo que será muy flexible y
+conveniente para la instalación.
+
+2\.
+Los filtros pueden retirarse fácilmente para limpieza.
+
+3\.
+El agua condensada puede drenarse desde la izquierda o derecha.
+
+4\.
+El diseño en forma de 'V' del evaporador aumenta el área de intercambio de calor y, por lo tanto, aumenta su eficiencia.
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 8
 ================================================================================
 
-1. Dimensiones
+ADINA®
+Air Conditioning
 
-■Techo y Suelo a. Instalación de la consola de suelo
+#### 2. Dimensiones
 
-![img-4.jpeg](img-4.jpeg)
+## Techo y Suelo
+
+a. Instalación de la consola de suelo
 
 NOTA:
 
-|  Capacidad de refrigeración | 18000 Btu/hr | 24000 Btu/hr | 36000 Btu/hr | 48000 Btu/hr  |
-| --- | --- | --- | --- | --- |
-|  Dimensión |  |  |  |   |
-|  L | 980mm | 980mm | 1200mm | 1580mm  |
+<table>
+<tr>
+<th>Capacidad de refrigeración Dimensión</th>
+<th>18000 Btu/hr</th>
+<th>24000 Btu/hr</th>
+<th>36000 Btu/hr</th>
+<th>48000 Btu/hr</th>
+</tr>
+<tr>
+<td>L</td>
+<td>980mm</td>
+<td>980mm</td>
+<td>1200mm</td>
+<td>1560mm</td>
+</tr>
+</table>
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 9
 ================================================================================
 
-b. Instalación en techo
-![img-5.jpeg](img-5.jpeg)
-![img-6.jpeg](img-6.jpeg)
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-NOTA:
+<table>
+<tr>
+<th>Capacidad de Yeniguración Dimensión</th>
+<th>1800D Btu/hr</th>
+<th>24000 Btu/hr</th>
+<th>36000 Btw/hr</th>
+<th>48000 Btu/hr</th>
+</tr>
+<tr>
+<td>L</td>
+<td>980mm</td>
+<td>980 mm</td>
+<td>1200mm</td>
+<td>1500mm</td>
+</tr>
+</table>
 
-| Concreted | 18000 | 24000 | 36000 | 48000 |
-| :--: | :--: | :--: | :--: | :--: |
-| Dimensiön | Btu/hr | Btu/hr | Btu/hr | Btu/hr |
-| L | 980 mm | 980 mm | 1200 mm | 1560 mm |
+<!-- PageBreak -->
 
-# Cassette 
 
-24000Btu/h :
-![img-7.jpeg](img-7.jpeg)
 
 ================================================================================
 PAGE 10
 ================================================================================
 
-36000Btu/h, 48000Btu/h, 60000Btu/h :
-![img-8.jpeg](img-8.jpeg)
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-- Ducto
-![img-9.jpeg](img-9.jpeg)
+36000Btu/h, 48000Btu/h, 60000Btu/h :
+
+Ducto
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 11
 ================================================================================
 
+<!-- PageHeader="ADINA® Air Conditioning" -->
+
 Tamaño del gancho montado
-Tamaño de la entrada de aire
-![img-10.jpeg](img-10.jpeg)
 
-| Dimension del contorno |  |  |  |  | Tamaño de la abertura de sallina de sire |  |  |  |  | Tamaño de la apertura de retomo de aire |  |  | Tamaño de <br> la argolla montada |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  | A | B | C | D | E | F | G | H | I | J | L | M | M1 | M2 |  |  |
-| 9/12D5 | 700 | 200 | 447 | 450 | 45 | 510 | 17 | 140 | 570 | 172 | 738 | 298 | 158 | 1 |  |  |
-| 18D5 | 920 | 200 | 447 | 450 | 45 | 730 | 17 | 140 | 790 | 172 | 958 | 298 | 158 | 1 |  |  |
-| 18D2 | 920 | 210 | 635 | 570 | 65 | 713 | 35 | 119 | 815 | 200 | 958 | 427 | 240 | 1 |  |  |
-| 24D2 | 920 | 270 | 635 | 570 | 65 | 713 | 35 | 179 | 815 | 260 | 958 | 427 | 1 | 427 |  |  |
-| 36D2 | 1140 | 270 | 775 | 710 | 65 | 933 | 35 | 179 | 1035 | 260 | 1184 | 541 | 1 | 541 |  |  |
-| 48/60D2 | 1200 | 300 | 865 | 800 | 80 | 968 | 40 | 204 | 1094 | 268 | 1238 | 585 | 1 | 585 |  |  |
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="4">Dimensión del contorno</th>
+<th colspan="4">Jargano de la abertura</th>
+<th colspan="2">Tamaño de la atertura de retomo de aire</th>
+<th colspan="4">Tamaño de la argolla montada</th>
+</tr>
+<tr>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>D</th>
+<th>E</th>
+<th>F</th>
+<th>G</th>
+<th>H</th>
+<th>1</th>
+<th>J</th>
+<th>L</th>
+<th>M</th>
+<th>M1</th>
+<th>$M 2$</th>
+</tr>
+<tr>
+<td>9/12D5</td>
+<td>700</td>
+<td>200</td>
+<td>447</td>
+<td>450</td>
+<td>45</td>
+<td>510</td>
+<td>17</td>
+<td>140</td>
+<td>570</td>
+<td>172</td>
+<td>738</td>
+<td>298</td>
+<td>158</td>
+<td>1</td>
+</tr>
+<tr>
+<td>18D5</td>
+<td>920</td>
+<td>200</td>
+<td>447</td>
+<td>450</td>
+<td>45</td>
+<td>730</td>
+<td>17</td>
+<td>140</td>
+<td>790</td>
+<td>172</td>
+<td>958</td>
+<td>298</td>
+<td>158</td>
+<td>1</td>
+</tr>
+<tr>
+<td>18D2</td>
+<td>920</td>
+<td>210</td>
+<td>635</td>
+<td>570</td>
+<td>65</td>
+<td>713</td>
+<td>35</td>
+<td>119</td>
+<td>815</td>
+<td>200</td>
+<td>958</td>
+<td>427</td>
+<td>240</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24D2</td>
+<td>920</td>
+<td>270</td>
+<td>635</td>
+<td>570</td>
+<td>65</td>
+<td>713</td>
+<td>35</td>
+<td>179</td>
+<td>816</td>
+<td>260</td>
+<td>958</td>
+<td>427</td>
+<td>1</td>
+<td>427</td>
+</tr>
+<tr>
+<td>36D2</td>
+<td>1140</td>
+<td>270</td>
+<td>775</td>
+<td>710</td>
+<td>65</td>
+<td>933</td>
+<td>35</td>
+<td>179</td>
+<td>1035</td>
+<td>280</td>
+<td>1184</td>
+<td>541</td>
+<td>1</td>
+<td>541</td>
+</tr>
+<tr>
+<td>48/60D2</td>
+<td>1200</td>
+<td>300</td>
+<td>865</td>
+<td>800</td>
+<td>80</td>
+<td>968</td>
+<td>40</td>
+<td>204</td>
+<td>1094</td>
+<td>268</td>
+<td>1238</td>
+<td>585</td>
+<td>1</td>
+<td>585</td>
+</tr>
+</table>
 
-3. Espacio de servicio
-
-# ■Techo y suelo 
+## 3. Espacio de servicio ☒ Techo y suelo
 
 Consola de suelo
 
-## Outlet
+<!-- PageBreak -->
 
-![img-11.jpeg](img-11.jpeg)
+
 
 ================================================================================
 PAGE 12
 ================================================================================
 
-- Bajo techo
-![img-12.jpeg](img-12.jpeg)
-![img-13.jpeg](img-13.jpeg)
-$\mathrm{A}>330 \mathrm{~mm}$
-![img-14.jpeg](img-14.jpeg)
-$\square$
-![img-15.jpeg](img-15.jpeg)
+ADINA®
+Air Conditioning
+
+· Bajo techo
+
+150mm(6*) o más
+
+Techo
+
+300ram(12']o más
+
+Techo
+
+50mm(2*) o más
+
+Izquierda
+
+Derecha
+
+Conexión
+
+Conexión
+
+### Cassette
+
+«
+
+$A u l a d e \quad e s k o n \quad f$
+¥
+
+Más de
+100cm
+
+0
+
+4
+
+Techo
+
+Obstáculo
+
+A>330mm
+
+Material
+de la
+pared
+
+Material
+flamable
+
+Material ignifugo u otros
+materiales no inflamables
+distintos del metal
+
+Estructura a
+prueba de
+incendios
+
+Arriba (B)
+
+Más de 5cm
+
+Más de 5cm
+
+Mas de 5cm
+
+Lados (C)
+
+$M s \quad d e \quad 1 0 0 c m$
+
+Mas de 100cm
+
+Ducto
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 13
 ================================================================================
 
-4. Diagramas de cableado
+<!-- PageNumber="$\frac { 3 ^ { n } } { 5 }$" -->
 
-- Techo y suelo
+ADINA®
+Air Conditioning
 
-![img-16.jpeg](img-16.jpeg)
+## 4. Diagramas de cableado
+
+<!-- PageFooter="· Techo y suelo" -->
+
+LÍNEA - CONEXIÓN DE FÁBRICA
+
+-T1
+
+231303639
+
+CABLE - CONEXIÓN DE FÁBRICA
+
+INSTALACIÓN CABLEADO
+
+Fuente
+alimentacion
+
+Unida
+exterior
+
+$r _ { 2 }$
+
+T1
+
+-AP2
+
+Fond de
+MARINE
+
+-T2
+
+1
+
+1
+
+1
+
+.
+
+8
+☒
+
+☒
+
+31
+
+10
+
+sWy
+
+1
+
+CN32
+
+IPT
+
+RT
+
+00
+
+00
+
+0
+
+CN8
+
+-AP3
+
+G
+
+0
+
+CN2-1
+
+G
+
+Monitor
+
+CN2
+
+CN14
+
+P13
+Nivel de agua
+(Observaciones1)
+
+G
+
+5
+
+2
+
+R
+
+O
+
+₹
+
+R
+
+SW1
+
+SW2
+
+0
+
+LNCROYG
+
+P13
+
+(Observaciones1)
+
+ON
+
+Observaciones2)
+
+-AP1
+
+0
+
+G
+
+0
+
+-TB1
+
+Nivel de agua
+
+2
+
+3
+
+2
+
+O
+
+MARCADOR DE MODELO
+
+MARCADOR DE FUNCIÓN
+
+Y
+
+G
+
+SIN SLU RED YLW ORG
+
+OUT10
+
+AC-L
+
+5
+
+CN5-3
+
+1# Ventilador
+CN3
+
+CN5
+
+2# Ventilador Bomba de agua
+
+CN3-1
+
+CN13
+
+AC-N
+
+CN1
+
+3
+
+5
+0
+
+9
+
+1
+
+3
+
+9
+
+M1
+
+A
+
+O
+
+1
+
+0
+
+Q
+
+0
+
+0
+
+0
+
+O
+
+®
+
+0
+
+0
+
+Q
+
+H
+
+N
+
+H
+
+BLU BRN
+
+5
+
+MF1
+
+M
+
+YIG
+
+MF2
+
+M
+
+YIG
+
+MP1
+
+2
+
+3
+
+A
+
+\-
+
+WHIT
+
+WHT
+
+P
+
+WHT
+
+WHT
+
+5
+
+C
+
+Observaciones!
+
+C
+
+Observaciones
+
+### Observaciones:
+
+1\. Bomba de drenaje, el interruptor de nivel de agua es opcional;
+
+2\. 'mm" para la ubicación del contacto del dial, prevalecerá el tipo y la
+función a la posición del contacto del dial en la tabla;
+
+SW2
+
+SW1
+
+3\. 2# ventilador de acuerdo con el montaje del producto;
+
+<table>
+<tr>
+<th>MODELO</th>
+<th>TECHO TIPO SUELO</th>
+<th>TIPO DUCTO</th>
+</tr>
+<tr>
+<td>FRÍO NO T3</td>
+<td></td>
+<td>ON</td>
+</tr>
+<tr>
+<td>FRÍO Y CALOR 73</td>
+<td></td>
+<td>ON</td>
+</tr>
+<tr>
+<td>FRIO Y CALOR NO TS</td>
+<td>ON</td>
+<td>ON</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>CÓDIGO</th>
+<th>DESCRIPCIÓN</th>
+</tr>
+<tr>
+<td>AP1</td>
+<td>TABLERO PRINCIPAL</td>
+</tr>
+<tr>
+<td>AP2</td>
+<td>PLACA DE VISUALIZACIÓN</td>
+</tr>
+<tr>
+<td>AP3</td>
+<td>BL CABLE CONTROLADOR 1</td>
+</tr>
+<tr>
+<td>MF1/MF2</td>
+<td>MOTOR INTERIOR</td>
+</tr>
+<tr>
+<td>MP1</td>
+<td>MOTOR DE LA BOMBA DE DRENAJE</td>
+</tr>
+<tr>
+<td>M1/M2</td>
+<td>MOTOR DE PALETAS VERTICALES</td>
+</tr>
+<tr>
+<td>M3</td>
+<td>MOTOR PASDA FADO DE LA GUÍA DE ARE</td>
+</tr>
+<tr>
+<td>TROOM</td>
+<td>SENSOR DE TEMPERATURA AVBIENTE</td>
+</tr>
+<tr>
+<td>TOUT</td>
+<td>SENSOR DE TEMPERATURA DE LA DORINA</td>
+</tr>
+<tr>
+<td>OPT</td>
+<td>SENSOR DE TEMPERATURA EXTERICA</td>
+</tr>
+<tr>
+<td>SW1</td>
+<td>INTERRUPTOR DE NIVEL DE AGUA</td>
+</tr>
+<tr>
+<td>T1/12</td>
+<td>TRANSP DRUMADOR</td>
+</tr>
+<tr>
+<td>TB1</td>
+<td>BLOQUE DE TERMINALES</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>MOOGED</th>
+<th>CECHO MIDOR SURELO</th>
+<th>DOIRO DUCTO</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Nhos DISTAAL</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 14
 ================================================================================
 
-![img-17.jpeg](img-17.jpeg)
+<!-- PageHeader="SERIES" -->
+<!-- PageHeader="Gold" -->
 
-# COMENTARIOS
+· Cassette
 
-## 201307777
+ADINA®
+Air Conditioning
 
-### 201307777
+<table>
+<tr>
+<td>CÓDIGO</td>
+<td>DESCRIPCIÓN</td>
+</tr>
+<tr>
+<td>AP1</td>
+<td>TABLERO PRINCIPAL</td>
+</tr>
+<tr>
+<td>MF</td>
+<td>MOTOR ENTEROOR</td>
+</tr>
+<tr>
+<td>MP1</td>
+<td>MOTOR DE DONGIA DE ORENAK</td>
+</tr>
+<tr>
+<td>TRT</td>
+<td>S ONCOR DE TEMSTAATURA ANDTENTIL</td>
+</tr>
+<tr>
+<td>TF</td>
+<td>SENEMA DE TEMPERATURA DEL BORUNADO</td>
+</tr>
+<tr>
+<td>OFT</td>
+<td>SENCOR DE TEMPERATURA EXTERIOR</td>
+</tr>
+<tr>
+<td>SW</td>
+<td>INTERRUPTOR DE NIVEE DE AQUA</td>
+</tr>
+<tr>
+<td>T</td>
+<td>TRANSF-DRUILBOR</td>
+</tr>
+<tr>
+<td>TB1 / TB2</td>
+<td>BLOOLE TERLOIAL</td>
+</tr>
+<tr>
+<td>XT</td>
+<td>DOMECTON</td>
+</tr>
+</table>
 
-|  **COMENTARIOS** | **CAS** | **TABLERO** | **CASO** | **TABLERO** | **CASO**  |
-| --- | --- | --- | --- | --- | --- |
-|  1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+<table>
+<tr>
+<th colspan="6">Descripción de SW2</th>
+</tr>
+<tr>
+<th>MODELO</th>
+<th>11</th>
+<th>130.1</th>
+<th>90.1</th>
+<th>00.4</th>
+<th>Fundfor</th>
+</tr>
+<tr>
+<td rowspan="2">110 DE ULEAD</td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>OFF</td>
+<td>P ☒</td>
+<td></td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">RESTO 5T</td>
+<td>☒</td>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>☒</td>
+<td>OFF</td>
+<td>☒</td>
+<td>☒</td>
+<td>NO OT</td>
+</tr>
+<tr>
+<td rowspan="2">Selace de WH</td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Id</td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+<td>OFF</td>
+<td></td>
+</tr>
+<tr>
+<td>Mohor.</td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td>D</td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="5">Descripción de SWE</th>
+</tr>
+<tr>
+<th>MODELO</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>OFF</td>
+<td></td>
+<td>☒</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>A ☒</td>
+</tr>
+<tr>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+<td>☒</td>
+<td>ON</td>
+</tr>
+<tr>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+<td>☒</td>
+<td>OFF</td>
+</tr>
+</table>
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 15
 ================================================================================
 
-# LÍNEA - CONEXIÓN DE FÁBRICA
+<!-- PageHeader="SERIES" -->
+<!-- PageHeader="Gold" -->
 
-## CABLE - CONEXIÓN DE FÁBRICA
+· Ducto
 
-### INSTALACIÓN CABLEADO
+ADINA®
+Air Conditioning
 
-|  **Item** | **Description**  |
-| --- | --- |
-|  1 | Línel de agua  |
-|  2 | Línel de agua  |
-|  3 | Línel de agua  |
-|  4 | Línel de agua  |
-|  5 | Línel de agua  |
-|  6 | Línel de agua  |
-|  7 | Línel de agua  |
-|  8 | Línel de agua  |
-|  9 | Línel de agua  |
-|  10 | Línel de agua  |
-|  11 | Línel de agua  |
-|  12 | Línel de agua  |
-|  13 | Línel de agua  |
-|  14 | Línel de agua  |
-|  15 | Línel de agua  |
-|  16 | Línel de agua  |
-|  17 | Línel de agua  |
-|  18 | Línel de agua  |
-|  19 | Línel de agua  |
-|  20 | Línel de agua  |
-|  21 | Línel de agua  |
-|  22 | Línel de agua  |
-|  23 | Línel de agua  |
-|  24 | Línel de agua  |
-|  25 | Línel de agua  |
-|  26 | Línel de agua  |
-|  27 | Línel de agua  |
-|  28 | Línel de agua  |
-|  29 | Línel de agua  |
-|  30 | Línel de agua  |
-|  31 | Línel de agua  |
-|  32 | Línel de agua  |
-|  33 | Línel de agua  |
-|  34 | Línel de agua  |
-|  35 | Línel de agua  |
-|  36 | Línel de agua  |
-|  37 | Línel de agua  |
-|  38 | Línel de agua  |
-|  39 | Línel de agua  |
-|  40 | Línel de agua  |
-|  41 | Línel de agua  |
-|  42 | Línel de agua  |
-|  43 | Línel de agua  |
-|  44 | Línel de agua  |
-|  45 | Línel de agua  |
-|  46 | Línel de agua  |
-|  47 | Línel de agua  |
-|  48 | Línel de agua  |
-|  49 | Línel de agua  |
-|  50 | Línel de agua  |
-|  51 | Línel de agua  |
-|  52 | Línel de agua  |
-|  53 | Línel de agua  |
-|  54 | Línel de agua  |
-|  55 | Línel de agua  |
-|  56 | Línel de agua  |
-|  57 | Línel de agua  |
-|  58 | Línel de agua  |
-|  59 | Línel de agua  |
-|  60 | Línel de agua  |
-|  61 | Línel de agua  |
-|  62 | Línel de agua  |
-|  63 | Línel de agua  |
-|  64 | Línel de agua  |
-|  65 | Línel de agua  |
-|  66 | Línel de agua  |
-|  67 | Línel de agua  |
-|  68 | Línel de agua  |
-|  69 | Línel de agua  |
-|  70 | Línel de agua  |
-|  71 | Línel de agua  |
-|  72 | Línel de agua  |
-|  73 | Línel de agua  |
-|  74 | Línel de agua  |
-|  75 | Línel de agua  |
-|  76 | Línel de agua  |
-|  77 | Línel de agua  |
-|  78 | Línel de agua  |
-|  79 | Línel de agua  |
-|  80 | Línel de agua  |
-|  81 | Línel de agua  |
-|  82 | Línel de agua  |
-|  83 | Línel de agua  |
-|  84 | Línel de agua  |
-|  85 | Línel de agua  |
-|  86 | Línel de agua  |
-|  87 | Línel de agua  |
-|  88 | Línel de agua  |
-|  89 | Línel de agua  |
-|  90 | Línel de agua  |
-|  91 | Línel de agua  |
-|  92 | Línel de agua  |
-|  93 | Línel de agua  |
-|  94 | Línel de agua  |
-|  95 | Línel de agua  |
-|  96 | Línel de agua  |
-|  97 | Línel de agua  |
-|  98 | Línel de agua  |
-|  99 | Línel de agua  |
-|  100 | Línel de agua  |
-|  101 | Línel de agua  |
-|  102 | Línel de agua  |
-|  103 | Línel de agua  |
-|  104 | Línel de agua  |
-|  105 | Línel de agua  |
-|  106 | Línel de agua  |
-|  107 | Línel de agua  |
-|  108 | Línel de agua  |
-|  109 | Línel de agua  |
-|  110 | Línel de agua  |
-|  111 | Línel de agua  |
-|  112 | Línel de agua  |
-|  113 | Línel de agua  |
-|  114 | Línel de agua  |
-|  115 | Línel de agua  |
-|  116 | Línel de agua  |
-|  117 | Línel de agua  |
-|  118 | Línel de agua  |
-|  119 | Línel de agua  |
-|  120 | Línel de agua  |
-|  121 | Línel de agua  |
-|  122 | Línel de agua  |
-|  123 | Línel de agua  |
-|  124 | Línel de agua  |
-|  125 | Línel de agua  |
-|  126 | Línel de agua  |
-|  127 | Línel de agua  |
-|  128 | Línel de agua  |
-|  129 | Línel de agua  |
-|  130 | Línel de agua  |
-|  131 | Línel de agua  |
-|  132 | Línel de agua  |
-|  133 | Línel de agua  |
-|  134 | Línel de agua  |
-|  135 | Línel de agua  |
-|  136 | Línel de agua  |
-|  137 | Línel de agua  |
-|  138 | Línel de agua  |
-|  139 | Línel de agua  |
-|  140 | Línel de agua  |
-|  141 | Línel de agua  |
-|  142 | Línel de agua  |
-|  143 | Línel de agua  |
-|  144 | Línel de agua  |
-|  145 | Línel de agua  |
-|  146 | Línel de agua  |
-|  147 | Línel de agua  |
-|  148 | Línel de agua  |
-|  149 | Línel de agua  |
-|  150 | Línel de agua  |
-|  151 | Línel de agua  |
-|  152 | Línel de agua  |
-|  153 | Línel de agua  |
-|  154 | Línel de agua  |
-|  155 | Línel de agua  |
-|  156 | Línel de agua  |
-|  157 | Línel de agua  |
-|  158 | Línel de agua  |
-|  159 | Línel de agua  |
-|  160 | Línel de agua  |
-|  161 | Línel de agua  |
-|  162 | Línel de agua  |
-|  163 | Línel de agua  |
-|  164 | Línel de agua  |
-|  165 | Línel de agua  |
-|  166 | Línel de agua  |
-|  167 | Línel de agua  |
-|  168 | Línel de agua  |
-|  169 | Línel de agua  |
-|  1610 | Línel de agua  |
-|  1611 | Línel de agua  |
-|  1612 | Línel de agua  |
-|  1613 | Línel de agua  |
-|  1614 | Línel de agua  |
-|  1615 | Línel de agua  |
-|  1616 | Línel de agua  |
-|  1617 | Línel de agua  |
-|  1618 | Línel de agua  |
-|  1619 | Línel de agua  |
-|  1620 | Línel de agua  |
-|  1621 | Línel de agua  |
-|  1622 | Línel de agua  |
-|  1623 | Línel de agua  |
-|  1624 | Línel de agua  |
-|  1625 | Línel de agua  |
-|  1626 | Línel de agua  |
-|  1627 | Línel de agua  |
-|  1628 | Línel de agua  |
-|  1629 | Línel de agua  |
-|  1630 | Línel de agua  |
-|  1631 | Línel de agua  |
-|  1632 | Línel de agua  |
-|  1633 | Línel de agua  |
-|  1634 | Línel de agua  |
-|  1635 | Línel de agua  |
-|  1636 | Línel de agua  |
-|  1637 | Línel de agua  |
-|  1638 | Línel de agua  |
-|  1639 | Línel de agua  |
-|  1640 | Línel de agua  |
-|  1641 | Línel de agua  |
-|  1642 | Línel de agua  |
-|  1643 | Línel de agua  |
-|  1644 | Línel de agua  |
-|  1645 | Línel de agua  |
-|  1646 | Línel de agua  |
-|  1647 | Línel de agua  |
-|  1648 | Línel de agua  |
-|  1649 | Línel de agua  |
-|  1650 | Línel de agua  |
-|  1651 | Línel de agua  |
-|  1652 | Línel de agua  |
-|  1653 | Línel de agua  |
-|  1654 | Línel de agua  |
-|  1655 | Línel de agua  |
-|  1656 | Línel de agua  |
-|  1657 | Línel de agua  |
-|  1658 | Línel de agua  |
-|  1659 | Línel de agua  |
-|  1660 | Línel de agua  |
-|  1661 | Línel de agua  |
-|  1662 | Línel de agua  |
-|  1663 | Línel de agua  |
-|  1664 | Línel de agua  |
-|  1665 | Línel de agua  |
-|  1666 | Línel de agua  |
-|  1667 | Línel de agua  |
-|  1668 | Línel de agua  |
-|  1669 | Línel de agua  |
-|  1670 | Línel de agua  |
-|  1671 | Línel de agua  |
-|  1672 | Línel de agua  |
-|  1673 | Línel de agua  |
-|  1674 | Línel de agua  |
-|  1675 | Línel de agua  |
-|  1676 | Línel de agua  |
-|  1677 | Línel de agua  |
-|  1678 | Línel de agua  |
-|  1679 | Línel de agua  |
-|  1680 | Línel de agua  |
-|  1681 | Línel de agua  |
-|  1682 | Línel de agua  |
-|  1683 | Línel de agua  |
-|  1684 | Línel de agua  |
-|  1685 | Línel de agua  |
-|  1686 | Línel de agua  |
-|  1687 | Línel de agua  |
-|  1688 | Línel de agua  |
-|  1689 | Línel de agua  |
-|  1690 | Línel de agua  |
-|  1691 | Línel de agua  |
-|  1692 | Línel de agua  |
-|  1693 | Línel de agua  |
-|  1694 | Línel de agua  |
-|  1695 | Línel de agua  |
-|  1696 | Línel de agua  |
-|  1697 | Línel de agua  |
-|  1698 | Línel de agua  |
-|  1699 | Línel de agua  |
-|  1700 | Línel de agua  |
-|  1701 | Línel de agua  |
-|  1702 | Línel de agua  |
-|  1703 | Línel de agua  |
-|  1704 | Línel de agua  |
-|  1705 | Línel de agua  |
-|  1706 | Línel de agua  |
-|  1707 | Línel de agua  |
-|  1708 | Línel de agua  |
-|  1709 | Línel de agua  |
-|  1710 | Línel de agua  |
-|  1711 | Línel de agua  |
-|  1712 | Línel de agua  |
-|  1713 | Línel de agua  |
-|  1714 | Línel de agua  |
-|  1715 | Línel de agua  |
-|  1716 | Línel de agua  |
-|  1717 | Línel de agua  |
-|  1718 | Línel de agua  |
-|  1719 | Línel de agua  |
-|  17110 | Línel de agua  |
-|  17120 | Línel de agua  |
-|  17130 | Línel de agua  |
-|  17140 | Línel de agua  |
-|  17150 | Línel de agua  |
-|  17160 | Línel de agua  |
-|  17170 | Línel de agua  |
-|  17180 | Línel de agua  |
-|  17190 | Línel de agua  |
-|  17200 | Línel de agua  |
-|  17210 | Línel de agua  |
-|  17220 | Línel de agua  |
-|  17230 | Línel de agua  |
-|  17240 | Línel de agua  |
-|  17250 | Línel de agua  |
-|  17260 | Línel de agua  |
-|  17270 | Línel de agua  |
-|  17280 | Línel de agua  |
-|  17290 | Línel de agua  |
-|  17300 | Línel de agua  |
-|  17310 | Línel de agua  |
-|  17320 | Línel de agua  |
-|  17330 | Línel de agua  |
-|  17340 | Línel de agua  |
-|  17350 | Línel de agua  |
-|  17360 | Línel de agua  |
-|  17370 | Línel de agua  |
-|  17380 | Línel de agua  |
-|  17390 | Línel de agua  |
-|  17400 | Línel de agua  |
-|  17410 | Línel de agua  |
-|  17420 | Línel de agua  |
-|  17430 | Línel de agua  |
-|  17440 | Línel de agua  |
-|  17450 | Línel de agua  |
-|  17460 | Línel de agua  |
-|  17470 | Línel de agua  |
-|  17480 | Línel de agua  |
-|  17490 | Línel de agua  |
-|  17500 | Línel de agua  |
-|  17510 | Línel de agua  |
-|  17520 | Línel de agua  |
-|  17530 | Línel de agua  |
-|  17540 | Línel de agua  |
-|  17550 | Línel de agua  |
-|  17560 | Línel de agua  |
-|  17570 | Línel de agua  |
-|  17580 | Línel de agua  |
-|  17590 | Línel de agua  |
-|  17600 | Línel de agua  |
-|  17610 | Línel de agua  |
-|  17620 | Línel de agua  |
-|  17630 | Línel de agua  |
-|  17640 | Línel de agua  |
-|  17650 | Línel de agua  |
-|  17660 | Línel de agua  |
-|  17670 | Línel de agua  |
-|  17680 | Línel de agua  |
-|  17690 | Línel de agua  |
-|  17700 | Línel de agua  |
-|  17710 | Línel de agua  |
-|  17720 | Línel de agua  |
-|  17730 | Línel de agua  |
-|  17740 | Línel de agua  |
-|  17750 | Línel de agua  |
-|  17760 | Línel de agua  |
-|  17770 | Línel de agua  |
-|  17780 | Línel de agua  |
-|  17790 | Línel de agua  |
-|  17791 | Línel de agua  |
-|  17800 | Línel de agua  |
-|  17810 | Línel de agua  |
-|  17820 | Línel de agua  |
-|  17830 | Línel de agua  |
-|  17840 | Línel de agua  |
-|  17850 | Línel de agua  |
-|  17860 | Línel de agua  |
-|  17870 | Línel de agua  |
-|  17880 | Línel de agua  |
-|  17890 | Línel de agua  |
-|  17900 | Línel de agua  |
-|  17910 | Línel de agua  |
-|  17920 | Línel de agua  |
-|  17930 | Línel de agua  |
-|  17940 | Línel de agua  |
-|  17950 | Línel de agua  |
-|  17960 | Línel de agua  |
-|  17970 | Línel de agua  |
-|  17980 | Línel de agua  |
-|  17990 | Línel de agua  |
-|  17991 | Línel de agua  |
-|  17992 | Línel de agua  |
-|  17993 | Línel de agua  |
-|  17994 | Línel de agua  |
-|  17995 | Línel de agua  |
-|  17996 | Línel de agua  |
-|  17997 | Línel de agua  |
-|  17998 | Línel de agua  |
-|  17999 | Línel de agua  |
-|  20000 | Línel de agua  |
-|  20010 | Línel de agua  |
-|  20020 | Línel de agua  |
-|  20030 | Línel de agua  |
-|  20040 | Línel de agua  |
-|  20050 | Línel de agua  |
-|  20060 | Línel de agua  |
-|  20070 | Línel de agua  |
-|  20080 | Línel de agua  |
-|  20090 | Línel de agua  |
-|  20100 | Línel de agua  |
-|  20110 | Línel de agua  |
-|  20120 | Línel de agua  |
-|  20130 | Línel de agua  |
-|  20140 | Línel de agua  |
-|  20150 | Línel de agua  |
-|  20160 | Línel de agua  |
-|  20170 | Línel de agua  |
-|  20180 | Línel de agua  |
-|  20190 | Línel de agua  |
-|  20200 | Línel de agua  |
-|  20210 | Línel de agua  |
-|  20220 | Línel de agua  |
-|  20230 | Línel de agua  |
-|  20240 | Línel de agua  |
-|  20250 | Línel de agua  |
-|  20260 | Línel de agua  |
-|  20270 | Línel de agua  |
-|  20280 | Línel de agua  |
-|  20290 | Línel de agua  |
-|  20300 | Línel de agua  |
-|  20310 | Línel de agua  |
-|  20320 | Línel de agua  |
-|  20330 | Línel de agua  |
-|  20340 | Línel de agua  |
-|  20350 | Línel de agua  |
-|  20360 | Línel de agua  |
-|  20370 | Línel de agua  |
-|  20380 | Línel de agua  |
-|  20390 | Línel de agua  |
-|  20400 | Línel de agua  |
-|  20410 | Línel de agua  |
-|  20420 | Línel de agua  |
-|  20430 | Línel de agua  |
-|  20440 | Línel de agua  |
-|  20450 | Línel de agua  |
-|  20460 | Línel de agua  |
-|  20470 | Línel de agua  |
-|  20480 | Línel de agua  |
-|  20490 | Línel de agua  |
-|  20500 | Línel de agua  |
-|  20510 | Línel de agua  |
-|  20520 | Línel de agua  |
-|  20530 | Línel de agua  |
-|  20540 | Línel de agua  |
-|  20550 | Línel de agua  |
-|  20560 | Línel de agua  |
-|  20570 | Línel de agua  |
-|  20580 | Línel de agua  |
-|  20590 | Línel de agua  |
-|  20600 | Línel de agua  |
-|  20610 | Línel de agua  |
-|  20620 | Línel de agua  |
-|  20630 | Línel de agua  |
-|  20640 | Línel de agua  |
-|  20650 | Línel de agua  |
-|  20660 | Línel de agua  |
-|  20670 | Línel de agua  |
-|  20680 | Línel de agua  |
-|  20690 | Línel de agua  |
-|  20700 | Línel de agua  |
-|  20710 | Línel de agua  |
-|  20720 | Línel de agua  |
-|  20730 | Línel de agua  |
-|  20740 | Línel de agua  |
-|  20750 | Línel de agua  |
-|  20760 | Línel de agua  |
-|  20770 | Línel de agua  |
-|  20780 | Línel de agua  |
-|  20790 | Línel de agua  |
-|  20800 | Línel de agua  |
-|  20810 | Línel de agua  |
-|  20820 | Línel de agua  |
-|  20830 | Línel de agua  |
-|  20840 | Línel de agua  |
-|  20850 | Línel de agua  |
-|  20860 | Línel de agua  |
-|  20870 | Línel de agua  |
-|  20880 | Línel de agua  |
-|  20890 | Línel de agua  |
-|  20900 | Línel de agua  |
-|  20910 | Línel de agua  |
-|  20920 | Línel de agua  |
-|  20930 | Línel de agua  |
-|  20940 | Línel de agua  |
-|  20950 | Línel de agua  |
-|  20960 | Línel de agua  |
-|  20970 | Línel de agua  |
-|  20980 | Línel de agua  |
-|  20990 | Línel de agua  |
-|  20991 | Línel de agua  |
-|  21000 | Línel de agua  |
-|  21010 | Línel de agua  |
-|  21020 | Línel de agua  |
-|  21030 | Línel de agua  |
-|  21040 | Línel de agua  |
-|  21050 | Línel de agua  |
-|  21060 | Línel de agua  |
-|  21070 | Línel de agua  |
-|  21080 | Línel de agua  |
-|  21090 | Línel de agua  |
-|  21100 | Línel de agua  |
-|  21110 | Línel de agua  |
-|  21120 | Línel de agua  |
-|  21130 | Línel de agua  |
-|  21140 | Línel de agua  |
-|  21150 | Línel de agua  |
-|  21160 | Línel de agua  |
-|  21170 | Línel de agua  |
-|  21180 | Línel de agua  |
-|  21190 | Línel de agua  |
-|  21200 | Línel de agua  |
-|  21210 | Línel de agua  |
-|  21220 | Línel de agua  |
-|  21230 | Línel de agua  |
-|  21240 | Línel de agua  |
-|  21250 | Línel de agua  |
-|  21260 | Línel de agua  |
-|  21270 | Línel de agua  |
-|  21280 | Línel de agua  |
-|  21290 | Línel de agua  |
-|  21300 | Línel de agua  |
-|  21310 | Línel de agua  |
-|  21320 | Línel de agua  |
-|  21330 | Línel de agua  |
-|  21340 | Línel de agua  |
-|  21350 | Línel de agua  |
-|  21360 | Línel de agua  |
-|  21370 | Línel de agua  |
-|  21380 | Línel de agua  |
-|  21390 | Línel de agua  |
-|  21400 | Línel de agua  |
-|  21410 | Línel de agua  |
-|  21420 | Línel de agua  |
-|  21430 | Línel de agua  |
-|  21440 | Línel de agua  |
-|  21450 | Línel de agua  |
-|  21460 | Línel de agua  |
-|  21470 | Línel de agua  |
-|  21480 | Línel de agua  |
-|  21490 | Línel de agua  |
-|  21480 | Línel de agua  |
-|  21490 | Línel de agua  |
-|  21470 | Línel de agua  |
-|  21480 | Línel de agua  |
-|  21490 | Línel de agua  |
-|  21491 | Línel de agua  |
-|  21492 | Línel de agua  |
-|  21493 | Línel de agua  |
-|  21494 | Línel de agua  |
-|  21495 | Línel de agua  |
-|  21496 | Línel de agua  |
-|  21497 | Línel de agua  |
-|  21498 | Línel de agua  |
-|  21499 | Línel de agua  |
-|  21500 | Línel de agua  |
-|  21510 | Línel de agua  |
-|  21520 | Línel de agua  |
-|  21530 | Línel de agua  |
-|  21540 | Línel de agua  |
-|  21550 | Línel de agua  |
-|  21560 | Línel de agua  |
-|  21570 | Línel de agua  |
-|  21580 | Línel de agua  |
-|  21590 | Línel de agua  |
-|  21591 | Línel de agua  |
-|  21592 | Línel de agua  |
-|  21593 | Línel de agua  |
-|  21594 | Línel de agua  |
-|  21595 | Línel de agua  |
-|  21596 | Línel de agua  |
-|  21597 | Línel de agua  |
-|  21597 | Línel de agua  |
-|  21598 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21510 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
-|  21599 | Línel de agua  |
+### Observaciones
+
+1\. Bomba de drenaje, el interruptor de nivel de agua es opcional;
+
+2\. 'mm" para la ubicación del contacto del dial, prevalecerá el tipo y la
+función a la posición del contacto del dial en la tabla;
+
+3\. 2# ventilador de acuerdo con el montaje del producto;
+
+<table>
+<tr>
+<th rowspan="4">SWI</th>
+<th>MODELO</th>
+<th>TECHO TIPO SUELO</th>
+<th>TIPO DUCTO</th>
+</tr>
+<tr>
+<td>PRID NO 13</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HOY CALDA TA</td>
+<td></td>
+<td>O</td>
+</tr>
+<tr>
+<td>+90Y CALDA NO</td>
+<td>8</td>
+<td>O</td>
+</tr>
+</table>
+
+231307430
+
+<table>
+<tr>
+<th>CÓDIGO</th>
+<th>DESCRIPCIÓN</th>
+</tr>
+<tr>
+<td>AP1</td>
+<td>PARLERD MANCIN</td>
+</tr>
+<tr>
+<td>AP2</td>
+<td>PLACADE VOUALIPACION</td>
+</tr>
+<tr>
+<td>AP3</td>
+<td>ELCABLE CONTROLADOKI</td>
+</tr>
+<tr>
+<td>MFTAIFZ</td>
+<td>MOTOR NTERIOR</td>
+</tr>
+<tr>
+<td>MP1</td>
+<td>MOTOR ET LABORMADE DRENAJE</td>
+</tr>
+<tr>
+<td>MIM2</td>
+<td>MOTOR DE PALETAS VENT CALES</td>
+</tr>
+<tr>
+<td>10</td>
+<td>MOTOR MORA ANNO DI LA GUÍAOT ATE</td>
+</tr>
+<tr>
+<td>TROOM</td>
+<td>HENSCHICO TELIFARTURA FUNVENTE</td>
+</tr>
+<tr>
+<td>TOUT</td>
+<td>DENACHT DE TEMPERATURA DE LA DOR MA</td>
+</tr>
+<tr>
+<td>OFT</td>
+<td>HINSCH CE TEMPERATURA EXTERIOR</td>
+</tr>
+<tr>
+<td>SW1</td>
+<td>INTERRUPTOR CE NVML DE AGUA</td>
+</tr>
+<tr>
+<td>11/12</td>
+<td>TRANSFORMADOR</td>
+</tr>
+<tr>
+<td>TB1</td>
+<td>DEDOVE CE TERMINALES</td>
+</tr>
+</table>
+
+<!-- PageBreak -->
+
 
 
 ================================================================================
 PAGE 16
 ================================================================================
 
-# 5. Características eléctricas
+ADINA®
+Air Conditioning
 
-|  Modelo | Unidad interior |  |  |   |
-| --- | --- | --- | --- | --- |
-|   | Hz | Voltage | Min. | Max.  |
-|  TBF41E-024-M3U1C | 60 | 220-230V | 198 | 242  |
-|  TBF41E-036-M3U1C | 60 | 220-230V | 198 | 242  |
-|  TBF41E-048-M3U1C | 60 | 220-230V | 198 | 242  |
-|  TBF41E-060-M3U1C | 60 | 220-230V | 198 | 242  |
-|  TBK41E-024--3U1C | 60 | 220-230V | 198 | 242  |
-|  TBK41E-026--3U1C | 60 | 220-230V | 198 | 242  |
-|  TBK41E-048--3U1C | 60 | 220-230V | 198 | 242  |
-|  TBK41E-060--3U1C | 60 | 220-230V | 198 | 242  |
-|  TBC41B-024-E3U1C | 60 | 220-230V | 198 | 242  |
-|  TBC41B-036-E3U1C | 60 | 220-230V | 198 | 242  |
-|  TBC41B-048-E3U1C | 60 | 220-230V | 198 | 242  |
-|  TBC41B-060-E3U1C | 60 | 220-230V | 198 | 242  |
+## 5. Características eléctricas
 
-1. Niveles de Ruido
+<table>
+<tr>
+<th rowspan="2">Modelo</th>
+<th colspan="4">Unidad interior</th>
+</tr>
+<tr>
+<th>$H z$</th>
+<th>Voltage</th>
+<th>Min.</th>
+<th>Max.</th>
+</tr>
+<tr>
+<td>TBF41E-024-M3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBF41E-036-M3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBF41E-048-M3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBF41E-060-M3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBK41E-024 -- 3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBK41E-026 -- 3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBK41E-048 -- 3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBK41E-060 -- 3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBC41B-024-E3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBC41B-036-E3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBC41B-048-E3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBC41B-060-E3U1C</td>
+<td>60</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+</table>
 
-![img-18.jpeg](img-18.jpeg)
-
-La posición de prueba en el centro debajo del cuerpo vertical
-
-a) Medium and high static pressure duct
-
-![img-19.jpeg](img-19.jpeg)
+### 6. Niveles de Ruido
 
 b) Low static pressure duct
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 17
 ================================================================================
 
-![img-20.jpeg](img-20.jpeg)
-c) Techo Suelo, cassette
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-| Modelo | Nivel de ruido dB(A) |  |  |
-| :-- | :-- | :-- | :-- |
-|  | H | M | L |
-| TBF41E-024-M3U1C | 45 | 43 | 40 |
-| TBF41E-036-M3U1C | 51 | 50 | 49 |
-| TBF41E-048-M3U1C | 53 | 51 | 48 |
-| TBF41E-060-M3U1C | 53 | 51 | 48 |
-| TBK41E-024--3U1C | 44 | 39 | 36 |
-| TBK41E-026--3U1C | 47 | 44 | 42 |
-| TBK41E-048--3U1C | 47 | 44 | 42 |
-| TBK41E-060--3U1C | 47 | 44 | 42 |
-| TBC41B-024-E3U1C | 47 | 45 | 43 |
-| TBC41B-036-E3U1C | 51 | 49 | 47 |
-| TBC41B-048-E3U1C | 52 | 50 | 48 |
-| TBC41B-060-E3U1C | 52 | 50 | 48 |
+室外側
+
+1\. 4m
+
+室内侧
+
+\*
+
+### c) Techo Suelo, cassette
+
+<table>
+<tr>
+<th rowspan="2">Modelo</th>
+<th colspan="3">Nivel de ruido dB(A)</th>
+</tr>
+<tr>
+<th>H</th>
+<th>M</th>
+<th>L</th>
+</tr>
+<tr>
+<td>$T B F 4 1 E - 0 2 4 - M 3 U 1 C$</td>
+<td>45</td>
+<td>43</td>
+<td>$4 0$</td>
+</tr>
+<tr>
+<td>TBF41E-036-M3U1C</td>
+<td>51</td>
+<td>50</td>
+<td>49</td>
+</tr>
+<tr>
+<td>TBF41E-048-M3U1C</td>
+<td>53</td>
+<td>51</td>
+<td>48</td>
+</tr>
+<tr>
+<td>$T B F 4 1 E - 0 6 0 - M 3 U 1 C$</td>
+<td>53</td>
+<td>51</td>
+<td>$\frac { 4 8 } { 2 0 }$</td>
+</tr>
+<tr>
+<td>TBK41E-024 -- 3U1C</td>
+<td>44</td>
+<td>39</td>
+<td></td>
+</tr>
+<tr>
+<td>TBK41E-026 -- 3U1C</td>
+<td>47</td>
+<td>44</td>
+<td>42</td>
+</tr>
+<tr>
+<td>$T B K 4 1 E - 0 4 8 \quad - - \quad 3 U 1 C$</td>
+<td>47</td>
+<td>44</td>
+<td>42</td>
+</tr>
+<tr>
+<td>TBK41E-060 -- 3U1C</td>
+<td>47</td>
+<td>44</td>
+<td>42</td>
+</tr>
+<tr>
+<td>TBC41B-024-E3U1C</td>
+<td>47</td>
+<td>45</td>
+<td>43</td>
+</tr>
+<tr>
+<td>$\mathrm { T B C 4 1 B - O 3 6 - E 3 U 1 C }$</td>
+<td>$\frac { 5 1 } { 5 2 }$</td>
+<td>49</td>
+<td>$\frac { 4 7 } { 4 8 }$</td>
+</tr>
+<tr>
+<td>TBC41B-048-E3U1C</td>
+<td></td>
+<td>50</td>
+<td></td>
+</tr>
+<tr>
+<td>TBC41B-060-E3U1C</td>
+<td>52</td>
+<td>50</td>
+<td>48</td>
+</tr>
+</table>
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 18
 ================================================================================
 
-# Parte 3 <br> Unidades exteriores 
+ADINA®
+Air Conditioning
 
-1. Dimensiones
-2. Espacio de servicio
-3. Diagramas de tuberías
-4. Diagramas de cableado
-5. Características eléctricas
-6. Límites de funcionamiento
+## Parte 3 Unidades exteriores
+
+1\. Dimensiones
+
+2\. Espacio de servicio
+
+3\. Diagramas de tuberías
+
+4\. Diagramas de cableado
+
+5\. Características eléctricas
+
+6\. Límites de funcionamiento
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 19
 ================================================================================
 
-![img-21.jpeg](img-21.jpeg)
+ADINA®
+Air Conditioning
 
-# 1. Tamaño
+### 1. Tamaño
 
-|  Modelo de unidad (Btu/h) | Dimensiones (pulgadas) |  |  | Conexión de refrigerante Tamaño de la válvula de servicio |   |
-| --- | --- | --- | --- | --- | --- |
-|   | "H" en [mm] | "W" en [mm] | "L" en [mm] | Líquido en Vapor en |   |
-|  24000 | 21-7/8(554) | 21-7/8(554) | 24-15/16(633) | 3/8 | 5/8  |
-|  36000 | 21-7/8(554) | 21-7/8(554) | 29-7/8(759) | 3/8 | 3/4  |
-|  48000 | 29-1/8(740) | 29-1/8(740) | 33-3/16(843) | 3/8 | 3/4  |
-|  60000 | 29-1/8(740) | 29-1/8(740) | 33-3/16(843) | 3/8 | 3/4  |
+<table>
+<tr>
+<th rowspan="2">Modelo de unidad (Btu/h)</th>
+<th colspan="3">Dimensiones (pulgadas)</th>
+<th colspan="2">Conexión de refrigerante Tamaño de la válvula de servicio</th>
+</tr>
+<tr>
+<th>"H" en [mm]</th>
+<th>$W$ en [mm]</th>
+<th>"L" en [mm]</th>
+<th colspan="2">Líquido en Vapor en</th>
+</tr>
+<tr>
+<td>24000</td>
+<td>$2 1 - 7 / 8 \left( 5 5 4 \right)$</td>
+<td>$2 1 - 7 / 8 \left( 5 5 4 \right)$</td>
+<td>24-15/16(633)</td>
+<td colspan="2">3/8 5/8</td>
+</tr>
+<tr>
+<td>36000</td>
+<td>$2 1 - 7 / 8 \left( 5 5 4 \right)$</td>
+<td>$2 1 - 7 / 8 \left( 5 5 4 \right)$</td>
+<td>$2 9 - 7 / 8 \left( 7 5 9 \right)$</td>
+<td>3/8</td>
+<td>3/4</td>
+</tr>
+<tr>
+<td>48000</td>
+<td>$2 9 - 1 / 8 \left( 7 4 0 \right)$</td>
+<td>29-1/8(740)</td>
+<td>$3 3 - 3 / 1 6 \left( 8 4 3 \right)$</td>
+<td>3/8</td>
+<td>3/4</td>
+</tr>
+<tr>
+<td>60000</td>
+<td>$2 9 - 1 / 8 \left( 7 4 0 \right)$</td>
+<td>$2 9 - 1 / 8 \left( 7 4 0 \right)$</td>
+<td>33-3/16(843)</td>
+<td>3/8</td>
+<td>3/4</td>
+</tr>
+</table>
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 20
 ================================================================================
 
-![img-22.jpeg](img-22.jpeg)
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-NOTA: Todo el cableado exterior debe ser resistente a la intemperie.
+### 2. Espacio de servicio
 
-3. Diagramas de tuberías
+### 3. Diagramas de tuberías
 
-![img-23.jpeg](img-23.jpeg)
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 21
 ================================================================================
 
-![img-24.jpeg](img-24.jpeg)
+<!-- PageHeader="Gold SERIES" -->
 
-# 4. Diagramas de cableado
+4\. Diagramas de cableado
 
-## TBA41B-024-V3U1C
+TBA41B-024-V3U1C
 
-![img-25.jpeg](img-25.jpeg)
+ADINA®
+Air Conditioning
+
+<table>
+<tr>
+<th colspan="6">DESCRIPCIÓN SW</th>
+</tr>
+<tr>
+<th>MODELO</th>
+<th>SW 1</th>
+<th>38 2</th>
+<th>SW 3</th>
+<th>SW 4</th>
+<th>F.NOIN</th>
+</tr>
+<tr>
+<td rowspan="2">TIPO DÉ INDAD</td>
+<td>3</td>
+<td>.</td>
+<td>-</td>
+<td>-</td>
+<td>EMRUMBO</td>
+</tr>
+<tr>
+<td>OFF</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>CHCI</td>
+</tr>
+<tr>
+<td rowspan="2">RESERVACO</td>
+<td>.</td>
+<td>ON</td>
+<td>-</td>
+<td>-</td>
+<td>RESERVADO</td>
+</tr>
+<tr>
+<td>.</td>
+<td>OFF</td>
+<td>-</td>
+<td>-</td>
+<td>RESERVADOI</td>
+</tr>
+<tr>
+<td>SELECOUNTE</td>
+<td></td>
+<td>-</td>
+<td>ON</td>
+<td>ON</td>
+<td>IP 1ST</td>
+</tr>
+<tr>
+<td>TEMPERATURA DE</td>
+<td>-</td>
+<td>-</td>
+<td>ON</td>
+<td>OFF</td>
+<td>TP TAY</td>
+</tr>
+<tr>
+<td>PROTECCIÓN DE</td>
+<td>-</td>
+<td>-</td>
+<td>OF</td>
+<td>UN</td>
+<td>HESTRATO</td>
+</tr>
+<tr>
+<td>EXHAUSTCON</td>
+<td>.</td>
+<td>-</td>
+<td>OFF</td>
+<td>OF</td>
+<td>NOT</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>ITEM</td>
+<td>TÍTULO</td>
+</tr>
+<tr>
+<td>FAN</td>
+<td>MOTOR DEL VENTILADOR</td>
+</tr>
+<tr>
+<td>CAP</td>
+<td>CONDENSADOR MOTOR VENTILADOR</td>
+</tr>
+<tr>
+<td>COMF</td>
+<td>COMPRESOR</td>
+</tr>
+<tr>
+<td>CAP</td>
+<td>CONDENSADOR</td>
+</tr>
+<tr>
+<td>XT1</td>
+<td>TERVINAL 2 CELDAS</td>
+</tr>
+<tr>
+<td>XT2</td>
+<td>TERMINAL 4 CELULAS</td>
+</tr>
+<tr>
+<td>KM1</td>
+<td>CONTACTORAC</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>50</td>
+<td>EXPLICACIÓN DE LA FUNCIÓN</td>
+</tr>
+<tr>
+<td>C</td>
+<td>ALIMENTACIÓN DE CONTROL (MULL)</td>
+</tr>
+<tr>
+<td>R</td>
+<td>BUCLE DE CONTROL (MAC)</td>
+</tr>
+<tr>
+<td>0</td>
+<td>BENAL VALYVALA 4 WAS |24(PC)</td>
+</tr>
+<tr>
+<td>Y</td>
+<td>SENEL DEL COMPRESOR (MAMAC)</td>
+</tr>
+</table>
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 22
 ================================================================================
 
-![img-26.jpeg](img-26.jpeg)
+<!-- PageHeader="Gold SERIES" -->
+<!-- PageFooter="TBA41B-036-V3U1C" -->
 
-# COMBUSTIBLE
+ADINA®
 
-## COMBUSTIBLE
+Air Conditioning
 
-### COMBUSTIBLE CONTEXTO
+<table>
+<tr>
+<th>WHELA</th>
+<th>5N 1</th>
+<th>EN 2</th>
+<th>SUJ</th>
+<th>GW 4</th>
+<th>ANTY</th>
+</tr>
+<tr>
+<td rowspan="2">TIPO DE UNDAD</td>
+<td>ON</td>
+<td>-</td>
+<td>.</td>
+<td>-</td>
+<td>ENFEMMENTO</td>
+</tr>
+<tr>
+<td>OFF</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>TTEDE</td>
+</tr>
+<tr>
+<td rowspan="2">RESERVADO</td>
+<td>-</td>
+<td></td>
+<td>.</td>
+<td>-</td>
+<td>BERWOO</td>
+</tr>
+<tr>
+<td>-</td>
+<td>OFF</td>
+<td>-</td>
+<td>-</td>
+<td>RESERVADO</td>
+</tr>
+<tr>
+<td>SELECOONDE</td>
+<td>-</td>
+<td>-</td>
+<td>ON</td>
+<td>UN</td>
+<td>LP PEAU</td>
+</tr>
+<tr>
+<td>TEMPERATURA DE</td>
+<td>-</td>
+<td>.</td>
+<td>ON</td>
+<td>OFF</td>
+<td>PLAT</td>
+</tr>
+<tr>
+<td>PROTECCIÓN DE</td>
+<td>-</td>
+<td>-</td>
+<td>OF</td>
+<td>CI</td>
+<td>RESERVADO</td>
+</tr>
+<tr>
+<td>EXHAUSTADÓW</td>
+<td>-</td>
+<td>-</td>
+<td>OFF</td>
+<td>OFF</td>
+<td>NO 1P</td>
+</tr>
+</table>
 
-|  **Code** | **Description**  |
-| --- | --- |
-|  231316510 | CABLEADO CONEXIÓN DE FÁBRICA  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | KMT  |
-|  231316510 | KMT  |
-|  231316510 | BLU  |
-|  231316510 | CAPP  |
-|  231316510 | KMT  |
-|  231316510 | BLU  |
-|  231316510 | CAPP  |
-|  231316510 | BLU  |
-|  231316510 | CAPP  |
+<!-- PageBreak -->
 
-### DECLARACIÓN
 
-|  **Code** | **Description**  |
-| --- | --- |
-|  231316510 | CABLEADO CONEXIÓN DE FÁBRICA  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316510 | CABLEADO DE INSTALACIÓN  |
-|  231316
 
 ================================================================================
 PAGE 23
 ================================================================================
 
-![img-27.jpeg](img-27.jpeg)
+<!-- PageHeader="Gold SERIES" -->
 
-![img-28.jpeg](img-28.jpeg)
+TBA41B-048-V3U1C. TBA41B-060-V3U1C
 
-# COMBINADOR
+ADINA®
+Air Conditioning
 
-## COMBINADOR 12L COMPRESOR
+<table>
+<tr>
+<th colspan="6">DESCRIPCIÓN SW</th>
+</tr>
+<tr>
+<th>VADEIO</th>
+<th>SW 1</th>
+<th>S 2</th>
+<th>SW T</th>
+<th>SW 4</th>
+<th>AMIN</th>
+</tr>
+<tr>
+<td rowspan="2">TIPO DE UNIDO</td>
+<td>ON</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>ENARMMIENTO</td>
+</tr>
+<tr>
+<td>OFF</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>$\frac { 1 . 5 0 } { 5 . 5 7 . 5 . 2 1 }$</td>
+</tr>
+<tr>
+<td rowspan="2">RESERANDO</td>
+<td>-</td>
+<td>ON</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+</tr>
+<tr>
+<td>-</td>
+<td>OFF</td>
+<td>-</td>
+<td>-</td>
+<td>RESERMROKU</td>
+</tr>
+<tr>
+<td>SETECONNIE</td>
+<td>-</td>
+<td>-</td>
+<td>ON</td>
+<td>OF</td>
+<td>TP.12C</td>
+</tr>
+<tr>
+<td>TEMPERATURA DE</td>
+<td>-</td>
+<td>-</td>
+<td>UN</td>
+<td>OFF</td>
+<td>TP.175℃</td>
+</tr>
+<tr>
+<td>PROTECCIÓN DE</td>
+<td>-</td>
+<td>-</td>
+<td>OFF</td>
+<td>ON</td>
+<td>RESERVECKOU</td>
+</tr>
+<tr>
+<td>EXHALSTACION</td>
+<td>-</td>
+<td>-</td>
+<td>OFF</td>
+<td>OFF</td>
+<td>NO TP</td>
+</tr>
+</table>
 
-### COMBINADOR 12L COMPRESOR
+<table>
+<tr>
+<td>ITEM</td>
+<td>TÍTULO</td>
+</tr>
+<tr>
+<td>FAN</td>
+<td>MOTOR DEL VENTILADOR</td>
+</tr>
+<tr>
+<td>CAP</td>
+<td>CONDENSADOR MOTOR VENTILADOR</td>
+</tr>
+<tr>
+<td>COMP</td>
+<td>COMPRESOR</td>
+</tr>
+<tr>
+<td>CAP1</td>
+<td>CONDENSADOR DEL COMPRESOR</td>
+</tr>
+<tr>
+<td>XT1</td>
+<td>TERMINAL 2 CÉLULAS</td>
+</tr>
+<tr>
+<td>XT2</td>
+<td>TERMINAL 4 CÉLULAS</td>
+</tr>
+<tr>
+<td>KM1</td>
+<td>CONTACTOR CA</td>
+</tr>
+<tr>
+<td>HP</td>
+<td>PRESOSTATO DE ALTA</td>
+</tr>
+<tr>
+<td>LP</td>
+<td>PRESOSTATO DE BAJA</td>
+</tr>
+<tr>
+<td>TP</td>
+<td>SENSOR DE TEMPERATURA DE ESCAPE</td>
+</tr>
+</table>
 
-|  **Item** | **Description**  |
-| --- | --- |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|  12L | 12L  |
-|
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 24
 ================================================================================
 
-1. Características eléctricas
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-|  Modelo | Fuente de alimentación |  |  |  |   |
-| --- | --- | --- | --- | --- | --- |
-|   | Hz | Fase | Voltaje | Min. | Max  |
-|  TBA41B-024-V3U1C | 60 | 1 | $220-230 \mathrm{~V}$ | 198 | 242  |
-|  TBA41B-036-V3U1C | 60 | 1 | $220-230 \mathrm{~V}$ | 198 | 242  |
-|  TBA41B-048-V3U1C | 60 | 1 | $220-230 \mathrm{~V}$ | 198 | 242  |
-|  TBA41B-060-V3U1C | 60 | 1 | $220-230 \mathrm{~V}$ | 198 | 242  |
+#### 5. Características eléctricas
 
-1. Límites de funcionamiento
+<table>
+<tr>
+<th rowspan="2">Modelo</th>
+<th colspan="5">Fuente de alimentación</th>
+</tr>
+<tr>
+<th>Hz</th>
+<th>$F a s e$</th>
+<th>Voltaje</th>
+<th>Min.</th>
+<th>Max</th>
+</tr>
+<tr>
+<td>TBA41B-024-V3U1C</td>
+<td>60</td>
+<td>1</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBA41B-036-V3U1C</td>
+<td>60</td>
+<td>1</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBA41B-048-V3U1C</td>
+<td>60</td>
+<td>1</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+<tr>
+<td>TBA41B-060-V3U1C</td>
+<td>60</td>
+<td>1</td>
+<td>220-230V</td>
+<td>198</td>
+<td>242</td>
+</tr>
+</table>
 
-|  Modo de funcionamiento | Temperatura exterior ${ }^{\circ} \mathrm{C}$ | Temperatura ambiente ${ }^{\circ} \mathrm{C}$  |
-| --- | --- | --- |
-|  Funcionamiento de refrigeración | $21^{\circ} 43$ | $17^{\circ} 30$  |
+##### 6. Límites de funcionamiento
 
-# Enfriamiento
+<table>
+<tr>
+<th>Modo de funcionamiento</th>
+<th>Temperatura exterior °℃ Temperatura ambiente ℃</th>
+</tr>
+<tr>
+<td>Funcionamiento de refrigeración</td>
+<td>21~43 17~30</td>
+</tr>
+</table>
 
-![img-29.jpeg](img-29.jpeg)
+Temperatura interior $C \left( W B \right)$
 
-Temperatura interior ${ }^{\circ} \mathrm{C}(\mathrm{WB})$
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 25
 ================================================================================
 
-# Part 4 <br> Control 
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-1. Control remoto inalámbrico
-2. Control por cable
+## Part 4 Control
+
+1\. Control remoto inalámbrico
+
+2\. Control por cable
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 26
 ================================================================================
 
-# 1. Control remoto inalámbrico 
+ADINA®
+Air Conditioning
 
-1.1 GYKG-52e
+### 1. Control remoto inalámbrico
 
-| No. | Botón | Función |
-| :-- | :-- | :-- |
-| 1 | (TEMP UP) | Aumentar la temperatura o el tiempo en 1 unidad |
-| 2 | (TEMP DN) | Disminuir la temperatura o el tiempo en 1 unidad |
-| 3 | ON/OFF | Para encender y apagar el acondicionador |
-| 4 | ECO | En el modo de refrigeración, pulse este botón y la <br> temperatura aumentará 2 veces sobre la base de la <br> temperatura ajustada. <br> En el modo de calefacción, pulse este botón, la <br> temperatura disminuirá 2 sobre la base de la temperatura <br> de ajuste. |
-| 5 | MODE | Para seleccionar el modo de funcionamiento |
-| 6 | SLEEP | Para activar la función SLEEP |
-| 7 | FAN | Seleccionar la velocidad del ventilador <br> auto/baja/media/alta |
-| 8 | SWING | Activar o desactivar el movimiento de los DEFLECTORES . |
-| 9 | HEALTHY | Es un botón que controla el ionizador o el generador de <br> plasma sólo para el tipo inverter. |
-| 10 | TURBO | En modo refrigeración, pulse este botón para que el <br> aparato alcance la temperatura máxima de refrigeración <br> de 16"C. <br> En modo calefacción, pulse este botón para que el <br> aparato alcance la temperatura máxima de calefacción de <br> 31"C. |
-| 11 | DISPLAY | Para encender o apagar la pantalla LED (si está presente) |
-| 12 | TIMER | Para activar/desactivar el encendido automático |
+#### 1.1 GYKG-52e
 
-![img-30.jpeg](img-30.jpeg)
-1.2 Función general del mando a distancia inalámbrico:
+<table>
+<tr>
+<th>No.</th>
+<th>Botón</th>
+<th>Función</th>
+</tr>
+<tr>
+<td>1</td>
+<td>A (TEMP UP)</td>
+<td>Aumentar la temperatura o el tiempo en 1 unidad</td>
+</tr>
+<tr>
+<td>2</td>
+<td>(TEMP DN)</td>
+<td>Disminuir la temperatura o el tiempo en 1 unidad</td>
+</tr>
+<tr>
+<td>3</td>
+<td>ON/OFF</td>
+<td>Para encender y apagar el acondicionador</td>
+</tr>
+<tr>
+<td>4</td>
+<td>ECO</td>
+<td>En el modo de refrigeración, pulse este botón y la temperatura aumentará 2 veces sobre la base de la temperatura ajustada. En el modo de calefacción, pulse este botón, la temperatura disminuirá 2 sobre la base de la temperatura de ajuste.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>MODE</td>
+<td>Para seleccionar el modo de funcionamiento</td>
+</tr>
+<tr>
+<td>6</td>
+<td>SLEEP</td>
+<td>Para activar la función SLEEP</td>
+</tr>
+<tr>
+<td>7</td>
+<td>FAN</td>
+<td>Seleccionar la velocidad del ventilador auto/baja/media/alta</td>
+</tr>
+<tr>
+<td>8</td>
+<td>SWING</td>
+<td>$\frac { \text { Activar o desactivar el movimiento de los DEECIORE } } { \text { Es un boton que controla el ionizador o el generaord } }$ .</td>
+</tr>
+<tr>
+<td>9</td>
+<td>HEALTHY</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>TURBO</td>
+<td>$\frac { \text { plasma solo para el npo inver } } { \text { En modo refrigeracion, pulse este boton para que el } }$ aparato alcance la temperatura máxima de refrigeración de 16°C. En modo calefacción, pulse este botón para que el aparato alcance la temperatura máxima de calefacción de 31ºC.</td>
+</tr>
+<tr>
+<td>11</td>
+<td>DISPLAY</td>
+<td>Para encender o apagar la pantalla LED (si está presente)</td>
+</tr>
+<tr>
+<td>12</td>
+<td>TIMER</td>
+<td>Para activar/desactivar el encendido automático</td>
+</tr>
+</table>
 
-Modelo y especificación
+#### 1.2 Función general del mando a distancia inalámbrico:
 
-| Modelo | ROS/BGE |
-| :--: | :--: |
-| Tensión nominal | $3.0 \mathrm{~V}(2$ piezas de pilas LRO3 7 \#) |
-| Tensión mínima para enviar la señal de la CPU | 2.4 V |
-| Distancia de recepción efectiva | $8 \mathrm{~m}-11 \mathrm{~m}$ |
-| Condiciones de funcionamiento | $-5^{\prime \prime}-60^{\circ} \mathrm{C}$ |
+##### Modelo $y$ especificación
+
+<table>
+<tr>
+<th>Modelo</th>
+<th>RO5/BGE</th>
+</tr>
+<tr>
+<td>Tensión nominal</td>
+<td>3.0V(2piezas de pilas LRO3 7 #)</td>
+</tr>
+<tr>
+<td>Tensión mínima para enviar la señal de la CPU</td>
+<td>2.4V</td>
+</tr>
+<tr>
+<td>Distancia de recepción efectiva</td>
+<td>8m-11m</td>
+</tr>
+</table>
+
+Condiciones de funcionamiento
+
+-5 ~- 60℃
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 27
 ================================================================================
 
-Control remoto PANTALLA Significado de los símbolos de la pantalla de cristal líquido
+ADINA®
+Air Conditioning
 
-|  No. | Símbolos | Significado  |
-| --- | --- | --- |
-|  1 |  | Indicador del modo FEEL  |
-|  2 |  | Indicador ENFRIAMIENTO  |
-|  3 |  | Indicador DESHUMIDIFICACIÓN  |
-|  4 |  | Indicador de FUNCIONAMIENTO SOLO CON VENTILADOR  |
-|  5 |  | Indicador CALEFACCIÓN  |
-|  6 |  | Indicador TEMPORIZADOR APAGADO  |
-|  7 |  | Indicador TEMPORIZADOR ENCENDIDO  |
-|  8 |  | Indicador AUTO VENTILADOR  |
-|  9 |  | Indicador de VELOCIDAD BAJA DEL VENTILADOR  |
-|  10 |  | Indicador de VELOCIDAD MEDIA DEL VENTILADOR  |
-|  11 |  | Indicador VELOCIDAD ALTA DEL VENTILADOR  |
-|  12 |  | Indicador SLEEP  |
-|  13 |  | Indicador SUPER  |
-|  14 |  | Indicador HEALTHY  |
-|  15 |  | Indicador ECO  |
-|  16 |  | Indicador BATERÍA  |
-|  17 |  | Indicador BATERÍA  |
-|  18 |  | Indicador RELOJ  |
+Control remoto PANTALLA
+Significado de los símbolos de la pantalla de cristal líquido
+
+<table>
+<tr>
+<th>No.</th>
+<th>Símbolos</th>
+<th>Significado</th>
+</tr>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>Indicador del modo FEEL</td>
+</tr>
+<tr>
+<td>2</td>
+<td>☒ *</td>
+<td>Indicador ENFRIAMIENTO</td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td>Indicador DESHUMIDIFICATION</td>
+</tr>
+<tr>
+<td>4</td>
+<td>☒ *</td>
+<td>Indicador de FUNCIONAMIENTO SOLO CON VENTILADOR</td>
+</tr>
+<tr>
+<td>5</td>
+<td></td>
+<td>Indicador CALEFACCIÓN</td>
+</tr>
+<tr>
+<td>6</td>
+<td>L.</td>
+<td>Indicador TEMPORIZADOR APAGADO</td>
+</tr>
+<tr>
+<td>7</td>
+<td>L 1</td>
+<td>Indicador TEMPORIZADOR ENCENDIDO</td>
+</tr>
+<tr>
+<td>8</td>
+<td>☒</td>
+<td>Indicador AUTO VENTILADOR</td>
+</tr>
+<tr>
+<td>9</td>
+<td>☒ +</td>
+<td>Indicador de VELOCIDAD BAJA DEL VENTILADOR</td>
+</tr>
+<tr>
+<td>10</td>
+<td>+ ☒</td>
+<td>Indicador de VELOCIDAD MEDIA DEL VENTILADOR</td>
+</tr>
+<tr>
+<td>11</td>
+<td>☒ +</td>
+<td>Indicador VELOCIDAD ALTA DEL VENTILADOR</td>
+</tr>
+<tr>
+<td>12</td>
+<td>☒</td>
+<td>Indicador SLEEP</td>
+</tr>
+<tr>
+<td>13</td>
+<td>4</td>
+<td>Indicador SUPER</td>
+</tr>
+<tr>
+<td>14</td>
+<td>8</td>
+<td>Indicador HEALTHY</td>
+</tr>
+<tr>
+<td>15</td>
+<td>☒ V ECO</td>
+<td>Indicador ECO</td>
+</tr>
+<tr>
+<td>16</td>
+<td></td>
+<td>Indicador BATERÍA</td>
+</tr>
+<tr>
+<td>17</td>
+<td>È</td>
+<td>Indicador BATERÍA</td>
+</tr>
+<tr>
+<td>18</td>
+<td>88:8</td>
+<td>Indicador RELOJ</td>
+</tr>
+</table>
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 28
 ================================================================================
 
+<!-- PageHeader="ADINA® Air Conditioning" -->
+
 ## MODO DE ENFRIAMIENTO
 
-La función de enfriamiento permite que el aire acondicionado enfríe la habitación y al mismo tiempo reduzca la humedad en el aire. Para activar la función de enfriamiento (COOL), presione el botón MODE hasta que aparezca el símbolo $\otimes$ en la pantalla. El ciclo de enfriamiento se activa configurando las teclas $\Delta$ o $\nabla$ a una temperatura más baja que la de la habitación. Para optimizar el funcionamiento del acondicionador, ajuste la temperatura (1), la velocidad (2) y la dirección del flujo de aire (3) presionando las teclas indicadas.
+La función de enfriamiento permite que el aire acondicionado enfríe la
+habitación y al mismo tiempo reduzca la humedad en el aire. Para
+activar la función de enfriamiento (COOL), presione el botón MODE
+hasta que aparezca el símbolo de
+enfriamiento se activa configurando $l a s \quad t e c l a s \quad A \quad o \quad V \quad a \quad u n a$
+temperatura más baja que la de la habitación. Para
+funcionamiento del acondicionador, ajuste la temperatura (1), la
+velocidad (2) y la dirección del flujo de aire (3) presionando las teclas
+indicadas.
 
 ## MODO DE CALEFACCIÓN
 
-La función de calefacción permite que el aire acondicionado produzca aire caliente. Para activar la función de calefacción (HEAT), presione el botón MODE hasta que aparezca el símbolo en la pantalla. Con las teclas $\Delta$ o $\nabla$ configure una temperatura más alta que la de la habitación. Para optimizar el funcionamiento del acondicionador, ajuste la temperatura (1), la velocidad (2) y la dirección del flujo de aire (3) presionando las teclas indicadas. El aparato está equipado con una función de inicio rápido que retrasa el encendido del aparato unos segundos para garantizar una salida inmediata de aire caliente. En modo de calefacción, el aparato puede activar automáticamente un ciclo de descongelación, que es esencial para liberar al condensador de un depósito excesivo de escarcha. Este procedimiento suele durar de 2 a 10 minutos durante el descongelamiento, las aspas se detienen. Después del descongelamiento, vuelve automáticamente al modo de calefacción.
+$$\begin{array}{} \text { La funcion de calecion permite que que el aire acondicionado produze } \\ \text { otra colisnte prra porivar la fincion de cale calecion \left(HEAT\right), presione } \end{array}$$
+
+el botón MODE hasta que aparezca el símbolo en la pantalla.
+Con las teclas 0 7 configure una temperatura más alta que la de $l a$
+habitación. Para optimizar el funcionamiento del acondicionador,
+ajuste la temperatura (1), la velocidad $\left( 2 \right) y$ la dirección del flujo de
+aire (3) presionando las teclas indicadas. El aparato está equipado con
+
+$$u n a \quad f u n c i n \quad d e \quad i n i c i o \quad r p i d o \quad q u e \quad r e t r a s a \quad e l \quad e n c e n d i d o \quad d e l \quad a p a r a t o \quad u n o s$$
+
+modo de calefacción, el aparato puede activar automáticamente un
+ciclo de descongelación, que es esencial para liberar al condensador de
+un depósito excesivo de escarcha. Este procedimiento suele durar de 2
+a 10 minutos durante el descongelamiento, las aspas se detienen.
+Después del descongelamiento, vuelve automáticamente al modo $\mathrm { d e }$
+calefacción.
 
 ## MODO VENTILADOR
 
-El acondicionador funciona solo en ventilación.
-Para configurar el modo FAN, presione MODE hasta que aparezca en la pantalla el símbolo $\boldsymbol{\Delta}$. Al presionar el botón FAN, la velocidad cambia en la siguiente secuencia: BAJA/MEDIA/ALTA/AUTO en modo FAN. El control remoto también guarda la velocidad que se estableció en el modo de operación anterior. En el modo FEEL (automático), el aire acondicionado elige automáticamente la velocidad del ventilador y el modo de operación (ENFRIAMIENTO o CALEFACCIÓN).
-![img-31.jpeg](img-31.jpeg)
+$$\begin{array}{} \text { El acondicionador funciona solo en ventilacion. } \\ \text { El acondicion } r \text { al modo } \mathrm { F A N } \text { or sione MODE } \end{array} .$$
+hasta que aparezca en
+
+la pantalla el símbolo . Al presionar el botón FAN, la velocidad
+cambia en la siguiente secuencia: BAJA/MEDIA/ALTA/AUTO en
+modo FAN. El control remoto también guarda la velocidad que se
+estableció en el modo de operación anterior. En el modo FEEL
+(automático), el aire acondicionado elige automáticamente la
+velocidad del ventilador $\mathrm { y }$ el modo de operación (ENFRIAMIENTO o
+CALEFACCIÓN).
+
+4
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 29
 ================================================================================
 
+<!-- PageHeader="ADINA® Air Conditioning" -->
+
 ## MODO TEMPORIZADOR - ENCENDIDO PROGRAMADO
 
-Para configurar el encendido automático del aire acondicionado. Para programar el inicio del tiempo, el aparato debe estar apagado. Presione TIMER, ajuste la temperatura presionando la tecla $\boldsymbol{\Delta}$ o $\boldsymbol{\nabla}$, presione TIMER nuevamente, configure el tiempo presionando la tecla $\boldsymbol{\Delta}$ o $\boldsymbol{\nabla}$, presione la tecla más veces hasta que en la pantalla pueda leer el tiempo que pasa entre la programación y el inicio programado. Antes de proceder con el inicio programado: programe el modo de trabajo con la tecla MODE (2) y la velocidad del ventilador con la tecla FAN (3). Apague el acondicionador (con la tecla ON/OFF). Nota: Para cancelar la función establecida, presione nuevamente el botón TIMER. Nota: En caso de corte de energía, es necesario configurar TIMER ON nuevamente.
+Para configurar el encendido automático del aire acondicionado. Para
+programar el inicio del tiempo, el aparato debe estar apagado.
+Presione TIMER, ajuste la temperatura presionando la tecla 0 ,
+presione TIMER nuevamente, configure el tiempo presionando la
+tecla o V, presione la tecla más veces hasta que en la pantalla
+pueda leer el tiempo que pasa entre la programación y el inicio
+programado. Antes de proceder con el inicio programado: programe el
+modo de trabajo con la tecla MODE (2) y la velocidad del ventilador
+con la tecla FAN (3). Apague el acondicionador (con la tecla
+ON/OFF). Nota: Para cancelar la función establecida, presione
+nuevamente el botón TIMER. Nota: En caso de corte de energía, es
+necesario configurar TIMER ON nuevamente.
 
-## MODO TEMPORIZADOR - APAGADO PROGRAMADO
+## MODO TEMPORIZADOR - APAGADO
 
-Para configurar el apagado automático del aire acondicionado. La parada programada se programa con el aparato encendido. Presione TIMER, ajuste el tiempo presionando la tecla $\boldsymbol{\Delta}$ o $\boldsymbol{\nabla}$, presione la tecla más veces hasta que en la pantalla pueda leer el tiempo que pasa entre la programación y la parada programada. Nota: Para cancelar la función establecida, presione nuevamente el botón TIMER. Nota: En caso de corte de energía, es necesario configurar TIMER OFF nuevamente. Nota: Mientras el tiempo esté bien configurado, la función de TEMPORIZADOR de este control remoto (función de reloj) se puede configurar por medias horas.
+$$\begin{array}{} \mathrm { P R O G R A M A D O } \\ \text { Para configurarelapagado automatico delaire acondicionado.La } \end{array}$$
 
-## MODO SECO
+TIMER, ajuste el tiempo presionando la tecla o V, presione la
+tecla más veces hasta que en la pantalla pueda leer el tiempo que pasa
+entre la programación y la parada programada. Nota: Para cancelar la
+función establecida, presione nuevamente el botón TIMER. Nota: En
+caso de corte de energía, es necesario configurar TIMER OFF
+nuevamente. Nota: Mientras el tiempo esté bien configurado, la
+función de TEMPORIZADOR de este control remoto (función de
+reloj) se puede configurar por medias horas.
 
-Esta función reduce la humedad del aire para hacer la habitación más cómoda. Para configurar el modo SECO, presione MODE hasta que aparezca en la pantalla el símbolo $\boldsymbol{\Delta}$. Se activa una función automática de ciclos de enfriamiento y ventilador de aire alternados.
-![img-32.jpeg](img-32.jpeg)
+$$\begin{array}{} { \text { MODO SECO } } \\ { \text { Esta funcion reduce la humedad del aire para hacer la habitacion ma } } \end{array}$$
+cómoda. Para configurar el modo SECO, presione MODE hasta que
+
+aparezca en la pantalla el símbolo ... Se activa una función
+automática de ciclos de enfriamiento $\mathrm { y }$ ventilador de aire alternados.
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 30
 ================================================================================
 
-# MODO FEEL 
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-Para activar el modo de operación FEEL (automático), presione el botón MODE en el control remoto hasta que aparezca el símbolo en la pantalla. En el modo FEEL, la velocidad del ventilador y la temperatura se ajustan automáticamente según la temperatura de la habitación (probada por la sonda que está incorporada en la unidad interior) para garantizar la comodidad del usuario.
+## MODO FEEL
 
-| Temperatura ambiente | Modo de funcionamiento | Auto temp. |
-| :--: | :--: | :--: |
-| $<20^{\circ} \mathrm{C}$ | HEATING (FOR HEAT PUMP TYPE) <br> FAN (FOR COOL ONLY TYPE) | $23^{\circ} \mathrm{C}$ |
-| $20^{\circ} \mathrm{C}-26^{\circ} \mathrm{C}$ | SECO | $18^{\circ} 24^{\circ} \mathrm{C}$ |
-| $>26^{\circ} \mathrm{C}$ | FRÍO | $26^{\circ} \mathrm{C}$ |
+Para activar el modo de operación FEEL (automático), presione el
+botón MODE en el control remoto hasta que aparezca el símbolo en la
+pantalla. En el modo FEEL, la velocidad del ventilador $\mathrm { y }$ la
+temperatura se ajustan automáticamente según la temperatura de la
+habitación (probada por la sonda que está incorporada en la unidad
+interior) para garantizar la comodidad del usuario.
 
-Para optimizar el funcionamiento del acondicionador, ajuste la temperatura (solo 2) (1), la velocidad (2) y la dirección del flujo de aire (3) presionando los botones indicados.
+<table>
+<tr>
+<th>Temperatura ambiente</th>
+<th>Modo de funcionamiento</th>
+<th>Auto temp.</th>
+</tr>
+<tr>
+<td>$< 2 0 ^ { \circ } C$</td>
+<td>HEATING (FOR HEAT PUMP TYPE) FAN (FOR COOL ONLY TYPE)</td>
+<td>23°℃</td>
+</tr>
+<tr>
+<td>$2 0 ^ { \circ } C - 2 6 ^ { \circ } C$</td>
+<td>SECO</td>
+<td>18'24℃</td>
+</tr>
+<tr>
+<td>&gt;26°℃</td>
+<td>FRÍO</td>
+<td>26°C</td>
+</tr>
+</table>
+
+Para optimizar el funcionamiento del acondicionador, ajuste la
+temperatura (solo 2) (1), la velocidad (2) y la dirección del flujo de
+aire (3) presionando los botones indicados.
 
 ## MODO SLEEP
 
-Para activar el modo de operación SLEEP, presione el botón SLEEP en el control remoto hasta que aparezca el símbolo (AUTOQUIET) en la pantalla. La función SLEEP ajusta automáticamente la temperatura para hacer la habitación más cómoda durante el sueño nocturno. En modo de enfriamiento o seco, la temperatura establecida aumentará automáticamente en 1 cada 60 minutos, para lograr un aumento total de 3 durante las primeras 3 horas de trabajo. En modo de calefacción, la temperatura establecida disminuye gradualmente en 3 durante las primeras 3 horas de trabajo.
-![img-33.jpeg](img-33.jpeg)
-![img-34.jpeg](img-34.jpeg)
+Para activar el modo de operación SLEEP, presione el botón SLEEP
+en el control remoto hasta que aparezca el símbolo (AUTOQUIET) en
+la pantalla. La función SLEEP ajusta automáticamente la temperatura
+para hacer la habitación más cómoda durante el sueño nocturno. En
+modo de enfriamiento o seco, la temperatura establecida aumentará
+automáticamente en 1 cada 60 minutos, para lograr un aumento total
+de 3 durante las primeras 3 horas de trabajo. En modo de calefacción,
+la temperatura establecida disminuye gradualmente en 3 durante las
+primeras 3 horas de trabajo.
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 31
 ================================================================================
 
-# - Procedimiento de ajuste de la dirección del flujo de aire
+<!-- PageHeader="ADINA® Air Conditioning" -->
+
+## · Procedimiento de ajuste de la dirección del flujo de aire
 
 Ajuste de la dirección del flujo de aire
 
-- La dirección arriba/abajo puede ajustarse utilizando el botón de FLUJO DE AIRE en el control remoto. Este botón, cada vez que se presiona, cambia el modo en la siguiente secuencia:
+· La dirección arriba/abajo puede ajustarse utilizando el botón de FLUJO DE AIRE en el control remoto. Este botón, cada vez que se presiona,
+cambia el modo en la siguiente secuencia:
 
-- Presione el botón DE LA REJILLA, cambia el modo a oscilación de la rejilla. Presione el botón para detener la oscilación.
+· Presione el botón DE LA REJILLA, cambia el modo a oscilación de la rejilla.
+Presione el botón para detener la oscilación.
 
-## Nota
+### Nota
 
-- Cuando el controlador de temperatura ambiente (termostato) se activa en el modo de calefacción o cuando se realiza la operación de descongelación, la aleta de soplado cambia automáticamente a la posición horizontal.
-- Cuando la operación de calefacción acaba de comenzar y la temperatura ambiente sigue siendo baja, puede llevar un poco de tiempo antes de que la aleta se mueva al ángulo de operación de oscilación anterior.
-- La aleta puede detenerse en la posición de soplado inclinado hacia abajo durante la operación de "Oscilación" en el modo de calefacción.
+· Cuando el controlador de temperatura ambiente (termostato) se activa en el modo de calefacción o cuando se realiza la operación
+de descongelación, la aleta de soplado cambia automáticamente a la posición horizontal.
 
-## - Acerca de la operación del TEMPORIZADOR
+· Cuando la operación de calefacción acaba de comenzar $y$ la temperatura ambiente sigue siendo baja, puede llevar un poco de
+tiempo antes de que la aleta se mueva al ángulo de operación de oscilación anterior.
 
-Acerca de la reserva de comodidades
+· La aleta puede detenerse en la posición de soplado inclinado hacia abajo durante la operación de "Oscilación" en el modo de
+calefacción.
 
-La función de reserva de comodidades está disponible para iniciar la operación un poco antes para que la temperatura ambiente esté cerca de la temperatura óptima en el momento de encendido del temporizador en caso de iniciar la operación con TIMER ON/OFF. Mecanismo:
+## · Acerca de la operación del TEMPORIZADOR Acerca de la reserva de comodidades
 
-- El control de la temperatura ambiente comienza 60 minutos antes del tiempo de encendido del temporizador. Dependiendo de la temperatura en ese momento, la operación comienza de 5 a 60 minutos antes del tiempo de encendido del temporizador.
-- La reserva de comodidades es una función solo para el modo de operación COOL y HEAT (incluido AUTO). No se activa en el modo DRY.
+### Acerca de la operación SLEEP
 
-Acerca de la operación SLEEP
+Cuando se selecciona la operación SLEEP, la temperatura ambiente
+se controla automáticamente con el tiempo transcurrido para que la
+habitación no esté demasiado fría durante el enfriamiento o
+demasiado cálida durante el calentamiento.
 
-Cuando se selecciona la operación SLEEP, la temperatura ambiente se controla automáticamente con el tiempo transcurrido para que la habitación no esté demasiado fría durante el enfriamiento o demasiado cálida durante el calentamiento.
+. Durante el enfriamiento y el secado: la temperatura actual
+aumenta 1 en una hora (cuando se establece el temporizador) y 2
+aumentos en dos horas. Luego, la temperatura no cambia.
 
-- Durante el enfriamiento y el secado: la temperatura actual aumenta 1 en una hora (cuando se establece el temporizador) y 2 aumentos en dos horas. Luego, la temperatura no cambia.
-- Durante el calentamiento: la temperatura actual disminuye 1 en una hora (cuando se establece el temporizador) y 2 disminuciones en dos horas. Luego, la temperatura no cambia.
+· Durante el calentamiento: la temperatura actual disminuye 1 en
+una hora (cuando se establece el temporizador) y 2 disminuciones
+en dos horas. Luego, la temperatura no cambia.
 
-## - Acerca de la VELOCIDAD DEL VENTILADOR v
+## · Acerca de la VELOCIDAD DEL VENTILADOR v
 
-- La capacidad del aire acondicionado puede seleccionarse según su elección, durante la calefacción o el enfriamiento.
+. La capacidad del aire acondicionado puede seleccionarse según su elección, durante la calefacción o el enfriamiento.
 
-|  Capacidad de operación según su elección | VELOCIDAD DEL VENTILADOR  |
-| --- | --- |
-|  Ajustado automáticamente por microcomputadora | AUTO  |
-|  Operación potente con alta capacidad | HI  |
-|  Operación estándar | MED  |
-|  Operación de ahorro de energía | LO  |
+<table>
+<tr>
+<td>Capacidad de operación según su elección</td>
+<td>VELOCIDAD DEL VENTILADOR</td>
+</tr>
+<tr>
+<td>Ajustado automáticamente por microcomputadora</td>
+<td>AUTO</td>
+</tr>
+<tr>
+<td>Operación potente con alta capacidad</td>
+<td></td>
+</tr>
+<tr>
+<td>Operación estándar</td>
+<td>$M E D$</td>
+</tr>
+<tr>
+<td>Operación de ahorro de energía</td>
+<td>LO</td>
+</tr>
+</table>
 
-## - Acerca de la función de memoria en caso de corte de energía
+· Acerca de la función de memoria en caso de corte de energía
 
-- Cuando el aire acondicionado se desconecta de repente, al reiniciarlo, el aire acondicionado opera en el modo en que estaba antes de que fallara la energía de repente.
+. Cuando el aire acondicionado se desconecta de repente, al reiniciarlo, el aire acondicionado opera en el modo en que estaba antes de que
+fallara la energía de repente.
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 32
 ================================================================================
 
-2. Controlador por cable
-2.1 Introducción
-![img-35.jpeg](img-35.jpeg)
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-- Descripción de iconos o símbolos
+## 2. Controlador por cable
 
-| $\boldsymbol{C}$ | Dormir |  | Fresco |  | Door Card |  | Desescarche |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| (1) | Anticongelante |  | Set |  | Child Lock |  | Económico |
-|  | Columpio arriba/abajo |  | Oscilación izquierda7derecha |  | Degrees Celsius |  | Fahrenheit |
-| (2) | Eléctrico | ERR. | Error |  | Water level | (3) | Signo de bomba de agua |
-| W. | Temperatura actual del agua | T. | Temperatura ambiente | SET | Set temperature | (4) | Señal Compresor |
-| ON | Temporizador ON | OFF | Temporizador apagado |  |  |  |  |
+### 2.1 Introducción
+
+### Descripción de iconos o símbolos
+
+<table>
+<tr>
+<th>☒</th>
+<th>Dormir</th>
+<th></th>
+<th>Fresco</th>
+<th></th>
+<th>Door Card</th>
+<th>☒</th>
+<th>Desescarche</th>
+</tr>
+<tr>
+<td>4</td>
+<td>Anticongelante</td>
+<td>× ☒</td>
+<td>Set</td>
+<td></td>
+<td>Child Lock</td>
+<td>ECO</td>
+<td>Económico</td>
+</tr>
+<tr>
+<td></td>
+<td>Columpio $a r r i b a / a b a j o$</td>
+<td></td>
+<td>Oscilación izquierda7derecha</td>
+<td></td>
+<td>Degrees Celsius</td>
+<td>OF</td>
+<td>Fahrenheit</td>
+</tr>
+<tr>
+<td>☒ w</td>
+<td>Eléctrico</td>
+<td>ERR.</td>
+<td>Error</td>
+<td></td>
+<td>Water level</td>
+<td>☒ 6</td>
+<td>Signo de bomba de agua</td>
+</tr>
+<tr>
+<td>W.</td>
+<td>Temperatura actual del agua</td>
+<td>T.</td>
+<td>Temperatura ambiente</td>
+<td>SET</td>
+<td>Set temperature</td>
+<td>Öğ ☒ O 2 3 O</td>
+<td>Señal Compresor</td>
+</tr>
+<tr>
+<td>ON</td>
+<td>Temporizador ON</td>
+<td>OFF</td>
+<td>Temporizador apagado</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 Observación: Si un icono se enciende, significa "ON"; si dicho icono se apaga, significa "OFF".
 
-- Ajuste del dial
+· Ajuste del dial
 
+### 2.2. Encendido inicial
 
-# 2.2. Encendido inicial 
+1\) "Es necesario encender inicialmente el programador para realizar un autochequeo en el que todos los iconos o símbolos se encienden
+durante 3 segundos. Durante este periodo, todas las operaciones con las teclas y el mando a distancia no son válidas.
 
-1) "Es necesario encender inicialmente el programador para realizar un autochequeo en el que todos los iconos o símbolos se encienden durante 3 segundos. Durante este periodo, todas las operaciones con las teclas y el mando a distancia no son válidas.
-2) Es necesario utilizar la función de memoria de apagado, dicho usuario puede ver los parámetros detallados correspondientes a "P1" en la Sección 2.7.2 - Configuración de Parámetros.
-2.3. Descripción de Teclas
+2\) Es necesario utilizar la función de memoria de apagado, dicho usuario puede ver los parámetros detallados correspondientes a "P1" en la
+Sección 2.7.2 -- Configuración de Parámetros.
+
+### 2.3. Descripción de Teclas
+
 2.3.4 Tecla [ON/OFF]
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 33
 ================================================================================
 
-1)Pulse la tecla [ON/OFF] una vez para poner en marcha el controlador; pulse la tecla [ON/OFF] una vez más para detener el controlador.
+<!-- PageHeader="ADINA® Air Conditioning" -->
+
+1)Pulse la tecla [ON/OFF] una vez para poner en marcha el controlador; pulse la tecla [ON/OFF] una vez más para detener el
+controlador.
+
 2)Autocomprobación de cristal líquido:
 
 Pulse la tecla [ON/OFF] para encender el controlador durante 5 segundos y luego suelte dicha tecla; el controlador
-el controlador entra en autocomprobación en ese momento. El controlador ejecuta la autocomprobación del cristal líquido en la siguiente secuencia
+
+el controlador entra en autocomprobación en ese momento. El controlador ejecuta la autocomprobación del cristal líquido en la siguiente
+secuencia
 secuencia:
-Después de que el zumbador suene brevemente una vez, las siguientes salidas se mueven sucesivamente (en las que el cristal líquido se enciende sucesivamente de izquierda a derecha y luego se apaga). A continuación, el controlador sale de la autocomprobación. Notas: 1. El controlador sale del estado de autocomprobación después de apagarse en el estado de autocomprobación.
+Después de que el zumbador suene brevemente una vez, las siguientes salidas se mueven sucesivamente (en las que el cristal líquido
+se enciende sucesivamente de izquierda a derecha y luego se apaga). A continuación, el controlador sale de la autocomprobación.
+
+Notas: 1. El controlador sale del estado de autocomprobación después de apagarse en el estado de autocomprobación.
 2. 2. Todas las teclas no son válidas durante la autocomprobación.
 
-# 2.3.2. Tecla [Modo 
+#### 2.3.2. Tecla [Modo
 
-### 2.3.2.1. Conmutador de modo
+#### 2.3.2.1. Conmutador de modo
 
-En la interfaz de inicio, pulse la tecla [Modo] una vez cuando el icono del modo seleccionado se encienda normalmente y los demás iconos se apaguen. La secuencia de cambio es la que se muestra en la imagen de la derecha.
-![img-36.jpeg](img-36.jpeg)
+En la interfaz de inicio, pulse la tecla
+[Modo] una vez cuando el icono del
+modo seleccionado se encienda
+normalmente y los demás iconos se
+apaguen. La secuencia de cambio es
+la que se muestra en la imagen de la
+derecha.
+
 "La máquina de refrigeración está sin el icono "Calor".
-"Modo automático: El controlador con la función de memoria de apagado puede encenderse de nuevo después de apagarse, volver a juzgar la temperatura y luego volver a ejecutar el modo automático; si la función de memoria de apagado no se inicia, el controlador entrará en el modo de espera.
-durante más de 5 segundos para entrar en la interfaz de ajuste de funciones; pulse brevemente la tecla [Mode] cuando el icono de la función seleccionada parpadee con la frecuencia de 1 Hz y los demás iconos actúen según el estado real (si el estado es ON, los iconos se encienden normalmente; en caso contrario, los iconos se apagan).
-![img-37.jpeg](img-37.jpeg)
-2.3.3. Tecla $[\Delta] /[\boldsymbol{\nabla}]$.
-2.3.3.1. En la interfaz de inicio, pulse la tecla $[\boldsymbol{\Delta}] /[\boldsymbol{\nabla}]$ una vez para ajustar el aumento o disminución de la temperatura en $0.5^{\circ} \mathrm{C}$;
+
+"Modo automático: El controlador con la función de memoria de apagado puede encenderse de nuevo después de apagarse, volver a juzgar la
+temperatura y luego volver a ejecutar el modo automático; si la función de memoria de apagado no se inicia, el controlador entrará en el modo
+de espera.
+
+durante más de 5 segundos para
+entrar en la interfaz de ajuste de
+funciones; pulse brevemente la tecla
+[Mode] cuando el icono de la función
+seleccionada parpadee con la
+frecuencia de 1Hz y los demás iconos
+actúen según el estado real (si el
+estado es ON, los iconos se encienden
+normalmente; en caso contrario, los
+iconos se apagan).
+
+#### 2.3.3. Tecla [ A ]/[ V ].
+
+2.3.3.1. En la interfaz de inicio, pulse la tecla [A ]/[V ] una vez para ajustar el aumento o disminución de la temperatura en 0.5℃;
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 34
 ================================================================================
 
-2.3.3.2. Desescarche forzado
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-En la interfaz de inicio, ajuste el regulador de hilo a modo calefacción y a la temperatura de $16^{\circ} \mathrm{C}$, y a continuación realice las siguientes 6 operaciones en 5 segundos:
-$\cdot\left[\bullet \bullet \bullet \bullet \bullet \bullet \bullet \bullet \bullet \bullet \bullet \bullet \bullet \bullet \bullet \bullet \bullet \bullet \cdot\right.$ En ese momento, el sistema entra con éxito en el desescarche forzado y, a continuación, el zumbador emite un pitido largo.
-2.3.4 Tecla [Velocidad del aire]
-una vez, el icono de velocidad del aire seleccionado se enciende normalmente y los demás iconos se apagan, con lo que la velocidad del aire cambia en la secuencia cíclica de velocidad del aire baja a velocidad del aire intermedia y a velocidad del aire alta
-![img-38.jpeg](img-38.jpeg)
-"Cuando el controlador de cable se enciende inicialmente, su velocidad de aire por defecto es baja y se muestra el icono de baja velocidad de aire.
-"Cuando está en el modo de deshumidificación, el controlador de hilo no responde a ninguna operación de la tecla [Velocidad del Aire] en la que la velocidad del aire no puede ser ajustada, la velocidad del aire por defecto es baja y el icono de baja velocidad del aire normalmente se enciende.
-"Cuando el controlador de hilo está en el momento de aire automático, el icono de velocidad de aire se muestra sucesivamente en la secuencia dinámica y cíclica de velocidad de aire baja-velocidad de aire intermedia-velocidad de aire alta-velocidad de aire baja.
-"Si la velocidad del aire es de respaldo individual, el controlador de hilo mostrará la última velocidad del aire ajustada del modo correspondiente cuando entre en el mismo modo la próxima vez.
+#### 2.3.3.2. Desescarche forzado
+
+En la interfaz de inicio, ajuste el regulador de hilo a modo calefacción y a la temperatura de 16℃, y a continuación realice las siguientes 6
+operaciones en 5 segundos:
+
+1+1211-11-12)+] *** T En ese momento, el sistema entra con éxito en el desescarche forzado y, a continuación, el zumbador emite un
+
+$2 . 3 . 4 \quad T e c l a \left[ V e l o c i d a d \quad d e l \quad a i r e \right]$
+
+una vez, el icono de velocidad del aire
+seleccionado se enciende
+normalmente y los demás iconos se
+apagan, con lo que la velocidad del
+aire cambia en la secuencia cíclica de
+velocidad del aire baja a velocidad del
+aire intermedia y a velocidad del aire
+alta
+
+"Cuando el controlador de cable se enciende inicialmente, su velocidad de aire por defecto es baja y se muestra el icono de baja velocidad de
+aire.
+
+"Cuando está en el modo de deshumidification, el controlador de hilo no responde a ninguna operación de la tecla [Velocidad del Aire] en la
+que la velocidad del aire no puede ser ajustada, la velocidad del aire por defecto es baja y el icono de baja velocidad del aire normalmente se
+enciende.
+
+"Cuando el controlador de hilo está en el momento de aire automático, el icono de velocidad de aire se muestra sucesivamente en la secuencia
+dinámica $y$ cíclica de velocidad de aire baja-velocidad de aire intermedia-velocidad de aire alta-velocidad de aire baja.
+
+~Si la velocidad del aire es de respaldo individual, el controlador de hilo mostrará la última velocidad del aire ajustada del modo
+correspondiente cuando entre en el mismo modo la próxima vez.
+
 2.3.5. Tecla [Temporizador].
-2.3.5.1. Pulse continuamente la tecla [Temporizador] durante más de 5 segundos para entrar en la interfaz de ajuste del reloj (Consulte el Capítulo V-Ajuste del reloj para más detalles).
-2.3.5.2. Pulse la tecla [Temporizador] una vez para entrar en la interfaz de ajuste del temporizador (Consulte el Capítulo VI-Ajuste del temporizador para más detalles).
-2.4 Funciones auxiliares
-2.4.1. Bloqueo para niños
 
-1. On the startup or shutdown interface, simultaneously press the [ $\boxtimes$ and [,] keys for over 5 seconds to enable the child lock when the child lock icon normally goes on.
-2. When the child lock is valid, the operations of other keys are invalid but the icons twinkle with the frequency of 1 Hz .
-![img-39.jpeg](img-39.jpeg)
+2.3.5.1. Pulse continuamente la tecla [Temporizador] durante más de 5 segundos para entrar en la interfaz de ajuste del reloj (Consulte el
+Capítulo V --- Ajuste del reloj para más detalles).
+
+2.3.5.2. Pulse la tecla [Temporizador] una vez para entrar en la interfaz de ajuste del temporizador (Consulte el Capítulo VI --- Ajuste del
+temporizador para más detalles).
+
+##### 2.4 Funciones auxiliares
+
+###### 2.4.1. Bloqueo para niños
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 35
 ================================================================================
 
-2.5. Ajuste del reloj
-![img-40.jpeg](img-40.jpeg)
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-Ajuste el periodo pulsando la tecla [Temporizador] y luego salga de la configuración del reloj con dicha configuración guardada; Ajuste el período pulsando la tecla [ON/OFF] o [Modo] y, a continuación, salga de la configuración del reloj sin guardar dicha configuración; Ajuste el estado y si no hay ninguna operación de tecla durante 15 segundos consecutivos, salga de la configuración del reloj sin guardar dicha configuración.
-2.6. Ajuste del temporizadorc
-![img-41.jpeg](img-41.jpeg)
+### 2.5. Ajuste del reloj
+
+Ajuste el periodo pulsando la tecla [Temporizador] y luego salga de la configuración del reloj con dicha configuración guardada;
+
+Ajuste el período pulsando la tecla [ON/OFF] o [Modo] y, a continuación, salga de la configuración del reloj sin guardar dicha configuración;
+Ajuste el estado y si no hay ninguna operación de tecla durante 15 segundos consecutivos, salga de la configuración del reloj sin guardar dicha
+configuración.
+
+### 2.6. Ajuste del temporizadorc
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 36
 ================================================================================
 
-Ajuste el periodo pulsando la tecla [Temporizador] y luego salga de la configuración del reloj con dicha configuración guardada; Ajuste el periodo pulsando la tecla [ON/OFF] o [Modo] y, a continuación, salga de la configuración del reloj sin guardar dicha configuración; Ajuste el estado y si no hay ninguna operación de tecla durante 15 segundos consecutivos, salga de la configuración del reloj sin guardar dicha configuración. 2.7. Consulta/configuración de parámetros 2.7.1. Consulta de parámetros -Pulse continuamente las teclas combinadas "[Mode] $+[\boldsymbol{\Delta}]$ " durante 5 segundos para acceder automáticamente a la interfaz de consulta de parámetros cuando parpadee el icono "Zona horaria-Hora" y muestre el "Código de parámetro" y "Área de Temperatura" muestra el "Valor de Parámetro" actual correspondiente a dicho "Código de Parámetro". -Cuando el código de parámetro parpadea, pulse la tecla $[\boldsymbol{\Delta}]$ o $[\boldsymbol{\nabla}]$ para cambiar el código de parámetro.
+<!-- PageHeader="ADINA® Air Conditioning" -->
 
-|  Parámetro Código | Área Visualización | Nombre del parámetro | Valor a consultar | Visualización de área
-Rango de visualización  |
-| --- | --- | --- | --- | --- |
-|  01 | Zona horaria-Hora | Indoor ambient
-temperature $\left({ }^{\circ} \mathrm{C}\right)$ | Valor actual | $-30^{\sim} 150$  |
-|  02 | Zona horaria-Hora | Temperature in the
-middle of evaporator of
-the indoor unit $\left({ }^{\circ} \mathrm{C}\right)$ | Valor actual | $-30 \sim 150$  |
-|  03 | Zona horaria-Hora | Temperature in the
-middle of evaporator of
-the indoor unit $\left({ }^{\circ} \mathrm{C}\right)$ | Valor actual | $-30 \sim 150$  |
-|  E1 | Zona horaria-Hora | Historical Error 1 | Errs** |   |
-|  E2 | Zona horaria-Hora | Historical Error 2 | Errs** |   |
-|  E3 | Zona horaria-Hora | Historical Error 3 | Errs** |   |
-|  E4 | Zona horaria-Hora | Historical Error 4 | Errs** |   |
-|  E5 | Zona horaria-Hora | Historical Error 5 | Errs** |   |
+Ajuste el periodo pulsando la tecla [Temporizador] y luego salga de la configuración del reloj con dicha configuración guardada;
 
-# 2.7.2. Ajuste de parámetros
+Ajuste el período pulsando la tecla [ON/OFF] o [Modo] y, a continuación, salga de la configuración del reloj sin guardar dicha configuración;
+Ajuste el estado y si no hay ninguna operación de tecla durante 15 segundos consecutivos, salga de la configuración del reloj sin guardar dicha
+configuración.
 
-- Pulse continuamente las teclas combinadas "[Modo]+[ V]" durante 5 segundos para entrar automáticamente en la interfaz de ajuste de parámetros cuando el icono "Área de Tiempo-Hora" parpadee y muestre el "Código de Parámetro" y el "Área de Temperatura" muestre el "Valor de Parámetro" actual correspondiente a dicho "Código de Parámetro". -Cuando parpadea el código de parámetro, pulse la tecla $[\boldsymbol{\Delta}]$ o $[\boldsymbol{\nabla}]$ para cambiar el "Código de Parámetro"; pulse la tecla [Modo] para que deje de parpadear el "Código de Parámetro" y entre en la interfaz de cambio del "Valor de Parámetro" cuando parpadee el "Valor de Parámetro". - Cuando parpadee el valor del parámetro, pulse la tecla $[\boldsymbol{\Delta}]$ o $[\boldsymbol{\nabla}]$ para cambiar el "Valor del Parámetro"; pulse la tecla [Modo] para guardar el "Valor del Parámetro" y volver a la interfaz de parpadeo del "Código del Parámetro".
+2.7. Consulta/configuración de parámetros
 
-|  Parámetro Código |  | Consulta del parámetro actual |  | Intervalo de consulta  |
-| --- | --- | --- | --- | --- |
-|  Parámetro
-Código | Área Visualización
-Parámetro Nombre | Visualización del valor en el área de consulta |  |   |
-|  P1 | Área de tiempo-Hora Modo
-de memoria de apagado | Apagado | Área de
-visualización de la
-temperatura | On: Resume the pre-outage status after
-being powered on in case of outage  |
-|  P2 | Área de tiempo-Hora Modo
-de memoria de apagado | Encendido | Área de
-visualización de la
-temperatura | On: Resume the pre-outage status after
-being powered on in case of outage  |
+#### 2.7.1. Consulta de parámetros
+
+-Pulse continuamente las teclas combinadas "[Mode]+[ A ]" durante 5 segundos para acceder automáticamente a la interfaz de consulta de
+parámetros cuando parpadee el icono "Zona horaria-Hora" y muestre el "Código de parámetro" y
+"Área de Temperatura" muestra el "Valor de Parámetro" actual correspondiente a dicho "Código de Parámetro".
+☒
+
+-Cuando el código de parámetro parpadea, pulse la tecla [ A ] o [ V ] para cambiar el código de parámetro.
+☒ ☒
+
+<table>
+<tr>
+<th>Parámetro Código</th>
+<th>Área Visualización</th>
+<th>Nombre del parámetro</th>
+<th>Valor a consultar</th>
+<th>Visualización de área Rango de visualización</th>
+</tr>
+<tr>
+<td>01</td>
+<td>Zona horaria-Hora</td>
+<td>Indoor ambient temperature (C)</td>
+<td>Valor actual</td>
+<td>-30~150</td>
+</tr>
+<tr>
+<td>02</td>
+<td>Zona horaria-Hora</td>
+<td>Temperature in the middle of evaporator of the indoor unit (ºC)</td>
+<td>Valor actual</td>
+<td>-30~150</td>
+</tr>
+<tr>
+<td>03</td>
+<td>Zona horaria-Hora</td>
+<td>Temperature in the middle of evaporator of the indoor unit (C)</td>
+<td>Valor actual</td>
+<td>$- 3 0 ^ { \circ } 1 5 0$</td>
+</tr>
+<tr>
+<td>E1</td>
+<td>Zona horaria-Hora</td>
+<td>Historical Error 1</td>
+<td>Err+*</td>
+<td rowspan="5"></td>
+</tr>
+<tr>
+<td>E2</td>
+<td>Zona horaria-Hora</td>
+<td>$H i s t o r i c a l \quad E r r o r \quad 2$</td>
+<td>Err+ **</td>
+</tr>
+<tr>
+<td>E3</td>
+<td></td>
+<td>Historical Error 3</td>
+<td>Err+*</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>$Z o n a \quad h o r a r i a - H o r a$</td>
+<td>Historical Error 4</td>
+<td>Err+*</td>
+</tr>
+<tr>
+<td>E5</td>
+<td>Zona horaria-Hora</td>
+<td>Historical Error 5</td>
+<td>Err+</td>
+</tr>
+</table>
+
+#### 2.7.2. Ajuste de parámetros
+
+\- Pulse continuamente las teclas combinadas "[Modo]+[ V ]" durante 5 segundos para entrar automáticamente en la interfaz de ajuste de
+parámetros cuando el icono "Área de Tiempo-Hora" parpadee y muestre el "Código de Parámetro" y el "Área de Temperatura" muestre el "Valor
+de Parámetro" actual correspondiente a dicho "Código de Parámetro".
+
+-Cuando parpadea el código de parámetro, pulse la tecla [ A ] o [V ] para cambiar el "Código de Parámetro"; pulse la tecla [Modo] para que deje
+☒ ☒
+
+de parpadear el "Código de Parámetro" y entre en la interfaz de cambio del "Valor de Parámetro" cuando parpadee el "Valor de Parámetro".
+\- Cuando parpadee el valor del parámetro, pulse la tecla [ A ] o [ V ] para cambiar el "Valor del Parámetro"; pulse la tecla [Modo] para guardar el
+☒ ☒
+"Valor del Parámetro" y volver a la interfaz de parpadeo del "Código del Parámetro".
+
+<table>
+<tr>
+<th colspan="2">Parámetro Código</th>
+<th colspan="2">Consulta del parámetro actual</th>
+<th>Intervalo de consulta</th>
+</tr>
+<tr>
+<td>Parámetro Código</td>
+<td>Área Visualización Parámetro Nombre</td>
+<td colspan="2">Visualización del valor en el área de consulta</td>
+<td></td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Área de tiempo-Hora Modo de memoria de apagado</td>
+<td>Apagado</td>
+<td>Área de visualización de la temperatura</td>
+<td>On: Resume the pre-outage status after being powered on in case of outage</td>
+</tr>
+<tr>
+<td>P2</td>
+<td>Área de tiempo-Hora Modo de memoria de apagado</td>
+<td>Encendido</td>
+<td>Área de visualización de la temperatura</td>
+<td>On: Resume the pre-outage status after being powered on in case of outage</td>
+</tr>
+</table>
+

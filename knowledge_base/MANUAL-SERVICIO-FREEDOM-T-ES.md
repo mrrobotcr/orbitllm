@@ -1,144 +1,205 @@
 # MANUAL-SERVICIO-FREEDOM-T-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-# ADINA 
-
-## Air Conditioning
-
-## Freedom SERIES
+# Freedom SERIES
 
 Manual de Servicio
-![img-0.jpeg](img-0.jpeg)
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# CONTENIDO 
+Freedom
+SERIES
 
-## SOLUCIÓN DE PROBLEMAS
+## CONTENIDO
 
-1. Autodiagnóstico
-2. Pasos para solucionar fallas típicas
-${ }^{\text {® }}$ Las especificaciones, diseños e información de este libro están sujetos a cambios sin previo aviso para la mejora del producto.
+SOLUCIÓN DE PROBLEMAS
+
+1\. Autodiagnóstico
+
+2\. Pasos para solucionar fallas típicas
+
+·X Las especificaciones, diseños e información de este libro están sujetos a cambios sin
+☒
+previo aviso para la mejora del producto.
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-# Solución de Problemas 
 
-## - 1. Autodiagnóstico
+## Solución de Problemas
 
-| Muestra | Definición de falla o protección |
-| :--: | :-- |
-| E1 | Falla del sensor de temperatura interior |
-| E2 | Falla del sensor de temperatura del evaporador |
-| E4 | Fallos en el suministro eléctrico |
-| E4 | Protección por temperatura de descarga del compresor |
-| E4 | Falla del sensor de temperatura del condensador |
-| E4 | Falla del sensor de temperatura de descarga del compresor |
-| E4 | Protección de alta presión |
-| E4 | Protección de baja presión |
-| Ed | Mal funcionamiento de la EEPROM de la tarjeta principal de control interior |
-| d3 | Alarma de llenado total de agua |
-| C5 (Muestra del controlador con cable) | Mala comunicación entre la PCB interior y el controlador de cable |
+### · 1. Autodiagnóstico
+
+<table>
+<tr>
+<th>Muestra</th>
+<th>Definición de falla o protección</th>
+</tr>
+<tr>
+<td>E1</td>
+<td>Falla del sensor de temperatura interior</td>
+</tr>
+<tr>
+<td>E2</td>
+<td>Falla del sensor de temperatura del evaporador</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>Fallos en el suministro eléctrico</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>Protección por temperatura de descarga del compresor</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>Falla del sensor de temperatura del condensador</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>Falla del sensor de temperatura de descarga del compresor</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>Protección de alta presión</td>
+</tr>
+<tr>
+<td>E4</td>
+<td>Protección de baja presión</td>
+</tr>
+<tr>
+<td>Ed</td>
+<td>Mal funcionamiento de la EEPROM de la tarjeta principal de control interior</td>
+</tr>
+<tr>
+<td>d3</td>
+<td>Alarma de llenado total de agua</td>
+</tr>
+<tr>
+<td>C5 $\left( M u e s t r a \quad d e l \quad c o n t r o l a d o r \quad c o n \quad c a b l e \right)$</td>
+<td>Mala comunicación entre la PCB interior y el controlador de cable</td>
+</tr>
+</table>
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 4
 ================================================================================
 
-# 2. Pasos para solucionar fallas típicas 
 
-E0.
+### 2. Pasos para solucionar fallas típicas EO.
+
 E1. El sensor de temperatura de la habitación interior es anormal
-![img-1.jpeg](img-1.jpeg)
 
-E2. El sensor de temperatura del evaporador es anormal
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 5
 ================================================================================
 
-![img-2.jpeg](img-2.jpeg)
+Freedom
+SERIES
 
 E3. Sensor de temperatura del condensador está anormal.
-![img-3.jpeg](img-3.jpeg)
 
 E4. Fallas en el suministro de energía.
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 6
 ================================================================================
 
-Error de secuencia de fase:
 
-| Falta de fase |
-| :--: |
-| Verifique el suministro de energía, ¿es trifásico, 380-415V? |
-| SI |
-| Verifique la conexión entre el suministro de energía y el terminal, ¿el voltaje en el terminal exterior es trifásico, 380415 V ? |
-| SI |
-| La PCB exterior está defectuosa |
+<!-- PageBreak -->
 
-Falta de fase:
 
-| Falta de fase |
-| :--: |
-| Verifique el suministro de energía, ¿es trifásico, 380-415V? |
-| SI |
-| Verifique la conexión entre el suministro de energía y el terminal, ¿el voltaje en el terminal exterior es trifásico, 380415 V ? |
-| SI |
-| La PCB exterior está defectuosa |
-
-E4. Protección de temperatura de descarga del compresor
 
 ================================================================================
 PAGE 7
 ================================================================================
 
-![img-4.jpeg](img-4.jpeg)
+Freedom
+SERIES
 
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 8
 ================================================================================
 
-E4. Falla del sensor de temperatura de descarga del compresor
-![img-5.jpeg](img-5.jpeg)
+Freedom
+SERIES
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 9
 ================================================================================
 
-E4. Protección por alta presión
-![img-6.jpeg](img-6.jpeg)
+
+#### E4. Protección por alta presión
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 10
 ================================================================================
 
-E4. Protección por baja presión
-![img-7.jpeg](img-7.jpeg)
+Freedom
+SERIES
+
+#### E4. Protección por baja presión
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 11
 ================================================================================
 
-Ed: Falla de la EEPROM en la tarjeta de control principal interior
-![img-8.jpeg](img-8.jpeg)
 
-EL/d3: Alarma de llenado completo de agua
-![img-9.jpeg](img-9.jpeg)
+#### Ed: Falla de la EEPROM en la tarjeta de control principal interior
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 12
 ================================================================================
 
-C5: Mala comunicación entre la PCB interior y el controlador por cable (Display del controlador por cable)
-![img-10.jpeg](img-10.jpeg)
+Freedom
+SERIES
+
+#### C5: Mala comunicación entre la PCB interior y el controlador por cable (Display del controlador por cable)
+
+

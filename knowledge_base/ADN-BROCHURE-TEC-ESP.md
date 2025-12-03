@@ -1,1749 +1,5998 @@
 # ADN-BROCHURE-TEC-ESP.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+ADN
 
-# Sistema VRF
+ADK
 
-## ADINA
+Sistema VRF
+
+ADINA
 
 V-03062025
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# Nomenclatura 
+ADN
 
-![img-1.jpeg](img-1.jpeg)
-![img-2.jpeg](img-2.jpeg)
+# Nomenclatura
 
-| Unidad <br> Interior | ADN - A 36 CA / H N 4 - Q101 |
-| :--: | :--: |
-| ADN - Sistema VRF | Número reservado para <br> actualización <br> Tipo de refrigerante <br> 4: R410A <br> Fuente de Alimentación <br> K: 208-230V/1PH/60HZ <br> N: 208-230V / 3PH / 60HZ <br> H: Bomba de Calor <br> C: Solo Frío |
-| Código del Motor <br> A: Motor de ventilador AC <br> D: Motor de ventilador DC |  |
-| Capacidad(*)00W) |  |
-| Código Unidad Interior <br> CA: Cassette de 1 vía <br> CB: Cassette de 2 vías <br> Q4: Cassette compacto de 4 vías <br> QR: Cassette de Flujo Circular <br> G: unidad de pared <br> TA: Unidad Fan Coli <br> TB: Unidad Ductada de Presión Estática Media <br> TH: Unidad Ductada de Presión Estática Alta <br> TF: Procesador de Aire Fresco <br> UA: Piso Techo <br> AH: Unidad Manejadora de Aire |  |
+Unidad
+Interior
+
+ADN - A 36 CA / H N 4 - Q101
+
+ADN - Sistema VRF
+Código del Motor
+A: Motor de ventilador AC
+D: Motor de ventilador DC
+
+Número reservado para
+actualización
+
+Tipo de refrigerante
+4: R410A
+
+Capacidad(*100W)
+
+Fuente de Alimentación
+K: 208-230V/1PH/60HZ
+
+N: 208-230V / 3PH / 60HZ
+
+Código Unidad Interior
+CA: Cassette de 1 vía
+CB: Cassette de 2 vías
+Q4: Cassette compacto de 4 vías
+QR: Cassette de Flujo Circular
+
+H: Bomba de Calor
+C: Solo Frío
+
+G: unidad de pared
+TA: Unidad Fan Coil
+
+TB: Unidad Ductada de Presión Estática Media
+
+TH: Unidad Ductada de Presión Estática Alta
+TF: Procesador de Aire Fresco
+
+UA: Piso Techo
+
+AH: Unidad Manejadora de Aire
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="2" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-![img-3.jpeg](img-3.jpeg)
 
-Nueva generación de Sistemas VRF Full Inverter DC
+# Nueva generación de Sistemas VRF Full Inverter DC
 
-## 9 Módulos Básicos
+EER&COP
 
-![img-4.jpeg](img-4.jpeg)
+ADK
 
-![img-5.jpeg](img-5.jpeg)
+ADK
 
-![img-6.jpeg](img-6.jpeg)
+ADK
 
-![img-7.jpeg](img-7.jpeg)
+☐
 
-|  Capacidad | 8HP | 10HP | 12HP | 14HP | 16HP | 18HP | 20HP | 22HP | 24HP  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | 26.2kW | 28kW | 33.5kW | 40kW | 46kW | 50kW | 56kW | 61.5kW | 67kW  |
-|  Compresor | DC | DC | DC | DC | DC | DC | DC | DC | DC+DC  |
-|  Motor del Ventilador | DC | DC | DC | DC | DC | DC | DC+DC | DC+DC | DC+DC  |
+☐
 
-## EER&COP
+☐
 
-![img-8.jpeg](img-8.jpeg)
+# 9 Módulos Básicos
 
-IPLV(C)
+ADINA
 
-![img-9.jpeg](img-9.jpeg)
+ADINA
 
-- Norma Nacional (GB 21454-2008)
-- ADN Pro
+ADINA
+
+$8 / 1 0 / 1 2 H P$
+
+$1 4 / 1 6 / 1 8 \quad H P$
+
+$2 0 / 2 2 H P$
+
+$2 4 H P$
+
+$8 H P$
+
+10HP
+
+12HP
+
+14HP
+
+16HP
+
+18HP
+
+20HP
+
+22HP
+
+24HP
+
+Capacidad
+
+25.2KW
+
+28kW
+
+33.5kW
+
+40kW
+
+45kW
+
+50kW
+
+56kW
+
+61.5kW
+
+67kW
+
+Compresor
+Motor del
+Ventilador
+
+DC
+
+DC
+
+DC
+
+DC
+
+DC
+
+DC
+
+DC
+
+DC
+
+$D C + D C$
+
+DC
+
+DC
+
+DC
+
+$D C$
+
+DC
+
+DC
+
+$D C + D C$
+
+DC+DC
+
+$D C + D C$
+
+· Norma Nacional (GB 21454-2008)
+
+$\cdot A D N P r o$
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="3" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 4
 ================================================================================
 
-# Tabla de Combinaciones
+ADN
 
-|  Capacidad (KW) | Modelo | Combinación Recomendada |  |  |  |  |  |  |  |  |  | Cantidad Máxima de Unidades Interiores  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   |  | 3HP | 10HP | 12HP | 14HP | 16HP | 18HP | 20HP | 22HP | 24HP |  |   |
-|  8 | ADN-D252W/CXB1 | ● |  |  |  |  |  |  |  |  |  | 13  |
-|  10 | ADN-D251W/CXB1 |  | ● |  |  |  |  |  |  |  |  | 16  |
-|  12 | ADN-D251W/CXB1 |  |  | ● |  |  |  |  |  |  |  | 19  |
-|  14 | ADN-D403W/CXB1 |  |  |  | ● |  |  |  |  |  |  | 23  |
-|  16 | ADN-D458W/CXB1 |  |  |  |  | ● |  |  |  |  |  | 26  |
-|  18 | ADN-D523W/CXB1 |  |  |  |  |  | ● |  |  |  |  | 29  |
-|  20 | ADN-D542W/CXB1 |  |  |  |  |  |  | ● |  |  |  | 33  |
-|  22 | ADN-D615W/CXB1 |  |  |  |  |  |  |  | ● |  |  | 38  |
-|  24 | ADN-D675W/CXB1 |  |  |  |  |  |  |  |  | ● |  | 39  |
-|  26 | ADN-D722W/CXB1 |  | ● |  |  | ● |  |  |  |  |  | 43  |
-|  28 | ADN-D785W/CXB1 |  |  | ● |  | ● |  |  |  |  |  | 48  |
-|  30 | ADN-D825W/CXB1 |  |  |  |  |  | ● |  |  |  |  | 50  |
-|  32 | ADN-D905W/CXB1 |  |  |  |  | ●● |  |  |  |  |  | 53  |
-|  35 | ADN-D975W/CXB1 |  |  | ● |  |  |  |  | ● |  |  | 56  |
-|  36 | ADN-D1015W/CXB1 |  |  | ● |  |  |  |  |  | ● |  | 58  |
-|  38 | ADN-D1070W/CXB1 |  |  |  | ● |  |  |  |  | ● |  | 63  |
-|  40 | ADN-D115W/CXB1 |  |  |  |  |  | ● |  |  |  |  | 64  |
-|  42 | ADN-D1215W/CXB1 |  |  |  |  |  | ● |  |  | ● |  | 66  |
-|  44 | ADN-D1250W/CXB1 |  |  |  |  |  |  |  | ●● |  |  | 71  |
-|  46 | ADN-D1285W/CXB1 |  |  |  |  |  |  |  | ● | ● |  | 74  |
-|  48 | ADN-D1350W/CXB1 |  |  |  |  |  |  |  |  | ●● |  | 78  |
-|  50 | ADN-D1405W/CXB1 |  |  | ● |  | ● |  |  |  | ● |  | 81  |
-|  52 | ADN-D1450W/CXB1 |  |  | ● |  | ● |  |  |  | ● |  | 84  |
-|  54 | ADN-D1515W/CXB1 |  |  |  |  | ●● |  |  | ● |  |  | 87  |
-|  56 | ADN-D1575W/CXB1 |  |  |  |  | ●● |  |  |  | ● |  | 91  |
-|  58 | ADN-D1605W/CXB1 |  |  | ● |  |  |  |  | ● | ● |  | 94  |
-|  60 | ADN-D1640W/CXB1 |  |  | ● |  |  |  |  |  | ●● |  | 97  |
-|  62 | ADN-D1725W/CXB1 |  |  |  |  | ● |  |  | ● | ● |  | 100  |
-|  64 | ADN-D1750W/CXB1 |  |  |  |  | ● |  |  |  | ●● |  | 100  |
-|  66 | ADN-D1840W/CXB1 |  |  |  |  |  | ● |  |  | ●● |  | 100  |
-|  68 | ADN-D1905W/CXB1 |  |  |  |  |  |  | ● |  | ●● |  | 100  |
-|  70 | ADN-D1955W/CXB1 |  |  |  |  |  |  |  | ● | ●● |  | 100  |
-|  72 | ADN-D2005W/CXB1 |  |  |  |  |  |  |  |  | ●●● |  | 100  |
-|  74 | ADN-D2055W/CXB1 |  |  | ● |  | ● |  |  | ● | ● |  | 100  |
-|  76 | ADN-D2135W/CXB1 |  |  | ● |  | ● |  |  |  | ●● |  | 100  |
-|  78 | ADN-D2155W/CXB1 |  |  | ● |  |  |  |  | ●●● |  |  | 100  |
-|  80 | ADN-D2175W/CXB1 |  |  | ● |  |  |  |  | ●● | ● |  | 100  |
-|  82 | ADN-D2255W/CXB1 |  |  | ● |  |  |  |  | ● | ●● |  | 100  |
-|  88 | ADN-D2355W/CXB1 |  |  |  |  | ● |  |  | ●● | ● |  | 100  |
-|  86 | ADN-D2455W/CXB1 |  |  |  |  | ● |  |  | ● | ●● |  | 100  |
-|  90 | ADN-D2515W/CXB1 |  |  |  |  |  | ● |  |  | ●●● |  | 100  |
-|  92 | ADN-D2575W/CXB1 |  |  |  |  |  |  | ● |  | ●●● |  | 100  |
-|  94 | ADN-D2615W/CXB1 |  |  |  |  |  |  |  | ● | ●● |  | 100  |
-|  96 | ADN-D2655W/CXB1 |  |  |  |  |  |  |  |  | ●●●● |  | 100  |
+## Tabla de Combinaciones
 
-**Nota:**
+Nota:
 
-La tabla de combinaciones muestra la recomendación del fabricante para combinar unidades exteriores, pero pueden hacerse combinaciones libremente siempre y cuando la diferencia entre las unidades no supere los 8HP. Una unidad de 20HP y otra unidad de 10HP si pueden combinarse, pero una unidad de 20HP y otra de 10HP no está permitido.
+La tabla de combinaciones muestra la recomendación del fabricante para combinar unidades exteriores, pero pueden
+hacerse combinaciones libremente siempre y cuando la diferencia entre las unidades no supere los 8HP. Una unidad de
+20HP y otra unidad de 12HP si pueden combinarse, pero una unidad de 20HP y otra de 10HP no está permitido.
 
-# Tubería de Refrigerante
+### Tubería de Refrigerante
 
-|  Longitud Total de la Tubería | 1000 m  |
-| --- | --- |
-|  Longitud de la Tubería más Larga | 220m  |
-|  Diferencia de Altura | Unidad Exterior en el Techo hasta 30m  |
-|   | Unidad exterior en el Suelo hasta 10m  |
-|  Diferencia de Altura Entre Unidades Interiores | 30m  |
-|  Longitud desde el primer distribuidor: | 40 m  |
-|  Intestinal hasta la última unidad interior |   |
-|  Longitud del Cable de Comunicación | Puede alcanzar hasta 1000m.  |
+<table>
+<tr>
+<th>Longitud Total de la Tubería</th>
+<th>1000 m</th>
+</tr>
+<tr>
+<td>Longitud de la Tubería más Larga</td>
+<td>220m</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Diferencia de Altura</td>
+<td>Unidad Exterior en el Techo hasta 90m Unidad exterior en el Suelo hasta 110m</td>
+</tr>
+<tr>
+<td>Diferencia de Altura Entre Unidades Interiores</td>
+<td>30m</td>
+</tr>
+<tr>
+<td>Longitud desde el primer distribuidor interior hasta la última unidad interior</td>
+<td>40 m</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Longitud del Cable de Comunicación</td>
+<td>Puede alcanzar hasta 1000m.</td>
+</tr>
+</table>
 
-*Consulte el manual de instalación para obtener una descripción detallada de la longitud.
+*Consulte el manual de instalación para obtener una descripción detallada
+de la longitud.
 
-![img-10.jpeg](img-10.jpeg)
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="4" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 5
 ================================================================================
 
-# Características 
+ADN
 
-## $\square$ <br> Control remoto a largas distancias
+# Características
+
+## Control remoto a largas distancias
 
 Control remoto de larga distancia por teléfono o tableta.
-![img-11.jpeg](img-11.jpeg)
 
 ## Diseño de Enfriamiento por Refrigerante
 
-Usamos refrigerante para enfriar la placa modular del inversor y mantenerla en condiciones seguras, incluso cuando la temperatura exterior alcanza hasta $55^{\circ} \mathrm{C}$.
-![img-12.jpeg](img-12.jpeg)
+Usamos refrigerante para enfriar la placa modular del inversor y
+mantenerla en condiciones seguras, incluso cuando la temperatura
+exterior alcanza hasta 55°C.
 
-## Detección del Estado del Refrigerante
+## 0 Detección del Estado del Refrigerante
 
-- Incorpora una función inteligente de revisión automática del refrigerante, que puede ofrecer sugerencias sobre su estado.
-- Diferentes códigos indican distintos estados del refrigerante:
-![img-13.jpeg](img-13.jpeg)
+· Incorpora una función inteligente de revisión automática del
+refrigerante, que puede ofrecer sugerencias sobre su estado.
 
-Extremadamente insuficiente Insuficiente
-Ligeramente insuficiente Normal
-Ligeramente en exceso
-Sobrecarga
+· Diferentes códigos indican distintos estados del refrigerante:
 
 ## Modo de Ahorro de Energía
 
-En el caso de depender de una fuente de energía eléctrica alterna, se pueden configurar 7 límites de consumo de potencia de acuerdo al suministro de energía disponible.
-![img-14.jpeg](img-14.jpeg)
+En el caso de depender de una fuente de energía eléctrica alterna, se
+pueden configurar 7 límites de consumo de potencia de acuerdo al
+suministro de energía disponible.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="5" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 6
 ================================================================================
 
-# 40 
+ADN
 
-## Características
+# Características
 
 ## Más Unidades Interiores
 
-Se pueden conectar un máximo de 100 unidades interiores en UN solo sistema.
-![img-15.jpeg](img-15.jpeg)
+Se pueden conectar un máximo de 100 unidades
+interiores en UN solo sistema.
 
-Función de bloqueo eléctrico (opcional)
-![img-16.jpeg](img-16.jpeg)
+## Función de bloqueo eléctrico (opcional)
 
-En caso de que el usuario final no pague según el contrato, se puede utilizar la función de bloqueo eléctrico para detener el sistema VRF, y el usuario final no podrá iniciar el sistema sin permiso.
+En caso de que el usuario final no pague
+según el contrato, se puede utilizar la
+función de bloqueo eléctrico para detener
+el sistema VRF, y el usuario final no podrá
+iniciar el sistema sin permiso.
 
-El sistema puede desbloquearse con una contraseña por un técnico autorizado.
+El sistema puede desbloquearse con una
+contraseña por un técnico autorizado.
 
-## (i+1) Comunicación inalámbrica (opcional)
+## Comunicación inalámbrica (opcional)
 
 Comunicación inalámbrica entre las unidades interiores.
-Comunicación inalámbrica entre la unidad interior y la unidad exterior.
-![img-17.jpeg](img-17.jpeg)
+Comunicación inalámbrica entre la unidad interior $y$ la unidad exterior.
 
 ## Diagnóstico en línea
 
-El técnico puede realizar la puesta en marcha y diagnóstico en línea mediante teléfono o tableta.
-![img-18.jpeg](img-18.jpeg)
+El técnico puede realizar la puesta en marcha y diagnóstico en línea
+mediante teléfono o tableta.
 
 ## Ventana de servicio en la cubierta frontal
 
-Ocetion a la ventana de servicio, ahora en Dnif revisar el estado de las unidades exteriores y realizar ajustes, sin necesidad de quitar la cubierta frontal.
-![img-19.jpeg](img-19.jpeg)
+Gracias a la ventana de servicio, ahora es fácil revisar el estado
+de las unidades exteriores y realizar ajustes, sin necesidad de
+quitar la cubierta frontal.
 
 ## Carga automática de refrigerante (opcional)
 
-ADN PRO puede personalizarse con la función de carga automática de refrigerante.
+ADN PRO puede personalizarse con la función de carga
+automática de refrigerante.
 
-Se agregará una válvula solenoide adicional en la tubería de gas, y la unidad exterior controlará la válvula para cargar el refrigerante.
-![img-20.jpeg](img-20.jpeg)
+Se agregará una válvula solenoide adicional en la tubería de
+gas, y la unidad exterior controlará la válvula para cargar el
+refrigerante.
 
-## Máximo 96HP
+## 9 módulos básicos
 
-Un máximo de 4 unidades exteriores pueden combinarse para convertirse en una unidad más grande.
+## 6 Máximo 96HP
 
-La capacidad máxima de un solo sistema es de 96HP.
+Un máximo de 4 unidades exteriores pueden
+combinarse para convertirse en una unidad más
+grande.
+
+La capacidad máxima de un solo sistema es de
+96HP.
+
+<!-- PageNumber="6" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 7
 ================================================================================
 
-# ADN 
 
-## Alta Eficiencia
+# ADN
 
-## Defensores de una vida baja en carbono
+## 1
 
-En ADINA, siempre nos enfocamos en el desarrollo de productos energéticamente eficientes y con bajas emisiones de carbono. Nos esforzamos al máximo en la investigación y el desarrollo tecnológico para ser practicantes y defensores de la tecnología baja en carbono.
-![img-21.jpeg](img-21.jpeg)
+# Alta Eficiencia
+
+Defensores de una vida baja en carbono
+
+En ADINA, siempre nos enfocamos en el desarrollo de productos energéticamente eficientes y
+con bajas emisiones de carbono. Nos esforzamos al máximo en la investigación y el desarrollo
+tecnológico para ser practicantes y defensores de la tecnología baja en carbono.
 
 ## Tecnologías que brindan alta eficiencia
 
-## Motor DC sin escobillas
+· Excelente eficiencia de intercambio de calor
 
-- Alta eficiencia
-- Bajo nivel de ruido
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="7" -->
+<!-- PageBreak -->
 
-Control de onda sinusoidal de $180^{\circ}$
 
-- Control de velocidad de rotor de alta precisión
-
-Control continuo
-
-- Rendimiento según demanda, alta eficiencia y ahorro energético
-
-Diseño de tuberías de refrigerante 2 en 1
-
-- Aumenta la proporción de refrigerante líquido
-
-Aletas de flujo cruzado
-
-- Reduce la resistencia al viento y mejora la eficiencia del intercambio de calor
-
-Compresores Inverter DC
-
-- Compresor de alta presión
-- Rotor con Iman permanente de neodimio
-
-Tubo de cobre CCT
-acanalado
-
-- Excelente eficiencia de intercambio de calor
 
 ================================================================================
 PAGE 8
 ================================================================================
 
-![img-22.jpeg](img-22.jpeg)
 
-# Compresor INVERTER de alta eficiencia
+## Compresor INVERTER de alta eficiencia
 
-- Compresor doble rotativo inverter.
-- Refrigerante ecológico R410a.
-- Pequeña fluctuación de torque, baja vibración y funcionamiento silencioso.
-- Alta eficiencia gracias a su patente de diseño de estructura interna.
-- Estructura interna para circulación de aceite.
-- Alta confiabilidad.
-- Amplio rango de velocidad de rotación.
-- Rotor de imán permanente de neodimio, tiene una potente fuerza magnética, gran torque y alta eficiencia.
-- Bobinado concentrado, mejorando la eficiencia de baja frecuencia.
-- Cámara de alta presión.
-- Tiene un pequeño sobrecalentamiento de succión y una alta eficiencia de volumen de refrigerante.
-- Tiene un gran volumen de amortiguación de descarga de refrigerante, baja vibración y ruido.
+· Compresor doble rotativo inverter.
 
-![img-23.jpeg](img-23.jpeg)
+· Refrigerante ecológico R410a.
 
-## Rotor de imán permanente de neodimio
+· Pequeña fluctuación de torque, baja
+vibración y funcionamiento silencioso.
 
-Potente fuerza magnética, gran momento de fuerza y alta eficiencia.
+· Alta eficiencia gracias a su patente
+de diseño de estructura interna.
 
-![img-24.jpeg](img-24.jpeg)
+· Estructura interna para circulación
+de aceite.
 
-![img-25.jpeg](img-25.jpeg)
+Diseño de equilibrio de
+aceite, bombea aceite
+adicional a otro compresor.
 
-## Bobinado concentrado
+· Alta confiabilidad.
 
-La eficiencia magnética es un 12% mayor que la del bobinado distribuido.
+· Amplio rango de velocidad de rotación.
 
-![img-26.jpeg](img-26.jpeg)
+· Rotor de imán permanente de neodimio, tiene Una potente
+fuerza magnética, gran torque y alta eficiencia.
 
-![img-27.jpeg](img-27.jpeg)
+· Bobinado concentrado, mejorando la eficiencia de baja frecuencia.
+
+· Cámara de alta presión.
+
+· Tiene un pequeño sobrecalentamiento de succión y una alta eficiencia
+de volumen de refrigerante.
+
+· Tiene un gran volumen de amortiguación de descarga de refrigerante,
+baja vibración y ruido.
+
+### Rotor de imán permanente de neodimio
+
+#### Potente fuerza magnética, gran momento de fuerza y alta eficiencia
+
+Imán de ferrita
+
+### Bobinado concentrado
+
+La eficiencia magnética es un 12% mayor que la del bobinado distribuido
+
+Bobinado concentrado
+
+Bobinado distribuido
 
 ## Motor DC de Alta Eficiencia
 
 El motor del ventilador es del tipo DC y es de alta eficiencia.
 
-- Bajo nivel de ruido y alta eficiencia gracias a la ingeniería de boninado de alambre de alta densidad.
-- Motor sin escobillas con sensor incorporado.
+Bajo nivel de ruido y alta eficiencia gracias a la ingenieria de boninado de
+alambre de alta densidad.
 
-![img-28.jpeg](img-28.jpeg)
+Motor sin escobillas con sensor incorporado.
+
+(0)
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="8" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 9
 ================================================================================
 
-# Control Contínuo 
 
-El motor del ventilador de corriente directa (DC) puede ser controlado continuamente por la placa PCB exterior según la presión de operación del sistema. Esto permite reducir el consumo de energía y mantener el sistema en su máximo rendimiento.
-![img-29.jpeg](img-29.jpeg)
+# ADN
 
-## 180
+## Control Contínuo
 
-## Control de onda sinusoidal de $180^{\circ}$
+El motor del ventilador de corriente directa (DC) puede ser controlado continuamente por la placa PCB exterior según
+la presión de operación del sistema. Esto permite reducir el consumo de energía y mantener el sistema en su máximo
+rendimiento.
 
-La combinación perfecta de la tecnología de control de frecuencia del rotor con forma de onda sinusoidal de $180^{\circ}$ y los excelentes inversores IPM, reduce las pérdidas reactivas del motor y aumenta la eficiencia del motor en un 12\%.
-![img-30.jpeg](img-30.jpeg)
+### Curva de carga-revolución
 
-## Incrementa la eficiencia en un 12\%
+1400
 
-![img-31.jpeg](img-31.jpeg)
+1200
+
+700
+
+50% de
+ahorro
+energético
+
+200
+
+Load
+
+0%
+
+50%
+
+100%
+
+130%
+
+Ajuste sin escalones del motor DC
+
+Ajuste de 2 velocidades del
+motor AC
+
+Energía
+desperdiciada
+
+Bajo rendimiento
+
+180°
+
+## Control de onda sinusoidal de 180°
+
+La combinación perfecta de la tecnología de control de frecuencia del rotor con forma de onda sinusoidal de 180° y los
+excelentes inversores IPM, reduce las pérdidas reactivas del motor y aumenta la eficiencia del motor en un 12%.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="9" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 10
 ================================================================================
 
-# Tubo de Cobre CCT Acanalado 
 
-El Tubo de cobre Enfriado continuamente (Continuous Cooling Transformation, CCT) y acanalado internamente tiene una alta conductividad térmica. Las aletas acanaladas en el interior rompen la capa límite del flujo del refrigerante, lo que mejora la turbulencia del refrigerante y aumenta la eficiencia del intercambio de calor.
-![img-32.jpeg](img-32.jpeg)
+## Tubo de Cobre CCT Acanalado
 
-## Diseño de tuberías de refrigerante 2 en 1
+El Tubo de cobre Enfriado continuamente (Continuous Cooling Transformation, CCT) y acanalado internamente tiene
+una alta conductividad térmica. Las aletas acanaladas en el interior rompen la capa límite del flujo del refrigerante, lo
+que mejora la turbulencia del refrigerante y aumenta la eficiencia del intercambio de calor.
 
-![img-33.jpeg](img-33.jpeg)
-![img-34.jpeg](img-34.jpeg)
+Tubo con ranuras internas CCT
+
+Tubo convencional
+
+Tubo con ranuras internas CCT
+
+Tubo convencional
+
+### Diseño de tuberías de refrigerante 2 en 1
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="10" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 11
 ================================================================================
 
-# Diseño de Tubería para Mayor Sobreenfriamiento 
+ADN
 
-El diseño de la trayectoria que sigue el flujo de refrigerante separa la entrada y la salida de refrigerante, aumentando el grado de sobreenfriamiento, reduce el efecto del gas refrigerante de alta temperatura en la entrada sobre el refrigerante líquido de baja temperatura en la salida, lo que incrementa significativamente la eficiencia del sistema.
+## Diseño de Tubería para Mayor Sobreenfriamiento
 
-La entrada y la salida están demasiado cerca.
-![img-35.jpeg](img-35.jpeg)
+El diseño de la trayectoria que sigue el flujo de refrigerante separa la entrada y la salida de refrigerante, aumentando el
+grado de sobreenfriamiento, reduce el efecto del gas refrigerante de alta temperatura en la entrada sobre el refrigerante
+líquido de baja temperatura en la salida, lo que incrementa significativamente la eficiencia del sistema.
 
-Trayectoria de flujo convencional
+## mu Aletas de flujo cruzado
 
-La entrada y la salida están separadas.
-![img-36.jpeg](img-36.jpeg)
+· Tienen baja resistencia al aire y un gran coeficiente de transferencia de calor.
 
-Trayectoria de flujo de sobreenfriamiento
-
-## 111 Aletas de flujo cruzado
-
-- Tienen baja resistencia al aire y un gran coeficiente de transferencia de calor.
-- Mejora la formación de escarcha en el intercambiador de calor ya que se distribuye de manera uniforme, facilitando el deshielo.
-![img-37.jpeg](img-37.jpeg)
+· Mejora la formación de escarcha en el intercambiador de calor ya que se
+distribuye de manera uniforme, facilitando el deshielo.
 
 Aletas convencionales
-![img-38.jpeg](img-38.jpeg)
 
-Aletas de flujo cruzado
-![img-39.jpeg](img-39.jpeg)
+\- \+
 
 ## Tubería interna de baja resistencia
 
-- Gracias al diseño optimizado de la tubería, se reduce en un 5\% la caída de presión.
-- El EER y el COP aumentan debido a que la temperatura de evaporación incrementa y el trabajo del compresor disminuye.
+· Gracias al diseño optimizado de la tubería, se reduce en un 5% la
+caída de presión.
+
+· El EER y el COP aumentan debido a que la temperatura de
+evaporación incrementa y el trabajo del compresor disminuye.
 
 Nuevo ciclo estructural
-![img-40.jpeg](img-40.jpeg)
+
+Ciclo de compresión original
+
+5%
 
 Disminución de la caída de presión
+
+<!-- PageNumber="11" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 12
 ================================================================================
 
-# Beneficos para nuestros usuarios 
 
-## Creando Ambientes Confortables
+# Beneficos para nuestros usuarios
 
-En ADINA, nuestro objetivo es crear un ambiente de vida amigable, cómodo y agradable. Nuestros sistemas VRF de tecnología INVERTER DC garantizan el confort ofreciendo enfriamiento y calefacción rápidos, control preciso de la temperatura, bajo nivel de ruido y el uso de refrigerantes ecológicos, entre otras características. Nos esforzamos continuamente por ofrecer un entorno habitable y confortable para nuestros usuarios.
-![img-41.jpeg](img-41.jpeg)
+Creando Ambientes Confortables
+
+En ADINA, nuestro objetivo es crear un ambiente de vida
+amigable, cómodo y agradable. Nuestros sistemas VRF
+de tecnología INVERTER DC garantizan el confort
+ofreciendo enfriamiento y calefacción rápidos, control
+preciso de la temperatura, bajo nivel de ruido y el uso de
+refrigerantes ecológicos, entre otras características.
+Nos esforzamos continuamente por ofrecer un entorno
+habitable y confortable para nuestros usuarios.
 
 ## Confort Inigualable
 
-- Nuestro sistema tiene un excelente rendimiento en enfriamiento y calefacción, gracias al motor ventilador DC de alta eficiencia, el compresor DC y la lógica optimizada de control del flujo de refrigerante.
-- Control preciso de la temperatura ambiente mediante la adopción de una válvula de expansión electrónica (EXV) de 2000 pulsos. La fluctuación de la temperatura interior se puede mantener dentro de los $0.5^{\circ} \mathrm{C}$, ofreciendo una comodidad excepcional.
-![img-42.jpeg](img-42.jpeg)
+· Nuestro sistema tiene un excelente rendimiento en enfriamiento y calefacción, gracias al motor ventilador DC de
+alta eficiencia, el compresor DC y la lógica optimizada de control del flujo de refrigerante.
+
+· Control preciso de la temperatura ambiente mediante la adopción de una válvula de expansión electrónica (EXV)
+de 2000 pulsos. La fluctuación de la temperatura interior se puede mantener dentro de los 0.5℃, ofreciendo una
+comodidad excepcional.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="12" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 13
 ================================================================================
 
-# 32 Amplio Rango de Operación 
 
-Nuestros sistemas VRF con tecnología inverter DC ofrecen un amplio rango de operación en diferentes condiciones de temperatura ambiente, permitiendo enfriar hasta $-5.55^{\circ} \mathrm{C}$ y calentar hasta $-30.30^{\circ} \mathrm{C}$.
-![img-43.jpeg](img-43.jpeg)
+## Amplio Rango de Operación
+
+Nuestros sistemas VRF con tecnología inverter DC ofrecen un amplio rango de operación en diferentes condicio-
+nes de temperatura ambiente, permitiendo enfriar hasta -5.55℃ y calentar hasta -30.30℃.
 
 ## Amigable con el Medio Ambiente
 
 Refrigerante R410 tiene una baja huella de carbono y no daña el ozono.
-![img-44.jpeg](img-44.jpeg)
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="13" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 14
 ================================================================================
 
-![img-45.jpeg](img-45.jpeg)
 
-### **Modo Silencioso, Control de Ruido Nocturno**
+## Modo Silencioso, Control de Ruido Nocturno
 
-- La velocidad de rotación del compresor y del motor del ventilador se puede reducir para disminuir el ruido durante la noche.
-- Reducción máxima de 10 dB(A).
+· La velocidad de rotación del compresor y del motor del ventilador se puede reducir para disminuir el ruido
+durante la noche.
 
-![img-46.jpeg](img-46.jpeg)
+· Reducción máxima de 10 dB(A).
 
-### **Aspa de Ventilador de Bajo Ruido**
+## Aspa de Ventilador de Bajo Ruido
 
-Aspa de ventilador con 7 mejoras en su diseño para reducir la generación de ruido de forma más efectiva durante su funcionamiento.
+Aspa de ventilador con 7 mejoras en su diseño para reducir la generación de ruido de forma más efectiva durante
+su funcionamiento.
 
-![img-47.jpeg](img-47.jpeg)
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="14" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 15
 ================================================================================
 
-# Triple Respaldo de Operación 
 
-## Respaldo por módulos
+## 3 Triple Respaldo de Operación
 
-Cuando algunos módulos fallan, los demás pueden seguir funcionando con simples configuraciones.
+### Respaldo por módulos
 
-## Respaldo de compresores
+Cuando algunos módulos fallan, los
+demás pueden seguir funcionando
+con simples configuraciones.
 
-Cuando un compresor falla, el otro puede seguir funcionando con simples configuraciones.
+### Respaldo de compresores
 
-## Respaldo de motores de ventilador
+Cuando un compresor falla, el otro
+puede seguir funcionando con simples
+configuraciones.
 
-Cuando un motor del ventilador falla, el otro puede seguir funcionando con simples configuraciones.
-![img-48.jpeg](img-48.jpeg)
+### Respaldo de motores de ventilador
+
+Cuando un motor del ventilador falla,
+el otro puede seguir funcionando
+con simples configuraciones.
 
 ## Operación Cíclica de Todas las Unidades Exteriores
 
-![img-49.jpeg](img-49.jpeg)
+· En un sistema combinado, cualquier unidad exterior puede funcionar como unidad maestra.
 
-- En un sistema combinado, cualquier unidad exterior puede funcionar como unidad maestra.
-- La operación cíclica iguala el tiempo de funcionamiento de las unidades exteriores, extendiendo considerablemente la vida útil de las unidades exteriores en un sistema.
+La operación cíclica iguala el tiempo de funcionamiento de las unidades exteriores, extendiendo considerablemente
+la vida útil de las unidades exteriores en un sistema.
+
+## Función de Posicionamiento de IDU y ODU
+
+Activar la función de posicionamiento a través del controlador permite que todas las IDU y ODU del mismo
+sistema emitan un sonido mediante el zumbador incorporado. Esto facilita el posicionamiento rápido durante la
+puesta en marcha del sistema, la resolución de problemas y el mantenimiento postventa.
+
+<!-- PageFooter="ADINA®" -->
+<!-- PageNumber="15" -->
+<!-- PageBreak -->
 
 
-## (1) Función de Posicionamiento de IDU y ODU
-
-Activar la función de posicionamiento a través del controlador permite que todas las IDU y ODU del mismo sistema emitan un sonido mediante el zumbador incorporado. Esto facilita el posicionamiento rápido durante la puesta en marcha del sistema, la resolución de problemas y el mantenimiento postventa.
-![img-50.jpeg](img-50.jpeg)
 
 ================================================================================
 PAGE 16
 ================================================================================
 
-# Función de Control Remoto de Encendido y Apagado 
+ADN
 
-- Las unidades interiores vienen equipadas de serie con un puerto de control de encendido y apagado.
-- Este puerto permite controlar el sistema mediante tarjetas de hotel y también ofrece la posibilidad de control remoto a larga distancia, sin necesidad de un módulo adicional de control VRF específico para hoteles.
-- Cuando el contacto está abierto (tarjeta retirada), la unidad interior se apaga y queda inoperativa, guardando los parámetros de funcionamiento actuales en la PCB interna.
-- Al cerrar el contacto (tarjeta insertada), la unidad interior restaura automáticamente el estado de funcionamiento anterior.
-![img-51.jpeg](img-51.jpeg)
+# Función de Control Remoto de Encendido y Apagado
+
+· Las unidades interiores vienen equipadas de serie
+con un puerto de control de encendido y apagado.
+
+· Este puerto permite controlar el sistema median-
+te tarjetas de hotel y también ofrece la posibilidad
+de control remoto a larga distancia, sin necesidad
+de un módulo adicional de control VRF específico
+para hoteles.
+
+· Cuando el contacto está abierto (tarjeta retirada),
+la unidad interior se apaga y queda inoperativa,
+guardando los parámetros de funcionamiento
+actuales en la PCB interna.
+
+· Al cerrar el contacto (tarjeta insertada), la unidad
+interior restaura automáticamente el estado de
+funcionamiento anterior.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="16" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 17
 ================================================================================
 
-# 3 Beneficios para los Instaladores 
+
+# $3$ Beneficios para los Instaladores
 
 Optimización para diseñadores e instaladores
-El sistema VRF está diseñado con un concepto modular flexible, optimizando el tamaño de los módulos para minimizar el espacio ocupado y satisfacer las necesidades de diseñadores e instaladores. Además, incorpora tecnologías que facilitan la instalación y reducen la carga de trabajo de los instaladores.
+
+El sistema VRF está diseñado con un concepto modular
+flexible, optimizando el tamaño de los módulos para
+minimizar el espacio ocupado y satisfacer las necesidades
+de diseñadores e instaladores. Además, incorpora tecnolo-
+gías que facilitan la instalación y reducen la carga de
+trabajo de los instaladores.
 
 ## Presión estática ajustable para ventiladores exteriores
 
-![img-52.jpeg](img-52.jpeg)
+· Gracias al motor del ventilador de DC, la presión estática
+externa del ventilador exterior es ajustable.
 
-- Gracias al motor del ventilador de DC, la presión estática externa del ventilador exterior es ajustable.
-- Las unidades exteriores se pueden instalar en el piso de servicio o en la sala de instalaciones.
-- La presión estática externa máxima es de 80 Pa .
+· Las unidades exteriores se pueden instalar en el piso de
+servicio o en la sala de instalaciones.
 
+· La presión estática externa máxima es de 80 Pa.
 
 ## Controlador con cable y pantalla táctil
 
-![img-53.jpeg](img-53.jpeg)
+· Función de recordatorio de limpieza del filtro de aire.
 
-- Función de recordatorio de limpieza del filtro de aire.
-- Pantalla táctil con fondo negro y luz azul.
-- El cuerpo ultradelgado y el diseño elegante se adaptan a entornos de alta gama.
-- Encendido/apagado, ajuste de temperatura, ajuste de velocidad del ventilador, ajuste de modo, temporizador y función de verificación.
+· Pantalla táctil con fondo negro y luz azul.
 
+· El cuerpo ultradelgado y el diseño elegante se adaptan a
+entornos de alta gama.
+
+· Encendido/apagado, ajuste de temperatura, ajuste de velocidad
+del ventilador, ajuste de modo, temporizador y función de
+verificación.
 
 ## Métodos de direccionamiento
 
-![img-54.jpeg](img-54.jpeg)
-
 2 métodos de direccionamiento:
 
-- Direccionamiento automático: el sistema distribuirá la dirección a la unidad interior automáticamente
-- Configuración manual mediante controlador con cable o controlador remoto inalámbrico.
+· Direccionamiento automático: el sistema distribuirá la dirección
+a la unidad interior automáticamente
 
-El método de direccionamiento se puede seleccionar fácilmente ajustando el interruptor en la PCB exterior.
+· Configuración manual mediante controlador con cable o
+controlador remoto inalámbrico.
+
+El método de direccionamiento se puede seleccionar fácilmen-
+te ajustando el interruptor en la PCB exterior.
+
+<!-- PageNumber="17" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 18
 ================================================================================
 
-# 3 Direccionamiento automático 
 
-- El direccionamiento automático reducirá en un 35\% los fallos artificiales y en un 5\% los trabajos manuales.
-- El 54\% de los fallos del sistema fueron causados por fallos de comunicación.
-- La mayoría de los problemas de dirección fueron: configuración de dirección olvidada,Configuración incorrecta, dirección repetida.
-- El 65 \% de las fallas de comunicación fueron causadas por problemas de dirección.
+## Direccionamiento automático
 
+· El direccionamiento automático reducirá en un 35% los fallos artificiales y en un 5% los trabajos manuales.
+
+· El 54% de los fallos del
+sistema fueron causados
+por fallos de comunicación.
+
+· La mayoría de los problemas de
+dirección fueron: configuración de
+dirección olvidada,Configuración
+incorrecta, dirección repetida.
+
+· El 65 % de las fallas de comunicación
+fueron causadas por problemas de
+dirección.
 
 ## Diagrama de fallas
 
-![img-55.jpeg](img-55.jpeg)
+Otros
 
-## Nuevo controlador con cable
+Problemas de
+Direccionamiento
 
-- Comunicación bidireccional. Los parámetros de funcionamiento de la unidad interior (código de error, temperatura, dirección) se pueden consultar y visualizar en el controlador.
-- Diseño compacto
-- Función de temporizador.
+54%
 
-![img-56.jpeg](img-56.jpeg)
+65%
 
-Estado de funcionamiento de la unidad interior
+Fallos de Comunicación
 
-Orden de control de la unidad interior
+Otros
+
+# Nuevo controlador con cable
+
+· Comunicación bidireccional. Los parámetros
+de funcionamiento de la unidad interior
+(código de error, temperatura, dirección) se
+pueden consultar y visualizar en el
+controlador.
+
+· Diseño compacto
+
+· Función de
+temporizador.
+
+Estado de funcionamiento
+de la unidad interior
+
+Orden de control de
+la unidad interior
+
+El usuario puede comprobar el código
+de error y el estado de la unidad de
+consulta de forma muy fácil, segura y
+conveniente.
+
+LED
 
 ## Pantalla digital en la placa de circuito impreso
 
-- Códigos de estado y error. Pantalla digital en la PCB, puede mostrar el funcionamiento del sistema.
+· Códigos de estado y error.
+Pantalla digital en la PCB,
+puede mostrar el funciona-
+miento del sistema.
 
-![img-57.jpeg](img-57.jpeg)
-
-- Registra la lista de códigos de error en el chip PCB principal, lo que facilita que el personal de servicio pueda verificarlo.
-
+· Registra la lista de códigos
+de error en el chip PCB
+principal, lo que facilita que
+el personal de servicio
+pueda verificarlo.
 
 ## Ventana de servicio
 
-Gracias a la ventana de servicio, verificar el estado y la configuración de la unidad exterior ahora es fácil, sin necesidad de quitar la cubierta de la caja de control eléctrico.
+Gracias a la ventana de servicio, verificar el
+estado y la configuración de la unidad exterior
+ahora es fácil, sin necesidad de quitar la cubierta
+de la caja de control eléctrico.
+
+ADINA®
+®
+
+<!-- PageNumber="18" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 19
 ================================================================================
 
-# 40 
 
-## Modos de Restricción
+# Modos de Restricción
 
-- 6 tipos de restricción de modo
-- Prioridad automática (configuración predeterminada)
-- Modo de prioridad de refrigeración (o calefacción)
-- Modo solo enfriamiento (o solo calefacción)
-- Prioridad de unidad VIP + modo de prioridad AUTOMÁTICA
-- La función de restricción de modo se puede seleccionar en la PCB exterior.
-![img-58.jpeg](img-58.jpeg)
+· 6 tipos de restricción de modo
 
-5 etapas de Control de Aceite
-1. a Etapa Separación interna de aceite en el compresor.
-![img-59.jpeg](img-59.jpeg)
-4. a Etapa Balance de aceite entre compresores
+· Prioridad automática
+(configuración predeterminada)
 
-Tubería de balance de aceite
-![img-60.jpeg](img-60.jpeg)
-2. ${ }^{a}$ Etapa Retorno de aceite desde el tubo de nivelación de aceite.
-![img-61.jpeg](img-61.jpeg)
+· Modo de prioridad de refrigeración
+(o calefacción).
 
-Tubería de nivelación de aceite
-5. ${ }^{\text {a }}$ Retorno de aceite mediante el programa de retorno de aceite del sistema
+· La función de restricción de modo se puede seleccionar en la PCB exterior.
 
-Programa inteligente de retorno de aceite
-![img-62.jpeg](img-62.jpeg)
+· Modo solo enfriamiento
+(o solo calefacción).
+
+· Prioridad de unidad VIP
+\+ modo de prioridad AUTOMÁTICA
+
+# 5 etapas de Control de Aceite
+
+1.ª Etapa Separación interna de
+aceite en el compresor.
+
+Oil separator
+
+## Tubería de balance de aceite
+
+2.ª Etapa Retorno de aceite desde
+el tubo de nivelación de aceite.
+
+Oil level control
+
+3.ª Etapa Retorno de aceite desde el
+separador de aceite del sistema.
+
+Oil separator
+
+## Programa inteligente de retorno de aceite
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="19" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 20
 ================================================================================
 
-![img-63.jpeg](img-63.jpeg)
 
-### **Estructura interna humanizada**
+# Estructura interna humanizada
 
-![img-64.jpeg](img-64.jpeg)
+· Todos los componentes clave están al alcance y estratégicamente
+ubicados para facilitar el mantenimiento o la sustitución.
 
-- Todos los componentes clave están al alcance y estratégicamente ubicados para facilitar el mantenimiento o la sustitución.
-- Gracias a la nueva tecnología de equilibrado, ya no existe el tubo de equilibrado de gas, se reducen los puntos de soldadura y el riesgo de fugas.
+· Gracias a la nueva tecnología de equilibrado, ya no existe el tubo de
+equilibrado de gas, se reducen los puntos de soldadura y el riesgo de
+fugas.
 
-### **Protector de alimentación trifásico (opcional)**
+## 4 Protector de alimentación trifásico (opcional)
 
-Proteja la unidad exterior del voltaje inestable.
+Proteja la unidad exterior
+del voltaje inestable.
 
-![img-65.jpeg](img-65.jpeg)
+### Fácil Instalación
 
-### **Fácil Instalación**
+· Facilidad para que la unidad
+exterior transporte al piso del
+tejado en ascensor debido a su
+tamaño compacto.
 
-- Facilidad para que la unidad exterior transporte al piso del tejado en ascensor debido a su tamaño compacto.
+### Conexión de Tuberías a 360°
 
-![img-66.jpeg](img-66.jpeg)
+· El tubo de salida de la unidad
+exterior puede extenderse en
+todas direcciones a través del
+espacio inferior.
 
-![img-67.jpeg](img-67.jpeg)
+· La ausencia de tubo de salida
+en la parte frontal puede
+mejorar la estética de la
+instalación.
 
-### **Conexión de Tuberías a 360°**
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="20" -->
+<!-- PageBreak -->
 
-- El tubo de salida de la unidad exterior puede extenderse en todas direcciones a través del espacio inferior.
-- La ausencia de tubo de salida en la parte frontal puede mejorar la estética de la instalación.
 
-![img-68.jpeg](img-68.jpeg)
 
 ================================================================================
 PAGE 21
 ================================================================================
 
-| Modelo |  |  | ADN-122531-14N4-13K01 | ADN-122851-14N4-13K01 | ADN-122351-14N4-13K01 | ADN-124001-14N4-13N01 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Fuente de Alimentación |  |  | 2001-230V/3N/60Hz | 2001-230V/3N/60Hz | 2001-230V/3N/60Hz | 2001-230V/3N/60Hz |
-| Datos de Rendimiento |  |  |  |  |  |  |
-| Refrigeración | Capacidad | HP | 8HP | 10HP | 12HP | 14HP |
-|  |  | kW | 25.2 | 28 | 33.5 | 40 |
-|  |  | Btu/h | 86000 | 95500 | 114000 | 136500 |
-|  |  | RT | 7.2 | 8 | 9.5 | 11.4 |
-|  | Corriente de Entrada | kW | 5.82 | 6.81 | 9.05 | 10.47 |
-|  | EER | W/W | 4.33 | 4.11 | 3.70 | 3.82 |
-| Entrada Nominal |  | kW | 13.50 | 14.10 | 14.20 | 16.90 |
-| Corriente Nominal |  | A | 40.0 | 42.0 | 45.0 | 50.0 |
-| Rango de Ajuste de Capacidad |  |  | $50 \%-130 \%$ |  |  |  |
-| Compresor Data |  |  |  |  |  |  |
-| Compresor INVERTER DC | Cantidad |  | 1 |  |  |  |
-|  | Tipo |  | DC / Doble Rotativo |  |  |  |
-|  | Marca |  | Mitsubishi |  |  |  |
-|  | Rango de Frecuencia | rps | $10-120$ |  |  |  |
-| Physical Data |  |  |  |  |  |  |
-| Refrigerante | Tipo |  | 8410a |  |  |  |
-|  | Volumen | Kg | 8 |  |  | 12 |
-| Dimensiones (DW/W) | Neto | mm | 840x1740x990 |  |  | 840x1740x1340 |
-|  | Empaque | mm | 910x1900x1060 |  |  | 910x1900x1410 |
-| Peso | Neto | Kg | 208 |  |  | 260 |
-|  | Bruto | Kg | 218 |  |  | 278 |
-| Nivel de ruido exterior |  | dB(A) | 58 |  |  | 60 |
-| Presión máxima de funcionamiento |  | MPa | 4.5 |  |  |  |
-| Datos de Tuberías y Cableado |  |  |  |  |  |  |
-| Tamaño de Tubería | Tubería Líquida | mm | $\phi 12.7$ |  |  | $\phi 15.9$ |
-|  | Tubería Gas | mm | $\phi 25.4$ |  |  | $\phi 31.8$ |
-| Longitud máxima de la tubería | Longitud total de la tubería | m | 1000 |  |  |  |
-|  | Desde OU hasta la KI más lejana (longitud real) | m | 190 |  |  |  |
-|  | Desde OU hasta la KI más lejana (longitud equivalente) | m | 220 |  |  |  |
-|  | Desde el primer distribuidor interior hasta la KI más lejana | m | 90 |  |  |  |
-| Longitud Vertical Máxima | Entre OU e KI (OU por encima de KI) | m | 90 |  |  |  |
-|  | Entre OU e KI (OU por edebajo de KI) | m | 110 |  |  |  |
-|  | Entre KIs | m | 30 |  |  |  |
-|  | Entre OUs | m | 0 |  |  |  |
-| Rango Temperatura de Funcionamiento |  |  |  |  |  |  |
-| Refrigeración | Lado Exterior | $\tau_{E}$ | $-5-50$ |  |  |  |
-|  | Lado Interior | $\tau_{E}$ | $16-32$ |  |  |  |
+ADN
+Pro
+
+208~230V/3N/60Hz
+NUEVO SISTEMA VRF INVERTER DC
+
+<table>
+<tr>
+<th colspan="3">Modelo</th>
+<th>ADN-D252E-HN4-DK01</th>
+<th>ADN-D280E-HN4-DK01</th>
+<th>ADN-D335E-HN4-DK01</th>
+<th>ADN-D400E-HN4-DM01</th>
+</tr>
+<tr>
+<th colspan="3">Fuente de Alimentación</th>
+<th>208~230V/3N/60Hz</th>
+<th>208~230V/3N/60Hz</th>
+<th>208~230V/3N/60Hz</th>
+<th>208~230V/3N/60Hz</th>
+</tr>
+<tr>
+<th colspan="3"></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td colspan="3">Datos de Rendimiento</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="6">Refrigeración</td>
+<td></td>
+<td>HP</td>
+<td>8HP</td>
+<td>10HP</td>
+<td>12HP</td>
+<td>14HP</td>
+</tr>
+<tr>
+<td rowspan="3">Capacidad</td>
+<td>kW</td>
+<td>25.2</td>
+<td>28</td>
+<td>33.5</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Btu/h</td>
+<td>86000</td>
+<td>95500</td>
+<td>114000</td>
+<td>136500</td>
+</tr>
+<tr>
+<td>RT</td>
+<td>7.2</td>
+<td>8</td>
+<td>9.5</td>
+<td>11.4</td>
+</tr>
+<tr>
+<td>Corriente de Entrada</td>
+<td>kW</td>
+<td>5.82</td>
+<td>6.81</td>
+<td>9.05</td>
+<td>10.47</td>
+</tr>
+<tr>
+<td>EER</td>
+<td>w/w</td>
+<td>4.33</td>
+<td>4.11</td>
+<td>3.70</td>
+<td>3.82</td>
+</tr>
+<tr>
+<td colspan="2">Entrada Nominal</td>
+<td>kW</td>
+<td>13.50</td>
+<td>14.10</td>
+<td>14.20</td>
+<td>16.90</td>
+</tr>
+<tr>
+<td colspan="2">Corriente Nominal</td>
+<td>A</td>
+<td>40.0</td>
+<td>42.0</td>
+<td>45.0</td>
+<td>50.0</td>
+</tr>
+<tr>
+<td colspan="2">Rango de Ajuste de Capacidad</td>
+<td></td>
+<td></td>
+<td></td>
+<td>50%~130%</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Compressor Data</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Cantidad</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">Compresor INVERTER DC</td>
+<td>Tipo</td>
+<td></td>
+<td colspan="4">DC / Doble Rotativo</td>
+</tr>
+<tr>
+<td>Marca</td>
+<td></td>
+<td></td>
+<td colspan="2">Mitsubishi</td>
+<td></td>
+</tr>
+<tr>
+<td>Rango de Frecuencia</td>
+<td>rps</td>
+<td></td>
+<td></td>
+<td>10-120</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Physical Data</td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Refrigerante</td>
+<td>Tipo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>R410a</td>
+<td></td>
+</tr>
+<tr>
+<td>Volumen</td>
+<td>Kg</td>
+<td></td>
+<td>8</td>
+<td></td>
+<td>12</td>
+</tr>
+<tr>
+<td rowspan="2">Dimensiones (DxHxW)</td>
+<td>Neto</td>
+<td>mm</td>
+<td></td>
+<td>840×1740×990</td>
+<td></td>
+<td>840×1740×1340</td>
+</tr>
+<tr>
+<td>Empaque</td>
+<td>mm</td>
+<td></td>
+<td>910x1900×1060</td>
+<td></td>
+<td>910×1900×1410</td>
+</tr>
+<tr>
+<td rowspan="2">Peso</td>
+<td>Neto</td>
+<td>Kg</td>
+<td></td>
+<td>208</td>
+<td></td>
+<td>260</td>
+</tr>
+<tr>
+<td>Bruto</td>
+<td>Kg</td>
+<td></td>
+<td>218</td>
+<td></td>
+<td>278</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de ruido exterior</td>
+<td>dB(A)</td>
+<td>58</td>
+<td></td>
+<td></td>
+<td>60</td>
+</tr>
+<tr>
+<td colspan="2">Presión máxima de funcionamiento</td>
+<td>MPa</td>
+<td></td>
+<td>4.5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Datos de Tuberías y Cableado</td>
+<td></td>
+<td>V</td>
+<td></td>
+<td>V</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Tamaño de Tubería</td>
+<td>Tubería Líquido</td>
+<td>mm</td>
+<td></td>
+<td>Φ12.7</td>
+<td></td>
+<td>Φ15.9</td>
+</tr>
+<tr>
+<td>Tubería Gas</td>
+<td>mm</td>
+<td></td>
+<td>¢25.4</td>
+<td></td>
+<td>$31.8</td>
+</tr>
+<tr>
+<td rowspan="4">Longitud máxima de la tubería</td>
+<td>Longitud total de la tubería</td>
+<td>m</td>
+<td></td>
+<td></td>
+<td>1000</td>
+<td></td>
+</tr>
+<tr>
+<td>Desde OU hasta la IU más lejana (longitud real)</td>
+<td>m</td>
+<td></td>
+<td colspan="2">190</td>
+<td></td>
+</tr>
+<tr>
+<td>Desde OU hasta la IU más lejana (longitud equivalente)</td>
+<td>m</td>
+<td></td>
+<td colspan="2">220</td>
+<td></td>
+</tr>
+<tr>
+<td>Desde el primer distribuidor interior hasta la IU más lejana</td>
+<td>m</td>
+<td></td>
+<td></td>
+<td>90</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Longitud Vertical Máxima</td>
+<td>Entre OU e IU (OU por encima de IU)</td>
+<td>m</td>
+<td></td>
+<td colspan="2">90</td>
+<td></td>
+</tr>
+<tr>
+<td>Entre OU e IU (OU por edebajo de IU)</td>
+<td>m</td>
+<td></td>
+<td colspan="2">110</td>
+<td></td>
+</tr>
+<tr>
+<td>Entre IUs</td>
+<td>m</td>
+<td></td>
+<td>30</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Entre OUs</td>
+<td>m</td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Rango Temperatura de Funcionamiento</td>
+<td></td>
+<td></td>
+<td>V</td>
+<td></td>
+</tr>
+<tr>
+<td>Refrigeración</td>
+<td>Lado Exterior</td>
+<td>℃</td>
+<td></td>
+<td colspan="2">-5~50</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Lado Interior</td>
+<td>°℃</td>
+<td></td>
+<td>16~32</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 Nota
-*Los datos anteriores pueden modificarse sin previo aviso para futuras mejoras.
+
+<!-- PageFooter="*Los datos anteriores pueden modificarse sin previo aviso para futuras mejoras." -->
+
+<!-- PageNumber="21" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 22
 ================================================================================
 
-![img-69.jpeg](img-69.jpeg)
+ADN
+Pro
 
-![img-70.jpeg](img-70.jpeg)
+208~230V/3N/60Hz
+NUEVO SISTEMA VRF INVERTER DC
 
-|  Modelo |  | ADN-104500-1454-13460 | ADN-105500-1454-13460 | ADN-105500-1454-13460 | ADN-106150-1454-13460 | ADN-106750-1454-13460  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  Fuente de Alimentación |  | 20% - 20% / 2% / 20% | 20% - 20% / 2% / 20% | 20% - 20% / 2% / 20% | 20% - 20% / 2% / 20% | 20% - 20% / 2% / 20%  |
-|  Datos de Rendimiento |  |  |  |  |  |   |
-|   |  | HP | 16HP | 18HP | 20HP | 22HP  |
-|   | Capacidad | kW | 45 | 50.0 | 56.0 | 61.5  |
-|  Refrigeración |  | 8Kwh | 153500 | 170600 | 191000 | 209800  |
-|   |  | RT | 12.8 | 14.2 | 16.0 | 17.5  |
-|   | Corriente de Entrada | kW | 11.75 | 13.37 | 15.73 | 18.25  |
-|   | EER | W/W | 3.83 | 3.74 | 3.56 | 3.37  |
-|  Entrada Nominal |  | kW | 17.30 | 24.00 | 26.50 | 27.00  |
-|  Corriente Nominal |  | A | 53.0 | 70.0 | 78.0 | 80.0  |
-|  Rango de Ajuste de Capacidad |  |  |  |  | 50% - 130% |   |
-|  Compresor Dato |  |  |  |  |  |   |
-|   | Cantidad |  | 1 |  | 2 |   |
-|  Compresor
-INVERTER DC | Tipo |  |  |  | DC / Doble Rotativo |   |
-|   | Marca |  |  |  | Mitsubishi |   |
-|   | Rango de
-Tecnología | rps |  |  | 10 - 120 |   |
-|  Physical Data |  |  |  |  |  |   |
-|  Refrigerante | Tipo |  |  |  | R410a |   |
-|   | Volumen | Kg | 12 | 13 | 14 | 14  |
-|  Dimensiones
-(Dereos) | Neto | mm |  |  | 840x1740x1340 |   |
-|   | Empaque | mm |  |  | 910x1900x1410 |   |
-|  Peso | Neto | Kg | 260 | 288 | 296 | 296  |
-|   | Bruto | Kg | 278 | 306 | 314 | 314  |
-|  Nivel de ruido exterior |  | dB(A) | 61 | 62 | 63 | 63  |
-|  Presión máxima de
-funcionamiento |  | MPa |  |  | 4.5 |   |
-|  Datos de Tuberías y Cableado |  |  |  |  |  |   |
-|  Tamaño de
-Tubería | Tubería Líquida | mm |  |  | Φ15.9 |   |
-|   | Tubería Gas | mm |  |  | Φ31.8 |   |
-|   | Longitud total de
-la tubería | m |  |  | 1000 |   |
-|  Longitud
-máxima de
-la tubería | Desde Oi / hasta la
-lo más lejana
-(longitud red) | m |  |  | 190 |   |
-|   | Desde Oi / hasta la lo
-más lejana
-(longitud
-reponiente) | m |  |  | 220 |   |
-|   | Desde el primer
-distribuidor interior
-hasta la lo más
-lejana | m |  |  | 90 |   |
-|   | Entre Oi e lo Oio
-por encima de 6.0 | m |  |  | 90 |   |
-|  Longitud
-Vertical
-Máxima | Entre Oi e lo Oio
-por edetajo de 6.0 | m |  |  | 110 |   |
-|   | Entre Kís | m |  |  | 30 |   |
-|   | Entre Oús | m |  |  | 0 |   |
-|  Rango Temperatura de Funcionamiento |  |  |  |  |  |   |
-|  Refrigeración | Lado Exterior | ℃ |  |  | -5 - 50 |   |
-|   | Lado Interior | ℃ |  |  | 16 - 32 |   |
+<table>
+<tr>
+<th colspan="2">Modelo</th>
+<th></th>
+<th>ADN-D450E-HN4-DM01</th>
+<th>ADN-D500E-HN4-DM01</th>
+<th>ADN-D560E-HN4-DM01</th>
+<th>ADN-D615E-HN4-DM01</th>
+<th>ADN-D670E-HN4-DM01</th>
+</tr>
+<tr>
+<th colspan="2">Fuente de Alimentación</th>
+<th></th>
+<th>208~230V/3N/60Hz</th>
+<th>208~230V/3N/60HZ</th>
+<th>208~230V/3N/60Hz</th>
+<th>208~230V/3N/60HZ</th>
+<th>208~230V/3N/60Hz</th>
+</tr>
+<tr>
+<th colspan="3"></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td colspan="3">Datos de Rendimiento</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="6">Refrigeración</td>
+<td></td>
+<td>HP</td>
+<td>16HP</td>
+<td>18HP</td>
+<td>20HP</td>
+<td>22HP</td>
+<td>24HP</td>
+</tr>
+<tr>
+<td rowspan="2">Capacidad</td>
+<td>kW</td>
+<td>45</td>
+<td>50.0</td>
+<td>56.0</td>
+<td>61.5</td>
+<td>67.0</td>
+</tr>
+<tr>
+<td>Btu/h</td>
+<td>153500</td>
+<td>170600</td>
+<td>191000</td>
+<td>209800</td>
+<td>228600</td>
+</tr>
+<tr>
+<td></td>
+<td>RT</td>
+<td>12.8</td>
+<td>14.2</td>
+<td>16.0</td>
+<td>17.5</td>
+<td>19.0</td>
+</tr>
+<tr>
+<td>Corriente de Entrada</td>
+<td>kW</td>
+<td>11.75</td>
+<td>13.37</td>
+<td>15.73</td>
+<td>18.25</td>
+<td>19.59</td>
+</tr>
+<tr>
+<td>EER</td>
+<td>w/w</td>
+<td>3.83</td>
+<td>3.74</td>
+<td>3.56</td>
+<td>3.37</td>
+<td>3.42</td>
+</tr>
+<tr>
+<td colspan="2">Entrada Nominal</td>
+<td>kw</td>
+<td>17.30</td>
+<td>24.00</td>
+<td>26.50</td>
+<td>27.00</td>
+<td>27.00</td>
+</tr>
+<tr>
+<td colspan="2">Corriente Nominal</td>
+<td>A</td>
+<td>53.0</td>
+<td>70.0</td>
+<td>78.0</td>
+<td>80.0</td>
+<td>80.0</td>
+</tr>
+<tr>
+<td colspan="2">Rango de Ajuste de Capacidad</td>
+<td></td>
+<td></td>
+<td></td>
+<td>50%~130%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Compressor Data</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Cantidad</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">Compresor INVERTER DC</td>
+<td>Tipo</td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">DC / Doble Rotativo</td>
+<td></td>
+</tr>
+<tr>
+<td>Marca</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Mitsubishi</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Rango de Frecuencia</td>
+<td>rps</td>
+<td></td>
+<td></td>
+<td>10~120</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Physical Data</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Refrigerante</td>
+<td>Tipo</td>
+<td></td>
+<td></td>
+<td></td>
+<td>R410a</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Volumen</td>
+<td>Kg</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+<td>14</td>
+<td>15</td>
+</tr>
+<tr>
+<td rowspan="2">Dimensiones (DxHxW)</td>
+<td>Neto</td>
+<td>mm</td>
+<td></td>
+<td></td>
+<td>840x1740×1340</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Empaque</td>
+<td>mm</td>
+<td></td>
+<td></td>
+<td>910×1900x1410</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Peso</td>
+<td>Neto</td>
+<td>Kg</td>
+<td>260</td>
+<td>288</td>
+<td>296</td>
+<td>296</td>
+<td>306</td>
+</tr>
+<tr>
+<td>Bruto</td>
+<td>Kg</td>
+<td>278</td>
+<td>306</td>
+<td>314</td>
+<td>314</td>
+<td>324</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de ruido exterior</td>
+<td>dB(A)</td>
+<td>61</td>
+<td>62</td>
+<td>63</td>
+<td>63</td>
+<td>63</td>
+</tr>
+<tr>
+<td colspan="2">Presión máxima de funcionamiento</td>
+<td>MPa</td>
+<td></td>
+<td></td>
+<td>4.5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Datos de Tuberías y Cableado</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Tamaño de Tubería</td>
+<td>Tubería Líquido</td>
+<td>mm</td>
+<td></td>
+<td></td>
+<td>Φ15.9</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Tubería Gas</td>
+<td>mm</td>
+<td></td>
+<td></td>
+<td>₡31.8</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Longitud máxima de la tubería</td>
+<td>Longitud total de la tubería</td>
+<td>m</td>
+<td></td>
+<td></td>
+<td>1000</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Desde OU hasta la IU más lejana (longitud real)</td>
+<td>m</td>
+<td></td>
+<td></td>
+<td>190</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Desde OU hasta la IU más lejana (longitud equivalente)</td>
+<td>m</td>
+<td></td>
+<td></td>
+<td>220</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Desde el primer distribuidor interior hasta la IU más lejana</td>
+<td>m</td>
+<td></td>
+<td></td>
+<td>90</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="4">Longitud Vertical Máxima</td>
+<td>Entre OU e IU (OU por encima de IU)</td>
+<td>m</td>
+<td></td>
+<td></td>
+<td>90</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Entre OU e IU (OU por edebajo de IU)</td>
+<td>m</td>
+<td></td>
+<td></td>
+<td>110</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Entre IUs</td>
+<td>m</td>
+<td></td>
+<td></td>
+<td>30</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Entre OUs</td>
+<td>m</td>
+<td></td>
+<td></td>
+<td>0</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Rango Temperatura de Funcionamiento</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">Refrigeración</td>
+<td>Lado Exterior</td>
+<td>℃</td>
+<td></td>
+<td></td>
+<td>-5~50</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Lado Interior</td>
+<td>℃</td>
+<td></td>
+<td></td>
+<td>16~32</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-|  Nota | *Los datos anteriores pueden modificarse sin previo aviso para futuras mejoras.  |
-| --- | --- |
-|  |   |
+Nota
+
+*Los datos anteriores pueden modificarse sin previo aviso para futuras mejoras.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="22" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 23
 ================================================================================
 
-![img-71.jpeg](img-71.jpeg)
 
 # Unidad VRF Full INVERTER DC de Pequeña Capacidad
 
-![img-72.jpeg](img-72.jpeg)
+ADN
 
-![img-73.jpeg](img-73.jpeg)
+ADN
 
-20 kW
+ADINA
 
-|  Capacidad | 18kW | 20kW  |
-| --- | --- | --- |
-|  Compresor | DC | DC  |
-|  Motor del Ventilador | DC+DC | DC+DC  |
+ADINA
 
-# 2 Módulos
+20 KW
 
-## EER&COP
+$1 8 \quad k W$
 
-![img-74.jpeg](img-74.jpeg)
+Capacidad
+
+18kW
+
+20kW
+
+Compresor
+Motor del Ventilador
+
+DC
+$D C + D C$
+
+DC
+$D C + D C$
+
+## 2 Módulos
+
+# EER&COP
+
+ADINA®
+®
+
+<!-- PageNumber="23" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 24
 ================================================================================
 
-# Tuberías de Refrigerante 
 
-![img-75.jpeg](img-75.jpeg)
+# ADN
 
-## Características
+# Tuberías de Refrigerante
+
+<table>
+<tr>
+<th>La longitud total de la tubería</th>
+<th>100m</th>
+</tr>
+<tr>
+<td rowspan="2">La mayor longitud de tubería Longitud equivalente desde el primer distribuidor interior hasta la última unidad interior</td>
+<td>Longitud real 60 m Longitud equivalente 70 m</td>
+</tr>
+<tr>
+<td>20m</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Diferencia de altura entre la unidad interior y exterior:</td>
+<td>Unidad exterior por encima de≤30m Unidad exterior por debajo de≤20m</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Diferencia de altura entre unidades interiores</td>
+<td>8m</td>
+</tr>
+</table>
+
+*Por favor, consulte el manual de instalación para una descripción
+detallada de la longitud.
+
+# Características
+
+T
+
+T
 
 ## Compresor INVERTER DC de alta eficiencia
 
-![img-76.jpeg](img-76.jpeg)
+### Compresor Inverter DC de doble rotación
 
-Compresor Inverter DC de doble rotación
+· Utiliza un compresor de alta eficiencia y fiabilidad
 
-- Utiliza un compresor de alta eficiencia y fiabilidad
-- Tiene muy buena eficiencia en condiciones de carga parcial
+· Tiene muy buena eficiencia en condiciones de carga
+parcial
 
-Alta eficiencia, bajo nivel de ruido
+### Alta eficiencia, bajo nivel de ruido
 
-- Optimizado el rendimiento y el ruido durante el funcionamiento con la tecnología más reciente.
+· Optimizado el rendimiento y el ruido durante el funcionamiento con la
+tecnología más reciente.
 
-Protección del medio ambiente
+### Protección del medio ambiente
 
-- Compresor desarrollado para trabajar con refrigerantes alternativos que protegen el medio ambiente.
+· Compresor desarrollado para trabajar con refrigerantes alternativos que
+protegen el medio ambiente.
 
-Baja vibración
+### Baja vibración
 
-- Reducción de la vibración durante el arranque y el funcionamiento del compresor mediante una estructura de doble cilindro (2C/FL), simplificando el par del aire acondicionado.
+· Reducción de la vibración durante el arranque y el funcionamiento
+del compresor mediante una estructura de doble cilindro (2CYL),
+simplificando el par del aire acondicionado.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="24" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 25
 ================================================================================
 
-# 0 Motor DC de alta eficiencia 
 
-![img-77.jpeg](img-77.jpeg)
+## Motor DC de alta eficiencia
 
-- Motor DC del ventilador de alta eficiencia
-- Bajo nivel de ruido y alta eficiencia gracias a la ingeniería de alta densidad de bobinado
-- Sin escobillas con sensor incorporado
+· Motor DC del ventilador de alta eficiencia
+
+· Bajo nivel de ruido y alta eficiencia gracias a la
+Ingeniería de alta densidad de bobinado
+
+Sin escobillas con sensor incorporado
+
+## Instalación que Ahorra Espacio
+
+· Múltiples unidades interiores pueden conectarse a una sola unidad exterior que puede operar incluso con
+largos tramos de tubería de refrigerante.
+
+· En comparación con los sistemas convencionales uno a uno, la unidad exterior puede instalarse en varios
+lugares para ahorrar espacio.
+
+180°
+
+## Control de onda sinusoidal de 180°
+
+La combinación perfecta de la tecnología de control de frecuencia del rotor de onda sinusoidal de 180° y los
+excelentes inversores IPM, reduce la perdida reactiva del motor accionado, aumenta la eficiencia del motor en un
+12%.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="25" -->
+<!-- PageBreak -->
 
 
-## 6 Instalación que Ahorra Espacio
-
-- Múltiples unidades interiores pueden conectarse a una sola unidad exterior que puede operar incluso con largos tramos de tubería de refrigerante.
-- En comparación con los sistemas convencionales uno a uno, la unidad exterior puede instalarse en varios lugares para ahorrar espacio.
-![img-78.jpeg](img-78.jpeg)
-
-
-## 150
-
-## Control de onda sinusoidal de $180^{\circ}$
-
-La combinación perfecta de la tecnología de control de frecuencia del rotor de onda sinusoidal de $180^{\circ}$ y los excelentes inversores IPM, reduce la perdida reactiva del motor accionado, aumenta la eficiencia del motor en un $12 \%$.
-![img-79.jpeg](img-79.jpeg)
 
 ================================================================================
 PAGE 26
 ================================================================================
 
-# Tecnología Silenciosa 
 
-![img-80.jpeg](img-80.jpeg)
+# ADN
 
-## Amplio Rango de Operación en Exteriores
+<!-- PageHeader="YA Tecnología Silenciosa" -->
 
-La temperatura máxima de funcionamiento en refrigeración es de hasta $55^{\circ} \mathrm{C}$. La temperatura de funcionamiento de la calefacción es de hasta $-20^{\circ} \mathrm{C}$
-![img-81.jpeg](img-81.jpeg)
+## ** Amplio Rango de Operación en Exteriores
+
+La temperatura máxima de funcionamiento en refrigeración es de hasta 55℃. La temperatura de funcionamiento
+de la calefacción es de hasta -20℃
 
 ## Programa de descongelación inteligente
 
-El programa se inicia sólo cuando la unidad lo necesita. Mientras que el tiempo y la duración de la descongelación de una unidad convencional son fijos, lo que provoca fluctuaciones en la temperatura y el confort personal.
-![img-82.jpeg](img-82.jpeg)
+El programa se inicia sólo cuando la unidad lo necesita. Mientras que el tiempo y la duración de la descongelación de
+una unidad convencional son fijos, lo que provoca fluctuaciones en la temperatura y el confort personal.
+
+Programa de descongelación inteligente
+Programa convencional
 
 ## Curva de Descarga
 
-- El tiempo y la duración de la descongelación de la unidad convencional son fijos.
-- El programa de descongelación inteligente se inicia según la eficiencia del intercambio de calor y el cambio de capacidad debido a la escarchia. Con menos fluctuaciones de temperatura, la gente se siente más cómoda.
+El tiempo y la duración de la descongelación de la unidad
+convencional son fijos.
+
+El programa de descongelación inteligente se inicia según la
+eficiencia del intercambio de calor y el cambio de capacidad debido a la
+escarcha. Con menos fluctuaciones de temperatura, la gente se siente
+más cómoda.
+
+<!-- PageNumber="26" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 27
 ================================================================================
 
-# (1) Protección contra inversión del ventilador 
+ADN
 
-![img-83.jpeg](img-83.jpeg)
+### Protección contra inversión del ventilador
 
-## 8: Modo de Restricción
+En el modo de espera, si el motor
+del ventilador exterior gira en
+sentido contrario a gran velocidad
+por el viento u otros factores
+naturales, la unidad no arrancará
+para evitar que el motor del
+ventilador se averíe, se pondrá en
+marcha cuando la velocidad del
+motor del ventilador disminuya.
 
-- 7 tipos de restricción de modo
-- Prioridad automática
+## Modo de Restricción
+
+· 7 tipos de restricción de modo
+
+· Prioridad automática
 (configuración predeterminada)
-- Modo de prioridad de enfriamiento
-- Modo de prioridad de calefacción.
-- Modo de primer arranque
-- Modo solo enfriamiento
-- Modo solo calefacción
-- Prioridad de unidad VIP + modo de prioridad AUTOMÁTICA
-- La función de restricción de modo se puede seleccionar en la PCB exterior.
-![img-84.jpeg](img-84.jpeg)
 
+· Modo de prioridad de enfriamiento
 
-## (1) Alta Eficiencia
+· Modo solo enfriamiento
 
-![img-85.jpeg](img-85.jpeg)
+· Modo solo calefacción
 
-Tecnología de refrigeración por refrigerante para PCB
-(1) La aleta de radiación está formada por paneles de aluminio que encajan a la perfección.
+· Modo de prioridad de calefacción.
+
+· Modo de primer arranque
+
+· Prioridad de unidad VIP + modo de prioridad AUTOMÁTICA
+
+· La función de restricción de modo se puede seleccionar en la PCB exterior.
+
+# Alta Eficiencia
+
+## Tecnología de refrigeración por refrigerante para PCB
+
+1
+
+La aleta de radiación está formada por paneles de aluminio que encajan a la perfección.
+
+2
 
 Esto ayuda a enfriar el IPM, tiene un mejor rendimiento en comparación con la refrigeración por aire para PCB.
 
-La unidad exterior tiene capacidad para funcionar a máx. $55^{\circ} \mathrm{C}$ de temperatura ambiente
+NUEVA TECNOLOGÍA
+
+3
+La unidad exterior tiene capacidad para funcionar a máx. 55℃ de temperatura ambiente
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="27" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 28
 ================================================================================
 
-# (1) Direccionamiento automático 
+ADN
 
-- Direccionamiento automático: el sistema distribuirá la dirección a la unidad interior automáticamente
-- El direccionamiento automático reducirá los fallos artificiales y trabajos manuales.
+# Direccionamiento automático
 
-Panel de visualización independiente
-![img-86.jpeg](img-86.jpeg)
+· Direccionamiento automático: el sistema
+distribuirá la dirección a la unidad interior
+automáticamente
+
+· El direccionamiento automático reducirá los
+fallos artificiales y trabajos manuales.
+
+## Panel de visualización independiente
+
+Pantalla digital en el PCB, puede mostrar el estado de funciona-
+miento del sistema y los códigos de error.
+
+# Menos ruido
+
+5 grandes avances tecnológicos para reducir el ruido(
+
+El nivel de ruido mínimo es de 54 dB(A)
+
+@
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="28" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 29
 ================================================================================
 
-# Mini ADN Pro 
+
+# Mini ADN Pro
 
 ## Unidad Mini VRF INVERTER DC de Pequeña Capacidad
 
-![img-87.jpeg](img-87.jpeg)
+8 / 10 / 12,5 / 14 / 16 kW Tamaño más
+pequeño, mayor eficiencia
 
-8 / 10 / 12,5 / 14 / 16 kW Tamaño más pequeño, mayor eficiencia
+Aspecto compacto
 
-## Aspecto compacto
+O
 
-- Fácil de transportar.
-- Se puede instalar en terrazas gracias a su aspecto compacto
-![img-88.jpeg](img-88.jpeg)
+· Fácil de transportar.
 
+· Se puede instalar en terrazas gracias a su
+aspecto compacto
 
-## Amplio Rango de Operacion en exteriores
+### Amplio Rango de Operacion en exteriores
 
-- Debido al diseño de refrigeración por refrigerante, el El rango de operación de temperatura ambiente es hasta $55^{\circ} \mathrm{C}$
-- En modo de calefacción, la temperatura ambiente de operación pude descender hasta $-15^{\circ} \mathrm{C}$. El sistema MINI-ADN Pro puede calentar las habitaciones de forma continua.
+· Debido al diseño de refrigeración por refrigerante, el El rango
+de operación de temperatura ambiente es hasta 55°℃
+
+-10
+
+0°℃
+
+10°C
+
+$2 0 ^ { \circ } C$
+
+$3 0 ^ { \circ } C$
+
+40℃
+
+50 °℃
+
+60°℃
+
+· En modo de calefacción, la temperatura ambiente de
+operación pude descender hasta -15℃. El sistema
+MINI-ADN Pro puede calentar las habitaciones de forma
+continua.
+
+-5°℃
+
+Rando de Refrigeración
+
+55°C
+
+-20℃
+
+-10°℃
+
+0°℃
+
+$1 0 ^ { \circ } C$
+
+20°℃
+
+30°℃
+
+-15°℃
+
+Rango de Calentamiento
 
 Ventana de fácil mantenimiento
 Indicador LED en la placa de circuito impreso:
-Está disponible para mostrar el estado de funcionamiento y los códigos de error del sistema.
-![img-89.jpeg](img-89.jpeg)
+
+Está disponible para mostrar el estado de
+funcionamiento y los códigos de error del
+sistema.
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="29" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 30
 ================================================================================
 
-![img-90.jpeg](img-90.jpeg)
+ADN
 
-![img-91.jpeg](img-91.jpeg)
+Mini
 
-|  Nombre del Modelo | Tipo de
-Alimento
-(mil/ha) |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  ADN-DBDE-HKA-SE2000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  ADN-DDDE-HKA-SE2000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  ADN-DDDE-HKA-SE2000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  20 | 68200 | 5.92 | 3.47 | 20 | 68000 | 5.02 | 3.98 |  |  |  |  |  |  |  |   |
-|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  ADN-DDDE-HKA-SE2800 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  10 | 61000 | 5.18 | 3.47 | 20 | 68000 | 5.02 | 3.98 |  |  |  |  |  |  |  |   |
-|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  ADN-DDDE-HKA-SE2800 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  20 | 68200 | 5.92 | 3.38 | 22 | 75000 | 5.35 | 4.9 |  |  |  |  |  |  |  |   |
-|   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  ADN-Mini Pro |  |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+G
+
+<table>
+<tr>
+<th rowspan="3">Nombre del Modelo</th>
+<th rowspan="3">Tipo de Potencia (v/N/HZ)</th>
+<th colspan="4">Refrigeración</th>
+<th colspan="4">Calefacción</th>
+<th colspan="2">Compresor</th>
+<th colspan="2">Motor</th>
+<th colspan="2">Refrigerante</th>
+<th rowspan="2">Nivel de Presión Sonora</th>
+<th colspan="2">Dimensiones (WxHxD)</th>
+<th colspan="2">Peso</th>
+<th colspan="2">Conexiones</th>
+<th rowspan="2">Cantidad máxima de unidades Interiores</th>
+</tr>
+<tr>
+<th colspan="2">Capacidad</th>
+<th>Potencia de Entrada</th>
+<th rowspan="2">EER</th>
+<th colspan="2">Capacidad</th>
+<th>Potencia de Entrada</th>
+<th rowspan="2">COP</th>
+<th rowspan="2">Tipo</th>
+<th rowspan="2">Qty</th>
+<th rowspan="2">Tipo</th>
+<th rowspan="3">Qty</th>
+<th rowspan="3">Tipo</th>
+<th>Volumen</th>
+<th>Empaque</th>
+<th>Equipo</th>
+<th>Neto</th>
+<th>Bruto</th>
+<th>Gas</th>
+<th>Liquido</th>
+</tr>
+<tr>
+<th>kW</th>
+<th>Btu/h</th>
+<th>kW</th>
+<th>kW</th>
+<th>Btu/h</th>
+<th>kW</th>
+<th>kg</th>
+<th>DB(A)</th>
+<th>mm</th>
+<th>mm</th>
+<th>kg</th>
+<th>kg</th>
+<th>mm</th>
+<th>mm</th>
+<th rowspan="2">conectadas</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-D180E-HK4-SE050D</td>
+<td>208-230V/IN/60HZ</td>
+<td>18</td>
+<td>61000</td>
+<td>5.18</td>
+<td>3.47</td>
+<td>20</td>
+<td>68000</td>
+<td>5.02</td>
+<td>3.98</td>
+<td rowspan="2">DC / Doble Rotativo</td>
+<td rowspan="2">1</td>
+<td rowspan="2">DC / Motor Ventilador</td>
+<td rowspan="2">2</td>
+<td rowspan="2">R410a</td>
+<td>4.2</td>
+<td rowspan="2">58</td>
+<td>1010x1445x 415</td>
+<td>975x1335 x 400</td>
+<td>94.7</td>
+<td>104.4</td>
+<td rowspan="2">Φ19.05</td>
+<td rowspan="2">$9.52</td>
+<td>10</td>
+</tr>
+<tr>
+<td>ADN-D200E-HK4-SE080</td>
+<td>208-230V/IN/60Hz</td>
+<td>20</td>
+<td>68200</td>
+<td>5.92</td>
+<td>3.38</td>
+<td>22</td>
+<td>75000</td>
+<td>5.35</td>
+<td>4.11</td>
+<td>5.3</td>
+<td>1095x1545x 485</td>
+<td>1015×1430x 450</td>
+<td>112.7</td>
+<td>126.8</td>
+<td>11</td>
+</tr>
+</table>
+
+### Nota
+
+1\. Condiciones de funcionamiento de refrigeración: Temperatura de entrada de aire interior: 27 ℃ BS / 19°C BH, TI: Temperatura de entrada de aire exterior: 35 ℃ BS
+
+2\. Condiciones de funcionamiento de calefacción: Temperatura de entrada de aire interior: 20,0 °℃ BS, Temperatura de entrada de aire exterior: 7 ℃ BS / 6 °C BH
+
+<table>
+<tr>
+<th colspan="3">Modelo</th>
+<th>ADN-D080E-HK4</th>
+<th>ADN-D100E-HK4</th>
+<th>ADN-D125E-HK4-D01</th>
+<th>ADN-D140E-HK4-F01</th>
+<th>ADN-D160E-HK4-F01</th>
+</tr>
+<tr>
+<th colspan="3">Fuente de Alimentación</th>
+<th>208~230V/IN/60Hz</th>
+<th>208~230V/IN/60Hz</th>
+<th>208~230V/IN/60Hz</th>
+<th>208~230V/IN/60Hz</th>
+<th>208~230V/IN/60Hz</th>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Desempeño</td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2">Capacidad</td>
+<td>kw</td>
+<td></td>
+<td>10</td>
+<td>12.5</td>
+<td>14</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Btu/h</td>
+<td></td>
+<td>34100</td>
+<td>42600</td>
+<td>47800</td>
+<td>54600</td>
+</tr>
+<tr>
+<td rowspan="3">Refrigeración</td>
+<td>Potencia de Entrada</td>
+<td>kW</td>
+<td></td>
+<td>3.00</td>
+<td>3.20</td>
+<td>3.75</td>
+<td>4.75</td>
+</tr>
+<tr>
+<td>Corriente Nominal</td>
+<td>A</td>
+<td></td>
+<td>13.6</td>
+<td>14.5</td>
+<td>17.0</td>
+<td>21.8</td>
+</tr>
+<tr>
+<td>EER</td>
+<td>w/w</td>
+<td></td>
+<td>3.33</td>
+<td>3.91</td>
+<td>3.73</td>
+<td>3.37</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td rowspan="2">Capacidad</td>
+<td>kW</td>
+<td></td>
+<td>11</td>
+<td>14</td>
+<td>16</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Btu/h</td>
+<td>$\begin{array}{} { 8 } \\ { 2 7 3 0 0 } \\ { 2 6 0 } \\ { 3 0 8 } \\ { 9 } \\ { 3 0 7 0 0 } \\ { 2 6 5 } \\ { 2 } \\ { 3 4 0 } \end{array}$</td>
+<td>37500</td>
+<td>47800</td>
+<td>54600</td>
+<td>58000</td>
+</tr>
+<tr>
+<td rowspan="2">Calefacción</td>
+<td>Potencia de Entrada</td>
+<td>kw</td>
+<td></td>
+<td>3.1</td>
+<td>3.52</td>
+<td>4</td>
+<td>4.4</td>
+</tr>
+<tr>
+<td>Corriente Nominal</td>
+<td>A</td>
+<td></td>
+<td>14</td>
+<td>16.1</td>
+<td>18.2</td>
+<td>20</td>
+</tr>
+<tr>
+<td></td>
+<td>COP</td>
+<td>w/w</td>
+<td></td>
+<td>3.55</td>
+<td>3.98</td>
+<td>4.00</td>
+<td>3.86</td>
+</tr>
+<tr>
+<td colspan="3">Compresor</td>
+<td>V</td>
+<td>V</td>
+<td>V</td>
+<td>V</td>
+<td>V</td>
+</tr>
+<tr>
+<td></td>
+<td>Cantidad</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Compresor DC INVERTER</td>
+<td>Tipo</td>
+<td></td>
+<td>Rotativo - Doble</td>
+<td>Rotativo - Doble</td>
+<td>Rotativo - Doble</td>
+<td>Rotativo - Doble</td>
+<td>Rotativo - Doble</td>
+</tr>
+<tr>
+<td></td>
+<td>Marca</td>
+<td></td>
+<td>Mitsubishi</td>
+<td>GMCC</td>
+<td>Mitsubishi</td>
+<td>Mitsubishi</td>
+<td>Mitsubishi</td>
+</tr>
+<tr>
+<td colspan="3">Ventilador</td>
+<td>V</td>
+<td>V</td>
+<td colspan="2">V V</td>
+<td>V</td>
+</tr>
+<tr>
+<td></td>
+<td>Tipo</td>
+<td></td>
+<td>DC</td>
+<td>DC</td>
+<td>DC</td>
+<td>DC</td>
+<td>DC</td>
+</tr>
+<tr>
+<td>Motor de</td>
+<td>Cantidad</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Ventilador</td>
+<td>Potencia de Salida</td>
+<td>W</td>
+<td>75</td>
+<td>90</td>
+<td>180</td>
+<td>180</td>
+<td>180</td>
+</tr>
+<tr>
+<td>Aspa del</td>
+<td>Cantidad de Ventiladores</td>
+<td></td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Ventilador</td>
+<td>Flujo de Aire</td>
+<td>m3/h</td>
+<td>3300</td>
+<td>4000</td>
+<td>5500</td>
+<td>5500</td>
+<td>5500</td>
+</tr>
+<tr>
+<td colspan="3">Datos Físicos</td>
+<td>V</td>
+<td>V</td>
+<td>V</td>
+<td>V</td>
+<td>V</td>
+</tr>
+<tr>
+<td></td>
+<td>Tipo de Aleta</td>
+<td></td>
+<td>Hidrófila</td>
+<td>Hidrófila</td>
+<td>Hidrófila</td>
+<td>Hidrófila</td>
+<td>Hidrófila</td>
+</tr>
+<tr>
+<td>Bonina Exterior</td>
+<td>Número de Filas</td>
+<td></td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>3</td>
+</tr>
+<tr>
+<td></td>
+<td>Tipo de Tubo</td>
+<td></td>
+<td>Tubo de Cobre con Ranurado Interior</td>
+<td>Tubo de Cobre con Ranurado Interior</td>
+<td>Tubo de Cobre con Ranurado Interior</td>
+<td>Tubo de Cobre con Ranurado Interior</td>
+<td>Tubo de Cobre con Ranurado Interior</td>
+</tr>
+<tr>
+<td>Refrigerante</td>
+<td>Tipo</td>
+<td></td>
+<td>R410a</td>
+<td>R410a</td>
+<td>R410a</td>
+<td>R410a</td>
+<td>R410a</td>
+</tr>
+<tr>
+<td></td>
+<td>Volumen</td>
+<td>kg</td>
+<td>2.00</td>
+<td>2.60</td>
+<td>3.00</td>
+<td>3.80</td>
+<td>3.80</td>
+</tr>
+<tr>
+<td>Dimensiones</td>
+<td>Neto</td>
+<td>mm</td>
+<td>935x702x383</td>
+<td>1032x810x445</td>
+<td>1100x870x528</td>
+<td>1100x870x528</td>
+<td>1100x870x528</td>
+</tr>
+<tr>
+<td>(WxHxD)</td>
+<td>Empaque</td>
+<td>mm</td>
+<td>975×770×420</td>
+<td>1075x875×495</td>
+<td>1140x965x540</td>
+<td>1140x965x540</td>
+<td>1140x965x540</td>
+</tr>
+<tr>
+<td>Peso</td>
+<td>Neto</td>
+<td>kg</td>
+<td>47</td>
+<td>60</td>
+<td>85</td>
+<td>90</td>
+<td>90</td>
+</tr>
+<tr>
+<td></td>
+<td>Bruto</td>
+<td>kg</td>
+<td>50</td>
+<td>65</td>
+<td>95</td>
+<td>100</td>
+<td>100</td>
+</tr>
+<tr>
+<td>ODU Nivel de Sonido</td>
+<td></td>
+<td>dB(A)</td>
+<td>≤54</td>
+<td>≤56</td>
+<td>≤56</td>
+<td>≤57</td>
+<td>≤57</td>
+</tr>
+<tr>
+<td colspan="3">Rango de temperatura de funcionamiento</td>
+<td>V</td>
+<td>V</td>
+<td>V</td>
+<td>V</td>
+<td>V</td>
+</tr>
+<tr>
+<td>Refrigeramiento</td>
+<td>Lado Exterior</td>
+<td>°℃</td>
+<td>-5~55</td>
+<td>-5~55</td>
+<td>-5~55</td>
+<td>-5~55</td>
+<td>-5~55</td>
+</tr>
+<tr>
+<td>Calefacción</td>
+<td>Lado Interior</td>
+<td>℃</td>
+<td>-15~30</td>
+<td>-15~30</td>
+<td>-15~30</td>
+<td>-15~30</td>
+<td>-15~30</td>
+</tr>
+</table>
+
+1\. Condiciones de refrigeración: temperatura interior: 27° DB (80,6°), 19° WB (60°), temperatura exterior: 35° DB (95°) longitud de tubería equivalente: 5 m longitud de caída: 0 m.
+
+2\. Condiciones de calefacción: temperatura interior: 20° DB (68°), 15° WB (44,6°), temperatura exterior: 7º DB (42,8°) longitud de tubería equivalente: 5 m longitud de caída: 0 m.
+3\. Nivel de sonido: valor de conversión de cámara anecoica, medido en un punto a 1 minuto frente a la unidad a una altura de 1,2 m. Durante el funcionamiento real, estos
+valores normalmente son algo más altos como resultado de las condiciones ambientales.
+
+4\. Los datos anteriores pueden cambiar sin previo aviso para futuras mejoras en la calidad del rendimiento.
+
+Nota
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="30" -->
+<!-- PageBreak -->
+
 
 
 ================================================================================
 PAGE 31
 ================================================================================
 
-![img-92.jpeg](img-92.jpeg)
+ADN
 
-# UNIDADES INTERIORES
+<!-- PageBreak -->
 
-## El Aire Fresco de tus Días
 
-### ADINA
-
-![img-93.jpeg](img-93.jpeg)
 
 ================================================================================
 PAGE 32
 ================================================================================
 
-![img-94.jpeg](img-94.jpeg)
 
-# Unidades interiores
+## Unidades interiores
 
-|  Capacidad (kW) | CA: Cassette de 1 vía | CB: Cassette de 2 vías | Q6: Cassette de Flujo Circular | Q4: Cassette compacta de 4 vías | Q3: Unidad Manejadora de Aire  |
-| --- | --- | --- | --- | --- | --- |
-|  2.2 | ● |  |  | ● |   |
-|  2.8 | ● |  |  | ● |   |
-|  3.6 | ● |  |  | ● |   |
-|  4.5 | ● | ● |  | ● |   |
-|  5.6 | ● | ● | ● |  | ●  |
-|  7.1 | ● | ● | ● |  | ●  |
-|  8.0 |  | ● | ● |  |   |
-|  9.0 |  |  | ● |  |   |
-|  10.0 |  |  | ● |  | ●  |
-|  11.2 |  |  | ● |  |   |
-|  12.5 |  |  | ● |  |   |
-|  14.0 |  |  | ● |  |   |
-|  15.0 |  |  |  |  | ●  |
-|  16.0 |  |  | ● |  |   |
+<table>
+<tr>
+<th rowspan="2">Capacidad (KW)</th>
+<th>CA: Cassette de 1 vía</th>
+<th>CB: Cassette de 2 vías</th>
+<th>QR: Cassette de Flujo Circular</th>
+<th>Q4: Cassette compacto de 4 vías</th>
+<th>AH: Unidad Manejadora de Aire</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>2.8</td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>3.6</td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>4.5</td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>5.6</td>
+<td>☒</td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7.1</td>
+<td>☒</td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+<td>☒</td>
+</tr>
+<tr>
+<td>8.0</td>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9.0</td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10.0</td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td>☒</td>
+</tr>
+<tr>
+<td>11.2</td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12.5</td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>14.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>15.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>16.0</td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td>☒</td>
+</tr>
+</table>
 
-|  Capacidad (kW) | G: Unidad de pared | UA: Piso Techo | TA: Unidad Pan Calf | TE: Unidad Ductada de Presión Estática Media | TE: Unidad Ductada de Presión Estática Alta | TE: Procesador de Aire Fresco  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  2.2 | ● |  | ● |  |  |   |
-|  2.8 | ● |  | ● |  |  |   |
-|  3.6 | ● | ● | ● |  |  |   |
-|  4.5 | ● | ● | ● |  |  |   |
-|  5.6 | ● | ● | ● |  |  |   |
-|  7.1 | ● | ● | ● | ● | ● |   |
-|  8.0 |  | ● |  | ● | ● |   |
-|  9.0 |  | ● |  | ● | ● |   |
-|  10.0 |  |  |  | ● | ● |   |
-|  11.2 |  | ● |  |  |  |   |
-|  12.0 |  |  |  | ● | ● |   |
-|  14.0 |  | ● |  |  |  | ●  |
-|  15.0 |  |  |  | ● | ● |   |
-|  16.0 |  | ● |  |  |  |   |
-|  20.0 |  |  |  |  | ● |   |
-|  22.4 |  |  |  |  |  | ●  |
-|  25.0 |  |  |  |  | ● |   |
-|  26.0 |  |  |  |  |  | ●  |
-|  28.0 |  |  |  |  | ● | ●  |
-|  45.0 |  |  |  |  |  | ●  |
-|  56.0 |  |  |  |  |  | ●  |
+<table>
+<tr>
+<th rowspan="2">Capacidad (kw)</th>
+<th>G: unidad de pared</th>
+<th>UA: Piso Techo</th>
+<th>TA: Unidad Fan Coil</th>
+<th>TB: Unidad Ductada de Presión Estática Media</th>
+<th>TH: Unidad Ductada de Presión Estática Alta</th>
+<th>TF: Procesador de Aire Fresco</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>☒</td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2.8</td>
+<td>☒</td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3.6</td>
+<td>☒</td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4.5</td>
+<td>☒</td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5.6</td>
+<td>☒</td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7.1</td>
+<td>☒</td>
+<td>☒</td>
+<td>☒</td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>8.0</td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>9.0</td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>10.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>11.2</td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>14.0</td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+</tr>
+<tr>
+<td>15.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>16.0</td>
+<td></td>
+<td>☒</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>20.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>22.4</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+</tr>
+<tr>
+<td>25.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>26.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td></td>
+</tr>
+<tr>
+<td>28.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+</tr>
+<tr>
+<td>45.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+</tr>
+<tr>
+<td>56.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>☒</td>
+<td>☒</td>
+</tr>
+</table>
+
+ADINA®
+®
+
+<!-- PageNumber="32" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 33
 ================================================================================
 
-# Cassette de 1 Vía 
 
-![img-95.jpeg](img-95.jpeg)
+# ADN
+
+# Cassette de 1 Vía
 
 ## Características
 
-## Accesorios
+### Accesorios
 
-| Plenum | Filtro de Aire | DXV | Bomba de Condensado | Motor AC | Motor DC |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| 1 | Estándar | Estándar | Estándar (Integrado) | Estándar | 1 |
+<table>
+<tr>
+<th>Plenum</th>
+<th>Filtro de Aire</th>
+<th>EXV</th>
+<th>Bomba de Condensado</th>
+<th>Motor AC</th>
+<th>Motor DC</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Estándar</td>
+<td>Estándar</td>
+<td>Estándar (Integrado)</td>
+<td>Estándar</td>
+<td>/</td>
+</tr>
+</table>
 
-Cuerpo delgado, fácil de instalar Tiene un cuerpo delgado con 250 mm de altura, es especialmente adecuado para habitaciones con techos suspendidos bajos.
+Cuerpo delgado, fácil de instalar
 
-Incorporado con Bomba de Condensado Incorporada con bomba de drenaje de larga duración y bajo nivel sonoro, el cabezal de bomba es de 700 mm , flexible para el diseño de tuberías de drenaje.
-![img-96.jpeg](img-96.jpeg)
+Tiene un cuerpo delgado con 250 mm de altura, es
+especialmente adecuado para habitaciones con techos
+suspendidos bajos.
+
+Incorporado con Bomba de Condensado
+
+Incorporada con bomba de drenaje de larga duración y bajo nivel
+sonoro, el cabezal de bomba es de 700 mm, flexible para el diseño
+de tuberías de drenaje.
 
 ## Especificaciones
 
-![img-97.jpeg](img-97.jpeg)
+<table>
+<tr>
+<th rowspan="3">Modelo</th>
+<th rowspan="3">Potencia</th>
+<th colspan="4">Capacidad</th>
+<th rowspan="2">Consu- mo de energía</th>
+<th colspan="2" rowspan="2">Flujo de Aire</th>
+<th rowspan="2">Nivel de Ruido</th>
+<th rowspan="2">ESP</th>
+<th colspan="4">Dimensiones ( WxHxD)</th>
+<th colspan="2">Peso</th>
+<th colspan="3">Tuberías de Conexión</th>
+<th rowspan="3">Control Estándar</th>
+</tr>
+<tr>
+<th colspan="2">Refrigeración</th>
+<th colspan="2">Calefacción</th>
+<th>Empaque</th>
+<th>Equipo</th>
+<th>Empaque Panel</th>
+<th>Panel</th>
+<th>Neto</th>
+<th>Bruto</th>
+<th>Gas</th>
+<th>Líquido</th>
+<th>Dreno</th>
+</tr>
+<tr>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>M3/h</th>
+<th>CFM</th>
+<th>DB(A)</th>
+<th>Pa</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>kg</th>
+<th>kg</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>V</td>
+<td>V</td>
+<td>V</td>
+<td>V</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A22CA-HK4-Q101</td>
+<td rowspan="4">60Hz</td>
+<td>2.2</td>
+<td>7.5</td>
+<td>2.5</td>
+<td>8.5</td>
+<td rowspan="3">0.04</td>
+<td rowspan="3">520</td>
+<td rowspan="3">306</td>
+<td rowspan="3">32~36</td>
+<td rowspan="4">1</td>
+<td>1160</td>
+<td>994</td>
+<td>$\begin{array}{} { 1 0 9 0 } \\ { 6 5 } \\ { 5 4 0 } \end{array}$</td>
+<td>1070</td>
+<td rowspan="3">24/3.6</td>
+<td rowspan="3">30/5.0</td>
+<td rowspan="2">¢9.53</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A28CA-HK4-Q101</td>
+<td>2.8</td>
+<td>9.5</td>
+<td>3.2</td>
+<td>10.9</td>
+<td>$2 7 5$ X</td>
+<td>$\begin{array}{} { 2 5 0 } \\ { 5 3 2 } \end{array}$</td>
+<td></td>
+<td>X 50 X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A36CA-HK4-Q101</td>
+<td>3.6</td>
+<td>12.2</td>
+<td>4.0</td>
+<td>13.6</td>
+<td>655</td>
+<td></td>
+<td></td>
+<td>520</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A45CA-HK4-Q103</td>
+<td>4.5</td>
+<td>15.3</td>
+<td>5.0</td>
+<td>17.0</td>
+<td>0.05</td>
+<td>610</td>
+<td>360</td>
+<td>36~41</td>
+<td>1160 X 315 x 655</td>
+<td>994 X 290 x 532</td>
+<td>1090 x 65 x 540</td>
+<td>1070 X 50 X 520</td>
+<td>26/3.6</td>
+<td>32/5.0</td>
+<td>¢12.7</td>
+<td>¢6.35</td>
+<td>OD¢25</td>
+<td>Control inalám- brico</td>
+</tr>
+<tr>
+<td>ADN-A56CA-HK4-Q103</td>
+<td rowspan="2"></td>
+<td>5.6</td>
+<td>19.1</td>
+<td>6.3</td>
+<td>21.4</td>
+<td>0.07</td>
+<td>750</td>
+<td>440</td>
+<td>35~41</td>
+<td rowspan="2"></td>
+<td>1470 x 305</td>
+<td>1304 X 290</td>
+<td>1390 x 70</td>
+<td>1380 X 50</td>
+<td rowspan="2">34/3.6</td>
+<td>39/5.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A71CA-HK4-Q103</td>
+<td>7.1</td>
+<td>24.2</td>
+<td>8.0</td>
+<td>27.2</td>
+<td>0.09</td>
+<td>950</td>
+<td>550</td>
+<td>38~45</td>
+<td>X 690</td>
+<td>X 572</td>
+<td>X 560</td>
+<td>x 520</td>
+<td></td>
+<td>¢15.9</td>
+<td>¢9.53</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-## Notas:
+Notas:
 
-1. Fuente de alimentación 208-230V/1N para 60 Hz , los datos anteriores son para el modelo de motor AC.
-2. Condición de prueba de refrigeración: lado interior $27^{\circ} \mathrm{C}$ DB, $19^{\circ} \mathrm{C}$ WB lado exterior $35^{\circ} \mathrm{C}$ DB. Condición de prueba de calefacción: lado interior $20^{\circ} \mathrm{C}$ DB, $15^{\circ} \mathrm{C}$ WB lado exterior $7^{\circ} \mathrm{C}$ DB.
-3. Nivel sonoro: medida en un punto situado a 1 m delante de la unidad a una altura de 1,5 m . Durante el funcionamiento real, estos valores suelen ser algo superiores como consecuencia de las condiciones ambientales.
-4. Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en el futuro.
+1\. Fuente de alimentación: 208~230V/1N para 60Hz, los datos anteriores son para el modelo de motor AC.
+
+2\. Condición de prueba de refrigeración: lado interior 27℃ DB, 19℃ WB lado exterior 35℃ DB. Condición de prueba de calefacción: lado interior 20℃ DB, 15℃ WB lado exterior 7℃ DB.
+
+3\. Nivel sonoro: medido en un punto situado a 1 m delante de la unidad a una altura de 1,5 m. Durante el funcionamiento real, estos valores suelen ser algo superiores como consecuencia de
+las condiciones ambientales.
+
+4\. Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en el futuro.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="33" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 34
 ================================================================================
 
-# Cassette de 2 Vías 
 
-![img-98.jpeg](img-98.jpeg)
+## Cassette de 2 Vías
 
-## Características
+### Características
 
-Accesorios
+#### Accesorios
 
-| Filtro de Aire | EAV | Bomba de Condensado | Motor de AC | Motor DC |
-| :--: | :--: | :--: | :--: | :--: |
-| Estándar | Estándar (integrado) | Estándar (integrado) | Estándar | / |
+<table>
+<tr>
+<th>Filtro de Aire</th>
+<th>EXV</th>
+<th>Bomba de Condensado</th>
+<th>Motor de AC</th>
+<th>Motor DC</th>
+</tr>
+<tr>
+<td>Estándar</td>
+<td>Estándar (integrado)</td>
+<td>Estándar (integrado)</td>
+<td>Estándar</td>
+<td>/</td>
+</tr>
+</table>
 
-## Doble Dirección de Aire
+##### Doble Dirección de Aire
 
-Flujo de aire en dos direcciones, instalación flexible en varias habitaciones o pasillos.
-![img-99.jpeg](img-99.jpeg)
+Flujo de aire en dos direcciones, instalación
+flexible en varias habitaciones o pasillos.
 
-## Bomba de Condensado Incorporada
+##### Bomba de Condensado Incorporada
 
-Incorporado con Bomba de Condensado de larga duración y bajo nivel de ruido, el cabezal de bombeo es de 700 mm , flexible para el diseño de tuberías de drenaje.
-![img-100.jpeg](img-100.jpeg)
+Incorporado con Bomba de Condensado de larga duración
+y bajo nivel de ruido, el cabezal de bombeo es de 700 mm,
+flexible para el diseño de tuberías de drenaje.
 
-## Especificaciones
+### Especificaciones
 
-![img-101.jpeg](img-101.jpeg)
+<table>
+<tr>
+<th rowspan="3">Modelo</th>
+<th rowspan="3">Potencia</th>
+<th colspan="4">Capacidad</th>
+<th rowspan="2">Consu- mo de energía</th>
+<th colspan="2" rowspan="2">Flujo de Aire</th>
+<th rowspan="2">Nivel de Ruido</th>
+<th rowspan="2">ESP</th>
+<th colspan="6">Dimensiones ( WxHxD)</th>
+<th colspan="2">Peso</th>
+<th colspan="3">Tuberías de Conexión</th>
+<th rowspan="3">Control Estándar</th>
+</tr>
+<tr>
+<th colspan="2">Refrigeración</th>
+<th colspan="2">Calefacción</th>
+<th colspan="2">Empaque</th>
+<th>Equipo</th>
+<th colspan="2">Empaque Panel</th>
+<th>Panel</th>
+<th>Neto</th>
+<th>Bruto</th>
+<th>Gas</th>
+<th>Líquido</th>
+<th>Dreno</th>
+</tr>
+<tr>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>M3/h</th>
+<th>CFM</th>
+<th>DB(A)</th>
+<th>Pa</th>
+<th>mm</th>
+<th></th>
+<th>mm</th>
+<th>mm</th>
+<th></th>
+<th>mm</th>
+<th>kg</th>
+<th>kg</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>V</td>
+<td colspan="2">V V</td>
+<td colspan="3">V V</td>
+<td colspan="3">V</td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A45CB-HK4-Q202</td>
+<td></td>
+<td>4.5</td>
+<td>15.3</td>
+<td>5.0</td>
+<td>17</td>
+<td rowspan="2">0.07</td>
+<td>800</td>
+<td rowspan="2">470</td>
+<td rowspan="2">36~42</td>
+<td rowspan="4">/</td>
+<td>1215 x 365</td>
+<td></td>
+<td>1068 x 310</td>
+<td>1235 x 70</td>
+<td></td>
+<td>1205 X 50</td>
+<td>33/6.5</td>
+<td>36/8.5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A56CB-HK4-Q202</td>
+<td rowspan="3">60Hz</td>
+<td>5.6</td>
+<td>19.1</td>
+<td>6.3</td>
+<td>21.4</td>
+<td></td>
+<td>X 630</td>
+<td></td>
+<td>X 517</td>
+<td>x 655</td>
+<td></td>
+<td>x 630</td>
+<td></td>
+<td></td>
+<td>¢12.7</td>
+<td>¢6.35</td>
+<td></td>
+<td rowspan="2">Control Remoto</td>
+</tr>
+<tr>
+<td>ADN-A71CB-HK4-Q203</td>
+<td>7.1</td>
+<td>24.2</td>
+<td>8.0</td>
+<td>27.2</td>
+<td>0.10</td>
+<td>1120</td>
+<td>650</td>
+<td>40~46</td>
+<td>1455 x</td>
+<td></td>
+<td>1308 X</td>
+<td>1475 x</td>
+<td></td>
+<td>1445 x</td>
+<td></td>
+<td></td>
+<td>¢15.9</td>
+<td>¢9.53</td>
+<td>OD¢25</td>
+</tr>
+<tr>
+<td>ADN-A80CB-HK4-Q203</td>
+<td>8.0</td>
+<td>27.2</td>
+<td>9.0</td>
+<td>30.7</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>365 x 630</td>
+<td></td>
+<td>310 X 517</td>
+<td>70 x 655</td>
+<td></td>
+<td>50 x 630</td>
+<td>40/7.5</td>
+<td>47/10.0</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-1. Fuente de alimentación: $208-230 \mathrm{~V} / 1 \mathrm{~N}$ para 60 Hz , los datos anteriores son para el modelo de motor AC.
-2. Condición de prueba de refrigeración: lado interior $27^{\circ} \mathrm{DB}, 19^{\circ} \mathrm{WB}$ lado exterior $35^{\circ} \mathrm{DB}$. Condición de prueba de calefacción: lado interior $20^{\circ} \mathrm{DB}, 15^{\circ} \mathrm{WB}$ lado exterior $7^{\circ} \mathrm{DB}$.
-3. Nivel sonoro: medi 1 m delante de la unidad a una altura de $1,5 \mathrm{~m}$. Durante el funcionamiento real, estos valores suelen ser algo superiores como consecuencia de las condiciones ambientales.
-4. Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en el futuro.
+1\. Fuente de alimentación: 208~230V/1N para 60Hz, los datos anteriores son para el modelo de motor AC.
+
+2\. Condición de prueba de refrigeración: lado interior 27°DB, 19° WB lado exterior 35° DB. Condición de prueba de calefacción: lado interior 20° DB, 15° WB
+lado exterior 7° DB.
+
+3\. Nivel sonoro: medi 1 m delante de la unidad a una altura de 1,5 m. Durante el funcionamiento real, estos valores suelen ser algo superiores como
+consecuencia de las condiciones ambientales.
+
+4\. Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en el futuro.
+
+ADINA®
+®
+
+<!-- PageNumber="34" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 35
 ================================================================================
 
-# Cassette de 4 vías (Tipo Compacto) / Flujo Circular 
+ADN
 
-![img-102.jpeg](img-102.jpeg)
+### Cassette de 4 vías (Tipo Compacto) / Flujo Circular
 
 ## Características
 
-## Accesorios
+### Accesorios
 
-| Filtro de Aire | EXV | Bomba de Drenado | Motor AC | Motor DC |
-| :--: | :--: | :--: | :--: | :--: |
-| Estándar | Estándar | Estándar (Integrado) | Estándar | Opcional |
+<table>
+<tr>
+<th>Filtro de Aire</th>
+<th>EXV</th>
+<th>Bomba de Drenado</th>
+<th>Motor AC</th>
+<th>Motor DC</th>
+</tr>
+<tr>
+<td>Estándar</td>
+<td>Estándar</td>
+<td>Estándar (Integrado)</td>
+<td>Estándar</td>
+<td>Opcional</td>
+</tr>
+</table>
 
-## Gran Caudal de Aire
+#### Gran Caudal de Aire
 
-El flujo de aire es suave y uniforme, el aire puede llegar a todos los rincones sin ángulo muerto, lo que hace que la distribución de la temperatura ambiente sea más equilibrada.
-![img-103.jpeg](img-103.jpeg)
+El flujo de aire es suave y uniforme, el aire puede llegar
+a todos los rincones sin ángulo muerto, lo que hace
+que la distribución de la temperatura ambiente sea
+más equilibrada.
 
-## Bomba de Condensado Incorporada
+##### Bomba de Condensado Incorporada
 
-Incorporado con bomba de condensado de larga duración y bajo nivel de ruido, la cabeza de bombeo es de 1200 mm , flexible para el diseño de tuberías de drenaje.
+Incorporado con bomba de condensado de larga
+duración y bajo nivel de ruido, la cabeza de bombeo es
+de 1200 mm, flexible para el diseño de tuberías de
+drenaje.
 
-Nota: El cabezal de bombeo de la unidad de casete de 4 vías(tipo compacto) es de 700 mm .
-![img-104.jpeg](img-104.jpeg)
+Nota: El cabezal de bombeo de la unidad de casete de 4
+vías(tipo compacto) es de 700 mm.
 
-## Intalación que Ahorra Espacio
+##### Intalación que Ahorra Espacio
 
-tiene un cuerpo delgado con 230 mm de altura, es especialmente adecuado para habitaciones con techos bajos suspendidos. (5.6 8.0 kW)
-![img-105.jpeg](img-105.jpeg)
+tiene un cuerpo delgado con 230mm de altura, es
+especialmente adecuado para habitaciones con techos
+bajos suspendidos.(5.6~8.0kW)
+
+Techo
+Suspendido
+
+230
+mm
+
+260
+mm
+
+##### Entreda de Aire Fresco
+
+Cuatro interfaces para conectar con
+conducto a otra habitación.
+
+Entrada de aire fresco, más saludable
+y confortable.
+
+Aire Fresco
+
+Pam otra Habitación
+
+35
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 36
 ================================================================================
 
-# Especificaciones 
+
+# ADN
+
+# Especificaciones
 
 ## Unidad Cassette de 4 Vías (Tipo Compacto)
 
-![img-106.jpeg](img-106.jpeg)
+<table>
+<tr>
+<th rowspan="3">Modelo</th>
+<th rowspan="3">Potencia</th>
+<th colspan="4">Capacidad</th>
+<th rowspan="2">Consu- mo de energía</th>
+<th colspan="2" rowspan="2">Flujo de Aire</th>
+<th rowspan="2">Nivel de Ruido</th>
+<th rowspan="2">ESP</th>
+<th colspan="4">Dimensiones (WxHxD)</th>
+<th colspan="2">Peso</th>
+<th colspan="3">Tuberías de Conexión</th>
+<th rowspan="3">Control Estándar</th>
+</tr>
+<tr>
+<th colspan="2">Refrigeración</th>
+<th colspan="2">Calefacción</th>
+<th>Empaque</th>
+<th>Equipo</th>
+<th>Empaque Panel</th>
+<th>Panel</th>
+<th>Neto</th>
+<th>Bruto</th>
+<th>Gas</th>
+<th>Líquido</th>
+<th>Dreno</th>
+</tr>
+<tr>
+<th>kW</th>
+<th>kBtu/</th>
+<th>h kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>M3/h</th>
+<th>CFM</th>
+<th>DB(A)</th>
+<th>Pa</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>kg</th>
+<th>kg</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+</tr>
+<tr>
+<td>ADN-A22Q4-HK4-A</td>
+<td rowspan="8">60Hz</td>
+<td rowspan="2">2.2</td>
+<td rowspan="2">7.5</td>
+<td rowspan="2">2.5</td>
+<td rowspan="2">8.5</td>
+<td rowspan="2">0.038</td>
+<td rowspan="2">447</td>
+<td rowspan="2">263</td>
+<td rowspan="2">22~34</td>
+<td rowspan="8">/</td>
+<td rowspan="4">755 x 375</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+<td rowspan="4">650 x</td>
+<td rowspan="2">17.5</td>
+<td rowspan="2">23</td>
+<td rowspan="4">¢9.52</td>
+<td rowspan="8">¢6.35</td>
+<td rowspan="8">ОДФ25</td>
+<td rowspan="8">Control inalám- brico</td>
+</tr>
+<tr>
+<td>ADN-D22Q4-HK4-A</td>
+</tr>
+<tr>
+<td>ADN-A28Q4-HK4-A</td>
+<td rowspan="2">2.8</td>
+<td rowspan="2">9.5</td>
+<td rowspan="2">3.2</td>
+<td rowspan="2">10.9</td>
+<td rowspan="2">0.038</td>
+<td rowspan="2">447</td>
+<td rowspan="2">263</td>
+<td rowspan="2">22~34</td>
+<td rowspan="2">653 x 267</td>
+<td rowspan="2">750 x 95</td>
+<td rowspan="2">17.5</td>
+<td rowspan="2">23</td>
+</tr>
+<tr>
+<td>ADN-D28Q4-HK4-A</td>
+</tr>
+<tr>
+<td>ADN-A36Q4-HK4-A</td>
+<td rowspan="2">3.6</td>
+<td rowspan="2">12.2</td>
+<td rowspan="2">4.0</td>
+<td rowspan="2">13.6</td>
+<td rowspan="2">0.040</td>
+<td rowspan="2">515</td>
+<td rowspan="2">303</td>
+<td rowspan="2">27~38</td>
+<td rowspan="4">X 680</td>
+<td>x 585</td>
+<td rowspan="3">x 750</td>
+<td rowspan="4">30 x 650</td>
+<td rowspan="2">17.5</td>
+<td rowspan="2">23</td>
+<td rowspan="4">Φ12.7</td>
+</tr>
+<tr>
+<td>ADN-D36Q4-HK4-A</td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A45Q4-HK4-A</td>
+<td rowspan="2">4.5</td>
+<td rowspan="2">15.3</td>
+<td rowspan="2">5.0</td>
+<td rowspan="2">17</td>
+<td rowspan="2">0.040</td>
+<td rowspan="2">515</td>
+<td rowspan="2">303</td>
+<td rowspan="2">27~38</td>
+<td></td>
+<td rowspan="2">17.5</td>
+<td rowspan="2">23</td>
+</tr>
+<tr>
+<td>ADN-D45Q4-HK4-A</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 ## Cassette de Flujo Circular
 
-![img-107.jpeg](img-107.jpeg)
+<table>
+<tr>
+<th rowspan="3">Modelo</th>
+<th rowspan="3">Potencia</th>
+<th colspan="4">Capacidad</th>
+<th rowspan="2">Consu- mo de energía</th>
+<th colspan="2" rowspan="2">Flujo de Aire</th>
+<th rowspan="2">Nivel de Ruido</th>
+<th rowspan="2">ESP</th>
+<th colspan="4">Dimensiones ( WxHxD)</th>
+<th colspan="2">Peso</th>
+<th colspan="3">Tuberías de Conexión</th>
+<th rowspan="3">Control Estándar</th>
+</tr>
+<tr>
+<th colspan="2">Refrigeración</th>
+<th colspan="2">Calefacción</th>
+<th>Empaque</th>
+<th>Equipo</th>
+<th>Empaque Panel</th>
+<th>Panel</th>
+<th>Neto</th>
+<th>Bruto</th>
+<th>Gas</th>
+<th>Líquido</th>
+<th>Dreno</th>
+</tr>
+<tr>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>M3/h</th>
+<th>CFM</th>
+<th>DB(A)</th>
+<th>Pa</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>kg</th>
+<th>kg</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+</tr>
+<tr>
+<td colspan="21"></td>
+</tr>
+<tr>
+<td>ADN-A56QR-HK4</td>
+<td rowspan="18">60Hz</td>
+<td rowspan="2">5.6</td>
+<td rowspan="2">19.1</td>
+<td rowspan="2">6.3</td>
+<td rowspan="2">21.4</td>
+<td rowspan="2">0.043</td>
+<td rowspan="2">860</td>
+<td rowspan="2">500</td>
+<td rowspan="2">32~39</td>
+<td rowspan="18">1</td>
+<td rowspan="6">920 x 265 x 985</td>
+<td rowspan="6">833 $\begin{array}{} { x } \\ { 2 3 2 } \end{array}$ X 900</td>
+<td rowspan="9">1030 $\begin{array}{} { x } \\ { 1 0 0 } \\ { x } \end{array}$</td>
+<td rowspan="9">950 x</td>
+<td rowspan="2">24</td>
+<td rowspan="2">30</td>
+<td rowspan="2">Φ12.7</td>
+<td rowspan="2">¢6.35</td>
+<td rowspan="18">¢25</td>
+<td rowspan="18">Control inalám- brico</td>
+</tr>
+<tr>
+<td>ADN-D56QR-HK4</td>
+</tr>
+<tr>
+<td>ADN-A71QR-HK4</td>
+<td rowspan="2">7.1</td>
+<td rowspan="2">24.2</td>
+<td rowspan="2">8.0</td>
+<td rowspan="2">27.2</td>
+<td rowspan="4">0.093</td>
+<td rowspan="4">1200</td>
+<td rowspan="4">700</td>
+<td rowspan="4">35~39</td>
+<td rowspan="2">24</td>
+<td rowspan="2">30</td>
+<td rowspan="16">Φ15.88</td>
+<td rowspan="16">¢9.52</td>
+</tr>
+<tr>
+<td>ADN-D71QR-HK4</td>
+</tr>
+<tr>
+<td>ADN-A80QR-HK4</td>
+<td rowspan="2">8.0</td>
+<td rowspan="2">27.2</td>
+<td rowspan="2">8.8</td>
+<td rowspan="2">30</td>
+<td rowspan="2">24</td>
+<td rowspan="2">30</td>
+</tr>
+<tr>
+<td>ADN-D80QR-HK4</td>
+</tr>
+<tr>
+<td>ADN-A90QR-HK4</td>
+<td rowspan="2">9.0</td>
+<td rowspan="2">30.7</td>
+<td rowspan="2">10.0</td>
+<td rowspan="2">34.1</td>
+<td rowspan="12">0.160</td>
+<td rowspan="8">1400</td>
+<td rowspan="8">820</td>
+<td rowspan="8">37~41</td>
+<td rowspan="12">920 X 310 x 985</td>
+<td rowspan="12">833 $\begin{array}{} { x } \\ { 2 8 6 } \\ { x } \end{array}$ 900</td>
+<td rowspan="2">28.5</td>
+<td rowspan="2">35</td>
+</tr>
+<tr>
+<td>ADN-D90QR-HK4</td>
+</tr>
+<tr>
+<td>ADN-A100QR-HK4</td>
+<td rowspan="2">10.0</td>
+<td rowspan="2">34.1</td>
+<td rowspan="2">11.0</td>
+<td rowspan="2">37.5</td>
+<td rowspan="2">28.5</td>
+<td rowspan="2">35</td>
+</tr>
+<tr>
+<td>ADN-D100QR-HK4</td>
+<td rowspan="9">1030</td>
+<td rowspan="9">50 x 950</td>
+</tr>
+<tr>
+<td>ADN-A112QR-HK4</td>
+<td rowspan="2">11.2</td>
+<td rowspan="2">38.2</td>
+<td rowspan="2">12.5</td>
+<td rowspan="2">42.6</td>
+<td rowspan="2">28.5</td>
+<td rowspan="2">35</td>
+</tr>
+<tr>
+<td>ADN-D112QR-HK4</td>
+</tr>
+<tr>
+<td>ADN-A125QR-HK4</td>
+<td rowspan="2">12.5</td>
+<td rowspan="2">42.6</td>
+<td rowspan="2">14.0</td>
+<td rowspan="2">47.7</td>
+<td rowspan="2">28.5</td>
+<td rowspan="2">35</td>
+</tr>
+<tr>
+<td>ADN-D125QR-HK4</td>
+</tr>
+<tr>
+<td>ADN-A140QR-HK4</td>
+<td rowspan="2">14.0</td>
+<td rowspan="2">47.7</td>
+<td rowspan="2">15.0</td>
+<td rowspan="2">51.1</td>
+<td rowspan="4">1800</td>
+<td rowspan="4">1050</td>
+<td rowspan="4">38~46</td>
+<td rowspan="2">28.5</td>
+<td rowspan="2">35</td>
+</tr>
+<tr>
+<td>ADN-D140QR-HK4</td>
+</tr>
+<tr>
+<td>ADN-A160QR-HK4</td>
+<td rowspan="2">16.0</td>
+<td rowspan="2">54.5</td>
+<td rowspan="2">17.0</td>
+<td rowspan="2">58</td>
+<td rowspan="2">28.5</td>
+<td rowspan="2">35</td>
+</tr>
+<tr>
+<td>ADN-D160QR-HK4</td>
+</tr>
+</table>
 
-## Notas:
+Notas:
 
-1. Fuente de alimentación: 208 230V/1N para 60 Hz , los datos anteriores son para el modelo de motor AC.
-2. Condición de prueba de refrigeración: lado interior $27^{\circ} \mathrm{DB}, 19^{\circ} \mathrm{WB}$ lado exterior $35^{\circ} \mathrm{DB}$. Condición de prueba de calefacción: lado interior $20^{\circ} \mathrm{DB}, 15^{\circ} \mathrm{WB}$ lado exterior $7^{\circ} \mathrm{DB}$.
-3. Nivel sonoro: medido en un punto situado a 1 m delante de la unidad a una altura de $1,5 \mathrm{~m}$. Durante el funcionamiento real, estos valores suelen ser algo superiores como consecuencia de las condiciones ambientales.
-4. Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en el futuro.
+1\.
+. Fuente de alimentación: 208~230V/1N para 60Hz, los datos anteriores son para el modelo de motor AC.
+
+2\. Condición de prueba de refrigeración: lado interior 27° DB, 19° WB lado exterior 35° DB. Condición de prueba de calefacción: lado
+interior 20° DB, 15° WB lado exterior 7° DB.
+
+3\. Nivel sonoro: medido en un punto situado a 1 m delante de la unidad a una altura de 1,5 m. Durante el funcionamiento real,
+estos valores suelen ser algo superiores como consecuencia de las condiciones ambientales.
+
+4\. Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en el futuro.
+
+ADINA®
+®
+
+<!-- PageNumber="36" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 37
 ================================================================================
 
-# Unidad Fan Coil 
+ADN
 
-![img-108.jpeg](img-108.jpeg)
+# Unidad Fan Coil
 
-## Características
+Cableado
+(Estándar)
+
+ADINA
+
+Inalámbrico
+(Opcional)
+
+ADINA
+
+ADINA
+
+ADINA
+
+Cableado
+(Opcional)
+
+# Características
 
 ## Accesorios
 
-| Plenum | Filtro de aire | PAV | Bomba de Condensado | Motor A0 | Motor DC |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| Estándar | Opcional | Estándar (Integrado) | Opcional | Estándar | Opcional |
+<table>
+<tr>
+<th>Plenum</th>
+<th>Filtro de Aire</th>
+<th>EXV</th>
+<th>Bomba de Condensado</th>
+<th>Motor AC</th>
+<th>Motor DC</th>
+</tr>
+<tr>
+<td>Estándar</td>
+<td>Opcional</td>
+<td>Estándar (Integrado)</td>
+<td>Opcional</td>
+<td>Estándar</td>
+<td>Opcional</td>
+</tr>
+</table>
 
-## Instalación Flexible
+### Instalación Flexible
 
-El método de retorno de aire es opcional según la instalación, por detrás o por abajo.
-![img-109.jpeg](img-109.jpeg)
+El método de retorno de aire es
+opcional según la instalación, por
+detrás o por abajo.
 
-## Aspa del Ventilador
+Desde la Parte de Abajo
 
-El ventilador centrífugo de gran caudal de aire y bajo nivel sonoro, con un sistema especial de túnel de aire, y las exclusivas medidas de absorción de impactos, hacen que el ruido de funcionamiento de esta serie de unidades canalizadas sea tan bajo como $24 \mathrm{~dB}(\mathrm{~A})$, lo que permite a los usuarios disfrutar del confort y dormir sin molestias.
-![img-110.jpeg](img-110.jpeg)
+### Aspa del Ventilador
 
-Rueda de Ventilador de material de resina especial.
-![img-111.jpeg](img-111.jpeg)
+El ventilador centrífugo de gran caudal de aire y bajo nivel
+sonoro, con un sistema especial de túnel de aire, $y$ las exclusivas
+medidas de absorción de impactos, hacen que el ruido de
+funcionamiento de esta serie de unidades canalizadas sea tan
+bajo como 24 dB(A), lo que permite a los usuarios disfrutar del
+confort y dormir sin molestias.
 
-Todas las alatas tienen una distribución de ventilación para compensar la onda sonora, de modo que se pueda reducir el ruido.
-![img-112.jpeg](img-112.jpeg)
+20dB(A)
 
-Aspas Silenciosas
-![img-113.jpeg](img-113.jpeg)
+30dB(A)
 
-Motor de alta eficiencia y bajo nivel derudo, el motor y el basador de soporte con un pasajento de doble de goma, pueden absorber la vibración y reducir el ruido.
-![img-114.jpeg](img-114.jpeg)
+Silencio en las
+habitaciones
 
-Silencio en las habitaciones
-![img-115.jpeg](img-115.jpeg)
+Motor de alta eficiencia y
+bajo nivel deruido, el motor
+y el bastidor de soporte con
+aislamiento de anillo de
+goma, pueden absorber la
+vibración y reducir el ruido.
 
-La entrada de aire de la carcasa de la rueda del ventilador tiene un diseño de valor de 1000 mm de radio, puede reducir la perforación del flujo de aire, hacer que el flujo de aire se paga y para reducir el ruido.
+La entrada de aire de la
+carcasa de la rueda del
+ventilador tiene un diseño
+curvado en arco; puede
+reducir la perturbación del
+flujo de aire, hacer que el
+flujo sea más suave para
+reducir el ruido.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="37" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 38
 ================================================================================
 
-# Cuerpo delgado, fácil de instalar 
+ADN
 
-Tiene un cuerpo delgado con 210 mm de altura, es especialmente adecuado para habitaciones con techos suspendidos bajos.
-![img-116.jpeg](img-116.jpeg)
+Cuerpo delgado, fácil de instalar
 
-Motor Dc Opcional
-(10) El diseño del motor y su soporte reducen el ruido.
-(15) La Bomba de Condensado es opcional
-![img-117.jpeg](img-117.jpeg)
+Tiene un cuerpo delgado con 210 mm de altura, es
+especialmente adecuado para habitaciones con
+techos suspendidos bajos.
 
-La altura de bombeo es de 700 mm .
+### Motor Dc Opcional
 
-## Especificaciones
+El diseño del motor y su soporte
+reducen el ruido.
 
-![img-118.jpeg](img-118.jpeg)
+La Bomba de Condensado
+es opcional
+La altura de bombeo es de 700mm.
 
-## Notas:
+# Especificaciones
 
-1. Fuente de alimentación: $208 \sim 230 \mathrm{~V} / 1 \mathrm{~N}$ para 60 Hz , los datos anteriores son para el modelo de motor AC.
-2. Condición de prueba de refrigeración: lado interior $27^{\circ} \mathrm{DB}, 19^{\circ} \mathrm{WB}$ lado exterior $35^{\circ} \mathrm{DB}$. Condición de prueba de calefacción: lado interior $20^{\circ} \mathrm{DB}, 15^{\circ} \mathrm{WB}$ lado exterior $7^{\circ} \mathrm{DB}$.
-3. Nivel sonoro: medido en un punto situado a 1 m delante de la unidad a una altura de $1,5 \mathrm{~m}$. Durante el funcionamiento real, estos valores suelen ser algo superiores como consecuencia de las condiciones ambientales.
-4. Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en el futuro.
+<table>
+<tr>
+<th rowspan="3">Modelo</th>
+<th rowspan="3">Potencia</th>
+<th colspan="4">Capacidad</th>
+<th rowspan="2">Consu- mo de energía</th>
+<th colspan="2" rowspan="2">Flujo de Aire</th>
+<th rowspan="2">Nivel de Ruido</th>
+<th rowspan="2">ESP</th>
+<th colspan="4">Dimensiones (WxHxD)</th>
+<th colspan="2">Peso</th>
+<th colspan="3">Tuberías de Conexión</th>
+<th rowspan="3">Control Estándar</th>
+</tr>
+<tr>
+<th colspan="2">Refrigeración</th>
+<th colspan="2">Calefacción</th>
+<th>Empaque</th>
+<th>Equipo</th>
+<th>Empaque Panel</th>
+<th>Panel</th>
+<th>Neto</th>
+<th>Bruto</th>
+<th>Gas</th>
+<th>Líquido</th>
+<th>Dreno</th>
+</tr>
+<tr>
+<th>kW</th>
+<th>kBtu/</th>
+<th>h kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>M3/h</th>
+<th>CFM</th>
+<th>DB(A)</th>
+<th>Pa</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>kg</th>
+<th>kg</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+</tr>
+<tr>
+<td colspan="21"></td>
+</tr>
+<tr>
+<td>ADN-A22TA-HK4-A</td>
+<td rowspan="12">60Hz</td>
+<td rowspan="2">2.2</td>
+<td rowspan="2">7.5</td>
+<td rowspan="2">2.5</td>
+<td rowspan="2">8.5</td>
+<td rowspan="4">0.08</td>
+<td rowspan="4">450</td>
+<td rowspan="4">260</td>
+<td rowspan="4">$2 4 \sim 2 9$</td>
+<td rowspan="12">30</td>
+<td rowspan="8">910 X 240 x 510</td>
+<td rowspan="8">814 x 210 x 467</td>
+<td rowspan="10">/</td>
+<td rowspan="10">/</td>
+<td rowspan="2">16.0</td>
+<td rowspan="2">18.5</td>
+<td rowspan="4">¢9.52</td>
+<td rowspan="10">¢6.35</td>
+<td rowspan="12">OD¢25</td>
+<td rowspan="12">Control alám- brico</td>
+</tr>
+<tr>
+<td>ADN-D22TA-HK4-A</td>
+</tr>
+<tr>
+<td>ADN-A28TA-HK4-A</td>
+<td rowspan="2">2.8</td>
+<td rowspan="2">9.5</td>
+<td rowspan="2">3.2</td>
+<td rowspan="2">10.9</td>
+<td rowspan="2">16.0</td>
+<td rowspan="2">18.5</td>
+</tr>
+<tr>
+<td>ADN-D28TA-HK4-A</td>
+</tr>
+<tr>
+<td>ADN-A36TA-HK4-A</td>
+<td rowspan="2">3.6</td>
+<td rowspan="2">12.2</td>
+<td rowspan="2">4.0</td>
+<td rowspan="2">13.6</td>
+<td rowspan="4">0.11</td>
+<td rowspan="2">550</td>
+<td rowspan="2">324</td>
+<td rowspan="2">25~32</td>
+<td rowspan="2">16.5</td>
+<td rowspan="2">19.0</td>
+<td rowspan="6">Φ12.7</td>
+</tr>
+<tr>
+<td>ADN-D36TA-HK4-A</td>
+</tr>
+<tr>
+<td>ADN-A45TA-HK4-A</td>
+<td rowspan="2">4.5</td>
+<td rowspan="2">15.3</td>
+<td rowspan="2">5.0</td>
+<td rowspan="2">17</td>
+<td rowspan="2">620</td>
+<td rowspan="2">360</td>
+<td rowspan="2">32~37</td>
+<td rowspan="2">16.5</td>
+<td rowspan="2">19.0</td>
+</tr>
+<tr>
+<td>ADN-D45TA-HK4-A</td>
+</tr>
+<tr>
+<td>ADN-A56TA-HK4-A</td>
+<td rowspan="2">5.6</td>
+<td rowspan="2">19.1</td>
+<td rowspan="2">6.3</td>
+<td rowspan="2">21.4</td>
+<td rowspan="2">0.16</td>
+<td rowspan="2">800</td>
+<td rowspan="2">520</td>
+<td rowspan="2">28~38</td>
+<td rowspan="2">1110 X 240 x 510</td>
+<td rowspan="2">1010 X 210 x 467</td>
+<td rowspan="2">21.0</td>
+<td rowspan="2">24.0</td>
+</tr>
+<tr>
+<td>ADN-D56TA-HK4-A</td>
+</tr>
+<tr>
+<td>ADN-A71TA-HK4-A</td>
+<td rowspan="2">7.1</td>
+<td rowspan="2">24.2</td>
+<td rowspan="2">8.0</td>
+<td rowspan="2">27.2</td>
+<td rowspan="2">0.18</td>
+<td rowspan="2">1000</td>
+<td rowspan="2">640</td>
+<td rowspan="2">30~39</td>
+<td rowspan="2">1310 x 240 X 510</td>
+<td rowspan="2">1214 X 210 x 467</td>
+<td></td>
+<td rowspan="2"></td>
+<td rowspan="2">25.5</td>
+<td rowspan="2">28.5</td>
+<td rowspan="2">Φ15.88</td>
+<td rowspan="2">¢9.52</td>
+</tr>
+<tr>
+<td>ADN-D71TA-HK4-A</td>
+<td></td>
+</tr>
+</table>
+
+Notas:
+
+1\.
+Fuente de alimentación: 208~230V/1N para 60Hz, los datos anteriores son para el modelo de motor AC.
+
+2\. Condición de prueba de refrigeración: lado interior 27° DB, 19° WB lado exterior 35° DB. Condición de prueba de
+calefacción: lado interior 20° DB, 15° WB lado exterior 7° DB.
+
+3\. Nivel sonoro: medido en un punto situado a 1 m delante de la unidad a una altura de 1,5 m. Durante el funciona-
+miento real, estos valores suelen ser algo superiores como consecuencia de las condiciones ambientales.
+
+4\. Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en el
+futuro.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="38" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 39
 ================================================================================
 
-# TB: Unidad Ductada de Presión Estática Media 
+ADN
 
-![img-119.jpeg](img-119.jpeg)
+## TB: Unidad Ductada de Presión Estática Media
 
-## Características
+Cableado
+(Estándar)
 
-## Accesorios
+ADNA
 
-| Plenum | Filtro de Aire | EXV | Bomba de Condensado | Motor AC | Motor DC |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| Estándar | Estándar | Estándar | Opcional | Estándar | Opcional |
+Inalámbrico
+(Opcional)
 
-## Presión Estática
+ADNA
 
-70Pa ESP es estándar, adecuado para el suministro de aire a larga distancia, 30Pa es opcional (se puede establecer en el sitio), adecuado para salas de requisitos de bajo ruido.
-![img-120.jpeg](img-120.jpeg)
+ADINA
 
-## Entrada de Aire Fresco
+ADINA
 
-Un puerto de entrada de aire exterior reservado permite introducir aire exterior directamente en la unidad, sin necesidad de un sistema de ventilación independiente.
-![img-121.jpeg](img-121.jpeg)
+Cableado
+(Opcional)
 
-## Fácil Instalación en las Tuberías de Condensado
+### Características
 
-Orificios de salida del tubo de drenaje reservados en el lado izquierdo y derecho, el instalador puede elegir los orificios de salida in situ según las condiciones reales, flexible para la instalación del tubo de drenaje.
-![img-122.jpeg](img-122.jpeg)
-![img-123.jpeg](img-123.jpeg)
+#### Accesorios
+
+<table>
+<tr>
+<th>Plenum</th>
+<th>Filtro de Aire</th>
+<th>EXV</th>
+<th>Bomba de Condensado</th>
+<th>Motor AC</th>
+<th>Motor DC</th>
+</tr>
+<tr>
+<td>Estándar</td>
+<td>Estándar</td>
+<td>Estándar</td>
+<td>Opcional</td>
+<td>Estándar</td>
+<td>Opcional</td>
+</tr>
+</table>
+
+##### Presión Estática
+
+70Pa ESP es estándar, adecuado para el suministro de aire
+a larga distancia, 30Pa es opcional (se puede establecer
+en el sitio), adecuado para salas de requisitos de bajo
+ruido.
+
+##### Entrada de Aire Fresco
+
+Un puerto de entrada de aire exterior reservado permite
+introducir aire exterior directamente en la unidad, sin
+necesidad de un sistema de ventilación independiente.
+
+##### Fácil Instalación en las Tuberías de Condensado
+
+Orificios de salida del tubo de drenaje reservados
+en el lado izquierdo y derecho, el instalador puede
+elegir los orificios de salida in situ según las
+condiciones reales, flexible para la instalación del
+tubo de drenaje.
+
+<!-- PageNumber="39" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 40
 ================================================================================
 
-# Diseño Silencioso 
 
-Utilizando múltiples tecnologías de reducción de ruido, incluyendo el diseño de motor de alta eficiencia y bajo ruido, rueda de ventilador de aviación, carcasa de rueda de baja vibración, diseño único, la configuración de la pared interior con matearils de aislamiento de alta calidad, y así sucesivamente, para hacer que las unidades funcionen en condiciones de bajo ruido.
-![img-124.jpeg](img-124.jpeg)
+YA
+Diseño Silencioso
+
+Utilizando múltiples tecnologías de reducción de ruido,
+incluyendo el diseño de motor de alta eficiencia y bajo ruido,
+rueda de ventilador de aviación, carcasa de rueda de baja
+vibración, diseño único, la configuración de la pared interior con
+matearils de aislamiento de alta calidad, $y$ así sucesivamente,
+para hacer que las unidades funcionen en condiciones de bajo
+ruido.
 
 ## Motor DC Opcional
 
-El consumo de energía del motor del ventilador de CC se puede reducir en gran medida en comparación con el tipo de CA correspondiente.
+El consumo de energía del motor del ventilador de CC se puede
+reducir en gran medida en comparación con el tipo de CA
+correspondiente.
 
-## Métodos de Instalación de Retorno
+## 2 Métodos de Instalación de Retorno
 
-El retorno de aire por la parte trasera o inferior es fácil de cambiar, esto es conveniente para la instalación.
-![img-125.jpeg](img-125.jpeg)
+El retorno de aire por la parte trasera o
+inferior es fácil de cambiar, esto es
+conveniente para la instalación.
 
-## Especificaciones
+# Especificaciones
 
-![img-126.jpeg](img-126.jpeg)
+<table>
+<tr>
+<th rowspan="3">Nombre del Modelo</th>
+<th rowspan="3">Tipo de Potencia</th>
+<th colspan="4">Capacidad</th>
+<th rowspan="2">Entrada de Alimentación</th>
+<th colspan="2" rowspan="2">Flujo de Aire</th>
+<th rowspan="2">Niveles de Sonido</th>
+<th rowspan="2">ESP</th>
+<th colspan="4">Dimensiones (Ancho X Alto X Profundo)</th>
+<th colspan="2">Peso</th>
+<th colspan="3">Conexiones de Tunería</th>
+<th rowspan="3">Controlador Estándar</th>
+</tr>
+<tr>
+<th colspan="2">Refrigeración</th>
+<th colspan="2">Calefacción</th>
+<th>Empaque</th>
+<th>Cuerpo</th>
+<th>Caja del Panel</th>
+<th>Panel</th>
+<th>Neto</th>
+<th>Bruto</th>
+<th>Gas</th>
+<th>Líquido</th>
+<th>Drenaje</th>
+</tr>
+<tr>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>M3/h</th>
+<th>CFM</th>
+<th>DB(A)</th>
+<th>Pa</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>kg</th>
+<th>kg</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A71TB-HK4-B</td>
+<td rowspan="12">60Hz</td>
+<td rowspan="2">7.1</td>
+<td rowspan="2">24.2</td>
+<td rowspan="2">8.0</td>
+<td rowspan="2">27.2</td>
+<td rowspan="12">0.40</td>
+<td rowspan="4">1220</td>
+<td rowspan="4">710</td>
+<td rowspan="4">36~41</td>
+<td rowspan="12">70</td>
+<td rowspan="2">1255</td>
+<td rowspan="4">$\begin{array}{} { 1 2 0 9 } \\ { 2 6 0 } \\ { x } \\ { 6 8 0 } \end{array}$</td>
+<td rowspan="10">1</td>
+<td rowspan="12">/</td>
+<td rowspan="2">33</td>
+<td rowspan="2">37</td>
+<td rowspan="12">¢15.88</td>
+<td rowspan="10">¢9.52</td>
+<td rowspan="10">OD¢25</td>
+<td rowspan="12">Control alám- brico</td>
+</tr>
+<tr>
+<td>ADN-D71TB-HK4-B</td>
+</tr>
+<tr>
+<td>ADN-A80TB-HK4-B</td>
+<td rowspan="2">8.0</td>
+<td rowspan="2">27.2</td>
+<td rowspan="2">9.0</td>
+<td rowspan="2">30.7</td>
+<td rowspan="2">$\begin{array}{} { x } \\ { 3 2 5 } \\ { x } \end{array}$</td>
+<td rowspan="2">33</td>
+<td rowspan="2">37</td>
+</tr>
+<tr>
+<td>ADN-D80TB-HK4-B</td>
+</tr>
+<tr>
+<td>ADN-A90TB-HK4-B</td>
+<td rowspan="2">9.0</td>
+<td rowspan="2">30.7</td>
+<td rowspan="2">10.0</td>
+<td rowspan="2">34.1</td>
+<td rowspan="2">1850</td>
+<td rowspan="2">1080</td>
+<td rowspan="2">38~43</td>
+<td rowspan="8">1490 $\begin{array}{} { x } \\ { 3 2 5 } \\ { 7 2 0 } \end{array}$</td>
+<td rowspan="8">1445 $\begin{array}{} { x } \\ { 2 6 0 } \\ { x } \end{array}$ 680</td>
+<td rowspan="2">46</td>
+<td rowspan="2">50</td>
+</tr>
+<tr>
+<td>ADN-D90TB-HK4-B</td>
+</tr>
+<tr>
+<td>ADN-A100TB-HK4-B</td>
+<td rowspan="2">10.0</td>
+<td rowspan="2">34.1</td>
+<td rowspan="2">11.0</td>
+<td rowspan="2">37.5</td>
+<td rowspan="6">2000</td>
+<td rowspan="6">1170</td>
+<td rowspan="6">40~44</td>
+<td rowspan="2">46</td>
+<td rowspan="2">50</td>
+</tr>
+<tr>
+<td>ADN-D100TB-HK4-B</td>
+</tr>
+<tr>
+<td>ADN-A120TB-HK4-B</td>
+<td rowspan="2">12.0</td>
+<td rowspan="2">40.9</td>
+<td rowspan="2">13.0</td>
+<td rowspan="2">44.3</td>
+<td rowspan="2">46</td>
+<td rowspan="2">50</td>
+</tr>
+<tr>
+<td>ADN-D120TB-HK4-B</td>
+</tr>
+<tr>
+<td>ADN-V150TB/HR1-B</td>
+<td rowspan="2">15.0</td>
+<td rowspan="2">51.1</td>
+<td></td>
+<td rowspan="2">58</td>
+<td rowspan="2"></td>
+<td rowspan="2">46</td>
+<td rowspan="2">50</td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+</tr>
+<tr>
+<td>ADN-D150TB-HK4-B</td>
+<td>17.0</td>
+</tr>
+</table>
 
-## Notas:
+Notas:
 
-1. Fuente de alimentación: 208 230V/1N para 60 Hz , los datos anteriores son para el modelo de motor AC.
-2. Condición de prueba de refrigeración: lado interior $27^{\circ} \mathrm{DB}, 19^{\circ} \mathrm{WB}$ lado exterior $35^{\circ} \mathrm{DB}$. Condición de prueba de calefacción: lado interior $20^{\circ} \mathrm{DB}, 15^{\circ} \mathrm{WB}$ lado exterior $7^{\circ} \mathrm{DB}$.
-3. Nivel sonoro: medido en un punto situado a 1 m delante de la unidad a una altura de $1,5 \mathrm{~m}$. Durante el funcionamiento real, estos valores suelen ser algo superiores como consecuencia de las condiciones ambientales.
-4. Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en el futuro.
+1\. Fuente de alimentación: 208~230V/1N para 60Hz, los datos anteriores son para el modelo de motor AC.
+
+2\.
+Condición de prueba de refrigeración: lado interior 27° DB, 19° WB lado exterior 35° DB. Condición de prueba de
+calefacción: lado interior 20° DB, 15° WB lado exterior 7° DB.
+
+3\.
+Nivel sonoro: medido en un punto situado a 1 m delante de la unidad a una altura de 1,5 m. Durante el funcio-
+namiento real, estos valores suelen ser algo superiores como consecuencia de las condiciones ambientales.
+
+4\. Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en el
+futuro.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="40" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 41
 ================================================================================
 
-# TH: Unidad Ductada de Presión Estática Alta 
+ADN
 
-![img-127.jpeg](img-127.jpeg)
+# TH: Unidad Ductada de Presión Estática Alta
 
 ## Características
 
-Accesorios
+### Accesorios
 
-| Plenum | Filtro de Aire | EXV | Bomba de Condensado | Motor AC | Motor DC |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| Estándar | Estándar | Estándar | Opcional | Estándar | / |
+<table>
+<tr>
+<th>Plenum</th>
+<th>Filtro de Aire</th>
+<th>EXV</th>
+<th>Bomba de Condensado</th>
+<th>Motor AC</th>
+<th>Motor DC</th>
+</tr>
+<tr>
+<td>Estándar</td>
+<td>Estándar</td>
+<td>Estándar</td>
+<td>Opcional</td>
+<td>Estándar</td>
+<td>1</td>
+</tr>
+</table>
 
-Bomba de Agua (Opcional)
+#### Bomba de Agua (Opcional)
 
-Cuerpo delgado, ahorrando espacios en techos suspendidos. Y la bomba de agua es opcional, la cabeza de la bomba de hasta 700 mm
-![img-128.jpeg](img-128.jpeg)
+Cuerpo delgado, ahorrando espacios en
+techos suspendidos. Y la bomba de agua
+es opcional, la cabeza de la bomba de
+hasta 700 mm
 
-Se Puede Usar con Varios Difusores
-![img-129.jpeg](img-129.jpeg)
+#### $\sqrt { 7 }$ Se Puede Usar con Varios Difusores
 
-Difusor Estiral
-![img-130.jpeg](img-130.jpeg)
+Utilizado con varios difusores,
+se adaptan a diferentes tipos
+de decoración.
 
-Difusor Cuadrado
-![img-131.jpeg](img-131.jpeg)
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="41" -->
+<!-- PageBreak -->
 
-Difusor Lineal
 
-Utilizado con varios difusores, se adaptan a diferentes tipos de decoración.
 
 ================================================================================
 PAGE 42
 ================================================================================
 
-# (1) Alta Presión Estática 
 
-Gran flujo de aire con alta presión estática, fácil para el diseño de conductos de grandes habitaciones. Adecuado para diferentes formas de habitaciones.
-![img-132.jpeg](img-132.jpeg)
+#### Alta Presión Estática
 
-Unidad Canalizada de Alta Presión Estática
-![img-133.jpeg](img-133.jpeg)
+Gran flujo de aire con alta presión estática, fácil para el diseño de conductos de grandes habitaciones. Adecuado para diferentes
+formas de habitaciones.
 
-Siminitro de Aire Multipunto a Larga Distancia
+Siminitro de Aire Multipunto a Larga
+Distancia
 
-## Especificaciones
+# Especificaciones
 
-![img-134.jpeg](img-134.jpeg)
+<table>
+<tr>
+<th rowspan="3">Modelo</th>
+<th rowspan="3">Potencia</th>
+<th colspan="4">Capacidad</th>
+<th rowspan="2">Consu- mo de energía</th>
+<th colspan="2" rowspan="2">Flujo de Aire</th>
+<th rowspan="2">Nivel de Ruido</th>
+<th rowspan="2">ESP</th>
+<th colspan="4">Dimensiones (WxHxD)</th>
+<th colspan="2">Peso</th>
+<th colspan="3">Tuberías de Conexión</th>
+<th rowspan="3">Control Estándar</th>
+</tr>
+<tr>
+<th colspan="2">Refrigeración</th>
+<th colspan="2">Calefacción</th>
+<th>Empaque</th>
+<th>Equipo</th>
+<th>Empaque Panel</th>
+<th>Panel</th>
+<th>Neto</th>
+<th>Bruto</th>
+<th>Gas</th>
+<th>Líquido</th>
+<th>Dreno</th>
+</tr>
+<tr>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>M3/h</th>
+<th>CFM</th>
+<th>DB(A)</th>
+<th>Pa</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>kg</th>
+<th>kg</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+</tr>
+<tr>
+<td colspan="21"></td>
+</tr>
+<tr>
+<td>ADN-A71TH-HK4-B</td>
+<td rowspan="15">$6 0 H z$</td>
+<td>7.1</td>
+<td>24.2</td>
+<td>7.8</td>
+<td>26.6</td>
+<td rowspan="3">0.40</td>
+<td rowspan="3">1500</td>
+<td rowspan="3">880</td>
+<td rowspan="3">40~42</td>
+<td rowspan="10">150</td>
+<td rowspan="3">1490 ☒ 325</td>
+<td rowspan="3">x ☒ 720</td>
+<td rowspan="3">1445 × 260</td>
+<td rowspan="3">x 680</td>
+<td rowspan="3">46</td>
+<td rowspan="3">50</td>
+<td rowspan="6">Φ15.88</td>
+<td rowspan="6">¢9.52</td>
+<td rowspan="6">OD¢25</td>
+<td rowspan="15">Control alám- brico</td>
+</tr>
+<tr>
+<td>ADN-A80TH-HK4-B</td>
+<td>8.0</td>
+<td>27.2</td>
+<td>8.8</td>
+<td>30</td>
+</tr>
+<tr>
+<td>ADN-A90TH-HK4-B</td>
+<td>9.0</td>
+<td>30.7</td>
+<td>10.0</td>
+<td>34.1</td>
+</tr>
+<tr>
+<td>ADN-A100TH-HK4-B</td>
+<td>10.0</td>
+<td>34.1</td>
+<td>11.0</td>
+<td>37.5</td>
+<td rowspan="3">0.50</td>
+<td rowspan="3">2300</td>
+<td rowspan="3">1350</td>
+<td rowspan="3">44~52</td>
+<td rowspan="3">1245 x445</td>
+<td rowspan="3">x 655</td>
+<td rowspan="3">1190 X 370 x</td>
+<td rowspan="3">620</td>
+<td rowspan="3">47</td>
+<td rowspan="3">51</td>
+</tr>
+<tr>
+<td>ADN-A120TH-HK4-B</td>
+<td>12.0</td>
+<td>40.9</td>
+<td>13.0</td>
+<td>44.3</td>
+</tr>
+<tr>
+<td>ADN-A150TH-HK4-B</td>
+<td>15.0</td>
+<td>51.1</td>
+<td>17.0</td>
+<td>58.0</td>
+</tr>
+<tr>
+<td>ADN-A200TH-HK4-B</td>
+<td rowspan="2">20.0</td>
+<td rowspan="2">68.2</td>
+<td rowspan="2">22.0</td>
+<td rowspan="2">75.0</td>
+<td rowspan="2">1.72</td>
+<td rowspan="2">4000</td>
+<td rowspan="2">2350</td>
+<td rowspan="2">45~53</td>
+<td rowspan="2">1510×580×870</td>
+<td rowspan="2"></td>
+<td colspan="2" rowspan="2">1465×448x811</td>
+<td rowspan="7">102</td>
+<td rowspan="7">113</td>
+<td rowspan="7">¢22.2</td>
+<td rowspan="7">¢12.7</td>
+<td rowspan="7">OD¢30</td>
+</tr>
+<tr>
+<td>ADN-D200TH-HK4-F310</td>
+</tr>
+<tr>
+<td>ADN-A250TH-HK4-B</td>
+<td rowspan="2">25.0</td>
+<td rowspan="2">85.3</td>
+<td rowspan="2">27.5</td>
+<td rowspan="2">93.8</td>
+<td rowspan="2">1.72</td>
+<td rowspan="2">4200</td>
+<td rowspan="2">2470</td>
+<td rowspan="2">45~54</td>
+<td rowspan="2">1510×580×870</td>
+<td rowspan="2"></td>
+<td colspan="2" rowspan="2">1465×448x811</td>
+</tr>
+<tr>
+<td>ADN-D250TH-HK4-F310</td>
+</tr>
+<tr>
+<td>ADN-A260TH-HK4-F310</td>
+<td>26</td>
+<td>88.7</td>
+<td>28.6</td>
+<td>97.50</td>
+<td>1.62</td>
+<td>4500</td>
+<td>2467</td>
+<td>55</td>
+<td>200</td>
+<td>1515×885×580</td>
+<td></td>
+<td>1440X811X448</td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A280TH-HK4-B</td>
+<td rowspan="2">28.0</td>
+<td rowspan="2">95.5</td>
+<td rowspan="2">30.8</td>
+<td rowspan="2">105.0</td>
+<td rowspan="2">1.72</td>
+<td rowspan="2">4400</td>
+<td rowspan="2">2580</td>
+<td rowspan="2">45~55</td>
+<td rowspan="2"></td>
+<td colspan="2" rowspan="2">1510x580×870</td>
+<td colspan="2" rowspan="2">1465×448x811</td>
+</tr>
+<tr>
+<td>ADN-D280TH-HK4-F310</td>
+</tr>
+<tr>
+<td>ADN-A350TH-HN4-F320</td>
+<td>35</td>
+<td>119.4</td>
+<td>38.5</td>
+<td>131.30</td>
+<td>1.93</td>
+<td>7500</td>
+<td>4412</td>
+<td>63</td>
+<td rowspan="2">250</td>
+<td rowspan="2">2267×840×1050</td>
+<td rowspan="2"></td>
+<td rowspan="2">2165×676x916</td>
+<td rowspan="2"></td>
+<td>227</td>
+<td>260</td>
+<td>¢28.6</td>
+<td>$15.88</td>
+<td>OD¢32</td>
+</tr>
+<tr>
+<td>ADN-A520TH-HN4-F320</td>
+<td>52</td>
+<td>177.3</td>
+<td>57.2</td>
+<td>195.10</td>
+<td>3.5</td>
+<td>10600</td>
+<td>6235</td>
+<td>67</td>
+<td>247</td>
+<td>260</td>
+<td>¢28.6</td>
+<td>$15.88</td>
+<td>OD¢32</td>
+</tr>
+</table>
 
-## Notas:
+Notas:
 
-1. Fuente de alimentación: para las unidades de 35KW y 52KW es de 208 230 V/3 N para 60 Hz ; para las demás es de $208 \sim 230 \mathrm{~V} / 1 \mathrm{~N}$ para 60 Hz .
-2. Condición de prueba de refrigeración: lado interior $27^{\circ}$ DB, $19^{\circ}$ WB lado exterior $35^{\circ}$ DB. Condición de prueba de calefacción: lado interior $20^{\circ}$ DB, $15^{\circ}$ WB lado exterior $7^{\circ}$ DB.
-3. Nivel sonoro: medido en un punto situado a 1 m delante de la unidad a una altura de $1,5 \mathrm{~m}$. Durante el funcionamiento real, estos valores suelen ser algo superiores como consecuencia de las condiciones ambientales.
-4. Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en el futuro.
+1\. Fuente de alimentación: para las unidades de 35KW y 52KW es de 208~230 V/3 N para 60 Hz; para las demás
+es de 208~230 V/1 N para 60 Hz.
+
+2\.
+Condición de prueba de refrigeración: lado interior 27° DB, 19° WB lado exterior 35° DB. Condición de prueba
+de calefacción: lado interior 20° DB, 15° WB lado exterior 7° DB.
+
+3\.
+. Nivel sonoro: medido en un punto situado a 1 m delante de la unidad a una altura de 1,5 m. Durante el
+funcionamiento real, estos valores suelen ser algo superiores como consecuencia de las condiciones
+ambientales.
+
+4\.
+Los datos anteriores pueden modificarse sin previo aviso para mejorar la calidad y el rendimiento en
+el futuro.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="42" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 43
 ================================================================================
 
-# Unidad de pared 
 
-![img-135.jpeg](img-135.jpeg)
+# Unidad de pared
 
-## Características
+# Características
 
 ## Accesorios
 
-| Plenum | Filtro de Aire | EXV | Bomba de Condensado | Motor AC | Motor DC |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| 1 | Estándar | Estándar (Integrado) | 1 | 1 | Estándar |
+<table>
+<tr>
+<th>Plenum</th>
+<th>Filtro de Aire</th>
+<th>EXV</th>
+<th>Bomba de Condensado</th>
+<th>Motor AC</th>
+<th>Motor DC</th>
+</tr>
+<tr>
+<td>/</td>
+<td>Estándar</td>
+<td>Estándar (Integrado)</td>
+<td>/</td>
+<td>/</td>
+<td>Estándar</td>
+</tr>
+</table>
 
-## Suministro de Aire Efectivo
+### Suministro de Aire Efectivo
 
-Ventilador de flujo cruzado, En el modo de refrigeración, el aire frío se sopla desdehorizontal. En el modo de calefacción, el aire caliente se sopla desde la vertical.
+Ventilador de flujo cruzado, En el modo de refrigeración,
+el aire frío se sopla desdehorizontal. En el modo de
+calefacción, el aire caliente se sopla desde la vertical.
 
-## Función de Tarjeta para Hoteles
+### Instalación Flexible
 
-Interfaz de tarjeta de hotel estándar, están diseñados para ahorrar energía haciendo funcionar los equipos sólo cuando hay invitados en la habitación.
+La tubería de refrigerante se puede conectar desde 3
+direcciones.
 
-## Instalación Flexible
+0
 
-La tubería de refrigerante se puede conectar desde 3 direcciones.
-![img-136.jpeg](img-136.jpeg)
+### Función de Tarjeta para Hoteles
+
+Interfaz de tarjeta de hotel estándar, están diseñados para
+ahorrar energía haciendo funcionar los equipos sólo
+cuando hay invitados en la habitación.
+
+ADINA®
+®
+
+<!-- PageNumber="43" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 44
 ================================================================================
 
-# Unidad de Pared 
+ADN
 
-![img-137.jpeg](img-137.jpeg)
+# Unidad de Pared
 
 ## Especificaciones
 
-| Model |  |  | 208-222V-14K4-008 | 208-222V-14K4-008 | 408-222V-14K4-008 | 608-2450-14K4-008 | 408-2450-14K4-008 | 408-2070-14K4-008 |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Power Supply |  |  | 208-222V(1N/30Hz) | 208-222V(1N/30Hz) | 208-222V(1N/30Hz) | 208-222V(1N/30Hz) | 208-222V(1N/30Hz) | 208-222V(1N/30Hz) |
-| Capacidad | Refrigeración | kW | 2.2 | 2.8 | 3.6 | 4.5 | 5.6 | 7.1 |
-|  | Calefacción | kW | 2.5 | 3.2 | 4.0 | 5.0 | 6.3 | 8.0 |
-| Consumo de Energía |  | W | 15 | 15 | 18 | 20 | 23 | 35 |
-| Motor del Ventilador | Tipo |  | DC | DC | DC | DC | DC | DC |
-|  | Velocidad <br> [W/Met] [cm] | $\mathrm{V} / \mathrm{min}$ | 1000/900/870/850 | 1000/900/870/850 | 1100/1000/950/900 | 1050/950/900/850 | 1100/1000/950/900 | 1300/1200/1100/1000 |
-| Flujo de Aire |  | $\mathrm{m}^{2} / \mathrm{h}$ | 440/380/360/350 | 440/380/360/350 | 500/440/415/380 | 655/610/565/525 | 720/645/580/560 | 890/805/720/645 |
-| Nivel de Rudo |  | $\mathrm{~m}^{2} / \mathrm{s}$ | 24-33 | 24-33 | 27-36 | 28-38 | 32-42 | 35-43 |
-| Dimensiones [inches] | Equipo | mm | 864x300x200 | 864x300x200 | 864x300x200 | 972x320x215 | 972x320x215 | 972x320x215 |
-|  | Neto | mm | 945x375x290 | 945x375x290 | 945x375x290 | 1060x400x310 | 1060x400x310 | 1060x400x310 |
-| Peso | Neto/Bruño | kg | 9.5/12 | 9.5/12 | 9.5/12 | 9.5/14 | 9.5/14 | 11.5/14 |
-| Tipo de Refrigerante |  |  | 8410A | 8410A | 8410A | 8410A | 8410A | 8410A |
-| Tipo de regulador de flujo de refrigerante |  |  | EXV | EXV | EXV | EXV | EXV | EXV |
-| Tuberto de líquido/ <br> Tuberto de gas |  | mm | $\Phi 6.35 / \Phi 9.52$ | $\Phi 6.35 / \Phi 9.52$ | $\Phi 6.35 / \Phi 12.7$ | $\Phi 6.35 / \Phi 12.7$ | $\Phi 6.35 / \Phi 12.7$ | $\Phi 9.52 / \Phi 15.88$ |
-| Tuberto de agua de drenaje (Diómetro exterior) |  | mm | $\Phi 20$ | $\Phi 20$ | $\Phi 20$ | $\Phi 20$ | $\Phi 20$ | $\Phi 20$ |
-| Temperatura de funcionamiento |  | ${ }^{\circ} \mathrm{C}$ | 16-32 | 16-32 | 16-32 | 16-32 | 16-32 | 16-32 |
+<table>
+<tr>
+<th colspan="3">Model</th>
+<th>ADN-D22G-HK4-GSB</th>
+<th>ADN-D28G-HK4-GSB</th>
+<th>ADN-D36G-HK4-GSB</th>
+<th>ADN-D45G-HK4-GSC</th>
+<th>ADN-D56G-HK4-GSC</th>
+<th>ADN-D71G-HK4-GSC</th>
+</tr>
+<tr>
+<th colspan="3">Power Supply</th>
+<th>208~230V/IN/60Hz</th>
+<th>208~230V/IN/60Hz</th>
+<th>208~230V/IN/60Hz</th>
+<th>208~230V/IN/60Hz</th>
+<th>208~230V/IN/60Hz</th>
+<th>208~230V/IN/60Hz</th>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td rowspan="2">Capacidad</td>
+<td>Refrigeración</td>
+<td>kW</td>
+<td>2.2</td>
+<td>2.8</td>
+<td>3.6</td>
+<td>4.5</td>
+<td>5.6</td>
+<td>7.1</td>
+</tr>
+<tr>
+<td>Calefacción</td>
+<td>kw</td>
+<td>2.5</td>
+<td>3.2</td>
+<td>4.0</td>
+<td>5.0</td>
+<td>6.3</td>
+<td>8.0</td>
+</tr>
+<tr>
+<td colspan="2">Consumo de Energía</td>
+<td>W</td>
+<td>15</td>
+<td>15</td>
+<td>18</td>
+<td>20</td>
+<td>23</td>
+<td>35</td>
+</tr>
+<tr>
+<td rowspan="2">Motor del Ventilador</td>
+<td>Tipo</td>
+<td></td>
+<td>DC</td>
+<td>DC</td>
+<td>DC</td>
+<td>DC</td>
+<td>DC</td>
+<td>DC</td>
+</tr>
+<tr>
+<td>Velocidad (Hi/Med/Low)</td>
+<td>r/min</td>
+<td>1000/900/870/850</td>
+<td>1000/900/870/850</td>
+<td>1100/1000/950/900</td>
+<td>1050/950/900/850</td>
+<td>1100/1000/950/900</td>
+<td>1300/1200/1100/1000</td>
+</tr>
+<tr>
+<td>Flujo de Aire</td>
+<td></td>
+<td>m3/h</td>
+<td>440/380/360/350</td>
+<td>440/380/360/350</td>
+<td>500/440/415/380</td>
+<td>655/610/565/525</td>
+<td>720/645/580/560</td>
+<td>890/805/720/645</td>
+</tr>
+<tr>
+<td>Nivel de Ruido</td>
+<td></td>
+<td>dB(A)</td>
+<td>24~33</td>
+<td>24~33</td>
+<td>27~36</td>
+<td>29~38</td>
+<td>32~42</td>
+<td>35~43</td>
+</tr>
+<tr>
+<td rowspan="2">Dimensiones (WxHxD)</td>
+<td>Equipo</td>
+<td>mm</td>
+<td>864×300×200</td>
+<td>864×300×200</td>
+<td>864×300×200</td>
+<td>972x320×215</td>
+<td>972x320×215</td>
+<td>972x320×215</td>
+</tr>
+<tr>
+<td>Neto</td>
+<td>mm</td>
+<td>945x375×290</td>
+<td>945x375x290</td>
+<td>945×375×290</td>
+<td>1060x400x310</td>
+<td>1060x400x310</td>
+<td>1060x400x310</td>
+</tr>
+<tr>
+<td>Peso</td>
+<td>Neto/Bruto</td>
+<td>kg</td>
+<td>9.5/12</td>
+<td>9.5/12</td>
+<td>9.5/12</td>
+<td>11.5/14</td>
+<td>11.5/14</td>
+<td>11.5/14</td>
+</tr>
+<tr>
+<td colspan="2">Tipo de Refrigerante</td>
+<td></td>
+<td>R410A</td>
+<td>R410A</td>
+<td>R410A</td>
+<td>R410A</td>
+<td>R410A</td>
+<td>R410A</td>
+</tr>
+<tr>
+<td colspan="2">Tipo de regulador de flujo de refrigerante</td>
+<td></td>
+<td>EXV</td>
+<td>EXV</td>
+<td>EXV</td>
+<td>EXV</td>
+<td>EXV</td>
+<td>EXV</td>
+</tr>
+<tr>
+<td colspan="2">Tubería de líquido/ Tubería de gas</td>
+<td>mm</td>
+<td>$6.35/¢9.52</td>
+<td>$6.35/¢9.52</td>
+<td>Φ6.35 / Φ12.7</td>
+<td>Φ6.35/ Φ12.7</td>
+<td>$\frac { { } _ { 0 } { } _ { 0 } { } _ { 3 } { } _ { 5 } / { } _ { 0 } { } _ { 1 2 . 7 } }$</td>
+<td>$9 . 5 2 / 1 5 . 8 8$</td>
+</tr>
+<tr>
+<td colspan="2">Tubería de agua de drenaje (Diámetro exterior)</td>
+<td>mm</td>
+<td>¢20</td>
+<td>¢20</td>
+<td>¢20</td>
+<td>¢20</td>
+<td>¢20</td>
+<td>¢20</td>
+</tr>
+<tr>
+<td colspan="2">Temperatura de funcionamiento</td>
+<td>°C</td>
+<td>16~32</td>
+<td>16~32</td>
+<td>16~32</td>
+<td>16~32</td>
+<td>16~32</td>
+<td>16~32</td>
+</tr>
+</table>
 
-## Notas:
+Notas:
 
-1. Fuente de alimentación: 208-230V/1N para 60 Hz .
-2. Condición de prueba de enfriamiento: lado interior $27^{\circ} \mathrm{C}$ DB, lado exterior $19^{\circ} \mathrm{C}$ WB $35^{\circ} \mathrm{C}$ DB. Condición de prueba de calefacción: lado interior $20^{\circ} \mathrm{C}$ DB, $15^{\circ} \mathrm{C}$ WB lado exterior $7^{\circ} \mathrm{C}$ DB.
-3. Nivel de sonido: medido en un punto a 1 m delante de la unidad a una altura de $1,5 \mathrm{~m}$. Durante el funcionamiento real, estos valores suelen ser algo más elevados debido a las condiciones ambientales.
-4. Los datos anteriores pueden cambiarse sin previo aviso para mejorar la calidad y el rendimiento en el futuro.
+1.Fuente de alimentación: 208~230V/1N para 60Hz.
+
+2.Condición de prueba de enfriamiento: lado interior 27℃ DB, lado exterior 19℃ WB 35℃ DB. Condición de prueba de calefacción: lado
+interior 20℃ DB, 15℃ WB lado exterior 7℃ DB.
+
+3.Nivel de sonido: medido en un punto a 1 m delante de la unidad a una altura de 1,5 m. Durante el funcionamiento real, estos valores suelen
+ser algo más elevados debido a las condiciones ambientales.
+
+4\. Los datos anteriores pueden cambiarse sin previo aviso para mejorar la calidad y el rendimiento en el futuro.
+
+ADINA®
+®
+
+<!-- PageNumber="44" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 45
 ================================================================================
 
-# Unidad Piso Techo 
 
-![img-138.jpeg](img-138.jpeg)
+## Unidad Piso Techo
+
+Inalámbrico
+(Estándar)
+
+ADN
+
+ADINA
+
+ADINA
+
+Inalámbrico
+(Opcional)
+
+ADINA
+
+Cableado
+(Opcional)
+
+ADINA
 
 ## Características
 
-## Accesorios
+### Accesorios
 
-| Plenum | Filtro de Aire | EXV | Ramba de Drenaje | Motor AC | Motor DC |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| 1 | Estándar | Estándar (integrado) | Opcional | Estándar | Opcional |
+<table>
+<tr>
+<th>Plenum</th>
+<th>Filtro de Aire</th>
+<th>EXV</th>
+<th>Bomba de Drenaje</th>
+<th>Motor AC</th>
+<th>Motor DC</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Estándar</td>
+<td>Estándar (integrado)</td>
+<td>Opcional</td>
+<td>Estándar</td>
+<td>Opcional</td>
+</tr>
+</table>
 
-## Instalación Flexible
+#### Instalación Flexible
 
-Según se requiera en el proyecto, se puede elegir entre instalación suspendida en el techo o instalación sobre el suelo.
-![img-139.jpeg](img-139.jpeg)
+Según se requiera en el proyecto, se
+puede elegir entre instalación suspendida
+en el techo o instalación sobre el suelo.
 
-## Suministro de Aire con un Amplio Rango
+### Suministro de Aire con un Amplio Rango
 
-![img-140.jpeg](img-140.jpeg)
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="45" -->
+<!-- PageBreak -->
 
-Configurado con ventiladores centrífugos de alto rendimiento y bajo nivel de ruido, tiene un gran flujo y suministro de aire de larga distancia.
 
-Suministro de aire tridimensional, amplio ángulo de suministro de aire, suministro fácil a todos los espacios.
-
-En el modo de refrigeración, el aire frío se expulsa desde la posición horizontal. En el modo de calefacción, el aire caliente se expulsa desde la posición vertical.
 
 ================================================================================
 PAGE 46
 ================================================================================
 
-# Fácil de Instalar 
+ADN
 
-![img-141.jpeg](img-141.jpeg)
-![img-142.jpeg](img-142.jpeg)
-![img-143.jpeg](img-143.jpeg)
-
-El filtro se puede lavar con agua
-
-El filtro se puede quitar de la rejilla de entrada de aire para limpiarlo.
-![img-144.jpeg](img-144.jpeg)
+Fácil de Instalar
 
 Se Pueden Elegir Dos Tipos de Rejilla
-![img-145.jpeg](img-145.jpeg)
-![img-146.jpeg](img-146.jpeg)
 
 ## Especificaciones
 
-![img-147.jpeg](img-147.jpeg)
+<table>
+<tr>
+<th rowspan="3">Nombre del modelo</th>
+<th rowspan="3">Potencia</th>
+<th colspan="4">Capacidad</th>
+<th rowspan="2">Consumo de energía</th>
+<th colspan="2" rowspan="2">Flujo de Aire</th>
+<th rowspan="2">Nivel de Ruido</th>
+<th colspan="2">Dimensiones (WxHxD)</th>
+<th colspan="2">Peso</th>
+<th colspan="3">Tubo de Conexión</th>
+<th rowspan="3">Control Estándar</th>
+</tr>
+<tr>
+<th colspan="2">Refrigeración</th>
+<th colspan="2">Calefacción</th>
+<th>Empaque</th>
+<th>Equipo</th>
+<th>Neto</th>
+<th>Bruto</th>
+<th>Gas</th>
+<th>Líquido</th>
+<th>Dreno</th>
+</tr>
+<tr>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>M3/h</th>
+<th>CFM</th>
+<th>DB(A)</th>
+<th>mm</th>
+<th>mm</th>
+<th>kg</th>
+<th>kg</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A36UA-HK4-LDBA</td>
+<td rowspan="18">60Hz</td>
+<td rowspan="2">3.6</td>
+<td rowspan="2">12.3</td>
+<td rowspan="2">4.0</td>
+<td rowspan="2">13.7</td>
+<td rowspan="4">0.085</td>
+<td rowspan="4">620</td>
+<td rowspan="4">360</td>
+<td rowspan="4">37~42</td>
+<td rowspan="6">1130 X 765 x 330</td>
+<td rowspan="6">1050 x 675 X 235</td>
+<td rowspan="6">26.5</td>
+<td rowspan="6">31.0</td>
+<td rowspan="6">Φ12.7</td>
+<td rowspan="6">¢6.35</td>
+<td rowspan="6">DN20</td>
+<td rowspan="18">Control Inalámbrico</td>
+</tr>
+<tr>
+<td>ADN-D36UA-HK4-LDBA</td>
+</tr>
+<tr>
+<td>ADN-A45UA-HK4-LDBA</td>
+<td rowspan="2">4.5</td>
+<td rowspan="2">15.3</td>
+<td rowspan="2">5.0</td>
+<td rowspan="2">17</td>
+</tr>
+<tr>
+<td>ADN-D45UA-HK4-LDBA</td>
+</tr>
+<tr>
+<td>ADN-A56UA-HK4-LDBA</td>
+<td rowspan="2">5.6</td>
+<td rowspan="2">19.1</td>
+<td rowspan="2">6.3</td>
+<td rowspan="2">21.4</td>
+<td rowspan="2">0.110</td>
+<td rowspan="2">800</td>
+<td rowspan="2">470</td>
+<td rowspan="2">37~47</td>
+</tr>
+<tr>
+<td>ADN-D56UA-HK4-LDBA</td>
+</tr>
+<tr>
+<td>ADN-A71UA-HK4-LDBB</td>
+<td rowspan="2">7.1</td>
+<td rowspan="2">24.2</td>
+<td rowspan="2">8.0</td>
+<td rowspan="2">27.2</td>
+<td rowspan="4">0.095</td>
+<td rowspan="4">1200</td>
+<td rowspan="4">706</td>
+<td rowspan="4">45~51</td>
+<td rowspan="4">1380 X 765 x 325</td>
+<td rowspan="4">1300 x 675 X 235</td>
+<td rowspan="4">32.0</td>
+<td rowspan="4">37.0</td>
+<td rowspan="12">Φ15.88</td>
+<td rowspan="12">¢9.52</td>
+<td rowspan="12">DN20</td>
+</tr>
+<tr>
+<td>ADN-D7IUA-HK4-LDBB</td>
+</tr>
+<tr>
+<td>ADN-A80UA-HK4-LDBB</td>
+<td rowspan="2">8.0</td>
+<td rowspan="2">27.2</td>
+<td rowspan="2">8.8</td>
+<td rowspan="2">30</td>
+</tr>
+<tr>
+<td>ADN-D80UA-HK4-LDBB</td>
+</tr>
+<tr>
+<td>ADN-A90UA-HK4-LDBC</td>
+<td rowspan="2">9.0</td>
+<td rowspan="2">30.7</td>
+<td rowspan="2">10.0</td>
+<td rowspan="2">34.1</td>
+<td rowspan="4">0.160</td>
+<td rowspan="4">1600</td>
+<td rowspan="4">940</td>
+<td rowspan="4">45~50</td>
+<td rowspan="4">1750 X 765</td>
+<td rowspan="4">1670 x 675</td>
+<td rowspan="8">41.0</td>
+<td rowspan="8">47.0</td>
+</tr>
+<tr>
+<td>ADN-D90UA-HK4-LDBC</td>
+</tr>
+<tr>
+<td>ADN-A112UA-HK4-LDBC</td>
+<td rowspan="2">11.2</td>
+<td rowspan="2">38.2</td>
+<td rowspan="2">12.5</td>
+<td rowspan="2">42.6</td>
+</tr>
+<tr>
+<td>ADN-D112UA-HK4-LDBC</td>
+</tr>
+<tr>
+<td>ADN-A140UA-HK4-LDBC</td>
+<td rowspan="2">14.0</td>
+<td rowspan="2">47.7</td>
+<td rowspan="2">15.0</td>
+<td rowspan="2">51.1</td>
+<td rowspan="4">0.200</td>
+<td rowspan="4">2000</td>
+<td rowspan="4">1177</td>
+<td rowspan="4">45~54</td>
+<td rowspan="4">x 325</td>
+<td rowspan="4">x 235</td>
+</tr>
+<tr>
+<td>ADN-D140UA-HK4-LDBC</td>
+</tr>
+<tr>
+<td>ADN-A160UA-HK4-LDBC</td>
+<td rowspan="2">16.0</td>
+<td rowspan="2">54.5</td>
+<td rowspan="2">17.0</td>
+<td rowspan="2">58</td>
+</tr>
+<tr>
+<td>ADN-D160UA-HK4-LDBC</td>
+</tr>
+</table>
 
-## Notas:
+Notas:
 
-1. Alimentación: 208-230V/IN para 60 Hz. Los datos anteriores corresponden al modelo de motor AC.
-2. Condiciones de prueba de refrigeración lado interior $21^{\circ} \mathrm{DB}, 19^{\circ} \mathrm{WB}$ lado exterior $39^{\circ} \mathrm{CB}$. Condiciones de prueba de calefacción lado interior $20^{\circ} \mathrm{CB}, 39^{\circ} \mathrm{WB}$ lado exterior 758 .
-3. Mise de sonido: medida en un punto situado a 1 m delante de la unidad a una altura de 1,5 m. Durante el funcionamiento real, estos valores suelen ser algo más altos como resultado de las condiciones ambientales.
-4. Los datos anteriores pueden cambiar sin previo aviso para futuras mejoras en la calidad y el rendimiento.
+1\. Alimentación: 208~230V/IN para 60Hz. Los datos anteriores corresponden al modelo de motor AC.
+
+2\. Condiciones de prueba de refrigeración: lado interior 27° DB, 19º WB lado exterior 35° DB. Condiciones de prueba de calefacción: lado interior 20° DB, 15° WB lado exterior 7ºDB.
+
+3\. Nivel de sonido: medido en un punto situado a 1 m delante de la unidad a una altura de 1,5 m. Durante el funcionamiento real, estos valores suelen ser algo más altos como resultado de las
+condiciones ambientales.
+
+4\. Los datos anteriores pueden cambiar sin previo aviso para futuras mejoras en la calidad y el rendimiento.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="46" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 47
 ================================================================================
 
-# Procesador de Aire Fresco 
 
-![img-148.jpeg](img-148.jpeg)
+## Procesador de Aire Fresco
 
 ## Características
 
-## Accesorios
+### Accesorios
 
-| Caja de plenum | Filtro de aire | EXV | Bomba de drenaje | Motor AC | Motor DC |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| Estándar | Opcional | Estándar | Opcional | Estándar | / |
+<table>
+<tr>
+<th>Caja de plenum</th>
+<th>Filtro de aire</th>
+<th>EXV</th>
+<th>Bomba de drenaje</th>
+<th>Motor AC</th>
+<th>Motor DC</th>
+</tr>
+<tr>
+<td>Estándar</td>
+<td>Opcional</td>
+<td>Estándar</td>
+<td>Opcional</td>
+<td>Estándar</td>
+<td>/</td>
+</tr>
+</table>
 
-## Saludable y Confortable
+## Saludable y Confortable Genera aire fresco, proporcionando un ambiente de vida saludable y confortable.
 
-Genera aire fresco, proporcionando un ambiente de vida saludable y confortable.
+## 100 % Unidad de Procesamiento de Aire 100% Fresco
 
-## Unidad de Procesamiento de Aire 100\% Fresco
-
-Tanto la filtración de aire fresco como la calefacción/refrigeración se pueden lograr en un solo sistema. Las unidades interiores y la unidad de procesamiento de aire fresco se pueden conectar al mismo sistema de refrigerante, lo que aumenta la flexibilidad del diseño y reduce en gran medida los costos totales del sistema.
+Tanto la filtración de aire fresco como la calefacción/refrigeración se pueden lograr en un solo
+sistema. Las unidades interiores y la unidad de procesamiento de aire fresco se pueden conectar
+al mismo sistema de refrigerante, lo que aumenta la flexibilidad del diseño y reduce en gran
+medida los costos totales del sistema.
 
 ## Alta Resistencia a la Estática Externa
 
 La presión estática externa puede ser de hasta 300 Pa para aplicaciones de ductos más flexibles.
 
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="47" -->
+<!-- PageBreak -->
+
+
+
 ================================================================================
 PAGE 48
 ================================================================================
 
-# Tecnología innovadora de suministro de aire para un excelente control de la temperatura ambiente. 
+ADN
+
+Tecnología innovadora de suministro de aire para un excelente control de la
+temperatura ambiente.
 
 La unidades se pueden conectar con otros tipos de unidades interiores. Ejemplo de diseño:
-![img-149.jpeg](img-149.jpeg)
 
 Notas:
 
-1. Cuando el sistema VRF conecta la unidad interior de aire fresco y otro tipo de unidades interiores, la relación de combinación de capacidad entre la unidad interior y la unidad exterior debe ser del $100 \%$. 2. La capacidad de la unidad de aire fresco no puede ser mayor que el $30 \%$ de la capacidad total de las unidades interiores.
+1\. Cuando el sistema VRF conecta la unidad interior de aire fresco y otro tipo de unidades interiores, la
+relación de combinación de capacidad entre la unidad interior y la unidad exterior debe ser del 100 %.
+2\. La capacidad de la unidad de aire fresco no puede ser mayor que el 30 % de la capacidad total de
+las unidades interiores.
 
 ## Especificaciones
 
-![img-150.jpeg](img-150.jpeg)
+<table>
+<tr>
+<th rowspan="3">Nombre del Modelo</th>
+<th rowspan="4">Potencia</th>
+<th colspan="4">Capacidad</th>
+<th rowspan="2">Consumo de ener- gía</th>
+<th colspan="2" rowspan="2">Flujo de Aire</th>
+<th rowspan="2">Nivel de Ruido</th>
+<th rowspan="2">ESP</th>
+<th colspan="4">Dimensiones (WxHxD)</th>
+<th colspan="2">Peso</th>
+<th colspan="3">Tubo de Conexión</th>
+<th rowspan="3">Control Estándar</th>
+</tr>
+<tr>
+<th colspan="2">Refrigeración</th>
+<th colspan="2">Calefacción</th>
+<th>Empaque</th>
+<th>Equipo</th>
+<th>Empaque Panel</th>
+<th>Panel</th>
+<th>Neto</th>
+<th>Bruto</th>
+<th>Gas</th>
+<th>Líquido</th>
+<th>Dreno</th>
+</tr>
+<tr>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>M3/h</th>
+<th>CFM</th>
+<th>DB(A)</th>
+<th>Pa</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>kg</th>
+<th>kg</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A140TF-HK4-B</td>
+<td rowspan="2">60Hz</td>
+<td>14.0</td>
+<td>47.7</td>
+<td>9.0</td>
+<td>30.7</td>
+<td>0.45</td>
+<td>1400</td>
+<td>820</td>
+<td>42~48</td>
+<td>220</td>
+<td>1245 x445 ×655</td>
+<td>1190× 370 ×620</td>
+<td></td>
+<td></td>
+<td>47</td>
+<td>51</td>
+<td>$15.88</td>
+<td>¢9.52</td>
+<td>OD¢25</td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A224TF-HK4-B</td>
+<td>22.4</td>
+<td>76.4</td>
+<td>16.0</td>
+<td>54.5</td>
+<td>1.20</td>
+<td>2000</td>
+<td>1170</td>
+<td>45~52</td>
+<td>220</td>
+<td>1510× 490 ×870</td>
+<td>1465 x 448 × 811</td>
+<td>1</td>
+<td>1</td>
+<td>102</td>
+<td>106</td>
+<td>$\phi 2 2 . 2$</td>
+<td>Φ12.7</td>
+<td>OD¢30</td>
+<td>Control alámbrico</td>
+</tr>
+<tr>
+<td>ADN-A280TF-HK4-B</td>
+<td></td>
+<td>28.0</td>
+<td>95.5</td>
+<td>20.0</td>
+<td>68.2</td>
+<td>1.20</td>
+<td>2800</td>
+<td>1640</td>
+<td>45~52</td>
+<td>220</td>
+<td>1510×490 ×870</td>
+<td>1465 x 448 × 811</td>
+<td></td>
+<td></td>
+<td>102</td>
+<td>106</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-## Notas:
+Notas:
 
-1. Alimentación: 208-230V/IN para 60Hz. Los datos anteriores corresponden al modelo de motor AC.
-2. Condiciones de prueba de refrigeración: Lado interior y exterior $33^{\circ} \mathrm{DB}, 28^{\circ} \mathrm{WB}$. Condiciones de prueba de calefacción: Lado interior y exterior $0^{\circ} \mathrm{CB},-2,9^{\circ} \mathrm{WB}$.
-3. Nivel de sonido: medido en un punto situado a 1 minuto frente a la unidad a una altura de 1,5 m. Durante el funcionamiento real, estos valores suelen ser algo más altos como resultado de las condiciones ambientales. 4. Los datos anteriores pueden cambiar sin previo aviso para futuras mejoras en la calidad y el rendimiento.
+1\. Alimentación: 208~230V/IN para 60Hz. Los datos anteriores corresponden al modelo de motor AC.
+
+2\. Condiciones de prueba de refrigeración: Lado interior y exterior 33º DB, 28° WB. Condiciones de prueba de
+calefacción: Lado interior y exterior 0° CB, -2,9° WB.
+
+3\. Nivel de sonido: medido en un punto situado a 1 minuto frente a la unidad a una altura de 1,5 m. Durante el
+funcionamiento real, estos valores suelen ser algo más altos como resultado de las condiciones ambientales.
+4\. Los datos anteriores pueden cambiar sin previo aviso para futuras mejoras en la calidad y el rendimiento.
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="48" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 49
 ================================================================================
 
-# AHU: Unidad Manejadora de Aire 
 
-![img-151.jpeg](img-151.jpeg)
+## AHU: Unidad Manejadora de Aire
+
+Inalámbrico
+(Opcional)
+
+ADINA
+
+ADINA
+
+ADINA
 
 ## Características
 
-Gabinete Aislado
-Acero galvanizado con pintura en todos los paneles. El aislante térmico cubre todos los paneles interiores para reducir las pérdidas de calor y refrigeración y evitar la acumulación de agua condensada.
+### Gabinete Aislado
 
-## Motor \& Blower
+Acero galvanizado con pintura en
+todos los paneles. El aislante térmico
+cubre todos los paneles interiores para
+reducir las pérdidas de calor y
+refrigeración y evitar la acumulación
+de agua condensada.
 
-Los motores de accionamiento directo, de 3 velocidades, proporcionan selecciones de flujo de aire para satisfacer las aplicaciones deseadas. Ventilador grande de $810^{\circ}$, viento potente.
+### Motor & Blower
 
-## Serpentín
+Los motores de accionamiento directo,
+de 3 velocidades, proporcionan
+selecciones de flujo de aire para
+satisfacer las aplicaciones deseadas.
+Ventilador grande de $10", viento
+potente.
 
-Serpentín en forma de "A", construido con tubos de cobre y aletas de aluminio mejoradas.
-![img-152.jpeg](img-152.jpeg)
-![img-153.jpeg](img-153.jpeg)
+### Serpentín
 
-Filtro Opcional
-Filtro de aire desmontable para limpieza o renovación.
-![img-154.jpeg](img-154.jpeg)
+Serpentín en forma de "A", construido con tubos
+de cobre y aletas de aluminio mejoradas.
 
-## Instalación en Múltiples
+### Filtro Opcional
 
-Posiciones
-Diseño convertible versátil de 4 vías para flujo de aire vertical hacia arriba y flujo de aire horizontal hacia la derecha.
-![img-155.jpeg](img-155.jpeg)
-${ }^{a}$ Nota: La instalación del flujo de aire vertical ascendente y del flujo de aire horizontal derecho debe personalizarse.
+Filtro de aire desmontable para
+limpieza o renovación.
 
-| Nombre del Modelo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+## Instalación en Múltiples Posiciones
+
+Diseño convertible versátil de 4 vías
+para flujo de aire vertical hacia arriba
+y flujo de aire horizontal hacia la
+derecha.
+
+ttt
+
+*Nota: La instalación del flujo de aire vertical ascendente
+y del flujo de aire horizontal derecho debe personalizarse.
+
+<table>
+<tr>
+<th rowspan="3">Nombre del Modelo</th>
+<th rowspan="3">Potencia</th>
+<th colspan="4">Capacidad</th>
+<th rowspan="2">Consumo de energía</th>
+<th colspan="2" rowspan="2">Flujo de Aire</th>
+<th rowspan="2">Nivel de Sonido</th>
+<th rowspan="2">ESP</th>
+<th colspan="2">Dimensiones (WxHxD)</th>
+<th colspan="2">Peso</th>
+<th colspan="3">Tuberías de Conexión</th>
+<th rowspan="3">control estándar</th>
+</tr>
+<tr>
+<th colspan="2">Refrigeración</th>
+<th colspan="2">Calefacción</th>
+<th>Equipo</th>
+<th>Empaque</th>
+<th>Neto</th>
+<th>Bruto</th>
+<th>Gas</th>
+<th>Líquido</th>
+<th>Dreno</th>
+</tr>
+<tr>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>kW</th>
+<th>kBtu/h</th>
+<th>W</th>
+<th>M3/h</th>
+<th>CFM</th>
+<th>DB(A)</th>
+<th>Pa</th>
+<th>mm</th>
+<th>mm</th>
+<th>kg</th>
+<th>kg</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A71AH-HK4</td>
+<td>60Hz</td>
+<td>7.1</td>
+<td>24.1</td>
+<td>8.0</td>
+<td>27.2</td>
+<td>290</td>
+<td>1500</td>
+<td>882.3</td>
+<td>51~54</td>
+<td>25</td>
+<td>774x520×460</td>
+<td>834x520×565</td>
+<td>36</td>
+<td>39</td>
+<td>Ø15.88</td>
+<td>Ø9.52</td>
+<td>Ø20</td>
+<td></td>
+</tr>
+<tr>
+<td>ADN-A105AH-HK4</td>
+<td>60Hz</td>
+<td>10.5</td>
+<td>35.7</td>
+<td>11.5</td>
+<td>39.1</td>
+<td>290</td>
+<td>1500</td>
+<td>882.3</td>
+<td>51~54</td>
+<td>37</td>
+<td>774x520×460</td>
+<td>834x520×565</td>
+<td>36</td>
+<td>39</td>
+<td>Ø15.88</td>
+<td>Ø9.52</td>
+<td>Ø20</td>
+<td>Control alámbrico</td>
+</tr>
+<tr>
+<td>ADN-A160AH-HK4</td>
+<td>60Hz</td>
+<td>16.0</td>
+<td>54.4</td>
+<td>18.0</td>
+<td>61.2</td>
+<td>517</td>
+<td>2500</td>
+<td>1470.6</td>
+<td>57~60</td>
+<td>50</td>
+<td>970x550×500</td>
+<td>1030x560x595</td>
+<td>48</td>
+<td>52</td>
+<td>Ø15.88</td>
+<td>Ø9.52</td>
+<td>Ø20</td>
+<td></td>
+</tr>
+</table>
+
+Notas:
+
+1\. Alimentación: 208-230 V/1 N/60 Hz;
+
+2\. Condiciones de prueba de refrigeración: lado interior 27° BS, 19° WB, lado exterior 35° BS. Condiciones de prueba de calefacción: lado interior 20° BS, 15° WB, lado exterior 7ºBS;
+
+3\. Nivel de sonido: medido en un punto situado a 1 minuto frente a la unidad a una altura de 1,5 m. Durante el funcionamiento real, estos valores suelen ser algo más altos como
+resultado de las condiciones ambientales.
+
+4\. Los datos anteriores pueden cambiar sin previo aviso para futuras mejoras en la calidad y el rendimiento.
+
+ADINA®
+®
+
+<!-- PageNumber="49" -->
+<!-- PageBreak -->
+
 
 
 ================================================================================
 PAGE 50
 ================================================================================
 
-![img-156.jpeg](img-156.jpeg)
 
 # Controles y Software
 
 ## Controles Inalámbricos
 
-![img-157.jpeg](img-157.jpeg)
+ADINA®
+®
+
+<!-- PageNumber="50" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 51
 ================================================================================
 
-# 40N 
 
 ## Controles Alámbricos
 
-![img-158.jpeg](img-158.jpeg)
-
 ADN-WCON
 
-Comunicación bidireccional. Los parámetros de funcionamiento de la unidad - Interior (código de error, temperatura, dirección) se pueden consultar y visualizar en el controlador.
+Comunicación bidireccional. Los parámetros de funcionamiento de la unidad
+· interior (código de error, temperatura, dirección) se pueden consultar y
+visualizar en el controlador.
 
-- Diseño compacto
-- Función de temporizador
-- Configuración en grados Fahrenheit/centígrados
-- Configuración de dirección
-- Ajuste del tono del botón de presión
+O · Diseño compacto
 
+· Función de temporizador
+
+OF/℃ · Configuración en grados Fahrenheit/centígrados
+
+· Configuración de dirección
+
+· Ajuste del tono del botón de presión
 
 ## Controles Alámbricos con Pantalla Táctil
 
-![img-159.jpeg](img-159.jpeg)
-
-Función de recordatorio de limpieza del filtro de aire.
-Pantalla táctil con fondo negro y luz azul.
-El cuerpo ultrodelgado y el diseño elegante se adaptan a entornos de alta gama.
-Encendido/apagado, ajuste de temperatura, ajuste de velocidad del ventilador, ajuste de modo, temporizador y función de verificación.
-![img-160.jpeg](img-160.jpeg)
-
-ADN-WCONTCH-W
-
 ## Control Centralizado
 
-![img-161.jpeg](img-161.jpeg)
+· Fácil de instalar. El controlador se conecta
+únicamente a las unidades exteriores.
 
-- Fácil de instalar. El controlador se conecta únicamente a las unidades exteriores.
-- 1 controlador puede controlar un máximo de 100 unidades interiores.
-- Función de bloqueo de modo, el usuario puede bloquear el modo de funcionamiento de la unidad interior.
-- Construido en protocolo Modbus.
+· 1 controlador puede controlar un máximo de
+100 unidades interiores.
 
+· Función de bloqueo de modo, el usuario
+puede bloquear el modo de funcionamiento
+de la unidad interior.
+
+· Construido en protocolo Modbus.
 
 ## Administrador Inteligente
 
-- Disponible en iOS y Android
-![img-162.jpeg](img-162.jpeg)
-- Control remoto a través de servidor en la nube
-![img-163.jpeg](img-163.jpeg)
-- Controlador de unidad única o control de grupo
-- Gestión de la programación semanal
-- Se pueden controlar 100 unidades interiores
-- Consulta de parámetros de operación
-![img-164.jpeg](img-164.jpeg)
+· Disponible en $\cos y$ Android
 
-ADN-CBOK-W
+· Control remoto a través de servidor en la nube
+
+· Controlador de unidad única o control de grupo
+
+· Gestión de la programación semanal
+
+· Se pueden controlar 100 unidades interiores
+
+· Consulta de parámetros de operación
+
+ADN-CBOX-W
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="51" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 52
 ================================================================================
 
-# Control Centralizado con Pantalla Táctil 
+ADN
 
-![img-165.jpeg](img-165.jpeg)
+## Control Centralizado con Pantalla Táctil
 
 ## Red de Sistemas de Control Centralizado
 
-![img-166.jpeg](img-166.jpeg)
+<table>
+<tr>
+<td></td>
+<td>Control centralizado</td>
+</tr>
+<tr>
+<td>$</td>
+<td>Gestión de la carga eléctrica</td>
+</tr>
+<tr>
+<td>É</td>
+<td>Registro de datos de operación</td>
+</tr>
+<tr>
+<td>EX</td>
+<td>Gestión de horarios</td>
+</tr>
+</table>
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="52" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 53
 ================================================================================
 
-# Puerta de Enlace BMS 
+ADN
 
-Gateway Modbus | Caja Modbus independiente o integrada con unidad exterior.
-Gateway BACnet | Gateway Modbus, protocolo IP BACnet.
-![img-167.jpeg](img-167.jpeg)
+## Puerta de Enlace BMS
 
-- El kit AHU es una interfaz que permite que las unidades AHU de otros fabricantes se conecten a unidades exteriores ADN VRF.
-- Sin límite de direcciones y direccionamiento automático.
-- Tipo dividido, conveniente para la instalación.
-- Una parte eléctrica tiene una dirección y puede conectar un máximo de 4 partes EXV.
-- Un kit AHU puede conectar hasta 120 HP como máximo.
+Gateway Modbus
+Gateway BACnet
+
+Caja Modbus independiente o integrada con unidad exterior.
+Gateway Modbus, protocolo IP BACnet.
+
+· El kit AHU es una interfaz que permite que las unidades AHU de
+otros fabricantes se conecten a unidades exteriores ADN VRF.
+
+· Sin límite de direcciones y direccionamiento automático.
+
+· Tipo dividido, conveniente para la instalación.
+
+· Una parte eléctrica tiene una dirección y puede conectar un
+máximo de 4 partes EXV.
+
+· Un kit AHU puede conectar hasta 120 HP como máximo.
+
+AHU Kit
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="53" -->
+<!-- PageBreak -->
 
 
-## AHU Kit
-
-![img-168.jpeg](img-168.jpeg)
 
 ================================================================================
 PAGE 54
 ================================================================================
 
-![img-169.jpeg](img-169.jpeg)
 
-![img-170.jpeg](img-170.jpeg)
+## ADN
 
-# Software de Selección VRF 
+## Software de Selección VRF
 
-El software de selección proporciona una selección completa de informes y cálculos de diseño de sistemas. En función de las unidades seleccionadas, el software produce cálculos detallados de requisitos de tuberías y diseño de sistemas, lo que mejora enormemente la eficiencia del trabajo.
-![img-171.jpeg](img-171.jpeg)
+El software de selección proporciona una selección completa de informes y cálculos de diseño de sistemas. En función de las
+unidades seleccionadas, el software produce cálculos detallados de requisitos de tuberías y diseño de sistemas, lo que mejora
+enormemente la eficiencia del trabajo.
 
-Piping diagram
-![img-172.jpeg](img-172.jpeg)
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="54" -->
+<!-- PageBreak -->
 
-Selección del Controlador
-![img-173.jpeg](img-173.jpeg)
 
-Wiring diagram
-![img-174.jpeg](img-174.jpeg)
-
-Reporte
 
 ================================================================================
 PAGE 55
 ================================================================================
 
-![img-175.jpeg](img-175.jpeg)
 
-# Contactanos
+## ADN
 
-www.adinausa.com | adina | adina_airconditioning
+ADK
 
-A-ADN-CAT-0E02501
+ADINA
+
+Contáctanos
+
+®
+
+f
+
+in J
+
+www.adinausa.com
+
+adina
+
+adina_airconditioning
+
+<!-- PageFooter="A-ADN-CAT-OE02501" -->
+

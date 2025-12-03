@@ -1,129 +1,703 @@
 # VENTO-C-1818_ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+# Planos Explosionados Unidad Interior 18K
 
-# Planos Explosionados
+<table>
+<tr>
+<th colspan="5"></th>
+</tr>
+<tr>
+<th>No.</th>
+<th>Descripción del Material</th>
+<th>Código</th>
+<th>Qty</th>
+<th>Opcional</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Front panel subassembly</td>
+<td>950142321</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Front panel</td>
+<td>950142812</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2-1</td>
+<td>Decorative strip(left)</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>2-2</td>
+<td>Decorative strip(right)</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>2-3</td>
+<td>Display window</td>
+<td>/</td>
+<td>/</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Air filter</td>
+<td>811335841</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>3-1</td>
+<td>Functional filter</td>
+<td>/</td>
+<td>/</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Medium frame</td>
+<td>950049228</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Screw cover</td>
+<td>811336332</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Evaporator subassembly</td>
+<td>811313126</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>PTC</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Crossflow fan</td>
+<td>811348582</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Bottom frame subassembly</td>
+<td>811349038</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>Wire entanglement</td>
+<td>/</td>
+<td>/</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Bearing</td>
+<td>810554649</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Shaft sleeve</td>
+<td>810548012</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Stepping motor</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Left deckboard</td>
+<td>811335798</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Blade subassembly</td>
+<td>811398054</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Shaft sleeve</td>
+<td>811335807</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Stepping motor</td>
+<td>810835647</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Drainage pipe subassembly</td>
+<td>810829755</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>Wall-Mounting frame</td>
+<td>811335868</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>Display box assembly</td>
+<td>811421021</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>Display box</td>
+<td>811336331</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>Display P.C.B assembly</td>
+<td>811421006</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>Voice component</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>24</td>
+<td>WIFI subassembly</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Positive and negative ion generate</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>26</td>
+<td>UVC</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Motor cover</td>
+<td>811335888</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td>Motor pressure plate</td>
+<td>811335886</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2">29</td>
+<td rowspan="3">Fan motor</td>
+<td>810763374</td>
+<td rowspan="3">1</td>
+<td rowspan="3"></td>
+</tr>
+<tr>
+<td>810962869</td>
+</tr>
+<tr>
+<td></td>
+<td>811013575</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Motor bracket</td>
+<td>811335818</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td>Mounting plate</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Right deckboard</td>
+<td>811335894</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td>Pipe pressure plate</td>
+<td>811335812</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td>Electric control box board</td>
+<td>950041442</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td>Electirc control box</td>
+<td>950041298</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
+<td>Terminal board</td>
+<td>860024870</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
+<td>Transformer</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Wire pressure plate</td>
+<td>810548011</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td>P.C.B assembly</td>
+<td>950124568</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td>Room temperature sensor</td>
+<td>811047423</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>41</td>
+<td>Pipe temperature sensor</td>
+<td>810203417</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>42</td>
+<td>Power line</td>
+<td>810527847</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>43</td>
+<td>Electirc control subassembly</td>
+<td>950126223</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>44</td>
+<td>Remote control</td>
+<td>950110571</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>45</td>
+<td>Remote control bracket</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+</table>
 
-## Unidad Interior
+<!-- PageBreak -->
 
-### 18K
 
-|  No. | Descripción del Material | Código | Qty | Opcional  |
-| --- | --- | --- | --- | --- |
-|  1 | Front panel subassembly | 950142321 | 1 |   |
-|  2 | Front panel | 950142812 | 1 |   |
-|  2-1 | Decorative strip(left) |  | 1 | Opcional  |
-|  2-2 | Decorative strip(right) |  | 1 | Opcional  |
-|  2-3 | Display window | / | / | Opcional  |
-|  3 | Air filter | 811335841 | 2 |   |
-|  3-1 | Functional filter | / | / | Opcional  |
-|  4 | Medium frame | 950049228 | 1 |   |
-|  5 | Screw cover | 811336332 | 1 |   |
-|  6 | Evaporator subassembly | 811313126 | 1 |   |
-|  7 | PTC |  | 1 | Opcional  |
-|  8 | Crossflow fan | 811348582 | 1 |   |
-|  9 | Bottom frame subassembly | 811349038 | 1 |   |
-|  10 | Wire entanglement | / | / | Opcional  |
-|  11 | Bearing | 810554649 | 1 |   |
-|  12 | Shaft sleeve | 810548012 | 1 |   |
-|  13 | Stepping motor |  | 1 | Opcional  |
-|  14 | Left deckboard | 811335798 | 1 |   |
-|  15 | Blade subassembly | 811398054 | 1 |   |
-|  16 | Shaft sleeve | 811335807 | 1 |   |
-|  17 | Stepping motor | 810835647 | 1 |   |
-|  18 | Drainage pipe subassembly | 810829755 | 1 |   |
-|  19 | Wall-Mounting frame | 811335868 | 1 |   |
-|  20 | Display box assembly | 811421021 | 1 |   |
-|  21 | Display box | 811336331 | 1 |   |
-|  22 | Display P.C.B assembly | 811421006 | 1 |   |
-|  23 | Voice component |  | 1 | Opcional  |
-|  24 | WIFI subassembly |  | 1 | Opcional  |
-|  25 | Positive and negative ion generate |  | 1 | Opcional  |
-|  26 | UVC |  | 1 | Opcional  |
-|  27 | Motor cover | 811335888 | 1 |   |
-|  28 | Motor pressure plate | 811335886 | 1 |   |
-|  29 | Fan motor | 810763374
-810962869
-811013575 | 1 |   |
-|  30 | Motor bracket | 811335818 | 1 |   |
-|  31 | Mounting plate |  | 1 | Opcional  |
-|  32 | Right deckboard | 811335894 | 1 |   |
-|  33 | Pipe pressure plate | 811335812 | 1 |   |
-|  34 | Electric control box board | 950041442 | 1 |   |
-|  35 | Electric control box | 950041298 | 1 |   |
-|  36 | Terminal board | 860024870 | 1 |   |
-|  37 | Transformer |  | 1 | Opcional  |
-|  38 | Wire pressure plate | 810548011 | 1 |   |
-|  39 | P.C.B assembly | 950124568 | 1 |   |
-|  40 | Room temperature sensor | 811047423 | 1 |   |
-|  41 | Pipe temperature sensor | 810203417 | 1 |   |
-|  42 | Power line | 810527847 | 1 |   |
-|  43 | Electric control subassembly | 950126223 | 1 |   |
-|  44 | Remote control | 950110571 | 1 |   |
-|  45 | Remote control bracket |  | 1 | Opcional  |
-
-![img-1.jpeg](img-1.jpeg)
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# Planos Explosionados
 
-Unidad Exterior 18K
+# Planos Explosionados Unidad Exterior 18K
 
-|  No. | Descripción del Material | Código | Qty | Opcional  |
-| --- | --- | --- | --- | --- |
-|  1 | La cubierta de la red frontal | 811025406 | 1 |   |
-|  2 | El panel frontal | 811025444 | 1 |   |
-|  3 | Ventilador de flujo axial | 950043825 | 1 |   |
-|  4 | Motor del ventilador | 811376504 | 1 |   |
-|   |  | 811376505 |  |   |
-|   |  | 950078474 |  |   |
-|  5 | Soporte del motor | 811025439 | 1 |   |
-|  6 | Compresor | 811424762 | 1 |   |
-|  7 | Ensamble del condensador | 811261632 | 1 |   |
-|  8 | Placa de montaje en esquina | 811025441 | 1 |   |
-|  9 | Panel de cubierta | 811025445 | 1 |   |
-|  10 | Cubierta de red trasera (plástico) | 811088673 | 1 | Opcional  |
-|  11 | Cubierta de red lateral (metal) |  | 1 | Opcional  |
-|  12 | Cubierta de red trasera (metal) |  | 1 | Opcional  |
-|  13 | Subensamble de control eléctrico (inversor) | 950047631 | 1 |   |
-|  14 | Ensamble de P.C.B del inversor | 950047718 | 1 |   |
-|  15 | Placa de terminales | 810811295 | 1 |   |
-|  16 | Placa superior de instalación eléctrica | 810530815 | 1 |   |
-|  17 | Placa inferior de instalación eléctrica | 810536134 | 1 |   |
-|  18 | Base de terminales (inversor) | 811025429 | 1 |   |
-|  19 | Sensor de temperatura exterior (amarillo) | 810650742 | 1 |   |
-|  20 | Sensor de temperatura de tubería (rojo) | 810650743 | 1 |   |
-|  21 | Sensor de temperatura de escape (negro) | 810650744 | 1 |   |
-|  22 | Subensamble de control eléctrico (frecuencia constante) |  | 1 |   |
-|  23 | Capacitor de membrana (compresor) |  | 1 |   |
-|  24 | Capacitor de membrana (motor del ventilador) |  | 1 |   |
-|  25 | Clip de capacitor |  | 1 | ON OFF Opcional  |
-|  26 | Placa de terminales |  | 1 |   |
-|  27 | Placa superior de instalación eléctrica |  | 1 |   |
-|  28 | Placa inferior de instalación eléctrica |  | 1 |   |
-|  29 | Base de terminales (frecuencia constante) |  | 1 |   |
-|  30 | Reactor |  | 1 | Opcional  |
-|  31 | Panel insonorizante | 811026119 | 1 |   |
-|  32 | Soporte del sensor | 950073170 | 1 | Opcional  |
-|  33 | Subensamble de cubierta eléctrica | 810766211 | 1 |   |
-|  34 | Panel lateral derecho | 811025412 | 1 |   |
-|  35 | Cubierta de la válvula | 810828090 | 1 | Opcional  |
-|  36 | Componentes capilares | 811420845 | 1 |   |
-|  37 | Válvula de corte (pequeña) | 811099647 | 1 |   |
-|  38 | Placa de montaje de la válvula | 811025407 | 1 |   |
-|  39 | Ensamble del piso | 811134756 | 1 |   |
-|  40 | Ensamble de la válvula de cuatro vías |  | 1 | Opcional  |
-|  41 | Válvula de corte (grande) | 810804541 | 1 |   |
-|   |  | 810841189 |  |   |
-|   |  | 810845897 |  |   |
-|  42 | Ensamble de tubería de succión | 950042434 | 1 |   |
-|  43 | Tubería de escape de gas | 950052343 | 1 |   |
-|  44 | Válvula de cuatro vías |  | 1 | Opcional  |
+<table>
+<tr>
+<th colspan="5"></th>
+</tr>
+<tr>
+<th>No.</th>
+<th>Descripción del Material</th>
+<th>Código</th>
+<th>Qty</th>
+<th>Opcional</th>
+</tr>
+<tr>
+<td>1</td>
+<td>La cubierta de la red frontal</td>
+<td>811025406</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>El panel frontal</td>
+<td>811025444</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ventilador de flujo axial</td>
+<td>950043825</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3">4</td>
+<td rowspan="3">Motor del ventilador</td>
+<td>811376504</td>
+<td rowspan="2">1</td>
+<td rowspan="3"></td>
+</tr>
+<tr>
+<td>811376505</td>
+</tr>
+<tr>
+<td>950078474</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Soporte del motor</td>
+<td>811025439</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Compresor</td>
+<td>811424762</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Ensamble del condensador</td>
+<td>811261632</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Placa de montaje en esquina</td>
+<td>811025441</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Panel de cubierta</td>
+<td>811025445</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>Cubierta de red trasera (plástico)</td>
+<td>811088673</td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Cubierta de red lateral (metal)</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Cubierta de red trasera (metal)</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Subensamble de control eléctrico (inversor)</td>
+<td>950047631</td>
+<td>1</td>
+<td rowspan="9">INVERTER Opcional</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Ensamble de P.C.B del inversor</td>
+<td>950047718</td>
+<td>1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Placa de terminales</td>
+<td>810811295</td>
+<td>1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Placa superior de instalación eléctrica</td>
+<td>810530815</td>
+<td>1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Placa inferior de instalación eléctrica</td>
+<td>810536134</td>
+<td>1</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Base de terminales (inversor)</td>
+<td>811025429</td>
+<td>1</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Sensor de temperatura exterior (amarillo)</td>
+<td>810650742</td>
+<td>1</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Sensor de temperatura de tubería (rojo)</td>
+<td>810650743</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Sensor de temperatura de escape (negro)</td>
+<td>810650744</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Subensamble de control eléctrico (frecuencia constante)</td>
+<td></td>
+<td>1</td>
+<td rowspan="8">ON OFF Opcional</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Capacitor de membrana (compresor)</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Capacitor de membrana (motor del ventilador)</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Clip de capacitor</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Placa de terminales</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Placa superior de instalación eléctrica</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Placa inferior de instalación eléctrica</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Base de terminales (frecuencia constante)</td>
+<td></td>
+<td>1</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Reactor</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Panel insonorizante</td>
+<td>811026119</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td>Soporte del sensor</td>
+<td>950073170</td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Subensamble de cubierta eléctrica</td>
+<td>810766211</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td>Panel lateral derecho</td>
+<td>811025412</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td>Cubierta de la válvula</td>
+<td>810828090</td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Componentes capilares</td>
+<td>811420845</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
+<td>Válvula de corte (pequeña)</td>
+<td>811099647</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td>Placa de montaje de la válvula</td>
+<td>811025407</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td>Ensamble del piso</td>
+<td>811134756</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
+<td>Ensamble de la válvula de cuatro vías</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td rowspan="3">41</td>
+<td rowspan="3">Válvula de corte (grande)</td>
+<td>810804541</td>
+<td rowspan="3">1</td>
+<td rowspan="3"></td>
+</tr>
+<tr>
+<td>810841189</td>
+</tr>
+<tr>
+<td>810845897</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Ensamble de tubería de succión</td>
+<td>950042434</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>43</td>
+<td>Tubería de escape de gas</td>
+<td>950052343</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>44</td>
+<td>Válvula de cuatro vías</td>
+<td></td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+</table>
+
+<!-- PageNumber="2" -->
+

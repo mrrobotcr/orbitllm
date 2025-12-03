@@ -1,195 +1,856 @@
 # AALEF-T-R410-BROCHURE-TEC-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+ADINA®
+®
+Air Conditioning
 
-# Alta Eficiencia hasta SEER 19 
+<!-- PageNumber="265" -->
 
-Las unidades Mini Split serie ALEF de ADINA, brindan un diseño moderno y discreto. Gracias a sus suaves curvas, se adaptan perfectamente a las paredes; armonizando todo tipo de decoraciones de interiores. Además, cuentan con una estructura liviana y compacta.
-![img-1.jpeg](img-1.jpeg)
+ALEF
+SERIES
 
-## ¡Estilo y ahorro a tu alcance!
+# Alta Eficiencia hasta SEER 19
 
-- Serpentines de Cobre con Aletas de Aluminio
-- Protección
-![img-2.jpeg](img-2.jpeg)
+Las unidades Mini Split serie ALEF de
+ADINA, brindan un diseño moderno y
+discreto. Gracias a sus suaves curvas, se
+adaptan perfectamente a las paredes;
+armonizando todo tipo de decoraciones de
+interiores. Además, cuentan con una
+estructura liviana y compacta.
+
+Botón de
+emergencia
+
+Anti-frío
+
+Deshumidificador
+independiente
+
+Modo
+silencioso
+
+Bajo nivel
+de ruido
+
+Temporizador
+24 horas
+
+# ¡Estilo y ahorro a tu alcance!
+
+· Serpentines de Cobre
+con Aletas de Aluminio
+
+· Protección
+
+ALEF
+SERIES
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
+
 # Especificaciones técnicas
 
-|  Modelo del sistema |  | AALEF-T-1216-110 | AALEF-T-1216 | AALEF-T-1817 | AALEF-T-2417  |
-| --- | --- | --- | --- | --- | --- |
-|  Modelo unidad interior |  | AALEF-T-1216-110-I | AALEF-T-1216-I | AALEF-T-1817-I | AALEF-T-2417-I  |
-|  Modelo unidad exterior |  | AALEF-T-1216-110-E | AALEF-T-1216-E | AALEF-T-1817-E | AALEF-T-2417-E  |
-|  Tipo |  | Solo Frío | Solo Frío | Solo Frío | Solo Frío  |
-|  Tipo de Control |  | Remoto | Remoto | Remoto | Remoto  |
-|  Capacidad de refrigeración nominal |  | $\mathrm{Btu} / \mathrm{h} / \mathrm{W}$ | 11500(2050-12825) | 11500(2730-12965) | 18000,5275  |
-|  Eficiencia (SEER) |  | W/W | 16 | 16 | 17  |
-|  Eliminación de humedad |  | Litros/h | 1,3 | 1,3 | 1,8  |
-|  Presión | Alta(DP) | MPa | 4,5 | 4,5 | 4,5  |
-|   | Baja(SP) | MPa | 1,9 | 1,9 | 1,9  |
-|  Nivel de ruido interior | Alta(DP) | dB(A) | 38 | 38 | 44  |
-|   | Medio | dB(A) | 34 | 34 | 40  |
-|   | Baja(SP) | dB(A) | 30 | 30 | 36  |
-|  Nivel de ruido exterior |  | dB(A) | 52 | 52 | 55  |
+<table>
+<tr>
+<th colspan="3">Modelo del sistema</th>
+<th>AALEF-T-1216-110</th>
+<th>AALEF-T-1216</th>
+<th>AALEF-T-1817</th>
+<th>AALEF-T-2417</th>
+</tr>
+<tr>
+<th colspan="3">Modelo unidad interior</th>
+<th>AALEF-T-1216-110-I</th>
+<th>AALEF-T-1216-I</th>
+<th>AALEF-T-1817-1</th>
+<th>AALEF-T-2417-I</th>
+</tr>
+<tr>
+<th colspan="3">Modelo unidad exterior</th>
+<th>AALEF-T-1216-110-E</th>
+<th>AALEF-T-1216-E</th>
+<th>AALEF-T-1817-E</th>
+<th>AALEF-T-2417-E</th>
+</tr>
+<tr>
+<th colspan="3">Tipo</th>
+<th>Solo Frío</th>
+<th>Solo Frío</th>
+<th>Solo Frío</th>
+<th>Solo Frío</th>
+</tr>
+<tr>
+<td colspan="3">Tipo de Control</td>
+<td>Remoto</td>
+<td>Remoto</td>
+<td>Remoto</td>
+<td>Remoto</td>
+</tr>
+<tr>
+<td colspan="2">Capacidad de refrigeración nominal</td>
+<td>Btu/h;W</td>
+<td>11500(2050~12625)</td>
+<td>11500(2730~12965)</td>
+<td>18000;5275</td>
+<td>24000;7030</td>
+</tr>
+<tr>
+<td colspan="2">Eficiencia (SEER)</td>
+<td>W/W</td>
+<td>16</td>
+<td>16</td>
+<td>17</td>
+<td>17</td>
+</tr>
+<tr>
+<td colspan="2">Eliminación de humedad</td>
+<td>Litros/h</td>
+<td>1,3</td>
+<td>1,3</td>
+<td>1,8</td>
+<td>2,2</td>
+</tr>
+<tr>
+<td rowspan="2">Presión</td>
+<td>Alta(DP)</td>
+<td>MPa</td>
+<td>4,5</td>
+<td>4,5</td>
+<td>4,5</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>Baja(SP)</td>
+<td>MPa</td>
+<td>1,9</td>
+<td>1,9</td>
+<td>1,9</td>
+<td>1,9</td>
+</tr>
+<tr>
+<td rowspan="3">Nivel de ruido interior</td>
+<td>Alta(DP)</td>
+<td>dB(A)</td>
+<td>38</td>
+<td>38</td>
+<td>44</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Medio</td>
+<td>dB(A)</td>
+<td>34</td>
+<td>34</td>
+<td>40</td>
+<td>46</td>
+</tr>
+<tr>
+<td>Baja(SP)</td>
+<td>dB(A)</td>
+<td>30</td>
+<td>30</td>
+<td>36</td>
+<td>42</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de ruido exterior</td>
+<td>dB(A)</td>
+<td>52</td>
+<td>52</td>
+<td>55</td>
+<td>62</td>
+</tr>
+</table>
 
 ## Datos Eléctricos
 
-|  Fuente de alimentación |  |  | 115V-50Hz/1P | 208-230V-50Hz/1P | 208-230V-50Hz/1P | 208-230V-50Hz/1P  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  Rango de voltaje |  | V | 105-125 | 165-265 | 165-265 | 165-265  |
-|  Corriente Nominal | Entramiento | A | 11.6(2.0-13.0) | 5.5(1.2-7.3) | 8.4(1.3-12.0) | 10.9(2.5-13.5)  |
-|  Entrada Nominal | Entramiento | W | 1278(200-1450) | 1217(250-1600) | 1847(300-2100) | 2395(300-2800)  |
-|  Corriente Máxima | Entramiento | A | 13,0 | 7,3 | 12,0 | 13,5  |
-|  Entrada de potencia máxima | Entramiento | W | 1450 | 1600 | 2100 | 2800  |
+<table>
+<tr>
+<th colspan="3">Fuente de alimentación</th>
+<th>115V~/60Hz/1P</th>
+<th>208-230V~/60Hz/1P</th>
+<th>208-230V~/60Hz/1P</th>
+<th>208-230V~/60Hz/1P</th>
+</tr>
+<tr>
+<th colspan="2">Rango de voltaje</th>
+<th>V</th>
+<th>105~125</th>
+<th>165~265</th>
+<th>165~265</th>
+<th>165~265</th>
+</tr>
+<tr>
+<td>Corriente Nominal</td>
+<td>Enfriamiento</td>
+<td>A</td>
+<td>11.6(2.0~13.0)</td>
+<td>5.5(1.2~7.3)</td>
+<td>8.4(1.3~12.0)</td>
+<td>$1 0 . 9 \left( 2 . 5 \sim 1 3 . 5 \right)$</td>
+</tr>
+<tr>
+<td>Entrada Nominal</td>
+<td>Enfriamiento</td>
+<td>W</td>
+<td>1278(200~1450)</td>
+<td>1217(250~1600)</td>
+<td>1847(300~2100)</td>
+<td>2395(300~2800)</td>
+</tr>
+<tr>
+<td>Corriente Máxima</td>
+<td>Enfriamiento</td>
+<td>A</td>
+<td>13,0</td>
+<td>7,3</td>
+<td>12,0</td>
+<td>13,5</td>
+</tr>
+<tr>
+<td>Entrada de potencia máxima</td>
+<td>Enfriamiento</td>
+<td>W</td>
+<td>1450</td>
+<td>1600</td>
+<td>2100</td>
+<td>2800</td>
+</tr>
+</table>
 
 ## Sistema de Refrigeración
 
-|  Refrigerante |  | R410A/530g | R410A/530g | R410A/680g | R410A/690g  |
-| --- | --- | --- | --- | --- | --- |
-|  Compresor | Tipo | Rotativo | Rotativo | Rotativo | Rotativo  |
-|   | Modelo | KSK100D33UEZC3 | KSK103D33UEZC3 | KSN140D33UFZ3 | C-6RZ146H3DBF  |
-|   | MFG | GMCC | GMCC | GMCC | S/MYD  |
-|   | Evaporadora | $\phi 7+2$ | $\phi 7+2$ | $\phi 7+2$ | $\phi 7+2$  |
-|   | Condensadora | $\phi 5+1$ | $\phi 5+1$ | $\phi 5+1$ | $\phi 5+2$  |
-|  Material y Tipo de Aleta |  | Alumno Hídrillo | Alumno Hídrillo | Alumno Hídrillo | Alumno Hídrillo  |
-|  Material y Tipo de Tubería |  | Cobre Renurado | Cobre Renurado | Cobre Renurado | Cobre Renurado  |
+<table>
+<tr>
+<th colspan="2">Refrigerante</th>
+<th>R410A/530g</th>
+<th>R410A/530g</th>
+<th>R410A/680g</th>
+<th>R410A/990g</th>
+</tr>
+<tr>
+<td rowspan="3">Compresor</td>
+<td>Tipo</td>
+<td>Rotativo</td>
+<td>Rotativo</td>
+<td>Rotativo</td>
+<td>Rotativo</td>
+</tr>
+<tr>
+<td>Modelo</td>
+<td>KSK103D33UEZC3</td>
+<td>KSK103D33UEZC3</td>
+<td>KSN140D33UFZ3</td>
+<td>C-6RZ146H3DBF</td>
+</tr>
+<tr>
+<td>MFG</td>
+<td>GMCC</td>
+<td>GMCC</td>
+<td>GMCC</td>
+<td>SANYO</td>
+</tr>
+<tr>
+<td colspan="2">Evaporadora</td>
+<td>@7x2</td>
+<td>φ7x2</td>
+<td>φ7x2</td>
+<td>¢7×2</td>
+</tr>
+<tr>
+<td colspan="2">Condensadora</td>
+<td>05×1</td>
+<td>¢5×1</td>
+<td>95×1</td>
+<td>¢5×2</td>
+</tr>
+<tr>
+<td colspan="2">Material y Tipo de Aleta</td>
+<td>Aluminio Hidrófilo</td>
+<td>Aluminio Hidrófilo</td>
+<td>Aluminio Hidrófilo</td>
+<td>Aluminio Hidrófilo</td>
+</tr>
+</table>
+
+Material y Tipo de Tubería
+
+Cobre Ranurado
+
+Cobre Ranurado
+
+Cobre Ranurado
+
+Cobre Ranurado
 
 ## Sistema de Ventilador
 
-|  Circulación de aire interior (refrigeración) |  | $\omega^{2} / \mathrm{h}$ | 500 | 500 | 950 | 1300  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  Tipo de ventilador interior |  |  | Flujo cruzado | Flujo cruzado | Flujo cruzado | Flujo cruzado  |
-|  Velocidad del ventilador
-(Ata/Baja/Media) | Entramiento | rpm | 1250/1150/950/750/600 | 1250/1150/950/750/600 | 1350/1250/1050/850/750 | 1270/1200/1100/920/8  |
-|   | Deshumidificación | rpm | 1250 | 1250 | 1350 | 1270  |
-|   | Modo Silencioso | rpm | 750 | 750 | 850 | 920  |
-|  Motor de ventilador interior |  |  | 22001-000238 | 22001-000269 | 22001-000409 | 22001-000240  |
-|   |  |  |  | 1170000047Q | 210900495H | 210900290B  |
-|  Salida del motor del ventilador interior |  | W | 20 | 14 | 20 | 45  |
-|  Tipo de ventilador exterior |  |  | Hótice | Hótice | Hótice | Hótice  |
-|  Motor de ventilador exterior |  |  | 22001-000493 | 22001-000493 | 22001-000551 | 22001-000551  |
-|  Velocidad del ventilador exterior |  | rpm | 1000 | 1000 | 1000 | 1000  |
-|  Salida del motor del ventilador exterior |  | W | 33 | 33 | 33 | 33  |
+<table>
+<tr>
+<th colspan="2">Circulación de aire interior (refrigeración)</th>
+<th>m3/h</th>
+<th>500</th>
+<th>500</th>
+<th>950</th>
+<th>1300</th>
+</tr>
+<tr>
+<td colspan="3">Tipo de ventilador interior</td>
+<td>Flujo cruzado</td>
+<td>Flujo cruzado</td>
+<td>Flujo cruzado</td>
+<td>Flujo cruzado</td>
+</tr>
+<tr>
+<td rowspan="3">Velocidad del ventilador (Alta/Baja/Media)</td>
+<td>Enfriamiento</td>
+<td>rpm</td>
+<td>1250/1150/950/750/600</td>
+<td>1250/1150/950/750/600</td>
+<td>1350/1250/1050/850/750</td>
+<td>1270/1200/1100/920/8 50</td>
+</tr>
+<tr>
+<td>Deshumidification</td>
+<td>rpm</td>
+<td>1250</td>
+<td>1250</td>
+<td>1350</td>
+<td>1270</td>
+</tr>
+<tr>
+<td>Modo Silencioso</td>
+<td>rpm</td>
+<td>750</td>
+<td>750</td>
+<td>850</td>
+<td>920</td>
+</tr>
+<tr>
+<td colspan="3">Motor de ventilador interior</td>
+<td>22001-000238</td>
+<td>22001-000269 1170030047G</td>
+<td>22001-000409 210900495H</td>
+<td>22001-000240 210900290B</td>
+</tr>
+<tr>
+<td colspan="2">Salida del motor del ventilador interior</td>
+<td>W</td>
+<td>20</td>
+<td>14</td>
+<td>25</td>
+<td>45</td>
+</tr>
+<tr>
+<td colspan="3">Tipo de ventilador exterior</td>
+<td>Hélice</td>
+<td>Hélice</td>
+<td>Hélice</td>
+<td>Hélice</td>
+</tr>
+<tr>
+<td colspan="3">Motor de ventilador exterior</td>
+<td>22001-000493</td>
+<td>22001-000493</td>
+<td>22001-000551</td>
+<td>22001-000551</td>
+</tr>
+<tr>
+<td colspan="2">Velocidad del ventilador exterior</td>
+<td>rpm</td>
+<td>1000</td>
+<td>1000</td>
+<td>1000</td>
+<td>1000</td>
+</tr>
+</table>
+
+Salida del motor del ventilador exterior
+
+W
+
+33
+
+33
+
+33
+
+33
 
 ## Conexiones
 
-|  Tubería de conexión | Gas | Polgadas | $3 / 8^{\prime \prime}$ | $3 / 8^{\prime \prime}$ | $3 / 8^{\prime \prime}$ | $1 / 2^{\prime \prime}$  |
-| --- | --- | --- | --- | --- | --- | --- |
-|   | Líquido | Polgadas | $1 / 4^{\prime \prime}$ | $1 / 4^{\prime \prime}$ | $1 / 4^{\prime \prime}$ | $1 / 4^{\prime \prime}$  |
-|  Cableado de conexión | Tamaño x Número de noción |  | $4+1.5 \mathrm{~mm} 2$ | $4+1.5 \mathrm{~mm} 2$ | $4+0.75 \mathrm{~mm} 2$ | $4+0.75 \mathrm{~mm} 2$  |
-|  Tubo de drenaje |  |  | O.D 16 mm | O.D 16 mm | O.D 16 mm | O.D 16 mm  |
+<table>
+<tr>
+<th rowspan="2">Tubería de conexión</th>
+<th>Gas</th>
+<th>Pulgadas</th>
+<th>3/8"</th>
+<th>3/8"</th>
+<th>3/8"</th>
+<th>1/2"</th>
+</tr>
+<tr>
+<th>Líquido</th>
+<th>Pulgadas</th>
+<th>1/4"</th>
+<th>1/4"</th>
+<th>1/4"</th>
+<th>1/4"</th>
+</tr>
+<tr>
+<td>Cableado de conexión</td>
+<td colspan="2">Tamaño x Número de núcleo</td>
+<td>4×1.5mm2</td>
+<td>4×1.0mm2</td>
+<td>4×0.75mm2</td>
+<td>4×0.75mm2</td>
+</tr>
+</table>
+
+Tubo de drenaje
+
+O.D 16mm
+
+O.D 16mm
+
+O.D 16mm
+
+O.D 16mm
 
 ## Otros
 
-|  Área |  | $\mathrm{m}^{2}$ | 15-23 | 15-23 | 20-35 | 30-50  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  Dimensiones natae (Aroho x
-Profundidad x Altura) | Interior | mm | 777+250+201 | 777+250+201 | 910+294+206 | 1010+315+220  |
-|   | Exterior | mm | 777+290+498 | 777+290+498 | 853+349+602 | 853+349+602  |
-|  Peso Neto | Interior | kg | 8 | 8 | 10 | 13  |
-|   | Exterior | kg | 21 | 21 | 26 | 30  |
-|  Dimensiones del embalaje
-(Aroho x Profundidad x Altura) | Interior | mm | 840+315+260 | 840+315+260 | 979+372+277 | 1099+390+297  |
-|   | Exterior | mm | 818+325+520 | 818+325+520 | 890+385+628 | 890+385+628  |
-|  Peso bruto con tubo | Interior | kg | 10 | 10 | 13 | 16  |
-|   | Exterior | kg | 24 | 24 | 30 | 35  |
-|  Capacidad de carga 40HQ con tubería |  | PCS | 310 | 310 | 212 | 198  |
+<table>
+<tr>
+<th colspan="2">Área</th>
+<th>m2</th>
+<th>15~23</th>
+<th>15~23</th>
+<th>20~35</th>
+<th>30~50</th>
+</tr>
+<tr>
+<td rowspan="2">Dimensiones netas (Ancho X Profundidad x Altura)</td>
+<td>Interior</td>
+<td>mm</td>
+<td>777×250×201</td>
+<td>777×250×201</td>
+<td>910×294×206</td>
+<td>1010×315×220</td>
+</tr>
+<tr>
+<td>Exterior</td>
+<td>mm</td>
+<td>777×290×498</td>
+<td>777×290×498</td>
+<td>853×349×602</td>
+<td>853×349×602</td>
+</tr>
+<tr>
+<td rowspan="2">Peso Neto</td>
+<td>Interior</td>
+<td>kg</td>
+<td>8</td>
+<td>8</td>
+<td>10</td>
+<td>13</td>
+</tr>
+<tr>
+<td>Exterior</td>
+<td>kg</td>
+<td>21</td>
+<td>21</td>
+<td>26</td>
+<td>30</td>
+</tr>
+<tr>
+<td rowspan="2">Dimensiones del embalaje (Ancho x Profundidad x Altura)</td>
+<td>Interior</td>
+<td>mm</td>
+<td>840×315×260</td>
+<td>840×315×260</td>
+<td>979×372×277</td>
+<td>1096×390×297</td>
+</tr>
+<tr>
+<td>Exterior</td>
+<td>mm</td>
+<td>818×325×520</td>
+<td>$8 1 8 \times 3 2 5 \times 5 2 0$</td>
+<td>$8 9 0 \times 3 8 5 \times 6 2 8$</td>
+<td>890×385×628</td>
+</tr>
+<tr>
+<td rowspan="2">Peso bruto con tubo</td>
+<td>Interior</td>
+<td>kg</td>
+<td>10</td>
+<td>10</td>
+<td>13</td>
+<td>16</td>
+</tr>
+<tr>
+<td>Exterior</td>
+<td>kg</td>
+<td>24</td>
+<td>24</td>
+<td>30</td>
+<td>35</td>
+</tr>
+</table>
+
+Capacidad de carga 40HQ con tubería
+
+PCS
+
+310
+
+310
+
+212
+
+196
+
+¡Estilo y ahorro a tu alcance!
+www.adinausa.com
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 3
 ================================================================================
 
+
 # Especificaciones técnicas
 
-|  Modelo del sistema |  | AALEF-T-3619N  |
-| --- | --- | --- |
-|  Modelo unidad interior |  | AALEF-T-3619N-I  |
-|  Modelo unidad exterior |  | AALEF-T-3619N-E  |
-|  Tipo |  | Refrigeración y Catefacción  |
-|  Tipo de control |  | Remoto  |
-|  Capacidad de refrigeración nominal |  | 36000(8870-38155)  |
-|   |  | W  |
-|  Capacidad de calefacción nominal |  | 36000(8550-38155)  |
-|  Eficiencia (SEER) |  | W/W  |
-|  COP para calefacción |  | W/W  |
-|  Eliminación de humedad |  | Litros/h  |
-|  Presión | Alta (DP) | MPa  |
-|   | Baja (SP) | MPa  |
-|  Nivel de ruido interior en refrigeración |  | dB(A)  |
-|   |  | dB(A)  |
-|  Nivel de ruido exterior |  | dB(A)  |
+<table>
+<tr>
+<th colspan="3">Modelo del sistema</th>
+<th>AALEF-T-3619N</th>
+</tr>
+<tr>
+<th colspan="3">Modelo unidad interior</th>
+<th>AALEF-T-3619N-I</th>
+</tr>
+<tr>
+<th colspan="3">Modelo unidad exterior</th>
+<th>AALEF-T-3619N-E</th>
+</tr>
+<tr>
+<td colspan="3">Tipo</td>
+<td>Refrigeración y Calefacción</td>
+</tr>
+<tr>
+<td colspan="3">Tipo de control</td>
+<td>Remoto</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">Capacidad de refrigeración nominal</td>
+<td>Btu/h</td>
+<td>36000(8870~38155)</td>
+</tr>
+<tr>
+<td>W</td>
+<td>10550(2600~11180)</td>
+</tr>
+<tr>
+<td colspan="2">Capacidad de calefacción nominal</td>
+<td>Btu/h</td>
+<td>36000(8530~38155)</td>
+</tr>
+<tr>
+<td colspan="2">Eficiencia (SEER)</td>
+<td>W/W</td>
+<td>19,0</td>
+</tr>
+<tr>
+<td colspan="2">COP para calefacción</td>
+<td>W/W</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td colspan="2">Eliminación de humedad</td>
+<td>Litros/h</td>
+<td>3,0</td>
+</tr>
+<tr>
+<td rowspan="2">Presión</td>
+<td>Alta (DP)</td>
+<td>MPa</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>Baja (SP)</td>
+<td>MPa</td>
+<td>1,9</td>
+</tr>
+<tr>
+<td rowspan="3">Nivel de ruido interior en refrigeración</td>
+<td>Ato</td>
+<td>dB(A)</td>
+<td>51</td>
+</tr>
+<tr>
+<td>Medio</td>
+<td>dB(A)</td>
+<td>46</td>
+</tr>
+<tr>
+<td>Bajo</td>
+<td>dB(A)</td>
+<td>40</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de ruido exterior</td>
+<td>dB(A)</td>
+<td>61</td>
+</tr>
+</table>
 
 ## Datos Eléctricos
 
-|  Fuente de alimentación |  | 208-230V/60Hz/1P  |
-| --- | --- | --- |
-|  Rango de voltaje |  | V  |
-|  Corriente Nominal | Enfriamiento | A  |
-|   | Catefacción | A  |
-|  Entrada Nominal | Enfriamiento | W  |
-|   | Catefacción | W  |
-|  Corriente Máxima | Enfriamiento | A  |
-|   | Catefacción | A  |
-|  Entrada de Potencia Máxima | Enfriamiento | W  |
-|   | Catefacción | W  |
+<table>
+<tr>
+<th colspan="3">Fuente de alimentación</th>
+<th>208-230V/60Hz/1P</th>
+</tr>
+<tr>
+<td colspan="2">Rango de voltaje</td>
+<td>V</td>
+<td>165~265</td>
+</tr>
+<tr>
+<td rowspan="2">Corriente Nominal</td>
+<td>Enfriamiento</td>
+<td>A</td>
+<td>18.1(1.9~19.0)</td>
+</tr>
+<tr>
+<td>Calefacción</td>
+<td>A</td>
+<td>17.1(1.7~18.5)</td>
+</tr>
+<tr>
+<td rowspan="2">Entrada Nominal</td>
+<td>Enfriamiento</td>
+<td>W</td>
+<td>4000(400~4400)</td>
+</tr>
+<tr>
+<td>Calefacción</td>
+<td>W</td>
+<td>3770(350~4150)</td>
+</tr>
+<tr>
+<td rowspan="2">Corriente Máxima</td>
+<td>Enfriamiento</td>
+<td>A</td>
+<td>19,0</td>
+</tr>
+<tr>
+<td>Calefacción</td>
+<td>A</td>
+<td>18,5</td>
+</tr>
+<tr>
+<td rowspan="2">Entrada de Potencia Máxima</td>
+<td>Enfriamiento</td>
+<td>W</td>
+<td>4400</td>
+</tr>
+<tr>
+<td>Calefacción</td>
+<td>W</td>
+<td>4150</td>
+</tr>
+</table>
 
 ## Sistema de Refrigeración
 
-|  Refrigerante/Carga |  | Gramo | R410A0450g  |
-| --- | --- | --- | --- |
-|  Compresor | Modelo |  | ATF250020UMT  |
-|   | MFG |  | GMCC  |
-|   | Tipo |  | Rotativo  |
-|  Material y Tipo de Aleta |  |  | Alumina Histófilo  |
-|  Material y Tipo de Tubería |  |  | Cobre Panurado  |
+<table>
+<tr>
+<th colspan="2">Refrigerante/Carga</th>
+<th>Gramo</th>
+<th>R410A/2450g</th>
+</tr>
+<tr>
+<td rowspan="2">Compresor</td>
+<td colspan="2">Modelo</td>
+<td>ATF250D22UMT</td>
+</tr>
+<tr>
+<td colspan="2">MFG</td>
+<td>GMCC</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Tipo</td>
+<td>Rotativo</td>
+</tr>
+<tr>
+<td colspan="3">Material y Tipo de Aleta</td>
+<td>Aluminio Hidrófilo</td>
+</tr>
+<tr>
+<td colspan="3">Material y Tipo de Tubería</td>
+<td>Cobre Ranurado</td>
+</tr>
+</table>
 
 ## Sistema de Ventilador
 
-|  Circulación de aire interior (refrigeración / calefacción) |  | 1440  |
-| --- | --- | --- |
-|  Tipo de ventilador interior |  | Flujo cruzado  |
-|  Velocidad del ventilador (Alta/Baja/Media) | Enfriamiento | rpm  |
-|   | Catefacción | rpm  |
-|   | Deshumidificación | rpm  |
-|   | Modo Silencioso | rpm  |
-|  Salida del motor del ventilador interior |  | W  |
-|  Tipo de ventilador exterior |  | Hálise  |
-|  Velocidad del ventilador exterior |  | rpm  |
-|  Salida del motor del ventilador exterior |  | W  |
+<table>
+<tr>
+<th colspan="2">Circulación de aire interior (refrigeración / calefacción)</th>
+<th>m3/h</th>
+<th>1440</th>
+</tr>
+<tr>
+<th colspan="3">Tipo de ventilador interior</th>
+<th>Flujo cruzado</th>
+</tr>
+<tr>
+<td rowspan="4">Velocidad del ventilador (Alta/Baja/Media)</td>
+<td>Enfriamiento</td>
+<td>rpm</td>
+<td>1150/950/800</td>
+</tr>
+<tr>
+<td>Calefacción</td>
+<td>rpm</td>
+<td>1150/950/800</td>
+</tr>
+<tr>
+<td>Deshumidification</td>
+<td>rpm</td>
+<td>800</td>
+</tr>
+<tr>
+<td>Modo Silencioso</td>
+<td>rpm</td>
+<td>800</td>
+</tr>
+<tr>
+<td colspan="2">Salida del motor del ventilador interior</td>
+<td>W</td>
+<td>45</td>
+</tr>
+<tr>
+<td colspan="3">Tipo de ventilador exterior</td>
+<td>Hélice</td>
+</tr>
+<tr>
+<td colspan="2">Velocidad del ventilador exterior</td>
+<td>rpm</td>
+<td>850</td>
+</tr>
+<tr>
+<td colspan="2">Salida del motor del ventilador exterior</td>
+<td>W</td>
+<td>85</td>
+</tr>
+</table>
 
 ## Conexiones
 
-|  Tubería de conexión | Gas | Polipotas | 5/8"  |
-| --- | --- | --- | --- |
-|   | Líquido | Polipodas | 1/4"  |
-|  Cableado de conexión | Tamaño x Número de núcleo |  | 4×16AWG  |
-|   | Tubo de drenaje |  | 4*0.75mm2  |
+<table>
+<tr>
+<td rowspan="2">Tubería de conexión</td>
+<td>Gas</td>
+<td>Pulgadas</td>
+<td>5/8"</td>
+</tr>
+<tr>
+<td>Líquido</td>
+<td>Pulgadas</td>
+<td>1/4"</td>
+</tr>
+<tr>
+<td>Cableado de conexión</td>
+<td colspan="2">Tamaño x Número de núcleo</td>
+<td>4×16AWG</td>
+</tr>
+<tr>
+<td colspan="3">Tubo de drenaje</td>
+<td>4*0.75mm2</td>
+</tr>
+</table>
 
 ## Otros
 
-|  Área |  | $\omega^{2}$ | 40-60  |
-| --- | --- | --- | --- |
-|  Dimensiones netas (Ancho x Profundidad x Altura) | Interior | mm | $1186 \times 340 \times 258$  |
-|   | Exterior | mm | $953 \times 433 \times 808$  |
-|  Peso Neto | Interior | kg | 17.6  |
-|   | Exterior | kg | 62  |
-|  Dimensiones del embalaje (Ancho x Profundidad x Altura) | Interior | mm | $1262 \times 420 \times 337$  |
-|   | Exterior | mm | $1020 \times 475 \times 845$  |
-|  Peso bruto | Interior | kg | 21.5  |
-|   | Exterior | kg | 69  |
+<table>
+<tr>
+<th colspan="2">Área</th>
+<th>m 2</th>
+<th>40-60</th>
+</tr>
+<tr>
+<td rowspan="2">Dimensiones netas (Ancho x Profundidad x Altura)</td>
+<td>Interior</td>
+<td>mm</td>
+<td>1186×340×258</td>
+</tr>
+<tr>
+<td>Exterior</td>
+<td>mm</td>
+<td>953×433×808</td>
+</tr>
+<tr>
+<td rowspan="2">Peso Neto</td>
+<td>Interior</td>
+<td>kg</td>
+<td>17,5</td>
+</tr>
+<tr>
+<td>Exterior</td>
+<td>kg</td>
+<td>62</td>
+</tr>
+<tr>
+<td rowspan="2">Dimensiones del embalaje (Ancho x Profundidad x Altura)</td>
+<td>Interior</td>
+<td>mm</td>
+<td>$1 2 6 2 \times 4 2 0 \times 3 3 7$</td>
+</tr>
+<tr>
+<td>Exterior</td>
+<td>mm</td>
+<td>1020×475×845</td>
+</tr>
+<tr>
+<td rowspan="2">Peso bruto</td>
+<td>Interior</td>
+<td>kg</td>
+<td>21,5</td>
+</tr>
+<tr>
+<td>Exterior</td>
+<td>kg</td>
+<td>69</td>
+</tr>
+</table>
 
-## Tecnología
+# Tecnología ADINA INVERTERM
 
-ADINA INVERTER
+Nuestra tecnología Inverter regula
+el funcionamiento del compresor
+en nuestros equipos de forma
+que trabajen a una velocidad
+más constante, lo que permite
+un gran ahorro de energía.
 
-Nuestra tecnología Inverter regula el funcionamiento del compresor en nuestros equipos de forma que trabajen a una velocidad más constante, lo que permite un gran ahorro de energía.
+¡Estilo y ahorro a tu alcance!
+www.adinausa.com
 
-ADINA Air Conditioning

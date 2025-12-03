@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Documentation
+*.md
+!knowledge_base/*.md
+CLAUDE.md
+API_DOCUMENTATION.md

@@ -1,138 +1,609 @@
 # ONI-C-24-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-# Plano Explosionado
-
-## Unidad Exterior
-
+Plano Explosionado
+Unidad Exterior
 ONI-C-2418W-E24P13110
 
-|  No | Nombre de la parte | Código | Q'ty  |
-| --- | --- | --- | --- |
-|  1 | La cubierta de red frontal | RO811025406 | 1  |
-|  2 | El panel frontal | RO811025444 | 1  |
-|  3 | Ventilador de flujo axial | RO950043825 | 1  |
-|  4 | Motor del ventilador | RO811376504 | 1  |
-|   |  | RO811376505 |   |
-|   |  | RO950078474 |   |
-|  5 | El soporte del motor | RO811025439 | 1  |
-|  6 | Compresor | RO811424763 | 1  |
-|  7 | Conjunto del condensador | RO811153705 | 1  |
-|  8 | Placa de montaje angular | RO811025441 | 1  |
-|  9 | Placa de cubierta | RO811025445 | 1  |
-|  10 | Cubierta de red trasera (plástico) | RO811088673 | 1  |
-|  11 | Cubierta de red lateral (metal) | Consultar código de pieza con el fabricante | 1  |
-|  12 | Cubierta de red trasera (metal) |  | 1  |
-|  22 | Subconjunto de control eléctrico (frecuencia constante) |  | 1  |
-|  23 | Condensador de membrana (compresor) |  | 1  |
-|  24 | Condensador de membrana (motor ventilador) |  | 1  |
-|  25 | Pinza del condensador |  | 1  |
-|  26 | Tablero de bornes |  | 1  |
-|  27 | Cuadro eléctrico superior |  | 1  |
-|  28 | Placa de insealación eléctrica inferior |  | 1  |
-|  29 | Asiento del terminal (Frecuencia constante) |  | 1  |
-|  30 | Reactor |  | 1  |
-|  31 | Placa de insonorización | RO811026119 | 1  |
-|  32 | Soporte del sensor | RO950073170 | 1  |
-|  33 | Subconjunto de la cubierta eléctrica | RO810766211 | 1  |
-|  34 | Panel lateral derecho | RO811025412 | 1  |
-|  35 | Tapa de la válvula | RO810828090 | 1  |
-|  36 | Componentes del capilar | RO811428195 | 1  |
-|  37 | Válvula de corte (pequeña) | RO811099647 | 1  |
-|  38 | Placa de montaje de la válvula | RO811025407 | 1  |
-|  39 | Conjunto del suelo | RO811156949 | 1  |
-|  40 | Conjunto de la válvula de cuatro vías | Consultar código de pieza con el fabricante | 1  |
-|  41 | Válvula de corte (grande) | RO810804541 | 1  |
-|   |  | RO810841189 |   |
-|   |  | RO810845897 |   |
-|  42 | Conjunto de tuberías de aspiración | RO950052405 | 1  |
-|  43 | Tubería de escape de gas | RO950052995 | 1  |
-|  44 | Válvula de cuatro vías | Consultar código de pieza con el fabricante | 1  |
+<table>
+<tr>
+<th>No</th>
+<th>Nombre de la parte</th>
+<th>Código</th>
+<th>Q'ty</th>
+</tr>
+<tr>
+<td>1</td>
+<td>La cubierta de red frontal</td>
+<td>R0811025406</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>El panel frontal</td>
+<td>R0811025444</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ventilador de flujo axial</td>
+<td>RO950043825</td>
+<td>1</td>
+</tr>
+<tr>
+<td rowspan="3">4</td>
+<td rowspan="3">Motor del ventilador</td>
+<td>R0811376504</td>
+<td rowspan="3">1</td>
+</tr>
+<tr>
+<td>R0811376505</td>
+</tr>
+<tr>
+<td>RO950078474</td>
+</tr>
+<tr>
+<td>5</td>
+<td>El soporte del motor</td>
+<td>R0811025439</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Compresor</td>
+<td>R0811424763</td>
+<td>1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Conjunto del condensador</td>
+<td>R0811153705</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Placa de montaje angular</td>
+<td>RO811025441</td>
+<td>1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Placa de cubierta</td>
+<td>RO811025445</td>
+<td>1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Cubierta de red trasera (plástico)</td>
+<td>R0811088673</td>
+<td>1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Cubierta de red lateral (metal)</td>
+<td rowspan="11">Consultar código de pieza con el fabricante</td>
+<td>1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Cubierta de red trasera (metal)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Subconjunto de control eléctrico (frecuencia constante)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Condensador de membrana (compresor)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Condensador de membrana (motor ventilador)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Pinza del condensador</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Tablero de bornes</td>
+<td>1</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Cuadro eléctrico superior</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Placa de insealación eléctrica inferior</td>
+<td>1</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Asiento del terminal (Frecuencia constante)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Reactor</td>
+<td>1</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Placa de insonorización</td>
+<td>R0811026119</td>
+<td>1</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Soporte del sensor</td>
+<td>RO950073170</td>
+<td>1</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Subconjunto de la cubierta eléctrica</td>
+<td>R0810766211</td>
+<td>1</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Panel lateral derecho</td>
+<td>R0811025412</td>
+<td>1</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Tapa de la válvula</td>
+<td>R0810828090</td>
+<td>1</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Componentes del capilar</td>
+<td>R0811428195</td>
+<td>1</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Válvula de corte (pequeña)</td>
+<td>R0811099647</td>
+<td>1</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Placa de montaje de la válvula</td>
+<td>R0811025407</td>
+<td>1</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Conjunto del suelo</td>
+<td>R0811156949</td>
+<td>1</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Conjunto de la válvula de cuatro vías</td>
+<td>Consultar código de pieza con el fabricante</td>
+<td>1</td>
+</tr>
+<tr>
+<td rowspan="3">41</td>
+<td rowspan="3">Válvula de corte (grande)</td>
+<td>RO810804541</td>
+<td rowspan="3">1</td>
+</tr>
+<tr>
+<td>R0810841189</td>
+</tr>
+<tr>
+<td>R0810845897</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Conjunto de tuberías de aspiración</td>
+<td>RO950052405</td>
+<td>1</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Tubería de escape de gas</td>
+<td>R0950052995</td>
+<td>1</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Válvula de cuatro vías</td>
+<td>$C o n s u l t a r \quad c d i g o$ fabricante</td>
+<td>1</td>
+</tr>
+</table>
+
+ONIX
+SERIES
+
+<!-- PageNumber="1" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# **ONI X SERIES**
 
-![img-0.jpeg](img-0.jpeg)
+Plano Explosionado
+Unidad Interior
+ONI-C-2418W-124P13111
 
-## **Plano Explosionado**
+<table>
+<tr>
+<th>No</th>
+<th>Nombre de la parte</th>
+<th>Código</th>
+<th>Q'ty</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Subconjunto del panel frontal</td>
+<td>RO950167080</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Panel Frontal</td>
+<td>RO950108574</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2-1</td>
+<td>Listón decorativo (izquierda)</td>
+<td rowspan="3">Consultar código de pieza con el fabricante</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2-2</td>
+<td>Listón decorativo (derecha)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2-3</td>
+<td>Ventana de visualización</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Filtro de aire</td>
+<td>R0811335839</td>
+<td>2</td>
+</tr>
+<tr>
+<td>3-1</td>
+<td>Filtro funcional</td>
+<td>Consultar código de pieza con el fabricante</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Marco medio</td>
+<td>RO950054018</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>$T a p a \quad r o s c a d a$</td>
+<td>R0811336332</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Subconjunto del evaporador</td>
+<td>R0811351690</td>
+<td>1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>PTC</td>
+<td>Consultar código de pieza con el fabricante</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Ventilador de flujo cruzado</td>
+<td>$\mathrm { R O 8 1 } 1 3 4 9 0 3$</td>
+<td>1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Subconjunto bastidor inferior</td>
+<td>RO950168162</td>
+<td>1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Enredo de alambre</td>
+<td>Consultar código de pieza con el fabricante</td>
+<td>1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Soporte</td>
+<td>RO810554649</td>
+<td>1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Manguito del eje</td>
+<td>R0810548012</td>
+<td>1</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Motor paso a paso</td>
+<td>Consultar código de pieza con el fabricante</td>
+<td>1</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Tablero izquierdo</td>
+<td>R0811335798</td>
+<td>1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Blade subassembly</td>
+<td>RO950062970</td>
+<td>1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Shaft sleeve</td>
+<td>RO950062254</td>
+<td>1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Stepping motor</td>
+<td>R0810835647</td>
+<td>1</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Subconjunto del tubo de drenaje</td>
+<td>R0810829755</td>
+<td>1</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Marco de montaje en pared</td>
+<td>RO811335866</td>
+<td>1</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Montaje de la caja de visualización</td>
+<td>R0950114725</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Caja de visualización</td>
+<td>R0811336331</td>
+<td>1</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Conjunto de pantalla P.C.B</td>
+<td>RO950113086</td>
+<td>1</td>
+</tr>
+<tr>
+<td rowspan="8">23</td>
+<td rowspan="8">Componente de voz</td>
+<td rowspan="8">Consultar código de pieza con el fabricante</td>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+</tr>
+<tr>
+<td>1</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Subconjunto WIFI</td>
+<td>RO950072456</td>
+<td>1</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Generador de iones positivos y negativos</td>
+<td rowspan="2">Consultar código de pieza con el fabricante</td>
+<td>1</td>
+</tr>
+<tr>
+<td>26</td>
+<td>UVC</td>
+<td>1</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Cubierta del motor</td>
+<td>R0811335813</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Placa de presión del motor</td>
+<td>R0811335816</td>
+<td>1</td>
+</tr>
+</table>
 
-### Unidad Interior
+<!-- PageNumber="2" -->
+<!-- PageBreak -->
 
-#### ONI-C-2418W-I24P1311I
 
-|  No | Nombre de la parte | Código | Q'ty  |
-| --- | --- | --- | --- |
-|  1 | Subconjunto del panel frontal | RO950167080 | 1  |
-|  2 | Panel Frontal | RO950108574 | 1  |
-|  2-1 | Listón decorativo (izquierda) |  | 1  |
-|  2-2 | Listón decorativo (derecha) | Consultar código de pieza con el fabricante | 1  |
-|  2-3 | Ventana de visualización |  |   |
-|  3 | Filtro de aire | RO811335839 | 2  |
-|  3-1 | Filtro funcional | Consultar código de pieza con el fabricante |   |
-|  4 | Marco medio | RO950054018 | 1  |
-|  5 | Tapa roscada | RO811336332 | 2  |
-|  6 | Subconjunto del evaporador | RO811351690 | 1  |
-|  7 | PTC | Consultar código de pieza con el fabricante | 1  |
-|  8 | Ventilador de flujo cruzado | RO811349033 | 1  |
-|  9 | Subconjunto bastidor inferior | RO950168162 | 1  |
-|  10 | Enredo de alambre | Consultar código de pieza con el fabricante | 1  |
-|  11 | Soporte | RO810554649 | 1  |
-|  12 | Manguito del eje | RO810548012 | 1  |
-|  13 | Motor paso a paso | Consultar código de pieza con el fabricante | 1  |
-|  14 | Tablero izquierdo | RO811335798 | 1  |
-|  15 | Blade subassembly | RO950062970 | 1  |
-|  16 | Shaft sleeve | RO950062254 | 1  |
-|  17 | Stepping motor | RO810835647 | 1  |
-|  18 | Subconjunto del tubo de drenaje | RO810829755 | 1  |
-|  19 | Marco de montaje en pared | RO811335866 | 1  |
-|  20 | Montaje de la caja de visualización | RO950114725 | 1  |
-|  21 | Caja de visualización | RO811336331 | 1  |
-|  22 | Conjunto de pantalla P.C.B | RO950113086 | 1  |
-|  23 | Componente de voz | Consultar código de pieza con el fabricante | 1  |
-|   |  |  | 1  |
-|   |  |  | 1  |
-|   |  |  | 1  |
-|  24 | Subconjunto WIFI | RO950072456 | 1  |
-|  25 | Generador de iones positivos y negativos | Consultar código de pieza con el fabricante | 1  |
-|  26 | UVC |  | 1  |
-|  27 | Cubierta del motor | RO811335813 | 1  |
-|  28 | Placa de presión del motor | RO811335816 | 1  |
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-# $\mathrm{ONI} \mathrm{X}$ SERIES
 
-## Plano Explosionado
+$4 ^ { 3 } + 3 ^ { 3 }$
+7 .33
 
-Unidad Interior ONI-C-2418W-I24P1311I
+$2 . 3 4$
 
-|  No | Nombre de la parte | Código | Q'ty  |
-| --- | --- | --- | --- |
-|  29 | Motor del ventilador | RO950050668 | 1  |
-|   |  | RO950064866 |   |
-|   |  | RO950064865 |   |
-|  30 | Soporte del motor | RO811335817 | 1  |
-|  31 | Placa de montaje | Consultar código de pieza con el fabricante | 1  |
-|  32 | Platina derecha | RO811335894 | 1  |
-|  33 | Placa de presión del tubo | RO811335880 | 1  |
-|  34 | Cuadro eléctrico | RO811336329 | 1  |
-|  35 | Caja de control eléctrico | RO811336333 | 1  |
-|  36 | Tablero de bornes | RO860024870 | 1  |
-|  37 | Transformador | Consultar código de pieza con el fabricante | 1  |
-|  38 | Placa de presión de alambre | RO811336324 | 1  |
-|  39 | Conjunto P.C.B | RO950110578 | 1  |
-|  40 | Sensor de temperatura ambiente | RO811047423 | 1  |
-|  41 | Sensor de temperatura de la tubería | RO810203417 | 1  |
-|  42 | Línea eléctrica | RO810703404 | 1  |
-|  43 | Subconjunto de control eléctrico | RO950108244 | 1  |
-|  44 | Control remoto | RO950168151 | 1  |
-|  45 | Soporte de control remoto | RO811253482 | 1  |
+8 - 14
+
+G .45
+
+Plano Explosionado
+Unidad Interior
+ONI-C-2418W-124P13111
+
+<table>
+<tr>
+<th>No</th>
+<th>Nombre de la parte</th>
+<th>Código</th>
+<th>Q'ty</th>
+</tr>
+<tr>
+<td rowspan="3">29</td>
+<td rowspan="3">Motor del ventilador</td>
+<td>RO950050668</td>
+<td rowspan="3">1</td>
+</tr>
+<tr>
+<td>RO950064866</td>
+</tr>
+<tr>
+<td>RO950064865</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Soporte del motor</td>
+<td>R0811335817</td>
+<td>1</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Placa de montaje</td>
+<td>Consultar código de pieza con el fabricante</td>
+<td>1</td>
+</tr>
+<tr>
+<td>32</td>
+<td>Platina derecha</td>
+<td>R0811335894</td>
+<td>1</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Placa de presión del tubo</td>
+<td>R0811335880</td>
+<td>1</td>
+</tr>
+<tr>
+<td>34</td>
+<td>Cuadro eléctrico</td>
+<td>R0811336329</td>
+<td>1</td>
+</tr>
+<tr>
+<td>35</td>
+<td>Caja de control eléctrico</td>
+<td>R0811336333</td>
+<td>1</td>
+</tr>
+<tr>
+<td>36</td>
+<td>Tablero de bornes</td>
+<td>RO860024870</td>
+<td>1</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Transformador</td>
+<td>Consultar código de pieza con el fabricante</td>
+<td>1</td>
+</tr>
+<tr>
+<td>38</td>
+<td>Placa de presión de alambre</td>
+<td>R0811336324</td>
+<td>1</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Conjunto P.C.B</td>
+<td>RO950110578</td>
+<td>1</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Sensor de temperatura ambiente</td>
+<td>R0811047423</td>
+<td>1</td>
+</tr>
+<tr>
+<td>41</td>
+<td>Sensor de temperatura de la tubería</td>
+<td>R0810203417</td>
+<td>1</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Línea eléctrica</td>
+<td>R0810703404</td>
+<td>1</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Subconjunto de control eléctrico</td>
+<td>RO950108244</td>
+<td>1</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Control remoto</td>
+<td>RO950168151</td>
+<td>1</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Soporte de control remoto</td>
+<td>R0811253482</td>
+<td>1</td>
+</tr>
+</table>
+
+<!-- PageNumber="3" -->
+

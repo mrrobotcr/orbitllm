@@ -1,0 +1,65 @@
+version: "3.8"
+
+services:
+  traefik:
+    image: traefik:v3.0
+    container_name: traefik
+    restart: unless-stopped
+    command:
+      # API and dashboard
+      - "--api.dashboard=true"
+      # Docker provider
+      - "--providers.docker=true"
+      - "--providers.docker.exposedbydefault=false"
+      # Entrypoints
+      - "--entrypoints.web.address=:80"
+      - "--entrypoints.websecure.address=:443"
+      # Redirect HTTP to HTTPS
+      - "--entrypoints.web.http.redirections.entrypoint.to=websecure"
+      - "--entrypoints.web.http.redirections.entrypoint.scheme=https"
+      # Let's Encrypt
+      - "--certificatesresolvers.letsencrypt.acme.httpchallenge=true"
+      - "--certificatesresolvers.letsencrypt.acme.httpchallenge.entrypoint=web"
+      - "--certificatesresolvers.letsencrypt.acme.email=${ACME_EMAIL}"
+      - "--certificatesresolvers.letsencrypt.acme.storage=/letsencrypt/acme.json"
+      # Logging
+      - "--log.level=INFO"
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock:ro"
+      - "letsencrypt:/letsencrypt"
+    networks:
+      - web
+
+  orbitllm:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: orbitllm
+    restart: unless-stopped
+    environment:
+      - AZURE_OPENAI_ENDPOINT=${AZURE_OPENAI_ENDPOINT}
+      - AZURE_OPENAI_API_KEY=${AZURE_OPENAI_API_KEY}
+      - AZURE_DEPLOYMENT_NAME=${AZURE_DEPLOYMENT_NAME:-gpt-4o-mini}
+    volumes:
+      # Persist cache between restarts
+      - ./shards_cache.json:/app/shards_cache.json
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.orbitllm.rule=Host(`chatbackoffice.adinausa.com`)"
+      - "traefik.http.routers.orbitllm.entrypoints=websecure"
+      - "traefik.http.routers.orbitllm.tls.certresolver=letsencrypt"
+      - "traefik.http.services.orbitllm.loadbalancer.server.port=8000"
+    networks:
+      - web
+    depends_on:
+      - traefik
+
+volumes:
+  letsencrypt:
+
+networks:
+  web:
+    driver: bridge

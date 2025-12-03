@@ -1,85 +1,204 @@
 # AFLEX-T-24-RTS-A.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
 # CERTIFICADO DE CONFORMIDAD CERTIFICATE OF CONFORMITY
 
-**Certificado No./Certificate No.:** 4393759.04COC **Número de Informe/Report No.:** 4393758.53 **Fecha de la última revisión/Last revision date:** 2022-09-22 **Fecha de emisión/issue date:** 2022-09-22 **Fecha de caducidad/Expiry date:** 2025-09-22
+Certificado No./Certificate No .:
 
-**Titular del certificado/Certificate Holder:** C/O PPR GROUP S.A DE CV **Nombre/Name:** Dirección/Address: **Teléfono:** 2022-09-22 **Prolongación Alameda Juan Pablo II Nº349, San Salvador, El Salvador.**
+4393759.04COC
 
-**Fabricante/Manufacturer:** C/O PPR GROUP S.A DE CV **Nombre/Name:** Dirección/Address: **Teléfono:** 2022-09-22 **Prolongación Alameda Juan Pablo II Nº349, San Salvador, El Salvador.**
+Número de informe/ Report No .:
 
-**Planta de fabricación/Manufacturing Plant:** C/O PPR GROUP S.A DE CV **Nombre/Name:** Dirección/Address: **Teléfono:** 2022-09-22 **Prolongación Alameda Juan Pablo II Nº349, San Salvador, El Salvador.**
+4393758.53
 
-Este certificado de conformidad se basa en los resultados de una muestra del producto mencionado a continuación y es para verificar que la muestra evaluada cumplió con los requisitos mencionados a continuación; pero esto no implica la evaluación de otros productos con el mismo diseño que los evaluados. Además, esto no permite el uso de ninguna marca de conformidad de DEKRA.
+Fecha de la última revisión/Last revision date:
 
-This certificate of conformity is based on the results of a sample of the below-mentioned product and is to verify that the evaluated sample had complied with the below-mentioned requirements, but this does not imply assessment of other products with the same design to the evaluated item. In addition, this does not permit the use of any conformity marks of DEKRA.
+2022-09-22
 
-|  **Product/Product:** | Split type air conditioner / Aire acondicionado tipo split  |
-| --- | --- |
-|  **Marca/Trademark:** | ADINA  |
-|  **Identificación del producto evaluado/Identification of the product evaluated:** |   |
-|  **Tipo/Type:** | AFLEX-T-24  |
-|  **Número de ELEX-T-24-1:** | 11886NLC002LC1400004; Outdoor, 17034 W  |
-|  **Número de ELEX-T-24-2:** | 7034 W  |
-|  **Capacidad de enfriamiento/Cooling Capacity:** | 5%  |
-|  **El ahorro de energía/Energy Saving:** |   |
-|  **Procedimiento de pruebas/Test procedure:** | (El Salvador) RTS 23.01.03:15  |
-|  **Norma aplicada/Applied Standard:** | RTS 23.01.03:15  |
-|  **Observación/Remarks:** |   |
-|  Este certificado está sujeto al esquema 6 de ISO/IEC 17067:2013. / This certificate is subjected to scheme 6 of ISO/IEC 17067:2013. |   |
+Fecha de emisiónissue date:
 
-DEKRA Certification B.V.
+2022-09-22
 
-**B.T.M. Holtus** Managing Director
+Fecha de caducidad/Expiry date: 2025-09-22
 
-**Nelson Coelho** Certification Manager
+Fecha de próxima vigilancia /Next surveillance date:
 
-DEKRA Certification B.V. Av. Gerónimo de Camargo, 2000 - Ressaca - Alibata / SP - CEP 12944-000 - Brasil Tel. +55 11 4418-7268 Webpage: https://delira.com.br/PTQ/
+2023-09-22
 
-DEKRA Certification B.V. Meander 1051, 6825 MJ Arnhem P.O. Box 5185, 6802 ED Arnhem, The Netherlands T +31 88 96 83000 F +31 88 96 83100 www.delira-certification.com - Company registration 09085396
+DEKRA
+
+Titular del certificado. Certificate Holder
+
+Nombre/Name
+
+COPPER GROUP S.A DE CV
+
+Dirección/Address
+
+Prolongación Alameda Juan Pablo II Nº349, San Salvador, El Salvador
+
+Fabricante/Manufacturer
+
+NombreName:
+
+COPPER GROUP S.A DE CV
+
+Dirección/Address:
+
+Prolongación Alameda Juan Pablo II Nº349, San Salvador, El Salvador.
+
+A
+
+Planta de fabricación/ Manufacturing Plant
+Nombre/Name:
+
+Dirección/Address.
+
+Este certificado de conformidad se basa en los resultados de una muestra del producto mencionado a
+continuación y es para verificar que la muestra evaluada cumplió con los requisitos mencionados a continuación
+pero esto no implica la evaluación de otros productos con el mismo diseño que los evaluados, Además, esto no
+permite el uso de ninguna marca de conformidad de DEKRA
+
+This certificate of conformity is based on the results of a sample of the below mentioned product and is to verify
+that the evaluated sample had complied with the below-mentioned requirements but this does not imply
+assessment of other products with same design to the evaluated item. In addition, this does not permit the use of
+any conformity marks of DEKRA
+
+<table>
+<tr>
+<td>Producto/Product: Marca /Trademark:</td>
+<td rowspan="2">Selt type air conditioner / Aire acondicionado lipo solit ADINA Identification of the product evaluated;</td>
+</tr>
+<tr>
+<td>Identificación del producto evaluado/</td>
+</tr>
+<tr>
+<td>Tipo/ Type:</td>
+<td>AFLEX-T-24 Indoor AFLEX-T-24-1: Outdoor: AFLEX-T-24-E</td>
+</tr>
+<tr>
+<td>No. De serie (Serial number: Capacidad de enfriamiento /Cooling Capacity El ahorro de energia/Energy Saving</td>
+<td>Indopr: 1T886NLC002LC1400004: Outdoor, 11886WLC0OZLC1400004 7034 W 5%</td>
+</tr>
+</table>
+
+Procedimiento de pruebas /Test (El Salvador) RTS 23.01.03:15
+procedure:
+
+Norma aplicada (Applied
+Standard:
+
+RTS 23.01.03:15
+
+Observación / Remarks:
+
+Este certificado está sujeto al esquema 6 de ISO/IEC 17067:2013. / This certificate is subjected to scheme 5 of
+ISO/IEC 17067.2013
+
+DEKRA Certification B.V. A. Geronimo da Camargo, 2000 - Ressaca - Alihala / SP - CEP 12944-000 - Brasil
+Tel .: +55 11 4418-7768 Webpage httpsildekora.com.br.PTCI
+
+DEKRA Ce tirication B.V .. Meander 1051, 6825 MAJ Arnhem P.O. Box 5185, 6802 ED Amhem, The Netherlands
+T +31 68 98 92000 F +31 09 98 83100 - www.dakre certification.com - Company registration 09085380
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-ANEXO AL CERTIFICADO DE CONFORMIDAD ANNEX TO CERTIFICATE OF CONFORMITY
+<!-- PageHeader="ANEXO AL CERTIFICADO DE CONFORMIDAD ANNEX TO CERTIFICATE OF CONFORMITY" -->
 
-Historial De Certificación/Certification History: Fecha/Date Contenido/Content Certificado No./Certificate No. 2022-09-22 Emisión inicial/Initial issuance 4393759.04COC
+Historial De Certificación/Certification History:
 
-AHORRO DE ENERGÍA / ENERGY SAVING:
+<table>
+<tr>
+<th>Fecha/Date</th>
+<th>Contenido/Content</th>
+<th>Certificado No./Certificate No.</th>
+</tr>
+<tr>
+<td>2022-09-22</td>
+<td>Emisión inicial/Initial issuance</td>
+<td>4393759.04COC</td>
+</tr>
+</table>
 
-|  |   |   |
-| --- | --- | --- |
-|  REE de este equipo / Current REE data for the equipment (Wt/We) (BTU/Wh) | REE de este equipo Etiquetado en la etiqueta /Current REEE data for the equipment indicated on the label (Wt/We) (BTU/Wh) | REE establecido en la Norma /REE given by the standard /Regulation (Wt/We) (BTU/Wh)  |
-|  2.75 | 2.75 | 2.72  |
-|  Potencia eléctrica / Power rating (W) | Ahorro de energía indicado en la etiqueta de consumo de energía / Indicated energy saving in the energy consumption's label [%] | Ahorro de energía / Energy saving [%]  |
-|  2470 | 5 | 4.7  |
+DEKRA
+
+## AHORRO DE ENERGÍA / ENERGY SAVING:
+
+<table>
+<tr>
+<th>REE de este equipo / Current REE data for the equipment (Wt/We) (BTU/Wh)</th>
+<th>REE de este equipo Etiquetado en la etiqueta /Current REEE data for the equipment indicated on the label (Wt/We) (BTU/Wh)</th>
+<th>REE establecido en la Norma /REE given by the standard /Regulation (Wt/We) (BTU/Wh)</th>
+</tr>
+<tr>
+<td>2.75</td>
+<td>2.75</td>
+<td>2.72</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>Potencia eléctrica / Power rating (W)</th>
+<th>Ahorro de energía indicado en la etiqueta de consumo de energía / Indicated energy saving in the energy consumption's label [%]</th>
+<th>Ahorro de energía / Energy saving [%]</th>
+</tr>
+<tr>
+<td>2470</td>
+<td>5</td>
+<td>4.7</td>
+</tr>
+</table>
 
 FOTO DE ETIQUETA / PHOTO OF LABEL:
 
-EFICIENCIA ENERGETICA Relación de Eficiencia Energética (REE) Determinado como se establece en el RTE 23.01.03/15 REE * Eléctico neto de enfriamiento: 2500 Potencia eléctrica: 2400
+EFICIENCIA ENERGETICA
+Relación de Eficiencia Enargosce (REE)
+Determinado como se establece en el
+HTS 21.01.01:15
 
-|  |   |   |
-| --- | --- | --- |
-|  MARCA: ADIMA | Modelo unidad interior: AFLEX F-24-I |   |
-|  Potencia Electrica: 2470 W | Modelo unidad exterior: AFLEX F-24-E |   |
-|   | Efecto neto de enfriamiento: 7534 W |   |
-|  REE establecido en el RTE en | Wt/We | 2,72  |
-|  REE de este aparato en | Wt/We | 2,85  |
+HEE-
+ENcionais dae kimsanto (Mi
 
-Ahorro de Energía de este aparato
+MITell AONA
 
-|  |   |   |
-| --- | --- | --- |
-|  9% 5% 19% 15% 20% 25% 30% 40% 45% 50% |  |   |
-|  Mesor | El ahorro de energía electiva dependerá de los hábitos | Mesor  |
-|  Ahorro | de uso y modificación del aparato | ahorro  |
+Polencia Elichecs: 2470 M
 
-IMPORTANTE La etiqueta no debe retirarse del producto hasta que haya sido adquirido por el consumidor final
+Modelo unidad istorien: APLEX-1-211
+Hadale unidad aristar: AFLEX-T-21 5
+Elcolo sato do enfriarcanto: 101171
 
-Page 2 of 2
+<table>
+<tr>
+<td>REG Gitsb &amp;c ộ en di ATS en | WnWe |</td>
+<td>2.12</td>
+</tr>
+<tr>
+<td>REE de este aparato en | www. |</td>
+<td>7.15</td>
+</tr>
+</table>
+
+Ahorro de Energia de este aparato
+
+0% 5% 10% 15% 20% 25% 30% 40% 43% 50M
+
+El ahorro de amargi akotivo daporduro de los hitilos
+de to y bellentipo del opamiin
+
+IMPORTANTE
+
+La etiqueta no dubo rourarso col producto hatta que haya sido adquirido
+por al cont unico
+
+<!-- PageNumber="Page 2 of 2" -->
+

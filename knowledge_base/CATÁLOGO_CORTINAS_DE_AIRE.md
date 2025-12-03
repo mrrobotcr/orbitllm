@@ -1,44 +1,124 @@
-# CATÁLOGO_CORTINAS_DE_AIRE.pdf
-
+# CATÁLOGO_CORTINAS_DE_AIRE.pdf
 
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+"SON UNA OPCION EFICIENTE PARA CREAR UN AMBIENTE
+CONFORTABLE EN UN LOCAL O EDIFICIO.
 
-Las cortinas de aire ADINA son una solución eficiente y económica para mantener la temperatura adecuada en un espacio. Al crear una barrera de aire entre el interior y el exterior, las cortinas de aire evitan la entrada de aire caliente o frío, lo que ayuda a mantener la temperatura deseada en el espacio sin tener que aumentar el consumo de energía del sistema de aire acondicionado.
-![img-1.jpeg](img-1.jpeg)
+<!-- PageBreak -->
 
-# "SON UNA OPCIÓN EFICIENTE PARA CREAR UN AMBIENTE CONFORTABLE EN UN LOCAL O EDIFICIO.
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-![img-2.jpeg](img-2.jpeg)
 
 # CORTINAS DE AIRE
 
-- La carcasa metálica ofrece una alta resistencia al fuego y se caracteriza por su sencilla instalación, además de ser muy fácil de limpiar.
-- El diseño del deflector de doble vía de aire permite mantener una corriente de aire constante.
-- La rueda de aire está fabricada con material plástico de fibra de vidrio de alta resistencia y es especialmente adecuada para aplicaciones con humo aceitoso pesado.
-- El motor de alta calidad funciona de manera continua durante 5000 horas sin presentar ningún defecto.
-- Especificaciones de la unidad múltiple 900mm, 1000mm, 1200mm, 1500mm, 1800mm, 2000mm.
+La carcasa metálica ofrece una alta resistencia al fuego y se caracteriza por su sencilla instalación,
+además de ser muy fácil de limpiar
 
-# Especificaciones técnicas
+El diseño del deflector de doble via de aire permite mantener una corriente de aire constante.
 
-|  Modelo | Especificaciones (mm / ft) | Fase de tensión/frecuencia | Altura de instalación (m) | Fuerza (W) | Velocidad del aire (m/s) | Volumen de aire (m³/h) | Ruido (dB) | Tamaño de la unidad (mm) | Peso Neto (Kg)  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  AD-3FT-115 | 900/3 | 115V/60Hz/1Ph | 2.3~3.0 | Baja | Alta | 9.0 | 11.0 | 1220 | 57  |
-|  AD-3FT-220 |  | 208-230V/60Hz/1Ph |  |  |  |  |  |  |   |
-|  AD-4FT-115 | 1200/4 | 115V/60Hz/1Ph |  | 155 | 209 | 9.0 | 11.0 | 1710 | 59  |
-|  AD-4FT-220 |  | 208-230V/60Hz/1Ph |  |  |  |  |  |  |   |
-|  AD-5FT-115 | 1500/5 | 115V/60Hz/1Ph |  | 202 | 266 |  |  | 2230 | 60  |
-|  AD-5FT-220 |  | 208-230V/60Hz/1Ph |  |  |  |  |  |  |   |
+La rueda de aire está fabricada con material plástico de fibra de vidrio de alta resistencia y es
+especialmente adecuada para aplicaciones con humo aceitoso pesado.
 
-"TAMBIÉN TE AYUDA A MANTENER EL AMBIENTE LIBRE DE POLVO E INSECTOS."
+El motor de alta calidad funciona de manera continua durante 5000 horas sin presentar ningún
+defecto.
 
-![img-3.jpeg](img-3.jpeg)
+Especificaciones de la unidad multiple 900mm, 1000mm, 1200mm, 1500mm,1800mm, 2000mm
 
-![img-4.jpeg](img-4.jpeg)
+## Especificaciones técnicas
+
+<table>
+<tr>
+<th rowspan="2">Modelo</th>
+<th rowspan="2">Especificaciones. (mm / ft)</th>
+<th rowspan="2">Fase de tensión! frecuencia</th>
+<th rowspan="2">Altura de instalación (ml</th>
+<th colspan="2">Fuerza (V)</th>
+<th colspan="2">Velocidad del aire (m/s)</th>
+<th rowspan="2">Volumen de aire (m3/h)</th>
+<th rowspan="2">Ruido (d0]</th>
+<th rowspan="2">Tamaño de la unidad (mm)</th>
+<th rowspan="2">Peso Neto (Kg)</th>
+</tr>
+<tr>
+<th>Baja</th>
+<th>Ata</th>
+<th>Daja</th>
+<th>Alta</th>
+</tr>
+<tr>
+<td>AD-3FT-115</td>
+<td rowspan="2">9000</td>
+<td>115W/60Hz/Ph</td>
+<td rowspan="7">2.3-3.0</td>
+<td rowspan="2">115</td>
+<td rowspan="2">106</td>
+<td rowspan="7">8.0</td>
+<td rowspan="7">11.0</td>
+<td rowspan="2">1220</td>
+<td rowspan="2">57</td>
+<td rowspan="2">900 $5 \times 3 + 1 4 4$</td>
+<td rowspan="2">12.7</td>
+</tr>
+<tr>
+<td>AD-3FT-220</td>
+<td>208-230W/60Hz/1Ph</td>
+</tr>
+<tr>
+<td>AD-AFT-115</td>
+<td rowspan="2">1200/4</td>
+<td>115V/60Hz/1Ph</td>
+<td rowspan="2">155</td>
+<td rowspan="2">209</td>
+<td rowspan="2">1710</td>
+<td rowspan="2">59</td>
+<td rowspan="2">1200 X 221 X 183</td>
+<td rowspan="2">18.2</td>
+</tr>
+<tr>
+<td>AD-4FT-220</td>
+<td>208-230V/60Hz/1Ph</td>
+</tr>
+<tr>
+<td rowspan="2">$A D - O F T - 1 1 5$</td>
+<td rowspan="3">1.500/5</td>
+<td>115V/60Hz/1Ph</td>
+<td rowspan="2">202</td>
+<td rowspan="2">266</td>
+<td rowspan="2">2230</td>
+<td rowspan="3">EO</td>
+<td rowspan="2">$1 4 0 4 + 3 2 1 \times 1 3 3$</td>
+<td rowspan="3">10.3</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>$A D - 5 F T - 2 2 0$</td>
+<td>208-230V/60Hz 1Ph</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+"TAMBIÉN TE AYUDA A MANTENER EL AMBIENTE
+LIBRE DE POLVO E INSECTOS."
+
+$1 1 ^ { 4 }$
+
+ADINA
+
+ADINA
+
+AIR CURTAIN
+
+<!-- PageFooter="www.adinausa.com" -->
+

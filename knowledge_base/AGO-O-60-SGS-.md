@@ -1,13 +1,12 @@
 # AGO-O-60-SGS-.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+BUMEG 1702011
 
-![img-1.jpeg](img-1.jpeg)
+SGSOSGS
 
 SGS COLOMBIA S.A.S.
 C&P-F490101
@@ -16,105 +15,151 @@ CERTIFICADO No. CRS25669
 ORDEN CERT. No. CO-CERT231210239-65
 CERTIFICADO DE CONFORMIDAD DE PRODUCTO
 ADINA APPLIANCES, S.A.
-Antigua Calle A San Antonio Abad, Prolongación Alameda Juan Pablo II No. 349,
+Antigua Calle A San Antonio Abad, Prolongación Alameda Juan Pablo li No. 349,
 Colonia Escalon, Frente Al Complejo Industrial De San Jorge San Salvador 1101, San
 Salvador, El Salvador
 
-Certifica que el producto identificado como
-Acondicionadores de aire tipo dividido de velocidad fija, importados y/o fabricados y
+Certifica
+que
+producto
+Identificado
+como
+Acondicionadores de aire tipo dividido de velocidad fije, importados yo fabricados y
 comercializados en Panamá, Costa Rica, El Salvador, Nicaragua, Guatemala y Honduras por
 ADINA APPLIANCES, S.A., con referencias relacionadas en las siguientes páginas del
 presente documento, han sido evaluados de conformidad con:
 
-Reglamento Técnico Centroamericano RTCA 23.01.80.21 Productos Eléctricos.
+Reglamento Técnico Centroamericano RTGA 23.01.80:21 Productos Eléctricos
 Acondicionadores de aire tipo dividido de velocidad fija descarga libre y sin ductos de aire.
-Especificaciones de eficiencia energética.
+Especificaciones de eficiencia energética
 Resolución 468-2022 (COMIECO-XCVIII) del 2 de diciembre de 2022 del Consejo de
-Ministros de Integración Económica De Centroamérica.
+Ministros de Integración Económica De Controamérica
 
 Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas
-de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con
-el esquema de certificación 5 de la norma ISO/IEC 17067:2013.
+de laboratorio y evaluación del sistema de gestion de calidad del fabricante de acuerdo con
+el esquema de certificación 5 de la norma ISO/IEC 17067-2013
 
 Resultados obtenidos: CONFORME
 
 Autorizado por:
 
-Camilo Ramírez
+SGS COLOMBIA S.A.S
+
+Camilo Ramirez
 SGS Colombia S.A.S.
 Carrera 100 No. 25C-11, Bodega 3
 Bogotá D.C., Colombia
 
 Fecha de Emisión: 2025-02-28
 Fecha de Vencimiento: 2028-02-28
-Versión 1
+Versión !
 Sublicencia emitida desde 2025-04-26
-Página 1 de 2
+Pagina 1 de 2
 
-La vigencia de la presente sublicencia está ligada al certificado origen CRS25344
+La vigencia de la presente sibleende esta ligada a certfrade origen CR525-44
 
-![img-2.jpeg](img-2.jpeg)
+0
 
-![img-3.jpeg](img-3.jpeg)
+<!-- PageBreak -->
 
-![img-4.jpeg](img-4.jpeg)
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-![img-5.jpeg](img-5.jpeg)
 
-![img-6.jpeg](img-6.jpeg)
-
-SGS COLOMBIA S.A.S. C&P-F490101 ORDEN No. 4200-43770 CERTIFICADO No. CR525669 ORDEN CERT. No. CO-CERT231210239-65 CERTIFICADO DE CONFORMIDAD DE PRODUCTO ADINA APPLIANCES, S.A. Antigua Calle A San Antonio Abad, Prolongación Alameda Juan Pablo II No. 349, Colonia Escalon, Frente Al Complejo Industrial De San Jorge San Salvador 1101, San Salvador, El Salvador
+SGS COLOMBIA S.A.S.
+C&P-F490101
+ORDEN No. 4200-43770
+CERTIFICADO No. CRS25669
+ORDEN CERT. No. CO-CERT231210239-65
+CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+ADINA APPLIANCES, S.A.
+Antigua Calle A San Antonio Abad, Prolongación Alameda Juan Pablo li No. 349,
+Colonia Escalon, Frente Al Complejo Industrial De San Jorge San Salvador 1101, San
+Salvador, El Salvador
 
 Acondicionadores de aire tipo dividido de velocidad fija
 
-|  UNIDAD EVAPORADORA | UNIDAD CONDENSADORA | CAPACIDAD DE ENFRIAMIENTO (W) | TIPO DE ARTEFACTO | REEE ESTABLECIDA EN NORMA (W/W) | REEE DE ESTE EQUIPO (W/W) | AHORRO DE ENERGÍA (%) | TEST REPORT | MARCA  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  A00-O-PTC59 | A00-O-CON60-1 | 17564 (W) | Mes Sijte | 3.52 | 3.66 | 16.2 | GZEE250100014831 | ADINA  |
+<table>
+<tr>
+<th>UNDAD EVAPORADORA</th>
+<th>UNIDAD CONDENSADORA</th>
+<th>CAPACIDAD DE ENFRIAMIENTO m</th>
+<th>TIPO DE ARTEFACTO</th>
+<th>REEE ESTABLECIDA EN NORMA IVAN-)</th>
+<th>REEE DE ESTE EQUIPO WWWe)</th>
+<th>AHORRO DE ENERGÍA 1</th>
+<th>TEST REPORT</th>
+<th>MARCA</th>
+</tr>
+<tr>
+<td>AGO-Q-PTC00</td>
+<td>AGO-O-CONOG-1</td>
+<td>17:041V</td>
+<td>Min Seln</td>
+<td>3.32</td>
+<td>3.08</td>
+<td>10.2</td>
+<td>G2LE250100014831</td>
+<td>ADINA</td>
+</tr>
+</table>
 
-![img-7.jpeg](img-7.jpeg)
+# ERIC ENCIA ENERGETICA
 
-|  EPCENCIA ENERGÉTICA |  |  |  |  |  |  |  |  |  |  |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  Relación de Efectos Energéticos Estacional (REEE) |  |  |  |  |  |  |  |  |  |  |   |
-|  REEE estabilidad en una RTEA |  |  |  |  |  |  |  |  |  |  |   |
-|  (W/W) |  |  |  |  |  |  |  |  |  |  |   |
-|  REEE de este equipo |  |  |  |  |  |  |  |  |  |  |   |
-|  (W/W) |  |  |  |  |  |  |  |  |  |  |   |
-|  Ahorro de Energía de este Equipo |  |  |  |  |  |  |  |  |  |  |   |
-|  10.2% |  |  |  |  |  |  |  |  |  |  |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |
+ACONO DOADOLESCENTE TOCNC DO DE VELOCIDAD ILA
+
+<table>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td colspan="2" rowspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th colspan="3">Relación de Eichendin Ererovica Estaciona (REFEI</th>
+</tr>
+<tr>
+<th rowspan="2"></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+FIN DEL DOCUMENTO
+
+Fecha de Emisión: 2025-02-28
+Fecha de Vencimiento: 2029-02-29
+Versión 1
+
+Lavigencia se la presenta suslicencia sela ligada @ cert frade ergin CR825144
+
+<!-- PageFooter="CLA C. 0005 VI7 febrero 202" -->
+

@@ -1,42 +1,173 @@
 # CASSETTE-6-TITAN-MY24-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-# $\triangle D I N A$ 
+Plano Explosionado
+CASSETTE 36K
 
-## Plano Explosionado CASSETTE 36K
+<table>
+<tr>
+<th>No</th>
+<th>Nombre de la parte</th>
+<th>Código</th>
+<th>Q'ty</th>
+</tr>
+<tr>
+<td>1</td>
+<td>5P conjunto de acaparamiento lateral izquierdo y derecho</td>
+<td>RO45901-000102</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Conjunto del panel frontal 5P</td>
+<td>R045901-000092</td>
+<td>1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Conjunto chasis 5P</td>
+<td>RO45004-000537</td>
+<td>1</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Conjunto de pared trasera 5P</td>
+<td>RO45901-000095</td>
+<td>1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Ensamble de acaparamiento lateral izquierdo y derecho 5P</td>
+<td>R045901-000102</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Componentes de la placa de sellado de salida</td>
+<td>RO45901-000035</td>
+<td>1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Pieza de espuma base</td>
+<td>RO45004-000326</td>
+<td>1</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Piezas de la bomba de agua</td>
+<td>RO45014-003541</td>
+<td>1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Motor del ventilador centrífugo</td>
+<td>RO25001-000429</td>
+<td>1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Ventilador centrífugo</td>
+<td>RO45009-000053</td>
+<td>1</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Componentes del evaporador</td>
+<td>$R 0 9 5 0 0 3 - 0 0 4 3 4 9$</td>
+<td>1</td>
+</tr>
+<tr>
+<td>11,1</td>
+<td>Conjunto del evaporador</td>
+<td>R095003-004348</td>
+<td>1</td>
+</tr>
+<tr>
+<td>11,2</td>
+<td>Ensamble del tubo de entrada del evaporador</td>
+<td>RO95016-001419</td>
+<td>1</td>
+</tr>
+<tr>
+<td>11,3</td>
+<td>Ensamble del tubo de salida del evaporador</td>
+<td>RO95016-001420</td>
+<td>1</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Gancho de fijación del evapo- rador</td>
+<td>RO45014-004163</td>
+<td>3</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Placa de fijación del evaporador</td>
+<td>RO45010-000072</td>
+<td>1</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Piezas de la bandeja de agua</td>
+<td>RO45011-000120</td>
+<td>1</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Deflector</td>
+<td>RO45008-000369</td>
+<td>1</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Caja de control eléctrico</td>
+<td>RO45006-000399</td>
+<td>1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Bloques terminales</td>
+<td>RO35005-000167</td>
+<td>1</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Caja de montaje de la placa base de control electrónico</td>
+<td>R045901-000112</td>
+<td>1</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Bloques terminales</td>
+<td>RO35005-000074</td>
+<td>1</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Panel de control interior</td>
+<td>RO35004-001723</td>
+<td>1</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Tapa de la caja de control elec- trónico</td>
+<td>RO35001-000374</td>
+<td>1</td>
+</tr>
+<tr>
+<td>16,1</td>
+<td>Transformador</td>
+<td>RO25009-000209</td>
+<td>1</td>
+</tr>
+</table>
 
-## TITAN SERIES
+TITAN
+SERIES
 
-| No | Nombre de la parte | Código | Q'ty |
-| :--: | :--: | :--: | :--: |
-| 1 | 5P conjunto de acaparamiento <br> lateral izquierdo y derecho | RO45901-000102 | 1 |
-| 2 | Conjunto del panel frontal 5P | RO45901-000092 | 1 |
-| 3 | Conjunto chasis 5P | RO45004-000537 | 1 |
-| 4 | Conjunto de pared trasera 5P | RO45901-000095 | 1 |
-| 5 | Ensamble de acaparamiento <br> lateral izquierdo y derecho 5P | RO45901-000102 | 1 |
-| 6 | Componentes de la placa de <br> sellado de salida | RO45901-000035 | 1 |
-| 7 | Pieza de espuma base | RO45004-000326 | 1 |
-| 8 | Piezas de la bomba de agua | RO45014-003541 | 1 |
-| 9 | Motor del ventilador centrífugo | RO25001-000429 | 1 |
-| 10 | Ventilador centrífugo | RO45009-000053 | 1 |
-| 11 | Componentes del evaporador | RO95003-004349 | 1 |
-| 11,1 | Conjunto del evaporador | RO95003-004348 | 1 |
-| 11,2 | Ensamble del tubo de entrada <br> del evaporador | RO95016-001419 | 1 |
-| 11,3 | Ensamble del tubo de salida del <br> evaporador | RO95016-001420 | 1 |
-| 12 | Gancho de fijación del evapo- <br> rador | RO45014-004163 | 3 |
-| 13 | Placa de fijación del evaporador | RO45010-000072 | 1 |
-| 14 | Piezas de la bandeja de agua | RO45011-000120 | 1 |
-| 15 | Deflector | RO45008-000369 | 1 |
-| 16 | Caja de control eléctrico | RO45006-000399 | 1 |
-| 17 | Bloques terminales | RO35005-000167 | 1 |
-| 18 | Caja de montaje de la placa <br> base de control electrónico | RO45901-000112 | 1 |
-| 19 | Bloques terminales | RO35005-000074 | 1 |
-| 20 | Panel de control interior | RO35004-001723 | 1 |
-| 21 | Tapa de la caja de control elec- <br> trónico | RO35001-000374 | 1 |
-| 16,1 | Transformador | RO25009-000209 | 1 |
+<!-- PageFooter="MY2024" -->
 
-![img-0.jpeg](img-0.jpeg)

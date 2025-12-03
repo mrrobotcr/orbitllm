@@ -1,66 +1,339 @@
 # AGO-T-PTC6013_PLANOS_EXPLOSIONADOS_ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
 # Planos Explosionados
 
-## Piso Techo
+Piso Techo
+AGO-T-PTC6013
+60K
 
-### AGO-T-PTC6013
+<table>
+<tr>
+<th>No</th>
+<th>Código</th>
+<th>Nombre de la Pieza</th>
+<th>Q'ty</th>
+<th>Opcional</th>
+</tr>
+<tr>
+<td>1</td>
+<td>RO25001-000240</td>
+<td>Motor paso a paso</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>RO45008-000217</td>
+<td>Soporte de la barra guía de aire</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>RO45008-000229</td>
+<td>Placa suplementaria</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>RO45008-000127</td>
+<td>Espuma de salida</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>RO45008-000284</td>
+<td>Deflector de aire</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>RO25001-000123</td>
+<td>Motor paso a paso</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>RO45011-000087</td>
+<td>Conjunto de bandeja de drenaje</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>RO45801-000062</td>
+<td>Conjunto de aletas</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>RO45013-000127</td>
+<td>Panel frontal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>RO35010-000003</td>
+<td>PCB de pantalla</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>RO95003-000808</td>
+<td>Conjunto del evaporador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>RO95016-000491</td>
+<td>Conjunto del tubo de salida</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>13,1</td>
+<td>RO95016-000828</td>
+<td>Conjunto del tubo de entrada</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>13,2</td>
+<td>RO95002-000460</td>
+<td>Válvula de expansión</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>RO45801-000046</td>
+<td>Soporte lateral del evaporador 3</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>RO45014-002009</td>
+<td>Conjunto de placa central</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>RO45801-000074</td>
+<td>Soporte lateral del evaporador 2</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>RO45014-003522</td>
+<td>Placa de válvulas</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>RO45003-000202</td>
+<td>Conjunto de placa derecha</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>RO45014-002001</td>
+<td>Panel derecho</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>RO45014-002551</td>
+<td>Conjunto de rejilla de entrada de aire</td>
+<td>2</td>
+<td>469.4×284</td>
+</tr>
+<tr>
+<td>21</td>
+<td>RO45014-003013</td>
+<td>Conjunto de rejilla de entrada de aire</td>
+<td>1</td>
+<td>579.6×284</td>
+</tr>
+</table>
 
-### 60K
+<table>
+<tr>
+<th>No</th>
+<th>Código</th>
+<th>Nombre de la Pieza</th>
+<th>Q'ty</th>
+<th>Opcional</th>
+</tr>
+<tr>
+<td>22</td>
+<td>RO45006-000135</td>
+<td>Conjunto de caja eléctrica</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>23,1</td>
+<td>RO25009-000110</td>
+<td>Transformador</td>
+<td>1</td>
+<td>AC220V 24V</td>
+</tr>
+<tr>
+<td>23,2</td>
+<td>RO10502-100008</td>
+<td>Transformador</td>
+<td>1</td>
+<td>GBYQ-12</td>
+</tr>
+<tr>
+<td>24</td>
+<td>RO35004-001274</td>
+<td>PCB principal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>RO25003-000048</td>
+<td>Capacitor del ventilador</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>RO45006-000354</td>
+<td>Tapa de la caja eléctrica</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td>RO45005-000255</td>
+<td>Complemento de la base del</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td>RO45005-000196</td>
+<td>Clip del motor (derecho)</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>29</td>
+<td>RO25001-000130</td>
+<td>Motor del ventilador interior</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>30</td>
+<td>RO45005-000232</td>
+<td>Clip del motor (izquierdo)</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>31</td>
+<td>RO45005-000396</td>
+<td>Base del motor</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td>RO45008-000195</td>
+<td>Carcasa superior del</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td>RO45009-000015</td>
+<td>Turbina del ventilador</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td>RO45008-000153</td>
+<td>Carcasa inferior del</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td>RO45003-000092</td>
+<td>Conjunto de placa izquierda</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
+<td>RO45003-000044</td>
+<td>Panel izquierdo</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>37</td>
+<td>RO45801-000033</td>
+<td>Soporte lateral del</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>38</td>
+<td>RO45004-000015</td>
+<td>Placa base</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>39</td>
+<td>RO22013-000064</td>
+<td>Control remoto</td>
+<td>1</td>
+<td rowspan="4">No se muestra en el plano explosinado.</td>
+</tr>
+<tr>
+<td>40</td>
+<td>RO25004-000026</td>
+<td>Sensor de ambiente</td>
+<td>1</td>
+</tr>
+<tr>
+<td>41</td>
+<td>RO25004-000128</td>
+<td>Sensor de tubería</td>
+<td>1</td>
+</tr>
+<tr>
+<td>42</td>
+<td>RO35005-000106</td>
+<td>Terminal</td>
+<td>1</td>
+</tr>
+</table>
 
-|  No | Código | Nombre de la Pieza | Qty | Opcional  |
-| --- | --- | --- | --- | --- |
-|  1 | RO25001-000240 | Motor paso a paso | 1 |   |
-|  2 | RO45008-000217 | Soporte de la barra guía de aire | 2 |   |
-|  3 | RO45008-000229 | Placa suplementaria | 1 |   |
-|  4 | RO45008-000127 | Espuma de salida | 1 |   |
-|  5 | RO45008-000284 | Deflector de aire | 1 |   |
-|  6 | RO25001-000123 | Motor paso a paso | 1 |   |
-|  7 | RO45011-000087 | Conjunto de bandeja de drenaje | 1 |   |
-|  8 | RO45801-000062 | Conjunto de aletas | 1 |   |
-|  9 | RO45013-000127 | Panel frontal | 1 |   |
-|  10 | RO35010-000003 | PCB de pantalla | 1 |   |
-|  11 | RO95003-000808 | Conjunto del evaporador | 1 |   |
-|  12 | RO95016-000491 | Conjunto del tubo de salida | 1 |   |
-|  13,1 | RO95016-000828 | Conjunto del tubo de entrada | 1 |   |
-|  13,2 | RO95002-000460 | Válvula de expansión | 1 |   |
-|  14 | RO45801-000046 | Soporte lateral del evaporador 3 | 1 |   |
-|  15 | RO45014-002009 | Conjunto de placa central | 1 |   |
-|  16 | RO45801-000074 | Soporte lateral del evaporador 2 | 1 |   |
-|  17 | RO45014-003522 | Placa de válvulas | 1 |   |
-|  18 | RO45003-000202 | Conjunto de placa derecha | 1 |   |
-|  19 | RO45014-002001 | Panel derecho | 1 |   |
-|  20 | RO45014-002551 | Conjunto de rejilla de entrada de aire | 2 | 469.4×284  |
-|  21 | RO45014-003013 | Conjunto de rejilla de entrada de aire | 1 | 579.6×284  |
+<!-- PageFooter="V-30062025" -->
 
-|  No | Código | Nombre de la Pieza | Qty | Opcional  |
-| --- | --- | --- | --- | --- |
-|  22 | RO45006-000135 | Conjunto de caja eléctrica | 1 |   |
-|  23,1 | RO25009-000110 | Transformador | 1 | AC220V 24V  |
-|  23,2 | RO10502-100008 | Transformador | 1 | GBYQ-12  |
-|  24 | RO35004-001274 | PCB principal | 1 |   |
-|  25 | RO25003-000048 | Capacitor del ventilador | 2 |   |
-|  26 | RO45006-000354 | Tapa de la caja eléctrica | 1 |   |
-|  27 | RO45005-000255 | Complemento de la base del | 2 |   |
-|  28 | RO45005-000196 | Clip del motor (derecho) | 2 |   |
-|  29 | RO25001-000130 | Motor del ventilador interior | 2 |   |
-|  30 | RO45005-000232 | Clip del motor (izquierdo) | 2 |   |
-|  31 | RO45005-000396 | Base del motor | 2 |   |
-|  32 | RO45008-000195 | Carcasa superior del | 4 |   |
-|  33 | RO45009-000015 | Turbina del ventilador | 4 |   |
-|  34 | RO45008-000153 | Carcasa inferior del | 4 |   |
-|  35 | RO45003-000092 | Conjunto de placa izquierda | 1 |   |
-|  36 | RO45003-000044 | Panel izquierdo | 1 |   |
-|  37 | RO45801-000033 | Soporte lateral del | 1 |   |
-|  38 | RO45004-000015 | Placa base | 1 |   |
-|  39 | RO22013-000064 | Control remoto | 1 | No se muestra en el plano explosinado.  |
-|  40 | RO25004-000026 | Sensor de ambiente | 1 |   |
-|  41 | RO25004-000128 | Sensor de tubería | 1 |   |
-|  42 | RO35005-000106 | Terminal | 1 |   |
-
-![img-0.jpeg](img-0.jpeg)

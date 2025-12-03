@@ -1,13 +1,12 @@
 # AFLEX-C-MANUAL-DE-SERVICIO-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
 
-# MANUAL DE SERVICIOS 
+# MANUAL DE SERVICIOS
 
 AFLEX-C-12-110
 AFLEX-C-12
@@ -15,263 +14,693 @@ AFLEX-C-18
 AFLEX-C-24
 AFLEX-C-36
 
+MY2024
+
+<!-- PageBreak -->
+
+
+
 ================================================================================
 PAGE 2
 ================================================================================
 
-# Contenido 
 
-1.Alcance y condiciones ..... 3
-2.Especificaciones de control ..... 4
-3.Planos explosionados ..... 6
-4.Diagrama de flujo de refrigerante ..... 10
-5.Diagrama del circuito ..... 11
-6.Solución de problemas ..... 14
-7.Comprobacióndecomponenteselectricos ..... 19
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
+
+## Contenido
+
+<table>
+<tr>
+<td>1.Alcance y condiciones 2.Especificaciones de control</td>
+<td>3 4</td>
+</tr>
+<tr>
+<td>3.Planos explosionados</td>
+<td>6</td>
+</tr>
+<tr>
+<td>4.Diagrama de flujo de refrigerante</td>
+<td>10</td>
+</tr>
+<tr>
+<td>5.Diagrama del circuito.</td>
+<td>11</td>
+</tr>
+<tr>
+<td>6.Solución de problemas</td>
+<td>14</td>
+</tr>
+<tr>
+<td>7.Comprobacióndecomponenteselectricos</td>
+<td>19</td>
+</tr>
+</table>
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-# 1.Alcance y condiciones
 
-## Alcance de funcionamiento
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
 
-|  Modos de
-Operación | Temperatura | Temperatura interior | Temperatura exterior  |
-| --- | --- | --- | --- |
-|  Enfriamiento | Max. | $32^{\circ} \mathrm{C} \mathrm{DB} / 27^{\circ} \mathrm{C}$ WB | $43^{\circ} \mathrm{C} \mathrm{DB} / 26^{\circ} \mathrm{C}$ WB  |
-|   | Min. | $21^{\circ} \mathrm{C} \mathrm{DB} / 15^{\circ} \mathrm{C}$ WB | $21^{\circ} \mathrm{C} \mathrm{DB}$  |
-|  Calefacción | Max. | $27^{\circ} \mathrm{C} \mathrm{DB}$ | $24^{\circ} \mathrm{C} \mathrm{DB} / 18^{\circ} \mathrm{C}$ WB  |
-|   | Min. | $20^{\circ} \mathrm{C} \mathrm{DB}$ | $-5^{\circ} \mathrm{C} \mathrm{DB} /-6^{\circ} \mathrm{C}$ WB  |
+## 1.Alcance y condiciones
 
-Condiciones de funcionamiento
+### Alcance de funcionamiento
 
-|   | Condiciones de funcionamiento nominales |   |
-| --- | --- | --- |
-|   | Temperatura interior | Temperatura exterior  |
-|  Enfriamiento | $27^{\circ} \mathrm{C} \mathrm{DB} / 19^{\circ} \mathrm{C}$ WB | $35^{\circ} \mathrm{C} \mathrm{DB} / 24^{\circ} \mathrm{C}$ WB  |
-|  Longitud del tubo (m) | 3 |   |
-|   | Max. Valor de funcionamiento |   |
-|   | Temperatura interior | Temperatura exterior  |
-|  Enfriamiento | $32^{\circ} \mathrm{C} \mathrm{DB} / 23^{\circ} \mathrm{C}$ WB | $43^{\circ} \mathrm{C} \mathrm{DB}$  |
-|  Longitud del tubo (m) | 3 |   |
+<table>
+<tr>
+<th>Modos de Operación</th>
+<th>Temperatura</th>
+<th>Temperatura interior</th>
+<th>Temperatura exterior</th>
+</tr>
+<tr>
+<td rowspan="2">Enfriamiento</td>
+<td>Max.</td>
+<td>32℃ DB/27℃ WB</td>
+<td>43℃ DB/26℃ WB</td>
+</tr>
+<tr>
+<td>Min.</td>
+<td>21℃ DB/15℃ WB</td>
+<td>21℃ DB</td>
+</tr>
+<tr>
+<td rowspan="2">Calefacción</td>
+<td>Max.</td>
+<td>27℃ DB</td>
+<td>24℃ DB/18℃ WB</td>
+</tr>
+<tr>
+<td>Min</td>
+<td>20℃ DB</td>
+<td>-5℃ DB/-6℃ WB</td>
+</tr>
+</table>
 
-DB: Dry-bulb (Bombilla seca) temperatura WB: Wet-bulb (Bombilla mojada) temperatura
+### Condiciones de funcionamiento
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th colspan="2">Condiciones de funcionamiento nominales</th>
+</tr>
+<tr>
+<th>Temperatura interior</th>
+<th>Temperatura exterior</th>
+</tr>
+<tr>
+<td>Enfriamiento</td>
+<td>27℃ DB/19℃ WB</td>
+<td>35℃ DB/24℃ WB</td>
+</tr>
+<tr>
+<td>Longitud del tubo (m)</td>
+<td colspan="2">3</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">Max. Valor de funcionamiento</td>
+</tr>
+<tr>
+<td>Temperatura interior</td>
+<td>Temperatura exterior</td>
+</tr>
+<tr>
+<td>Enfriamiento</td>
+<td>32℃ DO/23℃ WB</td>
+<td>43℃ DA</td>
+</tr>
+<tr>
+<td>Longitud del tubo (m)</td>
+<td colspan="2">3</td>
+</tr>
+</table>
+
+DB: Dry-bulb (Bombilla seca) temperatura
+
+WB: Wet-bulb (Bombilla mojada) temperatura
+
+<!-- PageNumber="3" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 4
 ================================================================================
 
-# 2. Especificaciones de control 
 
-### 2.1 Modo de reposo
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
 
-Cuando se ajusta el modo Sleep por control remoto, la temperatura ajustada aumentará $1^{\circ} \mathrm{C}$ después de funcionar 1 hora en modo Refrigeración o Deshumidificación: la temperatura ajustada disminuirá $1^{\circ} \mathrm{C}$ después de funcionar 1 hora en modo Calefacción. (Nota: La temperatura fijada en la pantalla no se altera).
-Cuando el acondicionador de aire funciona en modo de reposo, la velocidad máxima del ventilador interior se ajusta a nivel medio.
-Nota: La velocidad del ventilador está ajustada a nivel bajo, pero la velocidad del ventilador pasará a nivel medio cuando esté en modo de prevención de congelación.
+#### 2. Especificaciones de control
 
-### 2.2 Funcionamiento para la prevención de sequedad enzimática (Opcional)
+##### 2.1 Modo de reposo
 
-Cuando la unidad se apaga en modo refrigeración, la unidad interior continuará funcionando a baja velocidad del ventilador durante unos 3 minutos para eliminar la humedad parcial de la habitación.
+Cuando se ajusta el modo Sleep por control remoto, la temperatura ajustada aumentará 1℃ después
+de funcionar 1 hora en modo Refrigeración o Deshumidification: la temperatura ajustada disminuirá
+1℃ después de funcionar 1 hora en modo Calefacción. (Nota: La temperatura fijada en la pantalla
+no se altera).
 
-### 2.3 Prevención de corrientes de aire frío durante el calentamiento
+Cuando el acondicionador de aire funciona en modo de reposo, la velocidad máxima del ventilador
+interior se ajusta a nivel medio.
 
-Evite el flujo de aire frío: Al comienzo del modo de calefacción, si la temperatura de la batería interior es inferior al valor prescrito, y el compresor se para o el tiempo de funcionamiento es inferior al tiempo prescrito (si se excede el tiempo prescrito, la unidad estará en prevención de flujo de aire frío). Si se excede el tiempo prescrito, la unidad estará en la condición de prevención de flujo de aire frío, entonces las lamas de la persiana no pueden oscilar y el motor del ventilador interior se detiene. El indicador PAUSE se ilumina durante el periodo de prevención de flujo de aire frío.
+Nota: La velocidad del ventilador está ajustada a nivel bajo, pero la velocidad del
+ventilador pasará a nivel medio cuando esté en modo de prevención de congelación.
 
-### 2.4 Protección de arranque retardado para el compresor
+##### 2.2 Funcionamiento para la prevención de sequedad enzimática (Opcional)
 
-El compresor volverá a funcionar 3 minutos después de la desconexión del compresor o del apagado para mantener el equilibrio de presión del sistema de refrigeración.
+Cuando la unidad se apaga en modo refrigeración, la unidad interior continuará funcionando a baja
+velocidad del ventilador durante unos 3 minutos para eliminar la humedad parcial de la habitación.
 
-### 2.5 Prevención de congelación
+##### 2.3 Prevención de corrientes de aire frío durante el calentamiento
 
-Para evitar la congelación del intercambiador de calor interior en funcionamiento frío y seco. Cuando $\mathrm{Trc} \leq 3^{\circ} \mathrm{C}$, la unidad entrará en operación de prevención de congelación. El acondicionador de aire saldrá de la operación de prevención de congelación cuando $\mathrm{Trc}>10^{\circ} \mathrm{C}$, el motor del ventilador interior funcione a la velocidad del ventilador ajustada. El compresor dejará de funcionar cuando funcione al menos 10 minutos y $\mathrm{Trc} \leq 0^{\circ} \mathrm{C}$. Si el tiempo de apagado del compresor es por más de 6 minutos o $\mathrm{Trc} \geq 10^{\circ} \mathrm{C}$, y el compresor deja de funcionar por más de 3 minutos. El compresor y el motor del ventilador exterior volverán a funcionar. El acondicionador de aire saldrá de la operación de prevención de congelación y el motor del ventilador interior funcionará a la velocidad ajustada.
+Evite el flujo de aire frío: Al comienzo del modo de calefacción, si la temperatura de la batería interior
+es inferior al valor prescrito, y el compresor se para o el tiempo de funcionamiento es inferior al
+tiempo prescrito (si se excede el tiempo prescrito, la unidad estará en prevención de flujo de aire frío).
+Si se excede el tiempo prescrito, la unidad estará en la condición de prevención de flujo de
+aire frío, entonces las lamas de la persiana no pueden oscilar y el motor del ventilador interior
+se detiene. El indicador PAUSE se ilumina durante el periodo de prevención de flujo de aire frío.
 
-### 2.6 Función UVC (opcional)
+##### 2.4 Protección de arranque retardado para el compresor
+
+El compresor volverá a funcionar 3 minutos después de la desconexión del compresor o del apagado
+para mantener el equilibrio de presión del sistema de refrigeración.
+
+##### 2.5 Prevención de congelación
+
+Para evitar la congelación del intercambiador de calor interior en funcionamiento frío y seco.
+Cuando Trc≤3℃, la unidad entrará en operación de prevención de congelación. El acondicionador de
+aire saldrá de la operación de prevención de congelación cuando Trc>10℃, el motor del ventilador
+interior funcione a la velocidad del ventilador ajustada. El compresor dejará de funcionar cuando
+funcione al menos 10 minutos y Trc≤0℃. Si el tiempo de apagado del compresor es por más de
+6 minutos o Trc≥10℃, y el compresor deja de funcionar por más de 3 minutos. El compresor y el
+motor del ventilador exterior volverán a funcionar. El acondicionador de aire saldrá de la operación
+de prevención de congelación y el motor del ventilador interior funcionará a la velocidad ajustada.
+
+##### 2.6 Función UVC (opcional)
 
 Pulse el botón UVC del mando a distancia para iniciar o detener la función de esterilización UVC.
 
-## Nota:
+Nota:
 
-1. Este aparato contiene una lámpara UVC.
-2. El uso no intencionado del aparato o daños en la carcasa pueden provocar la salida de radiaciones UVC peligrosas. La radiación UVC puede, incluso en pequeñas dosis, causar daños en los ojos y la piel. 3. No utilice aparatos que presenten daños evidentes. Antes de proceder a la limpieza u otras operaciones de mantenimiento, desconecte el aparato d
+1\. Este aparato contiene una lámpara UVC.
+
+2\. El uso no intencionado del aparato o daños en la carcasa pueden provocar la salida de radiaciones
+UVC peligrosas. La radiación UVC puede, incluso en pequeñas dosis, causar daños en los ojos y la piel.
+
+3\. No utilice aparatos que presenten daños evidentes. Antes de proceder a la limpieza u otras
+operaciones de mantenimiento, desconecte el aparato d
 e la red eléctrica.
+
+<!-- PageNumber="4" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 5
 ================================================================================
 
-# 2.7 Indicación y protección de los códigos de fallo
 
-Código 11: temperatura ambiente Código 12: temperatura de la tubería de la batería interior Código 13: temperatura de la tubería de la batería exterior (No disponible) B. Código 14: información anormal
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
 
-|  Código de error | Solución de problemas | Solución  |
-| --- | --- | --- |
-|  F1 | Sensor corto \ abierto de temperatura ambiente interior | Midiendo el valor de la resistencia del sensor, si la resistencia es infinita o cero, debe ser reemplazado por uno nuevo.  |
-|  F2 | Sensor temperatura media interior corto \ abierto |   |
-|  F3 | Sensor temperatura media exterior corto \ abierto |   |
-|  F4 | Mal funcionamiento del ventilador interior del aire acondicionado | Compruebe la conexión del ventilador y la placa base del interior, incluyendo la línea del ventilador y la línea de re alimentación.  |
-|  F6 | EE interior fallido | Vuelva a grabar los parámetros EE o sustituya uno nuevo.  |
-|  P1 | Protección exterior contra sobrecargas | El cable de alimentación interior no pasa a través de la bobina de corriente; además, la pantalla se mostrará cuando la unidad funcione con una carga elevada.  |
-|  P2 | Protección contra sobrecarga de la calefacción | Es un fenómeno normal cuando la unidad funciona con mucha carga.  |
-|  P3 | Protección anticongelante |   |
+###### 2.7 Indicación y protección de los códigos de fallo
+
+Código 11: temperatura ambiente Código 12: temperatura de la tubería de la batería interior
+Código 13: temperatura de la tubería de la batería exterior (No disponible)
+
+B. Código 14: información anormal
+
+<table>
+<tr>
+<th>Código de error</th>
+<th>Solución de problemas</th>
+<th>Solución</th>
+</tr>
+<tr>
+<td>F1</td>
+<td>Sensor corto \ abierto de temperatura ambiente interior</td>
+<td rowspan="3">Midiendo el valor de la resistencia del sensor, si la resistencia es infinita o cero, debe ser reemplazado por uno nuevo.</td>
+</tr>
+<tr>
+<td>F2</td>
+<td>Sensor temperatura media Interior corto \ abierto</td>
+</tr>
+<tr>
+<td>F3</td>
+<td>Sensor temperatura media exterior corto \ abierto</td>
+</tr>
+<tr>
+<td>$F 4$</td>
+<td>Mal funcionamiento del ventilador interior del aire acondicionado</td>
+<td>Compruebe la conexión del ventilador y la placa base del Interior, Incluyendo la linea del ventilador y la linea de re alimentación.</td>
+</tr>
+<tr>
+<td>F6</td>
+<td>EE interior fallido</td>
+<td>Vuelva a grabar los parámetros EE o sustituya uno nuevo.</td>
+</tr>
+<tr>
+<td>P1</td>
+<td>Protección exterior contra sobrecargas</td>
+<td>El cable de alimentación Interior no pasa a través de la bobina de corriente; además la pantalla se mostrará cuando la unidad funcione con una carga elevada.</td>
+</tr>
+<tr>
+<td>$P 2$</td>
+<td>Protección contra sobrecarga de la calefacción</td>
+<td>Es un fenómeno normal cuando la unidad funciona con mucha carga.</td>
+</tr>
+<tr>
+<td>P3</td>
+<td>Protección anticongelante</td>
+<td></td>
+</tr>
+</table>
 
 Si el problema no se resuelve, póngase en contacto con el profesional o el proveedor.
+
+<!-- PageNumber="5" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 6
 ================================================================================
 
-# 3. Planos explosionados 
 
-### 3.1 Vista explosionada de la unidad interior
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
 
-![img-1.jpeg](img-1.jpeg)
+#### 3. Planos explosionados
+
+<!-- PageNumber="6" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 7
 ================================================================================
 
-|  NO. | Descripción de los materiales | NO. | Descripción de los materiales  |
-| --- | --- | --- | --- |
-|  1 | Subconjunto del panel frontal | 22 | Tubo calefactor eléctrico  |
-|  2 | Panel frontal | 23 | Generación de lones positivos y negativos  |
-|  3 | Filtro de aire | 24 | Soporte del sensor  |
-|  4 | Subconjunto bastidor medio | 25 | Cuadro eléctrico  |
-|  5 | Tapa roscada | 26 | Resorte  |
-|  6 | Subconjunto del evaporador | 27 | Caja de exposición  |
-|  7 | Placa de presión | 28 | Pantalla Montaje P.C.B  |
-|  8 | Rodamiento | 29 | Subconjunto WIFI  |
-|  9 | Subconjunto del bastidor inferior | 30 | Cuadro eléctrico (metal)  |
-|  10 | Motor paso a paso | 31 | Tapa de la caja de control eléctrico  |
-|  11 | Cuchilla | 32 | Transformador  |
-|  12 | Marco para montaje en pared | 33 | Placa de bornes  |
-|  13 | Placa de presión de tubos | 34 | Placa de presión de alambre  |
-|  14 | Subconjunto de tubería de desagüe | 35 | Caja de control eléctrico  |
-|  15 | Motor paso a paso | 36 | Montaje P.C.B  |
-|  16 | Ventilador de flujo cruzado | 37 | Caja de control eléctrico (carcase metálica)  |
-|  17 | Soporte del motor (abajo) | 38 | Línea eléctrica  |
-|  18 | Motor del ventilador | 39 | Sensor de temperatura ambiente  |
-|  19 | Soporte del motor (top) | 40 | Sensor de temperatura de la tubería  |
-|  20 | Cubierta del motor | 41 | Generador de lones negativos  |
-|  21 | Generador de lones negativos |  |   |
 
-NOTA: El producto real puede ser diferente de los gráficos anteriores, por favor refiérase a los productos reales.
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
+
+<table>
+<tr>
+<th>NO.</th>
+<th>Descripción de los materiales</th>
+<th>NO.</th>
+<th>Descripción de los materiales</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Subconjunto del panel frontal</td>
+<td>22</td>
+<td>Tubo calefactor eléctrico</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Panel frontal</td>
+<td>23</td>
+<td>Generación de iones positivos y negativos</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Filtro de aire</td>
+<td>24</td>
+<td>Soporte del sensor</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Subconjunto bastidor medio</td>
+<td>25</td>
+<td>Cuadro eléctrico</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tapa roscada</td>
+<td>26</td>
+<td>Resorto</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Subconjunto del evaporador</td>
+<td>27</td>
+<td>Caja de exposición</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Placa de presión</td>
+<td>28</td>
+<td>Pantalla Montaje P.C.B</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Rodamiento</td>
+<td>29</td>
+<td>Subconjunto WIFI</td>
+</tr>
+<tr>
+<td>0</td>
+<td>Subconjunto del bastidor inferior</td>
+<td>30</td>
+<td>Cuadro eléctrico (metal)</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Motor paso a paso</td>
+<td>31</td>
+<td>Tapa de la caja de control eléctrico</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Cuchilla</td>
+<td>32</td>
+<td>Transformador</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Marco para montaje en pared</td>
+<td>33</td>
+<td>Placa de bornes</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Placa de presión de tubos</td>
+<td>3.4</td>
+<td>Placa de presión de alambre</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Subconjunto de tuberia de desague</td>
+<td>35</td>
+<td>Caja de control eléctrico</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Motor paso a paso</td>
+<td>36</td>
+<td>Montaje P.C.B</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Ventilador de flujo cruzado</td>
+<td>37</td>
+<td>Caja de control eléctrico (carcase metálica)</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Soporte del motor (abajo)</td>
+<td>38</td>
+<td>Linea eléctrica</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Motor del ventilador</td>
+<td>39</td>
+<td>Sensor de temperatura ambiente</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Soporte del motor (top)</td>
+<td>40</td>
+<td>Sensor de temperatura de la tubería</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Cubierta del motor</td>
+<td>41</td>
+<td>Generador de iones negativos</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Generador de iones negativos</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+NOTA: El producto real puede ser diferente de los gráficos anteriores, por favor refiérase
+a los productos reales.
+
+<!-- PageNumber="7" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 8
 ================================================================================
 
-# 3.2 Vista explosionada de la unidad exterior 
 
-![img-2.jpeg](img-2.jpeg)
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
+
+<!-- PageNumber="8" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 9
 ================================================================================
 
-| NO | Descripción de los materiales |
-| :-- | :-- |
-| 1 | La cubierta de red delantera |
-| 2 | El panel frontal |
-| 3 | Montaje de la tuerca |
-| 4 | Ventilador de flujo axial |
-| 5 | Motor del ventilador |
-| 6 | Placa de montaje en esquina |
-| 7 | El soporte del motor |
-| 8 | Conjunto del condensador |
-| 9 | Cubierta |
-| 10 | condensador de membrana (compresor) |
-| 11 | Contratista A.C. |
-| 12 | Clip de condensador |
-| 13 | Condensador de membrana (motor del ventilador) |
-| 14 | Placa de instalación del mando eléctrico |
-| 15 | Abrazadera de alambre |
-| 16 | Placa de sujeción en alambre |
-| 17 | 4-way reversing valve (heating model) |
-| 18 | RighPanel lateral derecho side panel |
-| 19 | Panel lateral derecho |
-| 20 | Tapa de válvulas |
-| 21 | $1 / 2$ Válvula de cierre |
-| 22 | $1 / 2$ Válvula de cierre |
-| 23 | Placa de montaje de la válvula |
-| 24 | Montaje del suelo |
-| 25 | Componentes capilares |
-| 26 | Compresor |
-| 27 | Tuberias de aspiración |
-| 28 | Tuberias de escape de gas |
-| 29 | Tablero insonorizado |
 
-NOTA: El producto real puede ser diferente de los gráficos anteriores, por favor refiérase a los productos reales.
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
+
+<table>
+<tr>
+<th>NO</th>
+<th>Descripción de los materiales ☐</th>
+</tr>
+<tr>
+<td>1</td>
+<td>La cubierta de red delantera</td>
+</tr>
+<tr>
+<td>2</td>
+<td>El panel frontal</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Montaje de la tuerca</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Ventilador de flujo axial</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Motor del ventilador</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Placa de montaje en esquina</td>
+</tr>
+<tr>
+<td>7</td>
+<td>El soporte del motor</td>
+</tr>
+<tr>
+<td>B</td>
+<td>Conjunto del condensador</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Cubierta</td>
+</tr>
+<tr>
+<td>10</td>
+<td>condensador de membrana (compresor)</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Contratista A.C.</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Clip de condensador</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Condensador de membrana (motor del ventilador)</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Placa de instalación del mando eléctrico</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Abrazadera de alambre</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Placa de sujeción en alambre</td>
+</tr>
+<tr>
+<td>17</td>
+<td>4-way reversing valve (heating model)</td>
+</tr>
+<tr>
+<td>18</td>
+<td>RighPanel lateral derechot side panel</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Panel lateral derecho</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Tapa de válvulas</td>
+</tr>
+<tr>
+<td>$2 1$</td>
+<td>1/2 Válvula de cierre</td>
+</tr>
+<tr>
+<td>$2 2$</td>
+<td>1/2 Valvula de cierre</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Placa de montaje de la válvula</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Montaje del suelo</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Componentes capilares</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Compresor</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Tuberias de aspiración</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Tuberias de escape de gas</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Tablero insonorizado</td>
+</tr>
+</table>
+
+NOTA: El producto real puede ser diferente de los gráficos anteriores, por favor refiérase
+a los productos reales.
+
+<!-- PageNumber="9" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 10
 ================================================================================
 
-# 4. Diagrama de flujo de refrigerante 
 
-![img-3.jpeg](img-3.jpeg)
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
 
-## Aislamiento térmico de la tubería de refrigerante
+#### 4. Diagrama de flujo de refrigerante
 
-Para evitar la pérdida de calor y que el agua condensada caiga al suelo, el tubo ancho y estrecho del aire acondicionado debe envolverse con materiales de aislamiento térmico. Para el uso de tubo capilar, y los tubos están en baja temperatura, el espesor de los materiales de aislamiento térmico deberá ser superior a 8 mm .
-![img-4.jpeg](img-4.jpeg)
+##### Aislamiento térmico de la tubería de refrigerante
+
+Para evitar la pérdida de calor y que el agua condensada caiga al suelo, el tubo ancho y estrecho
+del aire acondicionado debe envolverse con materiales de aislamiento térmico. Para el uso de tubo
+capilar, y los tubos están en baja temperatura, el espesor de los materiales de aislamiento térmico
+deberá ser superior a 8 mm.
+
+<!-- PageNumber="10" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 11
 ================================================================================
 
-# 5. Circuit Diagram 
 
-### 5.1 Electrical wiring diagram for indoor unit
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
 
-## WARNING
+#### 5. Circuit Diagram
 
-To avoid electrical shock hazard, be sure to disconnect power before checking, servicing and/or cleaning any electrical parts.
+##### 5.1 Electrical wiring diagram for indoor unit
+
+### WARNING
+
+To avoid electrical shock hazard, be sure to disconnect power before
+checking, servicing and/or cleaning any electrical parts.
 
 9K,12K,18K:
-![img-5.jpeg](img-5.jpeg)
 
-24 K :
-![img-6.jpeg](img-6.jpeg)
+24K:
+
+<!-- PageNumber="11" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 12
 ================================================================================
 
+
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
+
 36K:
-![img-7.jpeg](img-7.jpeg)
 
-# 5.2 Esquema eléctrico de la unidad exterior 
+#### 5.2 Esquema eléctrico de la unidad exterior
 
-## ADVERTENCIA
+### ADVERTENCIA
 
-Para evitar el riesgo de descarga eléctrica, asegúrese de desconectar la alimentación antes de revisar, reparar y/o limpiar cualquier pieza eléctrica.
+Para evitar el riesgo de descarga eléctrica, asegúrese de desconectar
+la alimentación antes de revisar, reparar y/o limpiar cualquier pieza
+eléctrica.
 
 9K,12K,18K:
-![img-8.jpeg](img-8.jpeg)
+
+<!-- PageNumber="12" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 13
 ================================================================================
 
-24k:
-![img-9.jpeg](img-9.jpeg)
-$36 k$ :
-![img-10.jpeg](img-10.jpeg)
-![img-11.jpeg](img-11.jpeg)
+
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
+
+<!-- PageNumber="13" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 14
 ================================================================================
 
-# 6. Solución de problemas 
+
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
+
+### 6. Solución de problemas
 
 6.1 Comprobación previa a la localización de averías
 
 ## ADVERTENCIA
 
-La alta tensión puede provocar descargas eléctricas o la muerte. Corte siempre la alimentación antes de realizar las comprobaciones y el mantenimiento.
+La alta tensión puede provocar descargas eléctricas o la muerte.
+Corte siempre la alimentación antes de realizar las comprobaciones y el
+mantenimiento.
 
 ### 6.1.2 Comprobar el cableado de la unidad
 
@@ -290,145 +719,184 @@ Para comprobar los cables.
 
 ### 6.2 El aire acondicionado no funciona
 
-### 6.2.1 El protector contra fugas está abierto o el fusible está quemado.
+#### 6.2.1 El protector contra fugas está abierto o el fusible está quemado.
 
-A. Al poner el protector contra fugas en "ON", se abre inmediatamente (no se puede restablecer). Existe la posibilidad de fallo a tierra.
-Compruebe la resistencia de aislamiento (La resistencia de aislamiento debe ser superior a 2M0). B...El protector contra fugas está en OFF.
+A. Al poner el protector contra fugas en "ON", se abre inmediatamente (no se puede restablecer).
+Existe la posibilidad de fallo a tierra.
 
-| Desconecte los cables de la unidad del bloque de terminales de la unidad exterior. Mida la resistencia del aislamiento de la unidad exterior. | No | Bajo rendimiento de aislamiento |
-| :--: | :--: | :--: |
-|  | Mida la resistencia de aislamiento de las partes eléctricas de la unidad exterior. |  |
-| Desconecte los cables de la unidad del bloque de terminales de la unidad interior. Desenchufe la unidad y mida la resistencia de aislamiento de la unidad interior. | No | Bajo rendimiento de aislamiento |
-|  | Mida la resistencia de aislamiento de las partes eléctricas de la unidad exterior. |  |
+Compruebe la resistencia de aislamiento (La resistencia de aislamiento debe ser superior a 2MQ).
+B ... El protector contra fugas está en OFF.
 
 C. El fusible se abre varios minutos después de encender el aire acondicionado.
+
+<!-- PageNumber="14" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 15
 ================================================================================
 
-![img-12.jpeg](img-12.jpeg)
 
-# 6.2.2 Las unidades interior y exterior no funcionan 
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
 
-![img-13.jpeg](img-13.jpeg)
+#### 6.2.2 Las unidades interior y exterior no funcionan
 
-### 6.2.3 Sólo la unidad exterior no funciona
+#### 6.2.3 Sólo la unidad exterior no funciona
 
-![img-14.jpeg](img-14.jpeg)
+<!-- PageNumber="15" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 16
 ================================================================================
 
-# 6.2.4 La unidad interior no funciona. 
 
-La placa de circuito impreso interior está defectuosa
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
+
+#### 6.2.4 La unidad interior no funciona.
+
+La placa de circuito impreso interior està defectuosa.
 
 ### 6.3 Algunas partes del aire acondicionado no funcionan
 
-### 6.3.1 Sólo no funciona el ventilador interior.
+#### 6.3.1 Sólo no funciona el ventilador interior.
 
-![img-15.jpeg](img-15.jpeg)
+#### 6.3.2 Sólo el motor de la persiana no funciona
 
-### 6.3.2 Sólo el motor de la persiana no funciona
+#### 6.3.3 Sólo el motor del ventilador exterior no funciona 6.3.3 Sólo el motor del ventilador exterior no funciona
 
-![img-16.jpeg](img-16.jpeg)
+<!-- PageNumber="16" -->
+<!-- PageBreak -->
 
-### 6.3.3 Sólo el motor del ventilador exterior no funciona 6.3.3 Sólo el motor del ventilador exterior no funciona
 
-![img-17.jpeg](img-17.jpeg)
 
 ================================================================================
 PAGE 17
 ================================================================================
 
-# 6.3.4 El compresor no funciona 
 
-![img-18.jpeg](img-18.jpeg)
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
 
-### 6.4 El aire acondicionado funciona, pero se observan anomalías
+### 6.3.4 El compresor no funciona
 
-6.4.1 Cambio deficiente entre refrigeración y calefacción. (Inaplicable para el tipo de sólo refrigeración).
+6.4 El aire acondicionado funciona, pero se observan anomalías
 
-El mando a distancia puede estar defectuoso.
+#### 6.4.1 Cambio deficiente entre refrigeración y calefacción. (Inaplicable para el tipo de sólo refrigeración).
 
-Mida la resistencia de la bobina de la válvula de inversión de 4 vias.
+El mando a distancia puede estar defectuoso,
 
-Refrigeración $\rightarrow$ Calefacción
+<!-- PageNumber="17" -->
+<!-- PageBreak -->
 
-Mida la tensión entre el terminal $n^{\circ} 5$ y el $n^{\circ} 2$ del bloque de terminales exterior (añadiendo una carga de 6 W en la medición).
 
-On indicación de tensión
-La placa de circuito impreso de la unidad interior está defectuosa.
 
 ================================================================================
 PAGE 18
 ================================================================================
 
-# 6.4.2 Fenómenos de refrigeración o calefacción deficientes 
 
-![img-19.jpeg](img-19.jpeg)
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
 
-NOTA: " $\qquad$ " Inaplicable para el tipo de sólo refrigeración.
+### 6.4.2 Fenómenos de refrigeración o calefacción deficientes
+
+NOTA: “
+" Inaplicable para el tipo de sólo refrigeración.
+
+<!-- PageNumber="18" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 19
 ================================================================================
 
-# 6.4.3 Enfriamiento o calentamiento excesivos. 
+
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
+
+### 6.4.3 Enfriamiento o calentamiento excesivos.
+
+Compruebe la temperatura ajustada.
 
 ## 7. Comprobación de los componentes eléctricos
 
 ### 7.1 Medir la resistencia del aislamiento
 
-El aislamiento está en buen estado si la resistencia supera los $2 \mathrm{M} \Omega$.
+El aislamiento está en buen estado si la resisten-
+cia supera los 2 MQ.
 
-### 7.1.1 Cables de alimentación
+#### 7.1.1 Cables de alimentación
 
-Sujete las clavijas de tierra del enchufe de alimentación con la pinza del comprobador de resistencia del aislamiento y mida la resistencia colocando una sonda en cualquiera de los cables de alimentación. (Fig. 1)
+Sujete las clavijas de tierra del enchufe de
+alimentación con la pinza del comprobador
+de resistencia del aislamiento y mida la
+resistencia colocando una sonda en cualquiera
+de los cables de alimentación. (Fig. 1)
 
-A continuación, mida la resistencia entre el cable de tierra y el otro cable de alimentación. (Fig. 1)
+A continuación, mida la resistencia entre el cable
+de tierra y el otro cable de alimentación. (Fig. 1)
 
-### 7.1.2 Unidad interior
+#### 7.1.2 Unidad interior
 
-Sujete una aleta de la placa de aluminio o un tubo de cobre con la pinza del cable del comprobador de resistencia del aislamiento y mida la resistencia colocando una sonda en cada tornillo terminal de la placa de bornes. (Fig. 2)
+Sujete una aleta de la placa de aluminio o
+un tubo de cobre con la pinza del cable del
+comprobador de resistencia del aislamiento y
+mida la resistencia colocando una sonda en cada
+tornillo terminal de la placa de bornes. (Fig. 2)
 
-Tenga en cuenta que el terminal de la línea de tierra debe omitirse para la comprobación.
+Tenga en cuenta que el terminal de la línea de
+tierra debe omitirse para la comprobación.
 
-### 7.1.3 Unidad exterior
+#### 7.1.3 Unidad exterior
 
-Sujete una parte metálica de la unidad con la pinza para cables del comprobador de resistencia de aislamiento y mida la resistencia colocando una sonda en cada tornillo terminal donde se conectan las líneas de alimentación en la placa de terminales. (Fig. 2)
+Sujete una parte metálica de la unidad con
+la pinza para cables del comprobador de
+resistencia de aislamiento y mida la resistencia
+colocando una sonda en cada tornillo terminal
+donde se conectan las líneas de alimentación en
+la placa de terminales. (Fig. 2)
 
-Fig. 1
-![img-20.jpeg](img-20.jpeg)
+Probador de
+aislamiento
 
-Placa de bornes
-![img-21.jpeg](img-21.jpeg)
+<!-- PageNumber="19" -->
+<!-- PageBreak -->
 
-Fig. 2
+
 
 ================================================================================
 PAGE 20
 ================================================================================
 
-NOTA: Consulte el esquema eléctrico. Si la sonda no puede entrar en los polos porque el orificio es demasiado estrecho, utilice una sonda con una clavija más fina.
 
-### 7.1.4 Medición de la resistencia de aislamiento de piezas eléctricas
+<!-- PageHeader="Manual de servicios de aire acondicionado" -->
 
-Desconecte los cables conductores de la pieza eléctrica deseada de la placa de terminales. Condensador, etc.
+NOTA: Consulte el esquema eléctrico. Si la
+sonda no puede entrar en los polos porque
+el orificio es demasiado estrecho, utilice una
+sonda con una clavija más fina.
 
-Desconecte también el conector. A continuación, mida la resistencia del aislamiento. (Fig. 3 y 4)
+#### 7.1.4 Medición de la resistencia de aislamiento de piezas eléctricas
 
-### 7.2 Comprobación de la continuidad del fusible en la placa de circuito impreso
+Desconecte los cables conductores de la pieza
+eléctrica deseada de la placa de terminales.
+Condensador, etc.
 
-Extraiga la placa de circuito impreso de la caja de componentes eléctricos. A continuación, extraiga el fusible de la placa de circuito impreso (Fig. 5).
+Desconecte también el conector. A continuación,
+mida la resistencia del aislamiento. (Fig. 3 y 4)
 
-Compruebe la continuidad utilizando un multímetro como se muestra en la Fig. 6.
-![img-22.jpeg](img-22.jpeg)
+## 7.2 Comprobación de la continuidad del fusible en la placa de circuito impreso
 
-Probador de aislamiento
-![img-23.jpeg](img-23.jpeg)
+Extraiga la placa de circuito impreso de la caja de
+componentes eléctricos. A continuación, extraiga
+el fusible de la placa de circuito impreso (Fig. 5).
 
-Probador de aislamiento
-![img-24.jpeg](img-24.jpeg)
+Compruebe la continuidad utilizando un multímetro
+como se muestra en la Fig. 6.
+
+<!-- PageNumber="20" -->
+

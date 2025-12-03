@@ -1,129 +1,168 @@
 # BROCHURE_RESOLUTE_CONDENSADORA.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
-
 # Aire Acondicionado Comercial Tipo Split
 
-## RESOLUTE SERIES
+RESOLUTE
+SERIES
 
-### ADINA
+ADINA
 
-**Unidad Condensadora**
-
+Unidad Condensadora
 R410A
-
 7.5 - 10 - 15 - 20 TON
 
-**RESOLUTE**
+RESOLUTE
 
-V-06082025
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# Tablade Contenido 
 
-1 ..... Introducción del Producto
-2 Nomenclatura
-3 Características
-4 Componentes
-6 Especificaciones
-7 Diagrama Mecánico
-8 Diagrama Eléctrico
-16 Disposición Elementos Eléctricos
-20 Dimensiones
+# Tabla de Contenido
+
+1
+Introducción del Producto
+
+2
+
+Nomenclatura
+
+3
+
+Características
+
+4
+
+Componentes
+
+6
+
+Especificaciones
+
+7
+
+Diagrama Mecánico
+
+8
+
+Diagrama Eléctrico
+
+16
+
+Disposición Elementos Eléctricos
+
+20
+
+Dimensiones
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-# Introducción del Producto 
 
-En Adina Air Conditioning, nos enorgullece presentar nuestra nueva línea de aires acondicionados para aplicaciones comerciales.
+# Introducción del Producto
 
-Diseñada para satisfacer las demandas más exigentes del sector, esta línea de sistemas tipo split ofrece capacidades de $7.5,10,15$ y 20 toneladas de refrigeración, asegurando un rendimiento superior y una eficiencia energética inigualable.
+En Adina Air Conditioning, nos enorgullece presentar nuestra nueva linea de aires
+acondicionados para aplicaciones comerciales.
 
-La serie Resolute de Adina Air Conditioning se destaca por su robustez y fiabilidad, características esenciales para entornos comerciales que requieren soluciones de climatización de gran capacidad. Estos sistemas tipo split combinan la flexibilidad de instalación y el mantenimiento simplificado, lo que permite una adaptación óptima a diversas configuraciones arquitectónicas y necesidades operativas.
+Diseñada para satisfacer las demandas más exigentes del sector, esta línea de sistemas tipo
+split ofrece capacidades de 7.5, 10, 15 y 20 toneladas de refrigeración, asegurando un
+rendimiento superior y una eficiencia energética inigualable.
 
-En Adina Air Conditioning, nuestra misión es seguir innovando y desarrollando productos que nos mantengan a la vanguardia del sector de la climatización. La serie Resolute es una muestra más de nuestro compromiso con la excelencia y nuestra dedicación a ofrecer soluciones que no solo cumplen, sino que superan las expectativas de nuestros clientes.
+La serie Resolute de Adina Air Conditioning se destaca por su robustez y fiabilidad,
+características esenciales para entornos comerciales que requieren soluciones de
+climatización de gran capacidad. Estos sistemas tipo split combinan la flexibilidad de
+instalación y el mantenimiento simplificado, lo que permite una adaptación óptima a diversas
+configuraciones arquitectónicas y necesidades operativas.
 
-Actualmente, Adina Air Conditioning se comercializa en toda Latinoamérica, consolidando nuestra presencia y fortaleciendo nuestra reputación como líderes en el mercado de aire acondicionado. La serie Resolute no es solo una nueva adición a nuestro portafolio, sino una prueba tangible de nuestra capacidad para innovar y adaptarnos a las necesidades cambiantes del mercado.
+En Adina Air Conditioning, nuestra misión es seguir innovando y desarrollando productos que
+nos mantengan a la vanguardia del sector de la climatización. La serie Resolute es una
+muestra más de nuestro compromiso con la excelencia y nuestra dedicación a ofrecer
+soluciones que no solo cumplen, sino que superan las expectativas de nuestros clientes.
 
-Descubra cómo la serie Resolute de Adina Air Conditioning puede transformar su espacio comercial, ofreciendo un especial confort y una eficiencia inigualable. Bienvenido a una nueva era de climatización con Adina Air Conditioning.
+Actualmente, Adina Air Conditioning se comercializa en toda Latinoamérica, consolidando
+nuestra presencia y fortaleciendo nuestra reputación como lideres en el mercado de aire
+acondicionado. La serie Resolute no es solo una nueva adición a nuestro portafolio, sino una
+prueba tangible de nuestra capacidad para innovar y adaptarnos a las necesidades
+cambiantes del mercado.
+
+Descubra cómo la serie Resolute de Adina Air Conditioning puede transformar su espacio
+comercial, ofreciendo un especial confort y una eficiencia inigualable. Bienvenido a una nueva
+era de climatización con Adina Air Conditioning
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-1-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 4
 ================================================================================
 
-![img-1.jpeg](img-1.jpeg)
+ADINA
 
-# Nomenclatura
+## Nomenclatura
 
-|  |   |   |   |   |
-| --- | --- | --- | --- | --- |
-|  Marca
-AD= ADINA | CO= Unidad
-Condensadora | Refrigarante
-4= R410A | C= Solo frío
-H= Bomba
-de Calor | Voltaje
-2= 220
-4= 460  |
-|   |  |  |  | Frecuencia
-6= 60 Hz
-5= 50 Hz  |
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-2-" -->
+<!-- PageBreak -->
 
-# AD R CO S 4 090 C S 2 36A
 
-|  |   |   |   |   |
-| --- | --- | --- | --- | --- |
-|  Serie
-R=RESOLUTE | S= Tecnología
-Estándar | Capacidad
-Nominal, (KBTU)
-090= 90,000 BTU
-120= 120,000 BTU
-180= 180,000 BTU
-240= 240,000 BTU | S= 1 Circuito de
-Refrigeración
-D= 2 Circuitos
-de Refrigeración | Fase  |
-|  |   |   |   |   |
-
-# RESOLUTE
-
--2-
 
 ================================================================================
 PAGE 5
 ================================================================================
 
-# ADINA 
+ADINA®
+®
 
-## Características
+### Características
 
-- Unidad condensadora hecha con estructura de chapa metálica, malla de acero inoxidable para proteger el serpentín, recubrimiento de spray gris oscuro y base de acero galvanizado.
-- Difusor superior para un mejor desempeño del flujo de aire de descarga.
-- Un intercambiador de calor de cobre con aletas de aluminio hidrofilico con tratamiento Gold Fin que resiste la corrosión y ambientes salinos.
-- Compresor tipo scroll.
-- Motor ventilador.
-- Capacidad de enfriamiento de 7.5,10, 15 y 20 toneladas de refrigeración.
-- Refrigerante R410a, con contactor e interruptor de alta y baja presión.
-![img-2.jpeg](img-2.jpeg)
+· Unidad condensadora hecha con estructura de chapa metálica, malla de acero inoxidable
+para proteger el serpentín, recubrimiento de spray gris oscuro y base de acero galvanizado.
+
+· Difusor superior para un mejor desempeño del flujo de aire de descarga.
+
+· Un intercambiador de calor de cobre con aletas de aluminio hidrofilico con tratamiento
+Gold Fin que resiste la corrosión y ambientes salinos.
+
+· Compresor tipo scroll.
+
+· Motor ventilador.
+
+· Capacidad de enfriamiento de 7.5,10, 15 y 20 toneladas de refrigeración.
+
+· Refrigerante R410a, con contactor e interruptor de alta y baja presión.
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-3-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 6
 ================================================================================
 
-# Componentes 
 
-Serpentín de cobre con aletas de aluminio y protección GOLD Fin
+## Componentes
+
+Serpentín de cobre con aletas de
+aluminio y protección GOLD Fin
 
 Difusor de aire
 
@@ -138,435 +177,742 @@ Acumulador de succión
 Filtro separador de la línea de líquido
 
 Compresor Scroll de alta eficiencia
-
 Visor de líquido refrigerante
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-4-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 7
 ================================================================================
 
-# $\triangle D I N A$ 
+ADINA®
 
-## Componentes
+### Componentes
 
 Panel de acero galvanizado
-Panel eléctrico de control y fuerza
-Válvulas de bola de servicio
-![img-3.jpeg](img-3.jpeg)
+
+<!-- PageNumber="5" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 8
 ================================================================================
 
-# Especificaciones
 
-|  MODELO |  |  |  |  |  |  |  |  |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
-|  |   |   |   |   |   |   |   |   |   |
+### Especificaciones
+
+<table>
+<tr>
+<th colspan="3"></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td colspan="5">CAPACIDAD NOMINAL</td>
+<td></td>
+<td></td>
+<td colspan="4"></td>
+</tr>
+<tr>
+<td colspan="3">Refrigeración Nominal | Tonelada=]</td>
+<td>7.5</td>
+<td>7,5</td>
+<td></td>
+<td>10</td>
+<td>15</td>
+<td>16</td>
+<td>20</td>
+<td>20</td>
+</tr>
+<tr>
+<td colspan="3">Palencia de Frerada (H.P)</td>
+<td>10</td>
+<td>10</td>
+<td></td>
+<td>15</td>
+<td>2</td>
+<td></td>
+<td>50</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>11.50</td>
+<td>11.23</td>
+<td>1150</td>
+<td>1154</td>
+<td>11.69</td>
+<td>11.37</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>H</td>
+<td>2</td>
+<td></td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="11">COMPRESOR</td>
+</tr>
+<tr>
+<td colspan="3">Tipo</td>
+<td>Boroll</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>7.6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>75</td>
+<td>7,5</td>
+<td>10</td>
+<td>B</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>115</td>
+<td></td>
+<td>150</td>
+<td>244</td>
+<td>12₺</td>
+<td></td>
+<td>146</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>HA</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">MOTOR DEL VENTILADOR DEL CONDENSADOR</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td></td>
+<td>L</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Chalice da Fuerza (H.P.) a)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>26</td>
+<td></td>
+<td></td>
+<td></td>
+<td>3.7</td>
+<td></td>
+<td>26</td>
+</tr>
+<tr>
+<td colspan="11">BHTEMA OF REFRIGERACIÓN</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">Tamans de Console de la Vihoda de Susciarron)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>1-12</td>
+<td>1-14</td>
+<td></td>
+<td></td>
+<td>114</td>
+<td>1-1g</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1-12</td>
+<td>1-1/11</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">Tamaño de Contrlia de la Válvula de Limito (D.D.)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1/2</td>
+<td>5/8</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1.2</td>
+<td>12</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Tipa da Vàku</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Carga de Refrigerante (ap) - R410 A Total:</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>10</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5">DATOS ELECTRICOS</td>
+<td></td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="3">Vohing da AC</td>
+<td></td>
+<td>-10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td>48</td>
+<td></td>
+<td>125</td>
+<td>50</td>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>117/500</td>
+</tr>
+<tr>
+<td colspan="3">Tamaño del conducto dictics</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td>190</td>
+<td></td>
+<td></td>
+<td></td>
+<td>320</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3">Peso Bruto (a)</td>
+<td></td>
+<td>195</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td>140</td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+<!-- PageFooter="5" -->
+<!-- PageNumber="-6-" -->
+<!-- PageBreak -->
+
 
 
 ================================================================================
 PAGE 9
 ================================================================================
 
-![img-4.jpeg](img-4.jpeg)
+ADINA
 
-# Diagrama Mecánico
+### Diagrama Mecánico
 
-## ![img-5.jpeg](img-5.jpeg)
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageFooter="£" -->
+<!-- PageNumber="-7-" -->
+<!-- PageBreak -->
 
-## ![img-6.jpeg](img-6.jpeg)
 
-## ![img-7.jpeg](img-7.jpeg)
-
-## ![img-8.jpeg](img-8.jpeg)
-
-## ![img-9.jpeg](img-9.jpeg)
-
-## ![img-10.jpeg](img-10.jpeg)
-
-## ![img-11.jpeg](img-11.jpeg)
 
 ================================================================================
 PAGE 10
 ================================================================================
 
-![img-12.jpeg](img-12.jpeg)
 
-|  Fuente eléctrica | 1 #Comp | 1# Ventilador |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+## Diagrama Eléctrico
+
+Aplica para modelos:
+ADRCOS4090CS236A
+
+ADINA
+
+<table>
+<tr>
+<th rowspan="2">Fuente eléctrica</th>
+<th rowspan="2">1#Comp</th>
+<th rowspan="2">1# Ventilador</th>
+<th rowspan="2"></th>
+<th></th>
+<th rowspan="2"></th>
+<th rowspan="2">Troglommador</th>
+<th rowspan="2">Protector de Fase</th>
+<th rowspan="2"></th>
+</tr>
+<tr>
+<th></th>
+</tr>
+</table>
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-8-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 11
 ================================================================================
 
-![img-13.jpeg](img-13.jpeg)
 
-|  Fuerte eléctrica | 1 #Comp | 1# Ventilador |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+## Diagrama Eléctrico
+
+Aplica para modelos:
+ADRCOS4090CS436A
+
+ADINA
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-9-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 12
 ================================================================================
 
-![img-14.jpeg](img-14.jpeg)
 
-# Diagrama Aplica para modelos: ADRCOS4120CS236A
+## Diagrama Eléctrico
 
-|  Fuente Eléctrica | 1#Comp | 1# Ventilador |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Aplica para modelos:
+ADRCOS4120CS236A
+
+ADINA
+
+Fuente Dectrica
+
+1#Comp
+
+Ventilador
+
+Transformedor
+
+Protector
+de Faso
+
+A
+
+ELE
+
+H
+
+FE
+
+KH1
+
+FR1
+
+FR2
+
+1
+
+H
+
+T82
+
+CH
+
+121
+
+KHZ
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-10-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 13
 ================================================================================
 
-![img-15.jpeg](img-15.jpeg)
 
-|  Fuerte eléctrica | 1#Comp | 1# Ventilador |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+## Diagrama Eléctrico
+
+Aplica para modelos:
+ADRCOS4120CS436A
+
+ADINA
+
+Fuente eléctrica
+
+1#Comp
+
+1#
+Ventilador
+
+Protector de
+
+Transformador
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-11-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 14
 ================================================================================
 
-![img-16.jpeg](img-16.jpeg)
 
-# Diagrama Aplica para modelos: ADRC054180CD236A
+## Diagrama Eléctrico
 
-![img-17.jpeg](img-17.jpeg)
+Aplica para modelos:
+ADRCOS4180CD236A
+
+ADINA
+
+RESOLUTE
+
+<!-- PageNumber="-12-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 15
 ================================================================================
 
-![img-18.jpeg](img-18.jpeg)
 
-# Diagrama Aplica para modelos: ADRCOS4180CD436A
+## Diagrama Eléctrico
 
-![img-19.jpeg](img-19.jpeg)
+Aplica para modelos:
+ADRCOS4180CD436A
+
+ADINA
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-13-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 16
 ================================================================================
 
-![img-20.jpeg](img-20.jpeg)
 
-# Diagrama Aplica para modelos: ADRCOS4240CD236A
+## Diagrama Eléctrico
 
-![img-21.jpeg](img-21.jpeg)
+Aplica para modelos:
+ADRCOS4240CD236A
+
+ADINA
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-14-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 17
 ================================================================================
 
-![img-22.jpeg](img-22.jpeg)
 
-# Diagrama Aplica para modelos: ADRCOS4240CD436A
+## Diagrama Eléctrico
 
-![img-23.jpeg](img-23.jpeg)
+Aplica para modelos:
+ADRCOS4240CD436A
+
+ADINA
+
+RESOLUTE
+
+<!-- PageNumber="-15-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 18
 ================================================================================
 
-# Disposición elementos eléctricos
+ADINA
 
-|  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |  
+### Disposición elementos eléctricos
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-16-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 19
 ================================================================================
 
-# Disposición elementos eléctricos
+ADINA
 
-|  125A | 991  |
-| --- | --- |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
-|  125A | 991  |
+### Disposición elementos eléctricos
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-17-" -->
+<!-- PageBreak -->
+
 
 
 ================================================================================
 PAGE 20
 ================================================================================
 
-# Disposición elementos eléctricos
+<!-- PageHeader="ADINA" -->
 
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0  |
-|  10.0 | 10.0 | 10.0 | 10.0 | 10.0 | 10.0 | 10.0  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-|  125A | 125A | 125A | 125A | 125A | 125A | 125A  |
-| 
+### Disposición elementos eléctricos
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-18-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 21
 ================================================================================
 
-# Disposición elementos eléctricos
+ADINA
 
-![img-24.jpeg](img-24.jpeg)
+### Disposición elementos eléctricos
 
-|  Elemento | E | V  |
-| --- | --- | --- |
-|  OZ1 | 10 | 10  |
-|  OZ2 | 10 | 10  |
-|  OZ3 | 10 | 10  |
-|  OZ4 | 10 | 10  |
-|  OZ5 | 10 | 10  |
-|  OZ6 | 10 | 10  |
-|  OZ7 | 10 | 10  |
-|  OZ8 | 10 | 10  |
-|  OZ9 | 10 | 10  |
-|  OZ10 | 10 | 10  |
-|  OZ11 | 10 | 10  |
-|  OZ12 | 10 | 10  |
-|  OZ13 | 10 | 10  |
-|  OZ14 | 10 | 10  |
-|  OZ15 | 10 | 10  |
-|  OZ16 | 10 | 10  |
-|  OZ17 | 10 | 10  |
-|  OZ18 | 10 | 10  |
-|  OZ19 | 10 | 10  |
-|  OZ20 | 10 | 10  |
-|  OZ21 | 10 | 10  |
-|  OZ22 | 10 | 10  |
-|  OZ23 | 10 | 10  |
-|  OZ24 | 10 | 10  |
-|  OZ25 | 10 | 10  |
-|  OZ26 | 10 | 10  |
-|  OZ27 | 10 | 10  |
-|  OZ28 | 10 | 10  |
-|  OZ29 | 10 | 10  |
-|  OZ30 | 10 | 10  |
-|  OZ31 | 10 | 10  |
-|  OZ32 | 10 | 10  |
-|  OZ33 | 10 | 10  |
-|  OZ34 | 10 | 10  |
-|  OZ35 | 10 | 10  |
-|  OZ36 | 10 | 10  |
-|  OZ37 | 10 | 10  |
-|  OZ38 | 10 | 10  |
-|  OZ39 | 10 | 10  |
-|  OZ40 | 10 | 10  |
-|  OZ41 | 10 | 10  |
-|  OZ42 | 10 | 10  |
-|  OZ43 | 10 | 10  |
-|  OZ44 | 10 | 10  |
-|  OZ45 | 10 | 10  |
-|  OZ46 | 10 | 10  |
-|  OZ47 | 10 | 10  |
-|  OZ48 | 10 | 10  |
-|  OZ49 | 10 | 10  |
-|  OZ4A | 10 | 10  |
-|  OZ4B | 10 | 10  |
-|  OZ4C | 10 | 10  |
-|  OZ4D | 10 | 10  |
-|  OZ4E | 10 | 10  |
-|  OZ4F | 10 | 10  |
-|  OZ4G | 10 | 10  |
-|  OZ4H | 10 | 10  |
-|  OZ4I | 10 | 10  |
-|  OZ4J | 10 | 10  |
-|  OZ4K | 10 | 10  |
-|  OZ4L | 10 | 10  |
-|  OZ4M | 10 | 10  |
-|  OZ4N | 10 | 10  |
-|  OZ4O | 10 | 10  |
-|  OZ4P | 10 | 10  |
-|  OZ4Q | 10 | 10  |
-|  OZ4R | 10 | 10  |
-|  OZ4S | 10 | 10  |
-|  OZ4T | 10 | 10  |
-|  OZ4U | 10 | 10  |
-|  OZ4V | 10 | 10  |
-|  OZ4W | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4W | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-|  OZ4WN | 10 | 10  |
-| 
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-19-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 22
 ================================================================================
 
-![img-25.jpeg](img-25.jpeg)
+ADINA
 
-# Dimensiones
+### Dimensiones
 
 Aplica para modelos: ADRCOS4090CS236A, ADRCOS4090CS436A
 
-![img-26.jpeg](img-26.jpeg)
+1220
 
-## RESOLUTE
+1073
 
-- Las medidas presentadas están en milímetros.
+910
 
-- 20-
+· Las medidas presentadas están en
+milimetros
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-20-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 23
 ================================================================================
 
-![img-27.jpeg](img-27.jpeg)
+ADINA
 
-Aplica para modelos: ADRCOS4120CS236A, ADRCOS4120CS436A, ADRCOS4180CD236A, ADRCOS4180CD436A
+### Dimensiones
 
-![img-28.jpeg](img-28.jpeg)
+Aplica para modelos: ADRCOS4120CS236A, ADRCOS4120CS436A
+ADRCOS4180CD236A, ADRCOS4180CD436A
 
-![img-29.jpeg](img-29.jpeg)
+1132
 
-![img-30.jpeg](img-30.jpeg)
+1270
 
-- Las medidas presentadas están en milímetros.
+1050
 
-![img-31.jpeg](img-31.jpeg)
+1349
 
-![img-32.jpeg](img-32.jpeg)
+· Las medidas presentadas están en
+milimetros
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-21-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 24
 ================================================================================
 
-# Dimensiones
+ADINA
+
+### Dimensiones
 
 Aplica para modelos: ADRCOS4240CD236A, ADRCOS4240CD436A
 
-![img-33.jpeg](img-33.jpeg)
+· Las medidas presentadas estan en milimetros.
 
-- Las medidas presentadas están en milímetros.
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-22-" -->
+<!-- PageBreak -->
 
-**RESOLUTE**
 
--22-
 
 ================================================================================
 PAGE 25
 ================================================================================
 
-![img-34.jpeg](img-34.jpeg)
 
-# **Contáctanos**
+### Contáctanos
 
-|  ① | WWW.ADINAUSA.COM  |
-| --- | --- |
-|  ② | Adina  |
-|  ③ | Adina_airconditioning  |
-|  ④ | Adina Air Conditioning  |
-|  ⑤ | Adina_airconditioning  |
+®
+f
 
-# **RESOLUTE**
+WWW.ADINAUSA.COM
+
+Adina
+Adina_airconditioning
+
+Adina Air Conditioning
+
+Adina_airconditioning
+
+

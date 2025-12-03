@@ -1,290 +1,650 @@
 # BROCHURE_RESOLUTE_EVAPORADORA.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+# Aire Acondicionado Comercial Tipo Split
 
-# Aire Acondicionado
-## Comercial Tipo Split
+RESOLUTE
+SERIES
 
-**R$410A**
+ADINA
 
-**7.5 - 10 - 15 - 20 TON**
+Manejadora de Aire Multiposición
+R410A
+7.5 - 10 - 15 - 20 TON
 
-**R$50LUTE**
+RESOLUTE
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# Tablade Contenido 
+ADINA®
 
-1 ..... Introducción del Producto
-2 Nomenclatura
-3 Características
-4 Componentes
-6 Especificaciones
-7 Diagrama Mecánico
-8 Diagrama Eléctrico
-9 Disposición Elementos Eléctricos
-10 Dimensiones
+# Tabla de Contenido
+
+<table>
+<tr>
+<td>- 1</td>
+<td>Introducción del Producto</td>
+</tr>
+<tr>
+<td>N 2</td>
+<td>Nomenclatura</td>
+</tr>
+<tr>
+<td>M 3</td>
+<td>Características</td>
+</tr>
+<tr>
+<td>+ 4</td>
+<td>Componentes</td>
+</tr>
+<tr>
+<td>0 6</td>
+<td>Especificaciones</td>
+</tr>
+<tr>
+<td>1 7</td>
+<td>Diagrama Mecánico</td>
+</tr>
+<tr>
+<td>0| 8</td>
+<td>Diagrama Eléctrico</td>
+</tr>
+<tr>
+<td>0| 9</td>
+<td>Disposición Elementos Eléctricos</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Dimensiones</td>
+</tr>
+</table>
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-# Introducción del Producto 
 
-En Adina Air Conditioning, nos enorgullece presentar nuestra nueva línea de aires acondicionados para aplicaciones comerciales.
+# Introducción del Producto
 
-Diseñada para satisfacer las demandas más exigentes del sector, esta línea de sistemas tipo split ofrece capacidades de $7.5,10,15$ y 20 toneladas de refrigeración, asegurando un rendimiento superior y una eficiencia energética inigualable.
+En Adina Air Conditioning, nos enorgullece presentar nuestra nueva linea de aires
+acondicionados para aplicaciones comerciales.
 
-La serie Resolute de Adina Air Conditioning se destaca por su robustez y fiabilidad, características esenciales para entornos comerciales que requieren soluciones de climatización de gran capacidad. Estos sistemas tipo split combinan la flexibilidad de instalación y el mantenimiento simplificado, lo que permite una adaptación óptima a diversas configuraciones arquitectónicas y necesidades operativas.
+Diseñada para satisfacer las demandas más exigentes del sector, esta línea de sistemas tipo
+split ofrece capacidades de 7.5, 10, 15 y 20 toneladas de refrigeración, asegurando un
+rendimiento superior y una eficiencia energética inigualable.
 
-En Adina Air Conditioning, nuestra misión es seguir innovando y desarrollando productos que nos mantengan a la vanguardia del sector de la climatización. La serie Resolute es una muestra más de nuestro compromiso con la excelencia y nuestra dedicación a ofrecer soluciones que no solo cumplen, sino que superan las expectativas de nuestros clientes.
+La serie Resolute de Adina Air Conditioning se destaca por su robustez y fiabilidad,
+características esenciales para entornos comerciales que requieren soluciones de
+climatización de gran capacidad. Estos sistemas tipo split combinan la flexibilidad de
+instalación y el mantenimiento simplificado, lo que permite una adaptación óptima a diversas
+configuraciones arquitectónicas y necesidades operativas.
 
-Actualmente, Adina Air Conditioning se comercializa en toda Latinoamérica, consolidando nuestra presencia y fortaleciendo nuestra reputación como líderes en el mercado de aire acondicionado. La serie Resolute no es solo una nueva adición a nuestro portafolio, sino una prueba tangible de nuestra capacidad para innovar y adaptarnos a las necesidades cambiantes del mercado.
+En Adina Air Conditioning, nuestra misión es seguir innovando y desarrollando productos que
+nos mantengan a la vanguardia del sector de la climatización. La serie Resolute es una
+muestra más de nuestro compromiso con la excelencia y nuestra dedicación a ofrecer
+soluciones que no solo cumplen, sino que superan las expectativas de nuestros clientes.
 
-Descubra cómo la serie Resolute de Adina Air Conditioning puede transformar su espacio comercial, ofreciendo un especial confort y una eficiencia inigualable. Bienvenido a una nueva era de climatización con Adina Air Conditioning.
+Actualmente, Adina Air Conditioning se comercializa en toda Latinoamérica, consolidando
+nuestra presencia y fortaleciendo nuestra reputación como lideres en el mercado de aire
+acondicionado. La serie Resolute no es solo una nueva adición a nuestro portafolio, sino una
+prueba tangible de nuestra capacidad para innovar y adaptarnos a las necesidades
+cambiantes del mercado.
+
+Descubra cómo la serie Resolute de Adina Air Conditioning puede transformar su espacio
+comercial, ofreciendo un especial confort y una eficiencia inigualable. Bienvenido a una nueva
+era de climatización con Adina Air Conditioning
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-1-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 4
 ================================================================================
 
-![img-1.jpeg](img-1.jpeg)
+ADINA®
 
-# Nomenclatura
+## Nomenclatura
 
-|  |   |   |   |   |
-| --- | --- | --- | --- | --- |
-|  Marca
-AD= ADINA | AH= Unidad AHU | Refrigarante
-4= R410A | C= Solo Frío | Voltaje
-2= 220
-4= 460
-5= 220 /
-460  |
-|   |  |  |  | Frecuencia
-6= 60 Hz
-5= 50 Hz  |
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-2-" -->
+<!-- PageBreak -->
 
-# AD R AH S 4 090 C S 2 3 6 A
 
-|  Serie
-R=RESOLUTE | S= Tecnología
-Estándar | Capacidad
-Nominal, (KBTU)
-090= 90,000 BTU
-120= 120,000 BTU
-180= 180,000 BTU
-240= 240,000 BTU | S= 1 Circuito de
-Refrigeración
-D= 2 Circuitos de
-Refrigeración | Fase | Revisión de
-Diseño  |
-| --- | --- | --- | --- | --- | --- |
-|  |   |   |   |   |   |
-
-# RESOLUTE
 
 ================================================================================
 PAGE 5
 ================================================================================
 
-# ADINA 
 
-## Características
+### Características
 
-- La unidad manejadora esta diseñada para instalarse de forma vertical y horizontal.
-- Está equipada con una bandeja de agua hecha de acero inoxidable adecuada para uso vertical y horizontal.
-- Posee filtros de retorno de aire con marco de papel G4.
-- Un intercambiador de calor de cobre con aletas de aluminio hidrofílico con tratamiento Gold Fin que resiste la corrosión y ambientes salinos.
-- El panel de la unidad está hecho de acero aislado con poliuretano y pintado en gris oscuro.
-- Soporta doble fuente de alimentación: 220V/3PH/60HZ y 460V/3PH/60HZ; el cableado utiliza una etiqueta con fondo amarillo, marcando los terminales de alimentación de 220 V y 460 V .
-- Sistema dual, refrigerante R410a, con controlador y válvula de expansión.
-- En capacidad de 7.5 ton únicamente se tiene un circuito de refrigeración.
-![img-2.jpeg](img-2.jpeg)
+· La unidad manejadora esta diseñada para instalarse de forma vertical y horizontal
+
+· Está equipada con una bandeja de agua hecha de acero inoxidable adecuada para uso
+vertical y horizontal.
+
+· Posee filtros de retorno de aire con marco de papel G4
+
+· Un intercambiador de calor de cobre con aletas de aluminio hidrofílico con tratamiento
+Gold Fin que resiste la corrosión y ambientes salinos
+
+· El panel de la unidad está hecho de acero aislado con poliuretano y pintado en gris
+oscuro.
+
+· Soporta doble fuente de alimentación: 220V/3PH/60HZ y 460V/3PH/60HZ; el cableado
+utiliza una etiqueta con fondo amarillo, marcando los terminales de alimentación de
+220V y 460V
+
+· Sistema dual, refrigerante R410a, con controlador y válvula de expansión.
+
+· En capacidad de 7.5 ton únicamente se tiene un circuito de refrigeración.
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-3-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 6
 ================================================================================
 
-# Componentes 
+ADINA®
+
+## Componentes
 
 Panel Eléctrico de Control y Fuerza
+
 Motor Ventilador de Alta Eficiencia
 Filtro de aire G4
-Estructura de Acero Galvanizado
-Panel de aislamiento de poliuretano con foil de aluminio
+
+Estructura de Acero Galvanizado-
+
+Panel de aislamiento de poliuretano con
+foil de aluminio
 
 Bandeja de drenado de acero inoxidable
-![img-3.jpeg](img-3.jpeg)
+
+<!-- PageNumber="-4-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 7
 ================================================================================
 
-# Componentes 
 
-![img-4.jpeg](img-4.jpeg)
+## Componentes
+
+Faja
+
+Polea
+Ajustable
+
+Válvula de
+Expansión
+Termostática.
+
+Serpentin de
+cobre, aletas
+de aluminio y
+protección
+Gold Fin.
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-5-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 8
 ================================================================================
 
-# Especificaciones
 
-|  MODULO | ADRAH54890C5536A | ADRAH54120CD536A | ADRAH54180CD536A | ADRAH54240CD536A  |
-| --- | --- | --- | --- | --- |
-|  Capacidades |  |  |  |   |
-|  Capacidad Nominal (Toneladas) | 7,5 | 10 | 15 | 20  |
-|  $\mathrm{m}^{3} / \mathrm{h}$ | 5100 | 6800 | 10200 | 13600  |
-|  CFM | 3000 | 4000 | 6000 | 8000  |
-|  Datos Eléctricos |  |  |  |   |
-|  Voltaje-Hz-Fase | 230-60-3 or 460-60-3 | 230-60-3 or 460-60-3 | 230-60-3 or 460-60-3 | 230-60-3 or 460-60-3  |
-|  Rango de Voltaje | 209V-242V / 437V-500V | 209V-242V / 437V-500V | 209V-242V / 437V-500V | 209V-242V / 437V-500V  |
-|  FLA(Total) | (230V-5.95A)/(460V-3A) | (230V-5.95A)/(460V-3A) | (230V-5.95A)/(460V-3A) | (230V-5.95A)/(460V-3A)  |
-|  Motor del Blower |  |  |  |   |
-|  Tipo | Transmisión por Correa | Transmisión por Correa | Transmisión por Correa | Transmisión por Correa  |
-|  Caballos de Fuerza | 2 | 3 | 4 | $51 / 2$  |
-|  Voltaje-Hz-Fase | 230-60-3 or 460-60-3 | 208/240-60-3 or 460-60-3 | 208/240-60-3 or 460-60-3 | 208/240-60-3 or 460-60-3  |
-|  Blower y Controles |  |  |  |   |
-|  Diámetro y Ancho de la Rueda (Cantidad) | 123.6x35mmx(2) | 128.6x35mmx(2) | 175.6x35mmx(2) | 190.6x35mmx(2)  |
-|  Diámetro del Paso de la Polea | 118 mm | 115 mm | 170 mm | 185 mm  |
-|  Diámetro Interior | 25 mm | 25 mm | 30 mm | 30 mm  |
-|  Diámetro del Paso de la Polea del Motor | 90 mm | 95 mm | 106 mm | 100 mm  |
-|  Diámetro Interior | 24 mm | 28 mm | 28 mm | 28 mm  |
-|  Largo y Ancho de la Correa | 800x13 mm | 800x13 mm | 982x13 mm | 1060x13 mm  |
-|  Transformador | Estándar | Estándar | Estándar | Estándar  |
-|  Relé del Blower | Estándar | Estándar | Estándar | Estándar  |
-|  Filtro, Serpentín y Refrigerante |  |  |  |   |
-|  Tamaño/cantidad de filtros desechables | $545 \times 590 \mathrm{~mm}(2)$ | $670 \times 590 \mathrm{~mm}(2)$ | $480 \times 800 \mathrm{~mm}(3)$ | $547 \times 884 \mathrm{~mm}(3)$  |
-|  Área del Serpentín (Pies Cuadrados) | 7 | 8 | 12 | 15  |
-|  Filas FPI | 12.7-4 | 12.7-4 | 12.7-4 | 12.7-4  |
-|  Cantidad de Válvulas de Expansión | 1 | 2 | 2 | 2  |
-|  Refrigerante | R-410a | R-410a | R-410a | R-410a  |
-|  Conexión de Líquido (Cantidad) | $5 / 8$ (1) | $1 / 2$ (2) | $5 / 8$ (2) | $5 / 8$ (2)  |
-|  Conexión de Succión (Cantidad) | $7 / 8$ (1) | $7 / 8$ (2) | $7 / 8$ (2) | $1-1 / 8$ (2)  |
-|  Drenaje de Condensado | $1^{\prime}$ | $1^{\prime}$ | $1^{\prime}$ | $1^{\prime \prime}$  |
-|  Peso Neto (Kg) | 220 | 245 | 320 | 380  |
-|  Peso Bruto (Kg) | 240 | 267 | 343 | 405  |
+### Especificaciones
+
+<table>
+<tr>
+<th>MODELO</th>
+<th>ADRAHS4090CS536A</th>
+<th>ADRAHS4120CD536A</th>
+<th>ADRAHS4180CD536A</th>
+<th>ADRAHS4240CD536A</th>
+</tr>
+<tr>
+<td>Capacidades</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Capacidad Nominal (Toneladas)</td>
+<td>7,5</td>
+<td>10</td>
+<td>15</td>
+<td>20</td>
+</tr>
+<tr>
+<td>m3/h</td>
+<td>5100</td>
+<td>6800</td>
+<td>10200</td>
+<td>13600</td>
+</tr>
+<tr>
+<td>CFM</td>
+<td>3000</td>
+<td>4000</td>
+<td>6000</td>
+<td>8000</td>
+</tr>
+</table>
+
+#### Datos Eléctricos
+
+<table>
+<tr>
+<th>Voltaje-Hz-Fase</th>
+<th>230-60-3 or 460-60-3</th>
+<th>230-60-3 or 460-60-3</th>
+<th>230-60-3 or 460-60-3</th>
+<th>230-60-3 or 460-60-3</th>
+</tr>
+<tr>
+<th>Rango de Voltaje</th>
+<th>209V -- 242V/437V -- 500V</th>
+<th>209V -- 242V/437V -- 500V</th>
+<th>209V -- 242V/437V -- 500V</th>
+<th>209V-242V/437V -- 500V</th>
+</tr>
+<tr>
+<td>FLA(Total)</td>
+<td>(230V-5.954)/(460V-34)</td>
+<td>(230V-5.95A)/[460V-3A)</td>
+<td>(230V-5.95A)/[460V-3A)</td>
+<td>(230V-5.95A)/(460V-3A)</td>
+</tr>
+</table>
+
+#### Motor del Blower
+
+<table>
+<tr>
+<th>Tipo</th>
+<th>Transmisión por Correa</th>
+<th>Transmisión por Corea</th>
+<th>Transmisión por Correa</th>
+<th>Transmisión por Correa</th>
+</tr>
+<tr>
+<td>Caballos de Fuerza</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>51/2</td>
+</tr>
+</table>
+
+Voltaje-Hz-Fase
+
+230-60-3 or 460-60-3
+
+208/240-60 3 or 460 60 3
+
+208/240-40-3 or 460-60-3
+
+208/240-60-3 or 460-60-3
+
+Blower y Controles
+
+<table>
+<tr>
+<td>Diametro y Ancho de la Rueda (Cantidad)</td>
+<td>123.6×35mmx(2)</td>
+<td>120.6×35mmx(2)</td>
+<td>175.6×35mmx[2]</td>
+<td>190.6x35mmx(2)</td>
+</tr>
+<tr>
+<td>Diámetro del Paso de la Polea</td>
+<td>118 mm</td>
+<td>115mm</td>
+<td>170 mm</td>
+<td>185 mm</td>
+</tr>
+<tr>
+<td>Diámetro Interior</td>
+<td>25 mm</td>
+<td>25 mm</td>
+<td>30 mm</td>
+<td>20 mm</td>
+</tr>
+<tr>
+<td>Diametro del Paso de la Polea del Motor</td>
+<td>90 mm</td>
+<td>95 mm</td>
+<td>106 mm</td>
+<td>100 mm</td>
+</tr>
+<tr>
+<td>Diámetro Interior</td>
+<td>24 mm</td>
+<td>28 mm</td>
+<td>28 mm</td>
+<td>28 mm</td>
+</tr>
+<tr>
+<td>Largo y Ancho de la Correa</td>
+<td>800 x13 mm</td>
+<td>BCQ:13 mm</td>
+<td>$82×13 mm</td>
+<td>1060x13 mm</td>
+</tr>
+<tr>
+<td>Transformador</td>
+<td>Estándar</td>
+<td>Estándar</td>
+<td>Estándar</td>
+<td>Estandar</td>
+</tr>
+<tr>
+<td>Relé del Blower</td>
+<td>Estender</td>
+<td>Estándar</td>
+<td>Eständer</td>
+<td>Estándar</td>
+</tr>
+</table>
+
+Filtro, Serpentin y Refrigerante
+
+<table>
+<tr>
+<th>Tamaño/cantidad de filtros desechables</th>
+<th>545×590mm(2)</th>
+<th>670×590mm(2)</th>
+<th>480×800mm(3)</th>
+<th>547×884mm(3)</th>
+</tr>
+<tr>
+<td>Área del Serpentin (Ples Cuadrados)</td>
+<td>7</td>
+<td>8</td>
+<td>12</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Filas FPI</td>
+<td>12.7-4</td>
+<td>12.7-4</td>
+<td>12.7-4</td>
+<td>12.7-4</td>
+</tr>
+<tr>
+<td>Cantidad de Válvulas de Expansión</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Refrigerante</td>
+<td>R-4108</td>
+<td>R-410a</td>
+<td>A-410a</td>
+<td>R-410a</td>
+</tr>
+<tr>
+<td>Conexión de Liquide (Cantidad)</td>
+<td>5/8 (1)</td>
+<td>1/2 [2)</td>
+<td>5/8 [2]</td>
+<td>5/8 (2)</td>
+</tr>
+<tr>
+<td>Conexión de Succión (Cantidad)</td>
+<td>7/8 (1)</td>
+<td>7/8 (2)</td>
+<td>7/B (2)</td>
+<td>1-1/8 (2)</td>
+</tr>
+<tr>
+<td>Drenaje de Condensado</td>
+<td>1ª</td>
+<td>1.</td>
+<td>1ª</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Peso Neto (Kg)</td>
+<td>220</td>
+<td>245</td>
+<td>320</td>
+<td>380</td>
+</tr>
+<tr>
+<td>Peso Bruto (Kg)</td>
+<td>240</td>
+<td>267</td>
+<td>343</td>
+<td>405</td>
+</tr>
+</table>
+
+<!-- PageNumber="-6-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 9
 ================================================================================
 
-![img-5.jpeg](img-5.jpeg)
 
 # Diagrama Mecánico
 
-![img-6.jpeg](img-6.jpeg)
+ADINA
 
-![img-7.jpeg](img-7.jpeg)
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-7-" -->
+<!-- PageBreak -->
 
-- El diagrama es de uso referencial y puede cambiar de acuerdo con la actualización del modelo del equipo.
+
 
 ================================================================================
 PAGE 10
 ================================================================================
 
-![img-8.jpeg](img-8.jpeg)
+ADINA
 
-![img-9.jpeg](img-9.jpeg)
+## Diagrama Eléctrico
 
-![img-10.jpeg](img-10.jpeg)
+LODY/3PH/60HZ
 
-# Diagrama Eléctrico
+220V/3PH/60HZ
 
-## RESOLUTE
+.71
 
-### Nota:
+OF1
 
-- El disyuntor de 220V/3PH/60HZ QF1 y el disyuntor de 450V/3PH/60HZ QF2 no se pueden cerrar al mismo tiempo.
-- Se forma un circuito de control de enclavamiento a través del relé intermedio. Cuando la alimentación es de 220V se energiza el contactar KM1/2, y cuando la alimentación es de 450V se energiza el contactar KM3/4, el ventilador comienza a recibir la señal de control de 220 V de la unidad exterior y la retroalimentación de sobrecarga es un punto pasivo.
+TAL
+
+[F1
+
+220V KAT
+
+KAJ
+
+1L2
+
+KA4
+
+KAI
+
+KA3
+
+IL3
+
+KHI
+
+HHZ
+
+TC
+
+FR3
+
+FRI
+
+₩
+
+Note:
+
+. El disyuntor de 220V/3PH/60HZ QFl y el
+disyuntor de 460V/3PH/60HZ QF2 no se
+pueden cerrar al mismo tiempo,
+
+· Se forma un circuito de control de enclava
+miento a través de rele intermedio. Cuando
+la alimentación es de 220Y se energiza el
+contactar KM1/2 y cuando la alimentación es
+de 46DY se energiza el contactar KM3/4; el
+ventilador comienza a recibir la señal de
+control de 220 V de la unidad exterior y la
+retroalimentación de sobrecarga es un punto
+pasivo
+
+H
 
 ### Aplica para:
 
-- **ADRAHS4090CSS36A**
-- **ADRAHS4120CDS36A**
-- **ADRAHS4180CDS36A**
-- **ADRAHS4240CDS36A**
+ADRAHS4090CS536A
+ADRAHS4120CD536A
+
+M
+
+ADRAHS4180CD536A
+
+3
+
+Ventilador de
+Suministro
+
+ADRAHS4240CD536A
+
+RESOLUTE
+
+<!-- PageNumber="8-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 11
 ================================================================================
 
-# Disposición
 
-elementos eléctricos
+## Disposición elementos eléctricos
 
-![img-11.jpeg](img-11.jpeg)
+<!-- PageFooter="Aplica para: ADRAHS4090CS536A - ADRAHS4120CD536A - ADRAHS4180CD536A - ADRAHS4240CD536A" -->
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-9-" -->
+<!-- PageBreak -->
 
-Aplica para: ADRAHS4090CS536A - ADRAHS4120CD536A - ADRAHS4180CD536A - ADRAHS4240CD536A
 
-RESOLUTE
-
--9-
 
 ================================================================================
 PAGE 12
 ================================================================================
 
-# Dimensiones Aplica para modelos: ADRAHS4090CS536A
+<!-- PageHeader="Dimensiones" -->
+<!-- PageHeader="Aplica para modelos: ADRAHS4090CS536A" -->
 
-![img-12.jpeg](img-12.jpeg)
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-10-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 13
 ================================================================================
 
-# Dimensiones | Aplica para modelos: ADRAHS4120CD536A
+<!-- PageHeader="Dimensiones" -->
+<!-- PageHeader="Aplica para modelos: ADRAHS4120CD536A" -->
 
-![img-13.jpeg](img-13.jpeg)
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-11-" -->
+<!-- PageBreak -->
 
-## Resoluto
+
 
 ================================================================================
 PAGE 14
 ================================================================================
 
-# Dimensiones | Aplica para modelos: ADRAHS4180CD536A
 
-![img-14.jpeg](img-14.jpeg)
+## Dimensiones
 
-![img-15.jpeg](img-15.jpeg)
+## Aplica para modelos: ADRAHS4180CD536A
 
-![img-16.jpeg](img-16.jpeg)
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-12-" -->
+<!-- PageBreak -->
 
-![img-17.jpeg](img-17.jpeg)
 
-![img-18.jpeg](img-18.jpeg)
 
 ================================================================================
 PAGE 15
 ================================================================================
 
-# Dimensiones Aplica para modelos: ADRAHS4240CD536A
 
-![img-19.jpeg](img-19.jpeg)
+## Dimensiones
 
-## Resoluto
+<!-- PageHeader="Aplica para modelos: ADRAHS4240CD536A" -->
+
+<!-- PageFooter="RESOLUTE" -->
+<!-- PageNumber="-13-" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 16
 ================================================================================
 
-![img-20.jpeg](img-20.jpeg)
 
-# **Contáctanos**
+## Contáctanos
 
-|  ① | WWW.ADINAUSA.COM  |
-| --- | --- |
-|  ② | Adina  |
-|  ③ | Adina_airconditioning  |
-|  ④ | Adina Air Conditioning  |
-|  ⑤ | Adina_airconditioning  |
+®
+f
 
-# **RESOLUTE**
+WWW.ADINAUSA.COM
+
+Adina
+Adina_airconditioning
+
+Adina Air Conditioning
+
+Adina_airconditioning
+
+

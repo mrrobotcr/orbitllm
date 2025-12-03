@@ -1,306 +1,1574 @@
 # BROCHURE-TEC-EVAPORADORAS-WINTER-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+ADINA
 
-# Unidad Evaporadora
-
+Unidad
+Evaporadora
 de refrigeración.
 
-![img-1.jpeg](img-1.jpeg)
+Media
+Baja
+Ultra Baja
 
-- Media Baja
-- Ultra Baja
-- Temperatura
+Temperatura
 
-![img-2.jpeg](img-2.jpeg)
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# Tabla de Contenido 
 
-| 1 | Nomenclatura |
-| :--: | :--: |
-| 2 | Componentes del Evaporador |
-| 3 | Chasis del Evaporador |
-| 4 | Serpentín |
-| 5 | Ventilador |
-| 6 | Especificaciones |
-| 7 | Para aplicaciones $+10^{\circ} \mathrm{C} / 0^{\circ} \mathrm{C}$, separación entre aletas 4.5 mm |
-| 8 | Especificaciones |
-| 9 | Para aplicaciones $-10^{\circ} \mathrm{C} /-20^{\circ} \mathrm{C}$, separación entre aletas 6.0 mm |
-| 10 | Especificaciones |
-| 11 | Para aplicaciones $-25^{\circ} \mathrm{C} /-40^{\circ} \mathrm{C}$, separación entre aletas 9.0 mm |
-| 12 | Diagrama mecánico |
-|  | Típico de refrigeración. |
-|  | Diagrama de Conexión Eléctrica |
-|  | Media - Baja - Ultra Baja Temperatura |
-|  | Diagrama de Apoyo para las |
-|  | Tablas de Dimensiones |
-|  | Dimensiones |
+# Tabla Contenido de
+
+Nomenclatura
+
+Componentes del Evaporador
+
+Chasis del Evaporador
+
+Serpentín
+
+Ventilador
+
+Especificaciones
+
+Para aplicaciones +10℃ / 0°C, separación
+entre aletas 4.5 mm
+
+Especificaciones
+
+Para aplicaciones -10°C / -20°℃, separación
+entre aletas 6.0 mm
+
+Especificaciones
+
+Para aplicaciones -25°C / -40°C, separación
+entre aletas 9.0 mm
+
+Diagrama mecánico
+Típico de refrigeración.
+
+Diagrama de Conexión Eléctrica
+Media - Baja - Ultra Baja Temperatura
+
+Diagrama de Apoyo para las
+Tablas de Dimensiones
+
+Dimensiones
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-# Nomenclatura 
+WINTER
+VV
 
-![img-3.jpeg](img-3.jpeg)
+## Nomenclatura
+
+<!-- PageNumber="1" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 4
 ================================================================================
 
-# Componentes del Evaporador 
+ITT
+WINTER
+VV
 
-Chasis del Evaporador
-Serpentín
-Ventilador
-Caja Eléctrica
-![img-4.jpeg](img-4.jpeg)
+# Componentes del Evaporador
+
+<!-- PageNumber="2" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 5
 ================================================================================
 
-# Chasis del Evaporador 
+WINTER
+VV
 
-El chasis del enfriador está hecho de acero laminado en frío con recubrimiento de polvo blanco.
+# Chasis del Evaporador
 
-Con soportes de montaje en el techo para una instalación fácil.
+El chasis del enfriador está hecho de acero
+laminado en frío con recubrimiento de polvo
+blanco.
 
-Bandeja de goteo para un drenaje perfecto del agua de condensación.
+Con soportes de montaje en el techo para una
+instalación fácil.
 
-Opción: Acero galvanizado, aluminio, lámina de acero inoxidable para una alta resistencia a la corrosión.
-![img-5.jpeg](img-5.jpeg)
+Bandeja de goteo para un drenaje perfecto del
+agua de condensación.
+
+Opción: Acero galvanizado, aluminio, lámina de
+acero inoxidable para una alta resistencia a la
+corrosión.
+
+<!-- PageNumber="3" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 6
 ================================================================================
 
-# Serpentín 
 
-Aletas de aluminio corrugado y tubos de cobre escalonados para una alta transferencia de calor.
+## Serpentín
 
-El espaciado adecuado de las aletas evita la acumulación de hielo que bloquea los huecos de las aletas.
+Aletas de aluminio corrugado y tubos de
+cobre escalonados para una alta
+transferencia de calor.
 
-Opción: Recubrimiento hidrofílico que proporciona una mejor protección y una vida útil más larga contra condiciones adversas. Resistencia eléctrica en la bandeja de drenaje y serpentín para descongelación rápida.
+El espaciado adecuado de las aletas evita la
+acumulación de hielo que bloquea los
+huecos de las aletas.
+
+Opción: Recubrimiento hidrofílico que
+proporciona una mejor protección y una
+vida útil más larga contra condiciones
+adversas. Resistencia eléctrica en la
+bandeja de drenaje y serpentín para
+descongelación rápida.
+
+ITT
+WINTER
+VV
+
+<!-- PageNumber="4" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 7
 ================================================================================
 
-# Ventilador 
+WINTER
+VV
 
-Ventiladores axiales de alta eficiencia, con aspas de acero diseñadas para minimizar el ruido y maximizar el rendimiento. Cada ventilador está protegido por una rejilla de acero. Los motores de los ventiladores tienen protectores térmicos.
+## Ventilador
 
-Opción: Ventiladores de alta potencia para aplicaciones especiales, equipados con difusor para ampliar el alcance del flujo de aire.
+Ventiladores axiales de alta eficiencia, con
+aspas de acero diseñadas para minimizar el
+ruido y maximizar el rendimiento. Cada
+ventilador está protegido por una rejilla de
+acero. Los motores de los ventiladores
+tienen protectores térmicos.
+
+Opción: Ventiladores de alta potencia para
+aplicaciones especiales, equipados con
+difusor para ampliar el alcance del flujo de
+aire.
+
+<!-- PageNumber="5" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 8
 ================================================================================
 
-# Especificaciones 
 
-## Para aplicaciones $+10^{\circ} \mathrm{C} / 0^{\circ} \mathrm{C}$, separación entre
+## Especificaciones
 
+Para aplicaciones +10℃ / 0℃, separación entre
 aletas 4.5 mm
 
-| Modelo | Capacidad | Area de cobertura | Conexiones tub. Entrada y Salida | Flujo de aire | Potencia de entrada | Rango de tiro | Peso Neto |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  | Btu/h | m2 | in | $\mathrm{m3} / \mathrm{h}$ | W | m | kg |
-| ADWMA068B | 6,824 | 10 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 2,152 | 75 | 8 | 25 |
-| ADWMA102B | 10,236 | 15 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 4,304 | 150 | 8 | 32 |
-| ADWMA146B | 14,672 | 20 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 4,304 | 150 | 8 | 41 |
-| ADWMA180B | 18,084 | 25 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 6,456 | 225 | 8 | 50 |
-| ADWMA286B | 28,661 | 40 | $1 / 2^{\prime \prime}-11 / 8^{\prime \prime}$ | 8,330 | 360 | 10 | 58 |
-| ADWMA395B | 39,580 | 55 | $1 / 2^{\prime \prime}-13 / 8^{\prime \prime}$ | 8,330 | 360 | 10 | 90 |
-| ADWMA573B | 57,323 | 80 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 13,972 | 1,100 | 15 | 99 |
-| ADWMA791B | 79,161 | 105 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 13,972 | 1,100 | 15 | 128 |
-| ADWMA941B | 94,175 | 125 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 20,958 | 1,650 | 15 | 148 |
-| ADWMA1180B | 118,060 | 160 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 20,958 | 1,650 | 15 | 171 |
-| ADWMA1375B | 137,509 | 185 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 27,944 | 2,200 | 15 | 191 |
-| ADWMA1573B | 157,299 | 210 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 27,944 | 2,200 | 15 | 215 |
-| ADWMA1774B | 177,431 | 260 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 27,944 | 2,200 | 15 | 250 |
-| ADWMA2252B | 225,201 | 330 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 34,380 | 2,200 | 15 | 250 |
-| ADWMA2797B | 279,795 | 410 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 38,800 | 3,000 | 17 | 250 |
-| ADWMA3207B | 320,741 | 470 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 49,404 | 4,500 | 17 | 250 |
-| ADWMA3958B | 395,808 | 580 | $1-1 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 49,404 | 4,500 | 17 | 250 |
+<table>
+<tr>
+<th rowspan="2">Modelo</th>
+<th>Capacidad</th>
+<th>Area de cobertura</th>
+<th>Conexiones tub. Entrada y Salida</th>
+<th>Flujo de aire</th>
+<th>Potencia de entrada</th>
+<th>Rango de tiro</th>
+<th>Peso Neto</th>
+</tr>
+<tr>
+<th>Btu/h</th>
+<th>$m 2$</th>
+<th>in</th>
+<th>m3/h</th>
+<th>W</th>
+<th>m</th>
+<th>kg</th>
+</tr>
+<tr>
+<td>ADWMA068B</td>
+<td>6,824</td>
+<td>10</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8 ^ { \prime }$</td>
+<td>2,152</td>
+<td>75</td>
+<td>8</td>
+<td>25</td>
+</tr>
+<tr>
+<td>ADWMA 102B</td>
+<td>10,236</td>
+<td>15</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8 ^ { \prime \prime }$</td>
+<td>4,304</td>
+<td>150</td>
+<td>8</td>
+<td>32</td>
+</tr>
+<tr>
+<td>ADWMA 146B</td>
+<td>14,672</td>
+<td>20</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8 ^ { \prime \prime }$</td>
+<td>4,304</td>
+<td>150</td>
+<td>8</td>
+<td>41</td>
+</tr>
+<tr>
+<td>ADWMA 180B</td>
+<td>18,084</td>
+<td>25</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8 ^ { \prime \prime }$</td>
+<td>$6 , 4 5 6$</td>
+<td>225</td>
+<td>8</td>
+<td>50</td>
+</tr>
+<tr>
+<td>ADWMA286B</td>
+<td>28,661</td>
+<td>40</td>
+<td>$1 / 2 ^ { \prime \prime } - 1 1 / 8 ^ { \prime \prime }$</td>
+<td>8,330</td>
+<td>360</td>
+<td>10</td>
+<td>58</td>
+</tr>
+<tr>
+<td>ADWMA395B</td>
+<td>39,580</td>
+<td>55</td>
+<td>$1 / 2 ^ { \prime \prime } - 1 3 / 8 ^ { \prime \prime }$</td>
+<td>8,330</td>
+<td>360</td>
+<td>10</td>
+<td>90</td>
+</tr>
+<tr>
+<td>ADWMA573B</td>
+<td>57,323</td>
+<td>80</td>
+<td>$3 / 4 ^ { \prime \prime } - 1 1 / 2 ^ { \prime \prime }$</td>
+<td>13,972</td>
+<td>1,100</td>
+<td>15</td>
+<td>99</td>
+</tr>
+<tr>
+<td>ADWMA791B</td>
+<td>79,161</td>
+<td>105</td>
+<td>$3 / 4 ^ { \prime \prime } - 1 1 / 2 ^ { \prime \prime }$</td>
+<td>13,972</td>
+<td>1,100</td>
+<td>15</td>
+<td>128</td>
+</tr>
+<tr>
+<td>ADWMA941B</td>
+<td>94,175</td>
+<td>125</td>
+<td>$3 / 4 ^ { \prime \prime } - 1 1 / 2 ^ { \prime }$</td>
+<td>20,958</td>
+<td>1,650</td>
+<td>15</td>
+<td>148</td>
+</tr>
+<tr>
+<td>ADWMA1180B</td>
+<td>118,060</td>
+<td>160</td>
+<td>$3 / 4 ^ { \prime \prime } - 1 1 / 2 ^ { \prime \prime }$</td>
+<td>20,958</td>
+<td>1,650</td>
+<td>15</td>
+<td>171</td>
+</tr>
+<tr>
+<td>ADWMA 1375B</td>
+<td>137,509</td>
+<td>185</td>
+<td>$7 / 8 ^ { \prime \prime } - 1 5 / 8 ^ { \prime \prime }$</td>
+<td>27,944</td>
+<td>2,200</td>
+<td>15</td>
+<td>191</td>
+</tr>
+<tr>
+<td>ADWMA 1573B</td>
+<td>157,299</td>
+<td>210</td>
+<td>$7 / 8 ^ { \prime \prime } - 1 5 / 8 ^ { \prime \prime }$</td>
+<td>27,944</td>
+<td>2,200</td>
+<td>15</td>
+<td>215</td>
+</tr>
+<tr>
+<td>ADWMA 1774B</td>
+<td>177,431</td>
+<td>260</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime }$</td>
+<td>27,944</td>
+<td>2,200</td>
+<td>15</td>
+<td>250</td>
+</tr>
+<tr>
+<td>ADWMA2252B</td>
+<td>225,201</td>
+<td>330</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime \prime }$</td>
+<td>34,380</td>
+<td>2,200</td>
+<td>15</td>
+<td>250</td>
+</tr>
+<tr>
+<td>ADWMA2797B</td>
+<td>279,795</td>
+<td>410</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime \prime }$</td>
+<td>38,800</td>
+<td>3,000</td>
+<td>17</td>
+<td>250</td>
+</tr>
+<tr>
+<td>ADWMA3207B</td>
+<td>320,741</td>
+<td>470</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime \prime }$</td>
+<td>49,404</td>
+<td>4,500</td>
+<td>17</td>
+<td>250</td>
+</tr>
+<tr>
+<td>ADWMA3958B</td>
+<td>395,808</td>
+<td>580</td>
+<td>$1 - 1 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime \prime }$</td>
+<td>49,404</td>
+<td>4,500</td>
+<td>17</td>
+<td>250</td>
+</tr>
+</table>
 
-*Capacidad de enfriamiento basado en temperatura del cuarto a $0^{\circ} \mathrm{C}$
+*Capacidad de enfriamiento basado en temperatura del cuarto a 0°℃
+
+ADINA®
+®
+
+<!-- PageNumber="6" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 9
 ================================================================================
 
-# Especificaciones 
 
-## Para aplicaciones $-10^{\circ} \mathrm{C} /-20^{\circ} \mathrm{C}$, separación entre aletas 6.0 mm
+# Especificaciones
 
-| Modelo | Capacidad | Area de cobertura | Conexiones tub. Entrada y Salida | Flujo de aire | Potencia de entrada | Rango de tiro | Resistencia de evap. | Resistencia de bandeja | Peso Neto |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  | $\mathrm{Btu} / \mathrm{h}$ | m2 | in | $\mathrm{m} 3 / \mathrm{h}$ | W | m | W | W | kg |
-| ADWBE040B | 4,094 | 7 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 1,566 | 75 | 8 | 1,000 | 500 | 25 |
-| ADWBE071B | 7,165 | 12 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 3,126 | 150 | 8 | 900 | 900 | 32 |
-| ADWBE0887B | 8,871 | 15 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 3,126 | 150 | 8 | 1,800 | 900 | 41 |
-| ADWBE133B | 13,307 | 22 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 4,689 | 225 | 8 | 2,400 | 1,200 | 50 |
-| ADWBE180B | 18,084 | 30 | $1 / 2^{\prime \prime}-11 / 8^{\prime \prime}$ | 6,800 | 360 | 10 | 2,000 | 1,000 | 58 |
-| ADWBE238B | 23,884 | 40 | $1 / 2^{\prime \prime}-11 / 8^{\prime \prime}$ | 6,800 | 360 | 10 | 2,400 | 1,200 | 90 |
-| ADWBE358B | 35,827 | 60 | $5 / 8^{\prime \prime}-13 / 8^{\prime \prime}$ | 12,000 | 1,100 | 15 | 4,200 | 1,400 | 99 |
-| ADWBE477B | 47,769 | 80 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 12,000 | 1,100 | 15 | 7,000 | 1,400 | 128 |
-| ADWBE597B | 59,712 | 100 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 18,000 | 1,650 | 15 | 8,000 | 1,600 | 148 |
-| ADWBE716B | 71,654 | 120 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 18,000 | 1,650 | 15 | 8,500 | 1,700 | 171 |
-| ADWBE835B | 83,597 | 140 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 24,000 | 2,200 | 15 | 10,000 | 2,000 | 191 |
-| ADWBE955B | 95,539 | 160 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 24,000 | 2,200 | 15 | 11,000 | 2,200 | 215 |
-| ADWBE1194B | 119,424 | 200 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 24,000 | 2,200 | 15 | 11,000 | 2,200 | 250 |
-| ADWBE1494B | 149,451 | 250 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 32,000 | 2,200 | 15 | 17,600 | 2,200 | 250 |
-| ADWBE1852B | 185,279 | 310 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 3,000 | 17 | 17,600 | 2,200 | 250 |
-| ADWBE2149B | 214,964 | 360 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 4,500 | 17 | 20,000 | 2,000 | 250 |
-| ADWBE2627B | 262,734 | 440 | $1-1 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 4,500 | 17 | 22,000 | 2,200 | 250 |
+Para aplicaciones -10°C / -20℃, separación entre
+aletas 6.0 mm
 
-*Capacidad de enfriamiento basado en temperatura del cuarto a $-20^{\circ} \mathrm{C}$
+<table>
+<tr>
+<th rowspan="2">Modelo</th>
+<th>Capacidad</th>
+<th>Area de cobertura</th>
+<th>Conexiones tub. Entrada y Salida</th>
+<th>Flujo de aire</th>
+<th>Potencia de entrada</th>
+<th>Rango de tiro</th>
+<th>Resistencia de evap.</th>
+<th>Resistencia de bandeja</th>
+<th>Peso Neto</th>
+</tr>
+<tr>
+<th>Btu/h</th>
+<th>m2</th>
+<th>in</th>
+<th>m3/h</th>
+<th>W</th>
+<th>m</th>
+<th>W</th>
+<th>W</th>
+<th>kg</th>
+</tr>
+<tr>
+<td>ADWBE040B</td>
+<td>4,094</td>
+<td>7</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8 ^ { \prime \prime }$</td>
+<td>1,566</td>
+<td>75</td>
+<td>8</td>
+<td>1,000</td>
+<td>500</td>
+<td>25</td>
+</tr>
+<tr>
+<td>ADWBE071B</td>
+<td>7,165</td>
+<td>12</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8$</td>
+<td>3,126</td>
+<td>150</td>
+<td>8</td>
+<td>900</td>
+<td>900</td>
+<td>32</td>
+</tr>
+<tr>
+<td>ADWBE0887B</td>
+<td>8,871</td>
+<td>15</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8$</td>
+<td>3,126</td>
+<td>150</td>
+<td>8</td>
+<td>1,800</td>
+<td>900</td>
+<td>41</td>
+</tr>
+<tr>
+<td>ADWBE133B</td>
+<td>$1 3 , 3 0 7$</td>
+<td>$2 2$</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8$</td>
+<td>4,689</td>
+<td>225</td>
+<td>8</td>
+<td>2,400</td>
+<td>1,200</td>
+<td>50</td>
+</tr>
+<tr>
+<td>ADWBE180B</td>
+<td>18,084</td>
+<td>30</td>
+<td>$1 / 2 ^ { \prime \prime } - 1 1 / 8 ^ { \prime \prime }$</td>
+<td>6,800</td>
+<td>360</td>
+<td>10</td>
+<td>2,000</td>
+<td>1,000</td>
+<td>58</td>
+</tr>
+<tr>
+<td>ADWBE238B</td>
+<td>23,884</td>
+<td>40</td>
+<td>$1 / 2 ^ { \prime \prime } - 1 1 / 8 ^ { \prime }$</td>
+<td>6,800</td>
+<td>$3 6 0$</td>
+<td>10</td>
+<td>2,400</td>
+<td>1,200</td>
+<td>90</td>
+</tr>
+<tr>
+<td>ADWBE358B</td>
+<td>35,827</td>
+<td>60</td>
+<td>$5 / 8 ^ { \prime \prime } - 1 3 / 8 ^ { \prime }$</td>
+<td>12,000</td>
+<td>1,100</td>
+<td>15</td>
+<td>4,200</td>
+<td>1,400</td>
+<td>99</td>
+</tr>
+<tr>
+<td>ADWBE477B</td>
+<td>$4 7 , 7 6 9$</td>
+<td>80</td>
+<td>$3 / 4 ^ { \prime \prime } - 1 1 / 2$</td>
+<td>12,000</td>
+<td>1,100</td>
+<td>15</td>
+<td>7,000</td>
+<td>1,400</td>
+<td>128</td>
+</tr>
+<tr>
+<td>ADWBE597B</td>
+<td>$5 9 , 7 1 2$</td>
+<td>100</td>
+<td>$3 / 4 ^ { \prime \prime } - 1 1 / 2$</td>
+<td>18,000</td>
+<td>1,650</td>
+<td>15</td>
+<td>8,000</td>
+<td>1,600</td>
+<td>148</td>
+</tr>
+<tr>
+<td>ADWBE716B</td>
+<td>$7 1 , 6 5 4$</td>
+<td>120</td>
+<td>$3 / 4 ^ { \prime \prime } - 1 1 / 2 ^ { \prime }$</td>
+<td>18,000</td>
+<td>$1 , 6 5 0$</td>
+<td>15</td>
+<td>8,500</td>
+<td>1,700</td>
+<td>171</td>
+</tr>
+<tr>
+<td>ADWBE835B</td>
+<td>83,597</td>
+<td>140</td>
+<td>$7 / 8 ^ { \prime \prime } - 1 5 / 8 ^ { \prime }$</td>
+<td>24,000</td>
+<td>2,200</td>
+<td>15</td>
+<td>10,000</td>
+<td>2,000</td>
+<td>191</td>
+</tr>
+<tr>
+<td>ADWBE955B</td>
+<td>$9 5 , 5 3 9$</td>
+<td>160</td>
+<td>$7 / 8 ^ { \prime \prime } - 1 5 / 8 ^ { \prime }$</td>
+<td>24,000</td>
+<td>2,200</td>
+<td>15</td>
+<td>11,000</td>
+<td>2,200</td>
+<td>215</td>
+</tr>
+<tr>
+<td>ADWBE1194B</td>
+<td>$1 1 9 , 4 2 4$</td>
+<td>200</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8$</td>
+<td>24,000</td>
+<td>2,200</td>
+<td>15</td>
+<td>11,000</td>
+<td>2,200</td>
+<td>250</td>
+</tr>
+<tr>
+<td>ADWBE1494B</td>
+<td>$1 4 9 , 4 5 1$</td>
+<td>250</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime \prime }$</td>
+<td>32,000</td>
+<td>2,200</td>
+<td>15</td>
+<td>17,600</td>
+<td>2,200</td>
+<td>250</td>
+</tr>
+<tr>
+<td>ADWBE1852B</td>
+<td>185,279</td>
+<td>310</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime \prime }$</td>
+<td>36,000</td>
+<td>3,000</td>
+<td>17</td>
+<td>17,600</td>
+<td>2,200</td>
+<td>250</td>
+</tr>
+<tr>
+<td>ADWBE2149B</td>
+<td>$2 1 4 , 9 6 4$</td>
+<td>360</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime \prime }$</td>
+<td>36,000</td>
+<td>4,500</td>
+<td>17</td>
+<td>20,000</td>
+<td>2,000</td>
+<td>250</td>
+</tr>
+<tr>
+<td>ADWBE2627B</td>
+<td>$2 6 2 , 7 3 4$</td>
+<td>440</td>
+<td>$1 - 1 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime \prime }$</td>
+<td>36,000</td>
+<td>4,500</td>
+<td>17</td>
+<td>22,000</td>
+<td>2,200</td>
+<td>250</td>
+</tr>
+</table>
+
+*Capacidad de enfriamiento basado en temperatura del cuarto a -20℃
+
+ADINA®
+®
+
+<!-- PageNumber="7" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 10
 ================================================================================
 
-# Especificaciones 
 
-## Para aplicaciones $-25^{\circ} \mathrm{C} /-40^{\circ} \mathrm{C}$, separación entre aletas 9.0 mm
+# Especificaciones
 
-| Modelo | Capacidad | Area de cobertura | Conexiones tub Entrada y Salida | Flujo de aire | Potencia de entrada | Rango de tiro | Resistencia de evap. | Resistencia de bandeja | Peso Neto |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  | $\mathrm{Btu} / \mathrm{h}$ | m2 | in | $\mathrm{m} 2 / \mathrm{h}$ | W | m | W | W | kg |
-| ADWUE040B | 4,094 | 8 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 3,126 | 150 | 8 | 900 | 900 | 25 |
-| ADWUE0648B | 6,483 | 12 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 3,126 | 150 | 8 | 1,800 | 900 | 32 |
-| ADWUE0784B | 7,847 | 15 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 4,689 | 225 | 8 | 2,400 | 1,200 | 41 |
-| ADWUE105B | 10,577 | 20 | $1 / 2^{\prime \prime}-7 / 8^{\prime \prime}$ | 6,800 | 360 | 10 | 2,600 | 1,300 | 50 |
-| ADWUE160B | 16,037 | 30 | $1 / 2^{\prime \prime}-11 / 8^{\prime \prime}$ | 6,800 | 360 | 10 | 3,000 | 1,500 | 58 |
-| ADWUE211B | 21,155 | 40 | $1 / 2^{\prime \prime}-11 / 8^{\prime \prime}$ | 12,000 | 1,100 | 15 | 3,600 | 1,200 | 90 |
-| ADWUE290B | 29,003 | 55 | $5 / 8^{\prime \prime}-13 / 8^{\prime \prime}$ | 12,000 | 1,100 | 15 | 6,000 | 1,200 | 99 |
-| ADWUE371B | 37,192 | 70 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 18,000 | 1,650 | 15 | 8,000 | 1,600 | 128 |
-| ADWUE450B | 45,040 | 85 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 18,000 | 1,650 | 15 | 8,500 | 1,700 | 148 |
-| ADWUE528B | 52,888 | 100 | $3 / 4^{\prime \prime}-11 / 2^{\prime \prime}$ | 24,000 | 2,200 | 15 | 10,000 | 2,000 | 171 |
-| ADWUE607B | 60,736 | 115 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 24,000 | 2,200 | 15 | 11,000 | 2,200 | 191 |
-| ADWUE740B | 74,043 | 140 | $7 / 8^{\prime \prime}-15 / 8^{\prime \prime}$ | 24,000 | 2,200 | 15 | 11,000 | 2,200 | 215 |
-| ADWUE900B | 90,080 | 170 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 32,000 | 2,200 | 15 | 17,600 | 2,200 | 250 |
-| ADWUE1112B | 111,235 | 210 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 3,000 | 17 | 17,600 | 2,200 | 250 |
-| ADWUE1323B | 132,391 | 250 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 4,500 | 17 | 20,000 | 2,000 | 250 |
-| ADWUE1586B | 158,664 | 300 | $7 / 8^{\prime \prime}-21 / 8^{\prime \prime}$ | 36,000 | 4,500 | 17 | 22,000 | 2,200 | 250 |
+Para aplicaciones -25℃ / -40℃, separación
+entre aletas 9.0 mm
 
-*Capacidad de enfriamiento basado en temperatura del cuarto a $-25^{\circ} \mathrm{C}$
+<table>
+<tr>
+<th rowspan="2">Modelo</th>
+<th>Capacidad</th>
+<th>Area de cobertura</th>
+<th>Conexiones tub. Entrada y Salida</th>
+<th>Flujo de aire</th>
+<th>Potencia de entrada</th>
+<th>Rango de tiro</th>
+<th>Resistencia de evap.</th>
+<th>Resistencia de bandeja</th>
+<th>Peso Neto</th>
+</tr>
+<tr>
+<th>Btu/h</th>
+<th>$m 2$</th>
+<th>$\mathrm { i n }$</th>
+<th>m3/h</th>
+<th>W</th>
+<th>m</th>
+<th>W</th>
+<th>W</th>
+<th>kg</th>
+</tr>
+<tr>
+<td>ADWUE040B</td>
+<td>4,094</td>
+<td>8</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8 ^ { \prime \prime }$</td>
+<td>3,126</td>
+<td>150</td>
+<td>8</td>
+<td>900</td>
+<td>900</td>
+<td>25</td>
+</tr>
+<tr>
+<td>ADWUE0648B</td>
+<td>6,483</td>
+<td>12</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8 ^ { \prime }$</td>
+<td>3,126</td>
+<td>150</td>
+<td>8</td>
+<td>1,800</td>
+<td>900</td>
+<td>32</td>
+</tr>
+<tr>
+<td>ADWUE0784B</td>
+<td>7,847</td>
+<td>15</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8 ^ { \prime \prime }$</td>
+<td>4,689</td>
+<td>225</td>
+<td>8</td>
+<td>2,400</td>
+<td>1,200</td>
+<td>41</td>
+</tr>
+<tr>
+<td>ADWUE105B</td>
+<td>10,577</td>
+<td>20</td>
+<td>$1 / 2 ^ { \prime \prime } - 7 / 8 ^ { \prime \prime }$</td>
+<td>6,800</td>
+<td>360</td>
+<td>10</td>
+<td>2,600</td>
+<td>1,300</td>
+<td>50</td>
+</tr>
+<tr>
+<td>ADWUE160B</td>
+<td>16,037</td>
+<td>30</td>
+<td>$1 / 2 ^ { \prime \prime } - 1 1 / 8 ^ { \prime \prime }$</td>
+<td>6,800</td>
+<td>360</td>
+<td>10</td>
+<td>3,000</td>
+<td>1,500</td>
+<td>58</td>
+</tr>
+<tr>
+<td>ADWUE211B</td>
+<td>21,155</td>
+<td>40</td>
+<td>$1 / 2 ^ { \prime \prime } - 1 1 / 8 ^ { \prime \prime }$</td>
+<td>12,000</td>
+<td>1,100</td>
+<td>15</td>
+<td>3,600</td>
+<td>1,200</td>
+<td>90</td>
+</tr>
+<tr>
+<td>ADWUE290B</td>
+<td>29,003</td>
+<td>55</td>
+<td>$5 / 8 ^ { \prime \prime } - 1 3 / 8 ^ { \prime \prime }$</td>
+<td>12,000</td>
+<td>1,100</td>
+<td>15</td>
+<td>6,000</td>
+<td>1,200</td>
+<td>99</td>
+</tr>
+<tr>
+<td>ADWUE371B</td>
+<td>37,192</td>
+<td>70</td>
+<td>$3 / 4 ^ { \prime \prime } - 1 1 / 2 ^ { \prime \prime }$</td>
+<td>18,000</td>
+<td>1,650</td>
+<td>15</td>
+<td>8,000</td>
+<td>1,600</td>
+<td>128</td>
+</tr>
+<tr>
+<td>ADWUE450B</td>
+<td>45,040</td>
+<td>85</td>
+<td>$3 / 4 ^ { \prime \prime } - 1 1 / 2 ^ { \prime \prime }$</td>
+<td>18,000</td>
+<td>1,650</td>
+<td>15</td>
+<td>8,500</td>
+<td>1,700</td>
+<td>148</td>
+</tr>
+<tr>
+<td>ADWUE528B</td>
+<td>52,888</td>
+<td>100</td>
+<td>$3 / 4 ^ { \prime \prime } - 1 1 / 2$</td>
+<td>24,000</td>
+<td>2,200</td>
+<td>15</td>
+<td>10,000</td>
+<td>2,000</td>
+<td>171</td>
+</tr>
+<tr>
+<td>ADWUE607B</td>
+<td>60,736</td>
+<td>115</td>
+<td>$7 / 8 ^ { \prime \prime } - 1 5 / 8$</td>
+<td>24,000</td>
+<td>2,200</td>
+<td>15</td>
+<td>11,000</td>
+<td>2,200</td>
+<td>191</td>
+</tr>
+<tr>
+<td>ADWUE740B</td>
+<td>74,043</td>
+<td>140</td>
+<td>$7 / 8 ^ { \prime \prime } - 1 5 / 8$</td>
+<td>24,000</td>
+<td>2,200</td>
+<td>15</td>
+<td>11,000</td>
+<td>2,200</td>
+<td>215</td>
+</tr>
+<tr>
+<td>ADWUE900B</td>
+<td>90,080</td>
+<td>170</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8$</td>
+<td>32,000</td>
+<td>2,200</td>
+<td>15</td>
+<td>17,600</td>
+<td>2,200</td>
+<td>250</td>
+</tr>
+<tr>
+<td>ADWUE1112B</td>
+<td>111,235</td>
+<td>210</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime \prime }$</td>
+<td>36,000</td>
+<td>3,000</td>
+<td>17</td>
+<td>17,600</td>
+<td>2,200</td>
+<td>250</td>
+</tr>
+<tr>
+<td>ADWUE1323B</td>
+<td>132,391</td>
+<td>250</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime \prime }$</td>
+<td>36,000</td>
+<td>4,500</td>
+<td>17</td>
+<td>20,000</td>
+<td>2,000</td>
+<td>250</td>
+</tr>
+<tr>
+<td>ADWUE1586B</td>
+<td>158,664</td>
+<td>300</td>
+<td>$7 / 8 ^ { \prime \prime } - 2 1 / 8 ^ { \prime \prime }$</td>
+<td>36,000</td>
+<td>4,500</td>
+<td>17</td>
+<td>22,000</td>
+<td>2,200</td>
+<td>250</td>
+</tr>
+</table>
+
+*Capacidad de enfriamiento basado en temperatura del cuarto a -25℃
+
+ADINA®
+®
+
+<!-- PageNumber="8" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 11
 ================================================================================
 
-# Diagrama Mecánico Típico de Refrigeración 
 
-![img-6.jpeg](img-6.jpeg)
+# Diagrama Mecánico Típico de Refrigeración
+
+<!-- PageNumber="9" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 12
 ================================================================================
 
-# Diagrama Conexión Eléctrica 
 
-## Media Temperatura
+## Diagrama Conexión Eléctrica
 
-Dependiendo del modelo, la unidad puede tener más o menor cantidad de ventiladores.
-![img-7.jpeg](img-7.jpeg)
+### Media Temperatura
 
-Baja y Ultra Baja Temperatura
+### Baja y Ultra Baja Temperatura
 
-Dependiendo del modelo, la unidad puede tener más o menor cantidad de ventiladores.
-![img-8.jpeg](img-8.jpeg)
+Dependiendo del
+modelo, la unidad
+puede tener más
+o menor cantidad
+de ventiladores.
+
+<!-- PageNumber="10" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 13
 ================================================================================
 
-# Dimensiones 
 
-Diagrama de apoyo para las Tablas de dimensiones.
-![img-9.jpeg](img-9.jpeg)
+### Dimensiones
+
+ADINA®
+®
+
+<!-- PageNumber="11" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 14
 ================================================================================
 
-# Dimensiones
 
-|  Modelo | Ventilador | L | B | H | D | E | E1 | E2  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | (21y x 01) | mm | mm | mm | mm | mm | mm | mm  |
-|  ADWMA068B | $1 \times 300 \mathrm{~mm}$ | 730 | 420 | 475 | 340 | 510 | - | -  |
-|  ADWMA102B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
-|  ADWMA146B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
-|  ADWMA180B | $3 \times 300 \mathrm{~mm}$ | 1580 | 420 | 475 | 340 | 1360 | - | -  |
-|  ADWMA286B | $2 \times 400 \mathrm{~mm}$ | 1380 | 490 | 600 | 380 | 1110 | - | -  |
-|  ADWMA395B | $2 \times 400 \mathrm{~mm}$ | 1750 | 490 | 600 | 380 | 1480 | - | -  |
-|  ADWMA573B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
-|  ADWMA791B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
-|  ADWMA941B | $3 \times 500 \mathrm{~mm}$ | 2420 | 580 | 680 | 510 | 2150 | 740 | 700  |
-|  ADWMA1180B | $3 \times 500 \mathrm{~mm}$ | 2720 | 580 | 680 | 510 | 2450 | 840 | 800  |
-|  ADWMA1375B | $4 \times 500 \mathrm{~mm}$ | 3120 | 580 | 680 | 510 | 2850 | 740 | 700  |
-|  ADWMA1573B | $4 \times 500 \mathrm{~mm}$ | 3520 | 580 | 680 | 510 | 3250 | 840 | 800  |
-|  ADWMA1774B | $4 \times 500 \mathrm{~mm}$ | 3520 | 680 | 680 | 580 | 3250 | 840 | 800  |
-|  ADWMA2252B | $4 \times 550 \mathrm{~mm}$ | 3520 | 680 | 740 | 580 | 3250 | 840 | 800  |
-|  ADWMA2797B | $4 \times 600 \mathrm{~mm}$ | 3520 | 940 | 910 | 630 | 3250 | 840 | 800  |
-|  ADWMA3207B | $3 \times 700 \mathrm{~mm}$ | 3020 | 1040 | 960 | 720 | 2750 | 940 | 900  |
-|  ADWMA3958B | $3 \times 700 \mathrm{~mm}$ | 3320 | 1050 | 1010 | 720 | 3050 | 1040 | 1000  |
-|  ADWBE040B | $1 \times 300 \mathrm{~mm}$ | 730 | 420 | 475 | 340 | 510 | - | -  |
-|  ADWBE071B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
-|  ADWBE0887B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
-|  ADWBE133B | $3 \times 300 \mathrm{~mm}$ | 1580 | 420 | 475 | 340 | 1360 | - | -  |
-|  ADWBE180B | $2 \times 400 \mathrm{~mm}$ | 1380 | 490 | 600 | 380 | 1110 | - | -  |
-|  ADWBE238B | $2 \times 400 \mathrm{~mm}$ | 1750 | 490 | 600 | 380 | 1480 | - | -  |
-|  ADWBE358B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
-|  ADWBE477B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
-|  ADWBE597B | $3 \times 500 \mathrm{~mm}$ | 2420 | 580 | 680 | 510 | 2150 | 740 | 700  |
-|  ADWBE716B | $3 \times 500 \mathrm{~mm}$ | 2720 | 580 | 680 | 510 | 2450 | 840 | 800  |
-|  ADWBE835B | $4 \times 500 \mathrm{~mm}$ | 3120 | 580 | 680 | 510 | 2850 | 740 | 700  |
-|  ADWBE955B | $4 \times 500 \mathrm{~mm}$ | 3520 | 580 | 680 | 510 | 3250 | 840 | 800  |
-|  ADWBE1194B | $4 \times 500 \mathrm{~mm}$ | 3520 | 680 | 680 | 580 | 3250 | 840 | 800  |
-|  ADWBE1494B | $4 \times 550 \mathrm{~mm}$ | 3520 | 680 | 740 | 580 | 3250 | 840 | 800  |
-|  ADWBE1852B | $4 \times 600 \mathrm{~mm}$ | 3520 | 940 | 910 | 630 | 3250 | 840 | 800  |
-|  ADWBE2149B | $3 \times 700 \mathrm{~mm}$ | 3020 | 1040 | 960 | 720 | 2750 | 940 | 900  |
-|  ADWBE2627B | $3 \times 700 \mathrm{~mm}$ | 3320 | 1050 | 1010 | 720 | 3050 | 1040 | 1000  |
-|  ADWUE040B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
-|  ADWUE0648B | $2 \times 300 \mathrm{~mm}$ | 1280 | 420 | 475 | 340 | 1060 | - | -  |
-|  ADWUE0784B | $3 \times 300 \mathrm{~mm}$ | 1580 | 420 | 475 | 340 | 1360 | - | -  |
-|  ADWUE105B | $2 \times 400 \mathrm{~mm}$ | 1380 | 490 | 600 | 380 | 1110 | - | -  |
-|  ADWUE160B | $2 \times 400 \mathrm{~mm}$ | 1750 | 490 | 600 | 380 | 1480 | - | -  |
-|  ADWUE211B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
-|  ADWUE290B | $2 \times 500 \mathrm{~mm}$ | 1920 | 580 | 680 | 510 | 1650 | 840 | -  |
-|  ADWUE371B | $3 \times 500 \mathrm{~mm}$ | 2420 | 580 | 680 | 510 | 2150 | 740 | 700  |
-|  ADWUE450B | $3 \times 500 \mathrm{~mm}$ | 2720 | 580 | 680 | 510 | 2450 | 840 | 800  |
-|  ADWUE528B | $4 \times 500 \mathrm{~mm}$ | 3120 | 580 | 680 | 510 | 2850 | 740 | 700  |
-|  ADWUE607B | $4 \times 500 \mathrm{~mm}$ | 3520 | 580 | 680 | 510 | 3250 | 840 | 800  |
-|  ADWUE740B | $4 \times 500 \mathrm{~mm}$ | 3520 | 680 | 680 | 580 | 3250 | 840 | 800  |
-|  ADWUE900B | $4 \times 550 \mathrm{~mm}$ | 3520 | 680 | 740 | 580 | 3250 | 840 | 800  |
-|  ADWUE1112B | $4 \times 600 \mathrm{~mm}$ | 3520 | 940 | 910 | 630 | 3250 | 840 | 800  |
-|  ADWUE1323B | $3 \times 700 \mathrm{~mm}$ | 3020 | 1040 | 960 | 720 | 2750 | 940 | 900  |
-|  ADWUE1586B | $3 \times 700 \mathrm{~mm}$ | 3320 | 1050 | 1010 | 720 | 3050 | 1040 | 1000  |
+### Dimensiones
+
+<table>
+<tr>
+<th rowspan="2"></th>
+<th rowspan="2">Modelo</th>
+<th>Ventilador</th>
+<th>L</th>
+<th>B</th>
+<th>H</th>
+<th>D</th>
+<th>E</th>
+<th>E1</th>
+<th>E2</th>
+</tr>
+<tr>
+<th>Q'ty x Dia.</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+<th>mm</th>
+</tr>
+<tr>
+<td rowspan="17">Media Temperatura</td>
+<td>ADWMA068B</td>
+<td>$1 \times 3 0 0 m m$</td>
+<td>730</td>
+<td>420</td>
+<td>475</td>
+<td>340</td>
+<td>510</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWMA102B</td>
+<td>$2 \times 3 0 0 m m$</td>
+<td>1280</td>
+<td>420</td>
+<td>475</td>
+<td>340</td>
+<td>1060</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWMA146B</td>
+<td>$2 \times 3 0 0 m m$</td>
+<td>1280</td>
+<td>420</td>
+<td>475</td>
+<td>340</td>
+<td>1060</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWMA180B</td>
+<td>$3 \times 3 0 0 m m$</td>
+<td>1580</td>
+<td>420</td>
+<td>475</td>
+<td>340</td>
+<td>1360</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWMA286B</td>
+<td>$2 \times 4 0 0 m m$</td>
+<td>1380</td>
+<td>490</td>
+<td>600</td>
+<td>380</td>
+<td>1110</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWMA395B</td>
+<td>$2 \times 4 0 0 m m$</td>
+<td>1750</td>
+<td>490</td>
+<td>600</td>
+<td>380</td>
+<td>1480</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWMA573B</td>
+<td>$2 \times 5 0 0 m m$</td>
+<td>1920</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>1650</td>
+<td>840</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWMA791B</td>
+<td>$2 \times 5 0 0 m m$</td>
+<td>1920</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>1650</td>
+<td>840</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWMA941B</td>
+<td>$3 \times 5 0 0 m m$</td>
+<td>2420</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>2150</td>
+<td>740</td>
+<td>700</td>
+</tr>
+<tr>
+<td>ADWMA1180B</td>
+<td>$3 \times 5 0 0 m m$</td>
+<td>2720</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>2450</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWMA1375B</td>
+<td>$4 \times 5 0 0 m m$</td>
+<td>3120</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>2850</td>
+<td>740</td>
+<td>700</td>
+</tr>
+<tr>
+<td>ADWMA1573B</td>
+<td>$4 \times 5 0 0 m m$</td>
+<td>3520</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWMA1774B</td>
+<td>$4 \times 5 0 0 m m$</td>
+<td>3520</td>
+<td>680</td>
+<td>680</td>
+<td>580</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWMA2252B</td>
+<td>$4 \times 5 5 0 m m$</td>
+<td>3520</td>
+<td>680</td>
+<td>740</td>
+<td>580</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWMA2797B</td>
+<td>$4 \times 6 0 0 m m$</td>
+<td>3520</td>
+<td>940</td>
+<td>910</td>
+<td>630</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWMA3207B</td>
+<td>$3 \times 7 0 0 m m$</td>
+<td>3020</td>
+<td>1040</td>
+<td>960</td>
+<td>720</td>
+<td>2750</td>
+<td>940</td>
+<td>900</td>
+</tr>
+<tr>
+<td>ADWMA3958B</td>
+<td>$3 \times 7 0 0 m m$</td>
+<td>3320</td>
+<td>1050</td>
+<td>1010</td>
+<td>720</td>
+<td>3050</td>
+<td>1040</td>
+<td>1000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="17">Baja Temperatura</td>
+<td>ADWBE040B</td>
+<td>$1 \times 3 0 0 m m$</td>
+<td>730</td>
+<td>420</td>
+<td>475</td>
+<td>340</td>
+<td>510</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWBE071B</td>
+<td>$2 \times 3 0 0 m m$</td>
+<td>1280</td>
+<td>420</td>
+<td>475</td>
+<td>340</td>
+<td>1060</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWBE0887B</td>
+<td>$2 \times 3 0 0 m m$</td>
+<td>1280</td>
+<td>420</td>
+<td>475</td>
+<td>340</td>
+<td>1060</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWBE133B</td>
+<td>$3 \times 3 0 0 m m$</td>
+<td>1580</td>
+<td>420</td>
+<td>475</td>
+<td>340</td>
+<td>1360</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWBE180B</td>
+<td>$2 \times 4 0 0 m m$</td>
+<td>1380</td>
+<td>490</td>
+<td>600</td>
+<td>380</td>
+<td>1110</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWBE238B</td>
+<td>$2 \times 4 0 0 m m$</td>
+<td>1750</td>
+<td>490</td>
+<td>600</td>
+<td>380</td>
+<td>1480</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWBE358B</td>
+<td>$2 \times 5 0 0 m m$</td>
+<td>1920</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>1650</td>
+<td>840</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWBE477B</td>
+<td>$2 \times 5 0 0 m m$</td>
+<td>1920</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>1650</td>
+<td>840</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWBE597B</td>
+<td>$3 \times 5 0 0 m m$</td>
+<td>2420</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>2150</td>
+<td>740</td>
+<td>700</td>
+</tr>
+<tr>
+<td>ADWBE716B</td>
+<td>$3 \times 5 0 0 m m$</td>
+<td>2720</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>2450</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWBE835B</td>
+<td>$4 \times 5 0 0 m m$</td>
+<td>3120</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>2850</td>
+<td>740</td>
+<td>700</td>
+</tr>
+<tr>
+<td>ADWBE955B</td>
+<td>$4 \times 5 0 0 m m$</td>
+<td>3520</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWBE1194B</td>
+<td>$4 \times 5 0 0 m m$</td>
+<td>3520</td>
+<td>680</td>
+<td>680</td>
+<td>580</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWBE1494B</td>
+<td>$4 \times 5 5 0 m m$</td>
+<td>3520</td>
+<td>680</td>
+<td>740</td>
+<td>580</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWBE1852B</td>
+<td>$4 \times 6 0 0 m m$</td>
+<td>3520</td>
+<td>940</td>
+<td>910</td>
+<td>630</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWBE2149B</td>
+<td>$3 \times 7 0 0 m m$</td>
+<td>3020</td>
+<td>1040</td>
+<td>960</td>
+<td>720</td>
+<td>2750</td>
+<td>940</td>
+<td>900</td>
+</tr>
+<tr>
+<td>ADWBE2627B</td>
+<td>$3 \times 7 0 0 m m$</td>
+<td>3320</td>
+<td>1050</td>
+<td>1010</td>
+<td>720</td>
+<td>3050</td>
+<td>1040</td>
+<td>1000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="16">Ultra Baja Temperatura</td>
+<td>ADWUE040B</td>
+<td>$2 \times 3 0 0 m m$</td>
+<td>1280</td>
+<td>420</td>
+<td>475</td>
+<td>340</td>
+<td>1060</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWUE0648B</td>
+<td>$2 \times 3 0 0 m m$</td>
+<td>1280</td>
+<td>420</td>
+<td>475</td>
+<td>340</td>
+<td>1060</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWUE0784B</td>
+<td>$3 \times 3 0 0 m m$</td>
+<td>1580</td>
+<td>420</td>
+<td>475</td>
+<td>340</td>
+<td>1360</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWUE105B</td>
+<td>$2 \times 4 0 0 m m$</td>
+<td>1380</td>
+<td>490</td>
+<td>600</td>
+<td>380</td>
+<td>1110</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWUE160B</td>
+<td>$2 \times 4 0 0 m m$</td>
+<td>1750</td>
+<td>490</td>
+<td>600</td>
+<td>380</td>
+<td>1480</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWUE211B</td>
+<td>$2 \times 5 0 0 m m$</td>
+<td>1920</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>1650</td>
+<td>840</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWUE290B</td>
+<td>$2 \times 5 0 0 m m$</td>
+<td>1920</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>1650</td>
+<td>840</td>
+<td>-</td>
+</tr>
+<tr>
+<td>ADWUE371B</td>
+<td>$3 \times 5 0 0 m m$</td>
+<td>2420</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>2150</td>
+<td>740</td>
+<td>700</td>
+</tr>
+<tr>
+<td>ADWUE450B</td>
+<td>$3 \times 5 0 0 m m$</td>
+<td>2720</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>2450</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWUE528B</td>
+<td>$4 \times 5 0 0 m m$</td>
+<td>3120</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>2850</td>
+<td>740</td>
+<td>700</td>
+</tr>
+<tr>
+<td>ADWUE607B</td>
+<td>$4 \times 5 0 0 m m$</td>
+<td>3520</td>
+<td>580</td>
+<td>680</td>
+<td>510</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWUE740B</td>
+<td>$4 \times 5 0 0 m m$</td>
+<td>3520</td>
+<td>680</td>
+<td>680</td>
+<td>580</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWUE900B</td>
+<td>$4 \times 5 5 0 m m$</td>
+<td>3520</td>
+<td>680</td>
+<td>740</td>
+<td>580</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWUE1112B</td>
+<td>$4 \times 6 0 0 m m$</td>
+<td>3520</td>
+<td>940</td>
+<td>910</td>
+<td>630</td>
+<td>3250</td>
+<td>840</td>
+<td>800</td>
+</tr>
+<tr>
+<td>ADWUE1323B</td>
+<td>$3 \times 7 0 0 m m$</td>
+<td>3020</td>
+<td>1040</td>
+<td>960</td>
+<td>720</td>
+<td>2750</td>
+<td>940</td>
+<td>900</td>
+</tr>
+<tr>
+<td>ADWUE1586B</td>
+<td>$3 \times 7 0 0 m m$</td>
+<td>3320</td>
+<td>1050</td>
+<td>1010</td>
+<td>720</td>
+<td>3050</td>
+<td>1040</td>
+<td>1000</td>
+</tr>
+</table>
+
+<!-- PageNumber="12" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 15
 ================================================================================
 
-# W 7 WINTER $\boldsymbol{\square} \boldsymbol{\square}$ 
 
-## Contactanos
+### Contáctanos
 
-## WWW.ADINAUSA.COM
+WWW.ADINAUSA.COM
 
-(1) Adina
-(2) Adina_airconditioning
-(3) ventaslatam@adinausa.com
-(11) Adina Air Conditioning
-(4) Adina_airconditioning
+f
+
+O
+
+Adina
+Adina_airconditioning
+
+M
+
+ventaslatam@adinausa.com
+
+in
+J
+
+Adina Air Conditioning
+
+Adina_airconditioning
+
+

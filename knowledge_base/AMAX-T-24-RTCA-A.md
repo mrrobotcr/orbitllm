@@ -1,128 +1,241 @@
 # AMAX-T-24-RTCA-A.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
 # CERTIFICADO DE CONFORMIDAD CERTIFICATE OF CONFORMITY
 
-**Certificado No./Certificate No.:** 4393761.03COC **Número de Informe/Report No.:** 4393760.52 **Fecha de la última revisión/Last revision date:** 2022-09-22 **Fecha de emisión/Issue date:** 2022-09-22 **Fecha de caducidad/Expiry date:** 2025-09-22
+Certificado No/Certificate No .:
 
-**Titular del certificado/Certificate Holder**
+4393761.03COC
 
-**Nombre/Name:** COPPER GROUP S.A DE CV **Dirección/Address:** Prolongación Alameda Juan Pablo II Nº349, San Salvador, El Salvador
+Número de informe/ Report No .:
 
-**Fabricante/Manufacturer**
+4393760.52
 
-**Nombre/Name:** COPPER GROUP S.A DE CV **Dirección/Address:** Prolongación Alameda Juan Pablo II Nº349, San Salvador, El Salvador
+Fecha de la última revisión/Last revision date:
 
-**Planta de fabricación/Manufacturing Plant**
+2022-09-22
 
-**Nombre/Name:** COPPER GROUP S.A DE CV **Dirección/Address:** Prolongación Alameda Juan Pablo II Nº349, San Salvador, El Salvador
+Fecha de emisión/Issue date:
 
-**Este certificado de conformidad se basa en los resultados de una muestra del producto mencionado a continuación y es para verificar que la muestra evaluada cumplió con los requisitos mencionados a continuación, pero esto no implica la evaluación de otros productos con el mismo diseño que los evaluados. Además, esto no permite el uso de ninguna marca de conformidad de DEKRA.**
+2022-09-22
 
-**This certificate of conformity is based on the results of a sample of the below-mentioned product and is to verify that the evaluated sample had complied with the below-mentioned requirements, but this does not imply assessment of other products with same design to the evaluated item. In addition, this does not permit the use of any conformity marks of DEKRA.**
+Fecha de caducidad/Expiry date: 2025-09-22
 
-**Producto/Product:** Split type Inverter air conditioner /Acondicionador de aire tipo Inverter
+Fecha de próxima vigilancia /Next surveillance date:
 
-**Marca/Trademark:** ADINA
+2023-09-22
 
-**Identificación del producto evaluado/Identification of the product evaluated**
+DEKRA
 
-**Tipo/Type:** AMAX-T-2420-W
+Titular del certificado/Certificate Holder
 
-**Nodo:** AMAX-T-2420-W-I
+Nombre/Name:
 
-**Outdoor:** AMAX-T-2420-W-E
+COPPER GROUP S.A DE CV
 
-**Indoor:** 1T887NLC002LC1400003
+Dirección/Address:
 
-**Outdoor:** 1T887WLC002LC1400003
+Prolongación Alameda Juan Pablo II Nº349, San Salvador, El Salvador
 
-**7034 W (24000 BTU/h)**
+Fabricante/Manufacturer
 
-**Saving:** 33.4%
+Nombre/Name:
 
-**Procedimiento de pruebas/Test procedure:** RTCA 23.01.78:20
+COPPER GROUP S.A DE CV
 
-**Norma aplicada/Applied Standard:** NOM-026-ENER-2015
+Dirección/Address:
 
-**Observación/Remarks:**
+Prolongación Alameda Juan Pablo II Nº349, San Salvador, El Salvador
 
-Este certificado está sujeto al esquema 5 de ISO/IEC 17067:2013. / This certificate is subjected to scheme 5 of ISO/IEC 17067:2013.
+Planta de fabricación! Manufacturing Plant
+Nombre/Name:
+
+Dirección/Address:
+
+Este certificado de conformidad se basa en los resultados de una muestra del producto mencionado a
+continuación y es para verificar que la muestra evaluada cumplió con los requisitos mencionados a continuación
+pero esto no implica la evaluación de otros productos con el mismo diseno que los evaluados. Ademas, esto no
+permite el uso de ninguna marca de conformidad de DEKRA
+
+This certificate of conformity is based on the results of a sample of the below-mentioned product and is to verify
+that the evaluated sample had complied with the below mentioned requirements, but this does not imply
+assessment of other products with same design to the evaluated item. In addition, this does not permit the use of
+any conformity marks of DEKRA.
+
+Producto/Product:
+
+Marca /Trademark:
+
+Split type Inverter air conditioner /Acondicionador de aire tipo Inverter
+
+ADINA
+
+Identificación del producto evaluado/ Identification of the product evaluated
+
+Tipo! Type:
+
+AMAX-T-2420-W
+Indoor: AMAX-T-2420-W-1: Outdoor,/AMAX-T-2420-W-E
+
+No. De serie /Serial number:
+Capacidad de enfriamiento
+/Cooling Capacity
+
+Indoor: 11887NLC00ZLC1400003; Outdoor: 11887WLCDDZIC1400003
+7034 W (24000 BTU/h)
+
+El ahorro de energia/Energy
+Saving
+
+33.4%
+
+Procedimiento de pruebas /Test
+procedure:
+
+RTCA 23.01.78:20
+
+Norma aplicada /Applied
+Standard:
+
+NOM-026-ENER-2015
+
+Observación / Remarks:
+
+Este certificado está sujeto al esquema 5 de ISO/IEC 17067:2013. / This certificate is subjected to scheme 5 of
+ISO/IEC 17067:2013.
 
 DEKRA Certification B.V.
 
-B.T.M Holtus
-Managing Director
-Nelson Coelho
-Certification Manager
-© Integral publication of this certificate and adjoining reports is allowed
+DEKRA Certification B.V. Av. Gerónimo de Camargo, 2000 - Ressaca - Atibaia / SP - CEP 12944-000 - Brasil
+Tel: +55 11 4418-7268 Webpage: hope://dekra.com.br/PTC/
 
-DEKRA Certification B.V. Av. Gerónimo de Camargo, 2000 - Ressaca - Alibais / SP - CEP 12944-000 - Brasil Tel.: +55 11 4418-7268 Webpage: https://dekra.com.br/PTC/
+DEKRA Certification B.V. Meander 1051, 6825 MJ Amhem P.O. Box 5185, 6802 ED Amhem, The Netherlands
+T +31 B# 96 83000 F +31 88 96 83100 - www.dokra-certification.com - Company registration 09085396
 
-DEKRA Certification B.V. Meander 1051, 6825 MJ Arnhem P.O. Box 5185, 6802 ED Arnhem, The Netherlands T +31 88 96 83000 F +31 88 96 83100 - www.dekra-certification.com - Company registration 09085396
+<!-- PageBreak -->
 
-![img-0.jpeg](img-0.jpeg)
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# ANEXO AL CERTIFICADO DE CONFORMIDAD
+<!-- PageHeader="ANEXO AL CERTIFICADO DE CONFORMIDAD ANNEX TO CERTIFICATE OF CONFORMITY" -->
 
-# ANNEX TO CERTIFICATE OF CONFORMITY
+Historial De Certificación/Certification History:
 
-## Historial De Certificación/Certification History:
+<table>
+<tr>
+<th>Fecha/Date</th>
+<th>Contenido/Content</th>
+<th>Certificado No./Certificate No.</th>
+</tr>
+<tr>
+<td>2022-09-22</td>
+<td>Emisión inicial/Initial issuance</td>
+<td>4393761.03COC</td>
+</tr>
+</table>
 
-|  Fecha/Date | Contenido/Content | Certificado No./Certificate No.  |
-| --- | --- | --- |
-|  2022-09-22 | Emisión inicial/Initial issuance | 4393761.03COC  |
+DEKRA
 
 ## AHORRO DE ENERGÍA / ENERGY SAVING:
 
-|  REEE de este equipo / Current REEE data for the equipment (Wt/We) (BTU/Wh) | REEE de este equipo Etiquetado en la etiqueta /Current REEE data for the equipment indicated on the label (Wt/We) (BTU/Wh) | REEE establecido en la Norma /REEE given by the standard /Regulation (Wt/We) (BTU/Wh)  |
-| --- | --- | --- |
-|  6.01/20 | 5.86/20 | 4.39/15  |
+<table>
+<tr>
+<th>REEE de este equipo / Current REEE data for the equipment (Wt/We) (BTU/Wh)</th>
+<th>REEE de este equipo Etiquetado en la etiqueta /Current REEE data for the equipment indicated on the label (Wt/We) (BTU/Wh)</th>
+<th>REEE establecido en la Norma /REEE given by the standard /Regulation (Wt/We) (BTU/Wh)</th>
+</tr>
+<tr>
+<td>6.01/20</td>
+<td>5.86/20</td>
+<td>4.39/15</td>
+</tr>
+</table>
 
-|  Potencia eléctrica / Power rating (W) | Ahorro de energía indicado en la etiqueta de consumo de energía / Indicated energy saving in the energy consumption's label [%] | Ahorro de energía / Energy saving [%]  |
-| --- | --- | --- |
-|  2285 | 33.4 | 36.9  |
+<table>
+<tr>
+<th>Potencia eléctrica / Power rating (W)</th>
+<th>Ahorro de energía indicado en la etiqueta de consumo de energía / Indicated energy saving in the energy consumption's label [%]</th>
+<th>Ahorro de energía / Energy saving [%]</th>
+</tr>
+<tr>
+<td>2285</td>
+<td>33.4</td>
+<td>36.9</td>
+</tr>
+</table>
 
 ## FOTO DE ETIQUETA / PHOTO OF LABEL:
 
-### EFICIENCIA ENERGÉTICA
+<table>
+<tr>
+<th>ADINA The</th>
+<th>Nespl make</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-Relación de Eficiencia Energética Estacional (REEE) Determinado como se establece en el RTCA 23.01.18:29
+<table>
+<tr>
+<td rowspan="2">REEE establecido on este RTCA.</td>
+<td></td>
+<td>4,39</td>
+</tr>
+<tr>
+<td>TUM)</td>
+<td>4151</td>
+</tr>
+<tr>
+<td rowspan="2">REEE de este uquipo:</td>
+<td>[Ma Vie)</td>
+<td>5,86</td>
+</tr>
+<tr>
+<td>(BT)</td>
+<td>1201</td>
+</tr>
+</table>
 
-### ACONDICIONADORES DE AIRE TIPO DIVIDIDO INVERTER
+EFICIENCIA ENERGÉTICA
+Reinción de Eficiencia Energética Erscion REEE)
+Determinado pomo se paintlace en Bi RTCA 23.01 78:20
+ACONDICIONADORES DE AIRE TIPO DIVIDIDO INVERTER
 
-|  Marco | ACI/AA | Tipo | Miso/Enviador  |
-| --- | --- | --- | --- |
-|  Unidad exageradora |  | AMAX-T-3420 W-I Expended to extirpate: 7334 W/34000 BTU/10 |   |
-|  Unidad contenedora |  | AMAX-T-3420 W-EPotencia Eléctrica: 2285 W |   |
-|  Compara el consumo de energía de este equipo con otros del mismo tipo antes de comprar |  |  |   |
+Compare el consumo de energia de este equipo con otros del mismo tipo
+antes de comprar
 
-### Relación de Eficiencia Energética Estacional (REEE)
+Relación de Eficiencia Energética Estacional (REEE)
 
-|  REEE establecido en este RTCA: | (Wt/We) | 4.39  |
-| --- | --- | --- |
-|   | (BTU/Wt) | (10)  |
-|  REEE de este equipo: | (Wt/We) | 5.86  |
-|   | (BTU/Wt) | (20)  |
+Ahorro de Energia de este Equipo
 
-### Ahorro de Energía de este Equipo
+33,4%
 
-33.4%
+8
 
-|  0% | 18% | 20% | 30% | 40% | 50% | 60% | 70% | 80% | 90% | 100%  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  Menor ahorro |  |  |  |  |  |  |  |  |  |  | Menor ahorro  |
+ĐỒ 10M 20X 3044 40% 50% GON 70% 50M 90% 100%
 
-### IMPORTANTE
+Mimor phoru
 
-En el caso de energía no dependerá de las ideas y hábitos del usuario, así como de la localización del equipo.
+Magurahond
 
-La etiqueta no debe recorre del producto hasta que haya sido adquirido por el consumidor final.
+## IMPORTANTE
+
+Elchono do onor mal dopendemi do kul ilcos y hibilos dol icuato, asi como da ia
+localización del equipo ...
+
+La etiqueta no debe retterse del producto hasta que haya ido adqundo por el
+consumidor final
+<!-- PageNumber="Page 2 of 2" -->
+

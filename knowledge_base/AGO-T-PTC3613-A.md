@@ -1,11 +1,8 @@
 # AGO-T-PTC3613-A.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
-
-![img-0.jpeg](img-0.jpeg)
 
 SGS COLOMBIA S.A.S.
 C&P-F490101
@@ -18,71 +15,120 @@ Calle 3, Panama Viejo Business Center, Corregimiento De Parque Lefevre,
 Urbanización Panama Viejo, Ciudad de Panama, Panama
 
 Certifica que el producto identificado como Acondicionadores de aire tipo dividido de velocidad
-fija, descarga libre y sin ductos de aire, importados y/o fabricados y comercializados en Costa
+fija, descarga libre y sin ductos de aire, importados yio fabricados y comercializados en Costa
 Rica, El Salvador, Nicaragua, Guatemala y Honduras por Adina Appliances S.A, con
-referencias relacionadas en las siguientes páginas del presente documento, han sido
-evaluados de conformidad con:
+referencias relacionadas en las siguientes paginas del presente documento, han sido
+evaluados de conformidad con.
 
 Reglamento Técnico Centroamericano RTCA 23.01.80:21 Productos Eléctricos.
-Acondicionadores de aire tipo dividido de velocidad fija descarga libre y sin ductos de aire.
-Especificaciones de eficiencia energética.
+Acondicionadores de aire tipo dividido de velocidad fija descarga libre y sin ductos de aire
+Especificaciones de eficiencia energética
 
 Resolución 468-2022 (COMIECO-XCVIII) del 2 de diciembre de 2022 del Consejo de
-Ministros de Integración Económica De Centroamérica.
+Ministros de Integración Económica De Centroamérica
 
-Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas
+Estos productos han sido somelidos a toma de muestras, inspección, ejecución de pruebas
 de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con
-el esquema de certificación 5 de la norma ISO/IEC 17067:2013.
+el esquema de certificación 5 de la norma ISO/IEC 17067:2013
 
 Resultados obtenidos: CONFORME
 
 Autorizado por:
 
-Camilo Ramírez
+SGS COLOMBIA S.A.S.
+
+Camilo Ramirez
 SGS Colombia S.A.S.
-Carrera 100 No. 25C-11, Bodega 3
+Carrera 100 No. 25C-11. Bodega 3
 Bogotá D.C., Colombia
 
 Fecha de Emisión: 2024-04-27
+
 Fecha de Vencimiento: 2027-04-27
 Versión 1
 
 Página 1 de 2
 
-![img-1.jpeg](img-1.jpeg)
+<!-- PageFooter="CAP C 06 05 V.7 Tubero 2023" -->
+<!-- PageBreak -->
 
-![img-2.jpeg](img-2.jpeg)
 
-![img-3.jpeg](img-3.jpeg)
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-![img-4.jpeg](img-4.jpeg)
 
-![img-5.jpeg](img-5.jpeg)
+SGS COLOMBIA S.A.S.
+C&P-F490101
+ORDEN No. 4200-41892
+CERTIFICADO No. CRS23438
+ORDEN CERT. No. CO-CERT231210239-13
+CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+Adina Appliances S.A
+Calle 3, Panama Viejo Business Center, Corregimiento De Parque Lefevre,
+Urbanización Panama Viejo, Ciudad de Panama, Panama
+Acondicionadores de aire tipo dividido de velocidad fija. descarga libre y sin ductos de aire
 
-SGS COLOMBIA S.A.S. C&P-F490101 ORDEN No. 4200-41892 CERTIFICADO No. CRS23438 ORDEN CERT. No. CO-CERT231210239-13 CERTIFICADO DE CONFORMIDAD DE PRODUCTO Adina Appliances S.A Calle 3, Panama Viejo Business Center, Corregimiento De Parque Lefevre, Urbanización Panama Viejo, Ciudad de Panama, Panama Acondicionadores de aire tipo dividido de velocidad fija, descarga libre y sin ductos de aire
+<table>
+<tr>
+<th>UNIDAD EVAPORADORA</th>
+<th>UNIDAD CONDENSADORA</th>
+<th>CAPACIDAD DE ENFRIAMIENTO m</th>
+<th>TIPO DE ARTEFACTO</th>
+<th>REEL ESTABLECIDA EN NORMA [WWWs)</th>
+<th>REEL DE ESTE EQUIPO (WWW)</th>
+<th>AHORRO DE ENERGÍA</th>
+<th>TEST REPORT</th>
+<th>MARCA</th>
+</tr>
+<tr>
+<td>AGO-T ATC1613</td>
+<td>AGO-T-CON3513</td>
+<td>10650</td>
+<td>Min Som</td>
+<td>3.52</td>
+<td>3.3</td>
+<td>4.5</td>
+<td>GZEE240100021631</td>
+<td>ADINA</td>
+</tr>
+</table>
 
-|  UNIDAD EVAPORADORA | UNIDAD CONDENSADORA | CAPACIDAD DE ENFRIAMIENTO (W) | TIPO DE ARTEFACTO | REEE ESTABLECIDA EN NORMA (W/Ww) | REEE DE ESTE EQUIPO (W/Ww) | AHORRO DE ENERGÍA (%) | TEST REPORT | MARCA  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  AGO-T-PTC3613 | AGO-T-CON3613 | 10550 | Miri-Tapi | 3,52 | 3,88 | 4,5 | GZEE240100021631 | ADINA  |
+<table>
+<tr>
+<td colspan="3">Relacide di Elichreis Erergici Estr. onfi REEE)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-![img-6.jpeg](img-6.jpeg)
+FIN DEL DOCUMENTO
 
-![img-7.jpeg](img-7.jpeg)
+Fecha de Emisión: 2024-04-27
 
-![img-8.jpeg](img-8.jpeg)
+Fecha de Vencimiento: 2027-04-27
+Versión 1
 
-![img-9.jpeg](img-9.jpeg)
+Página 2 de 2
 
-Fecha de Emisión: 2024-04-27 Fecha de Vencimiento: 2027-04-27 Versión 1 Página 2 de 2
+<!-- PageFooter="CAP C 06 05 V.7 00Mero 2023" -->
 
-![img-10.jpeg](img-10.jpeg)
-
-![img-11.jpeg](img-11.jpeg)
-
-![img-12.jpeg](img-12.jpeg)
-
-![img-13.jpeg](img-13.jpeg)

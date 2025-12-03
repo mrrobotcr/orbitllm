@@ -1,49 +1,223 @@
 # AGO-T-CON6013-3_PLANOS_EXPLOSIONADOS_ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-# Planos Explosionados 
+# Planos Explosionados
 
-## Condensadora
-
+Condensadora
 AGO-T-CON6013-3
 60K
 
-| No. | New Code | Part Name | Q'ty | Remark |
-| :--: | :--: | :--: | :--: | :--: |
-| 1 | RO95006-000872 | Tubo de entrada del condensador | 1 |  |
-| 2 | RO95010-000561 | Tubo de salida del condensador | 1 |  |
-| 3 | RO95003-001386 | Condensador | 1 |  |
-| 4 | RO45004-000251 | Base | 1 |  |
-| 5 | RO95002-000286 | Válvula de dos vías | 1 |  |
-| 6 | RO95007-000242 | Interruptor de baja presión | 1 |  |
-| 7 | RO95014-001442 | Tubo de succión | 1 |  |
-| 8 | RO95002-000386 | Válvula de cierre de baja presión | 1 |  |
-| 9,1 | RO95006-000035 | Manga del sensor | 1 |  |
-| 9,2 | RO95015-000815 | Módulo del tubo de descarga | 1 |  |
-| 10 | RO95007-000426 | Interruptor de alta presión | 1 |  |
-| 11 | RO95012-000032 | Compresor | 1 |  |
-| 12 | RO45014-003022 | Filtro | 1 |  |
-| 13 | RO45801-000035 | Placa de soporte | 1 |  |
+<table>
+<tr>
+<th>No.</th>
+<th>New Code</th>
+<th>Part Name</th>
+<th>Q'ty</th>
+<th>Remark</th>
+</tr>
+<tr>
+<td>1</td>
+<td>RO95006-000872</td>
+<td>Tubo de entrada del condensador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>RO95010-000561</td>
+<td>Tubo de salida del condensador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>RO95003-001386</td>
+<td>Condensador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>RO45004-000251</td>
+<td>Base</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>RO95002-000286</td>
+<td>Válvula de dos vías</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>RO95007-000242</td>
+<td>Interruptor de baja presión</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>RO95014-001442</td>
+<td>Tubo de succión</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>RO95002-000386</td>
+<td>Válvula de cierre de baja presión</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>9,1</td>
+<td>RO95006-000035</td>
+<td>Manga del sensor</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>9,2</td>
+<td>RO95015-000815</td>
+<td>Módulo del tubo de descarga</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>RO95007-000426</td>
+<td>Interruptor de alta presión</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>RO95012-000032</td>
+<td>Compresor</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>RO45014-003022</td>
+<td>Filtro</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>RO45801-000035</td>
+<td>Placa de soporte</td>
+<td>1</td>
+<td></td>
+</tr>
+</table>
 
+<table>
+<tr>
+<th>No.</th>
+<th>New Code</th>
+<th>Part Name</th>
+<th>Q'ty</th>
+<th>Remark</th>
+</tr>
+<tr>
+<td>14</td>
+<td>RO45801-000035</td>
+<td>Placa de soporte</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>RO45007-000044</td>
+<td>Cubierta superior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>RO45009-000057</td>
+<td>Ventilador helicoidal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>RO25001-000142</td>
+<td>Motor exterior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>RO45008-000276</td>
+<td>Anillo de viento</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>RO45801-000035</td>
+<td>Placa de soporte</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20-1</td>
+<td>RO25004-000060</td>
+<td>Sensor de temperatura de descarga</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20-2</td>
+<td>RO25003-000015</td>
+<td>Capacitor del ventilador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20-3</td>
+<td>RO35004-000821</td>
+<td>PCB exterior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20-4</td>
+<td>RO35005-000052</td>
+<td>Terminal exterior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20-5</td>
+<td>RO35005-000062</td>
+<td>Terminal exterior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20-6</td>
+<td>RO35005-000078</td>
+<td>Terminal exterior</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>20-7</td>
+<td>RO25006-000027</td>
+<td>Contactor de corriente alterna</td>
+<td>1</td>
+<td></td>
+</tr>
+</table>
 
-| No. | New Code | Part Name | Q'ty | Remark |
-| :--: | :--: | :--: | :--: | :--: |
-| 14 | RO45801-000035 | Placa de soporte | 1 |  |
-| 15 | RO45007-000044 | Cubierta superior | 1 |  |
-| 16 | RO45009-000057 | Ventilador helicoidal | 1 |  |
-| 17 | RO25001-000142 | Motor exterior | 1 |  |
-| 18 | RO45008-000276 | Anillo de viento | 1 |  |
-| 19 | RO45801-000035 | Placa de soporte | 1 |  |
-| $20-1$ | RO25004-000060 | Sensor de temperatura de descarga | 1 |  |
-| $20-2$ | RO25003-000015 | Capacitor del ventilador | 1 |  |
-| $20-3$ | RO35004-000821 | PCB exterior | 1 |  |
-| $20-4$ | RO35005-000052 | Terminal exterior | 1 |  |
-| $20-5$ | RO35005-000062 | Terminal exterior | 1 |  |
-| $20-6$ | RO35005-000078 | Terminal exterior | 2 |  |
-| $20-7$ | RO25006-000027 | Contactor de corriente alterna | 1 |  |
+<!-- PageFooter="V-30062025" -->
 
-![img-0.jpeg](img-0.jpeg)

@@ -1,93 +1,449 @@
 # AFLEX-T-18.pdf-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+<table>
+<tr>
+<th>No.</th>
+<th>Part No.</th>
+<th>Detalle</th>
+<th>Cantidad</th>
+<th>Comentario</th>
+</tr>
+<tr>
+<td>1</td>
+<td>41106-002078</td>
+<td>Panel Frontal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>31102-000085</td>
+<td>PCB de Pantalla</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>42003-000001</td>
+<td>Caja de PCD de Pantalla</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>42008-000075</td>
+<td>Filtro de Aire</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>41108-000066</td>
+<td>Tapa de Tomillo</td>
+<td>2</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>41105-000146</td>
+<td>Tapa de Caja Eléctrica</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>41108-002366</td>
+<td>Marco Frontal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>41103-000149</td>
+<td>Aleta Horizontal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>41101-000193</td>
+<td>Conector de Aleta Vertical</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>41101-000067</td>
+<td>Ensamble de Alotas Verticales</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>22001-000321</td>
+<td>Motor de Aletas</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>31101-001980</td>
+<td>PCB Principal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>10104-100014</td>
+<td>Ensamble de Sensor Interar</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>11304 100029</td>
+<td>Terminal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>41105-000366</td>
+<td>Caja Eléctrica</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>41102-000048</td>
+<td>Base</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>41101-000242</td>
+<td>Transformador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>22001-000288</td>
+<td>Motor de Unidad Interior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>19</td>
+<td>42009-000011</td>
+<td>Manguera de Drenaje</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>41108-000013</td>
+<td>Cubierta de Motor Interor</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>41109-000041</td>
+<td>Placa de Instalación</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>92011-002773</td>
+<td>Evaporador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>42004-000012</td>
+<td>Ventilador Axial</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>22007-000001</td>
+<td>Soporte de Rodamiento</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>41101-000261</td>
+<td>Camisa de Rodamiento</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>22013-004549</td>
+<td>Control Remoto</td>
+<td>1</td>
+<td rowspan="4">No representado en plano explosionado</td>
+</tr>
+<tr>
+<td>27</td>
+<td>A1101-000315</td>
+<td>Caja de Embalaje Unidad Interior</td>
+<td>1</td>
+</tr>
+<tr>
+<td>28</td>
+<td>A2006-000040</td>
+<td>Espuma Empaque laquierda</td>
+<td>1</td>
+</tr>
+<tr>
+<td>29</td>
+<td>A2006-000019</td>
+<td>Espuma Empaque derecha</td>
+<td>1</td>
+</tr>
+</table>
 
-![img-1.jpeg](img-1.jpeg)
+<!-- PageFooter="AFLEX-T-18" -->
+<!-- PageBreak -->
 
-# Plano Explosionado
 
-## Unidad Interior
-
-|  No. | Part No. | Detalle | Cantidad | Comentario  |
-| --- | --- | --- | --- | --- |
-|  1 | 41106-002078 | Panel Frontal | 1 |   |
-|  2 | 31102-000085 | PCB de Pantalla | 1 |   |
-|  3 | 42003-000001 | Caja de PCB de Pantalla | 1 |   |
-|  4 | 42008-000075 | Filtro de Aire | 1 |   |
-|  5 | 41108-000066 | Tapa de Tomillo | 2 |   |
-|  6 | 41105-000146 | Tapa de Caja Eléctrica | 1 |   |
-|  7 | 41106-002356 | Marco Frontal | 1 |   |
-|  8 | 41103-000149 | Aleta Horizontal | 1 |   |
-|  9 | 41101-000193 | Conector de Aleta Vertical | 1 |   |
-|  10 | 41101-000087 | Ensamble de Aletas Verticales | 1 |   |
-|  11 | 22001-000321 | Motor de Aletas | 1 |   |
-|  12 | 31101-001980 | PCB Principal | 1 |   |
-|  13 | 10104-100014 | Ensamble de Sensor Interior | 1 |   |
-|  14 | 11304-100029 | Terminal | 1 |   |
-|  15 | 41105-000366 | Caja Eléctrica | 1 |   |
-|  16 | 41102-000048 | Base | 1 |   |
-|  17 | 41101-000242 | Transformador | 1 |   |
-|  18 | 22001-000286 | Motor de Unidad Interior | 1 |   |
-|  19 | 42009-000011 | Manguera de Drenaje | 1 |   |
-|  20 | 41108-000013 | Cubierta de Motor Interior | 1 |   |
-|  21 | 41109-000041 | Placa de Instalación | 1 |   |
-|  22 | 92011-002773 | Evaporador | 1 |   |
-|  23 | 42004-000012 | Ventilador Axial | 1 |   |
-|  24 | 42007-000001 | Soporte de Rodamiento | 1 |   |
-|  25 | 41101-000251 | Camisa de Rodamiento | 1 |   |
-|  26 | 22013-004549 | Control Remoto | 1 |   |
-|  27 | A1101-000315 | Caja de Embalaie Unidad Interior | 1 | No representado en plano  |
-|  28 | A2006-000040 | Espuma Empaque Izquierda | 1 | explosionado  |
-|  29 | A2006-000019 | Espuma Empaque derecha | 1 |   |
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-![img-2.jpeg](img-2.jpeg)
+ADINA®
+Air Conditioning
 
-![img-3.jpeg](img-3.jpeg)
+Flex
+SERIES
+18K
 
-# Plano Explosionado
+<table>
+<tr>
+<th>No.</th>
+<th>Part No.</th>
+<th>Detalle</th>
+<th>Cantidad</th>
+<th>Comentario</th>
+</tr>
+<tr>
+<td>1</td>
+<td>41202 000468</td>
+<td>Base</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>41200-000136</td>
+<td>Placa Divisoria</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>41204-000018</td>
+<td>Soporte de Vavula</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>-</td>
+<td>90007-001043</td>
+<td>VAlla da 3 Vins</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>92007-001060</td>
+<td>Vahula de 2 Via</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>02014-000003</td>
+<td>Enpamble de Comprasor Y Accesorios</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>92008-007803</td>
+<td>Tubería de Drenaje</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>0</td>
+<td>82008-007019</td>
+<td>Tuberia de Aspiración</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>41205-000049</td>
+<td>Placa derecha</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>41201-000029</td>
+<td>Tapa de Caja Eléctrica</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>41201-000029</td>
+<td>Tapa de Ca a Eléctrica</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
+<td>47001-00:0038</td>
+<td>Abrazadera de Che</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>11304-100006</td>
+<td>Terminal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>22003-000008</td>
+<td>Capacitor de Compresor</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>42001-000000</td>
+<td>Banda de Capacitor</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>10303-100019</td>
+<td>Capacitor de Motor de Ventilador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>82007-010180</td>
+<td>Ensamble de Tuberia Capilar</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
+<td>4.2011-000186</td>
+<td>Rella</td>
+<td>1</td>
+<td>Opcional</td>
+</tr>
+<tr>
+<td>19</td>
+<td>97011-008393</td>
+<td>Condensador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
+<td>41207-000040</td>
+<td>Cubierta Eupener</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>21</td>
+<td>11205-000131</td>
+<td>Soporte de Reilla Izquierda</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>22</td>
+<td>41203-000045</td>
+<td>Soporte de Motor Exterior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>23</td>
+<td>22001-000013</td>
+<td>Motor de Unidad Exterior</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>24</td>
+<td>42004-000106</td>
+<td>Aspas del Ventilador</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>41208-000048</td>
+<td>Placa Frontal</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>26</td>
+<td>42011-000033</td>
+<td>Protector de Vendlader</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td>A7005-000641</td>
+<td>Caja Base</td>
+<td>1</td>
+<td rowspan="4">No representado an plane explosionado</td>
+</tr>
+<tr>
+<td>28</td>
+<td>A1201-002861</td>
+<td>Caja de Gabinete</td>
+<td>1</td>
+</tr>
+<tr>
+<td>20</td>
+<td>A1207-000075</td>
+<td>Espuma de Empaque Base</td>
+<td>1</td>
+</tr>
+<tr>
+<td>30</td>
+<td>41110-000203</td>
+<td>Espuma de Empaque Cobertor</td>
+<td>1</td>
+</tr>
+</table>
 
-## Unidad Exterior
-
-![img-4.jpeg](img-4.jpeg)
-
-|  No. | Part No. | Detalle | Cantidad | Comentario  |
-| --- | --- | --- | --- | --- |
-|  1 | 41202-000466 | Base | 1 |   |
-|  2 | 41208-000136 | Placa Divisoria | 1 |   |
-|  3 | 41204-000018 | Soporte de Válvula | 1 |   |
-|  4 | 92007-001043 | Válvula de 3 Vias | 1 |   |
-|  5 | 92007-001060 | Válvula de 2 Vias | 1 |   |
-|  6 | 92014-000903 | Ensamble de Compresor Y Asesorios | 1 |   |
-|  7 | 92006-007803 | Tubería de Drenaje | 1 |   |
-|  8 | 92006-007839 | Tubería de Aspiración | 1 |   |
-|  9 | 41205-000069 | Placa derecha | 1 |   |
-|  10 | 41201-000029 | Tapa de Caja Eléctrica | 1 |   |
-|  11 | 41201-000029 | Tapa de Caja Eléctrica | 1 |   |
-|  12 | 42001-000038 | Abrazadera de Cable | 1 |   |
-|  13 | 11304-100006 | Terminal | 1 |   |
-|  14 | 22003-000008 | Capacitor de Compresor | 1 |   |
-|  15 | 42001-000030 | Banda de Capacitor | 1 |   |
-|  16 | 10303-100019 | Capacitor de Motor de Ventilador | 1 |   |
-|  17 | 92007-018180 | Ensamble de Tubería Capilar | 1 |   |
-|  18 | 42011-000186 | Rejilla | 1 | Opcional  |
-|  19 | 92011-008393 | Condensador | 1 |   |
-|  20 | 41207-000040 | Cubierta Superior | 1 |   |
-|  21 | 41205-000131 | Soporte de Rejilla Izquierda | 1 |   |
-|  22 | 41203-000045 | Soporte de Motor Exterior | 1 |   |
-|  23 | 22001-000013 | Motor de Unidad Exterior | 1 |   |
-|  24 | 42004-000106 | Aspas del Ventilador | 1 |   |
-|  25 | 41206-000048 | Placa Fronial | 1 |   |
-|  26 | 42011-000083 | Protector de Ventilador | 1 |   |
-|  27 | A2905-000541 | Caja Base | 1 |   |
-|  28 | A1201-002961 | Caja de Gabinete | 1 | No representado en plano  |
-|  29 | A1202-000025 | Espuma de Empaque Base | 1 | explosionado  |
-|  30 | 41110-000203 | Espuma de Empaque Cobertor | 1 |   |

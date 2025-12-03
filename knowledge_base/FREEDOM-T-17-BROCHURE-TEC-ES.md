@@ -1,67 +1,266 @@
 # FREEDOM-T-17-BROCHURE-TEC-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+INVERTER&
 
-# AIINA 
+# Alta eficiencia SEER 17
 
-Air Conditioning
-![img-1.jpeg](img-1.jpeg)
+Nuestros equipos FREEDOM, funcionan con
+una señal universal de 24V, lo que les permite
+conectarse con cualquier evaporadora sin
+importar su marca. Cuentan con un
+rendimiento de alta eficiencia SEER 17, esto
+hace que nuestros equipos tengan un mayor
+rendimiento energético en comparación a
+referencias similares en el mercado.
 
-Nuestros equipos FREEDOM, funcionan con una señal universal de 24 V , lo que les permite conectarse con cualquier evaporadora sin importar su marca. Guentan con un rendimiento de alta eficiencia SEER 17, esto hace que nuestros equipos tengan un mayor rendimiento energético en comparación a referencias similares en el mercado.
-![img-2.jpeg](img-2.jpeg)
+## ¡Versátil y universal!
+
+\>
+DEKRA
+certified
+
+eco GULDfin
+
+amigable
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
+
 # Especificaciones técnicas Condensadora
 
-![img-3.jpeg](img-3.jpeg)
+<table>
+<tr>
+<th colspan="3">Unidad Condensadora</th>
+<th>AFREE-T-CON3617</th>
+<th>AFREE-T-CON6017</th>
+</tr>
+<tr>
+<th colspan="2">Fuente de alimentación</th>
+<th>V/Hz/Ph</th>
+<th>220V/60Hz/1PH</th>
+<th>220V/60Hz/1PH</th>
+</tr>
+<tr>
+<td colspan="2">Potencia máxima consumida</td>
+<td>W</td>
+<td>5000</td>
+<td>7000</td>
+</tr>
+<tr>
+<td colspan="2">Capacidad</td>
+<td>BTU/H</td>
+<td>36.000</td>
+<td>60.000</td>
+</tr>
+<tr>
+<td colspan="2">Corriente máxima</td>
+<td>A</td>
+<td>23</td>
+<td>31,5</td>
+</tr>
+<tr>
+<td rowspan="2">Presión máxima de funcionamiento (Mpa)</td>
+<td>Descarga</td>
+<td>Mpa</td>
+<td>4,5</td>
+<td>4,5</td>
+</tr>
+<tr>
+<td>Succión</td>
+<td>Mpa</td>
+<td>1,5</td>
+<td>1,5</td>
+</tr>
+<tr>
+<td rowspan="6">Compresor</td>
+<td colspan="2">Marca</td>
+<td>GMCC</td>
+<td>HIGHLY</td>
+</tr>
+<tr>
+<td colspan="2">Modelo</td>
+<td>KTM240D43UMT</td>
+<td>GTH420SKPC8DQ</td>
+</tr>
+<tr>
+<td colspan="2">Tipo</td>
+<td>Rotativo</td>
+<td>Rotativo</td>
+</tr>
+<tr>
+<td>Potencia de entrada</td>
+<td>W</td>
+<td>2065</td>
+<td>3150</td>
+</tr>
+<tr>
+<td>Corriente de trabajo (RLA)</td>
+<td>A</td>
+<td>9,4</td>
+<td>13,2</td>
+</tr>
+<tr>
+<td>Aceite refrigerante</td>
+<td>ml</td>
+<td>620</td>
+<td>1050</td>
+</tr>
+<tr>
+<td rowspan="7">Serpentín exterior</td>
+<td>Número de filas</td>
+<td></td>
+<td>2</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Espacio de las aletas</td>
+<td>mm</td>
+<td>1,2</td>
+<td>1,2</td>
+</tr>
+<tr>
+<td>Material de las aletas</td>
+<td></td>
+<td>Rejilla o aleta corrugada</td>
+<td>Rejilla o aleta corrugada</td>
+</tr>
+<tr>
+<td>Diámetro exteriror del tubo</td>
+<td>mm</td>
+<td>¢5</td>
+<td>¢5</td>
+</tr>
+<tr>
+<td colspan="2">Material del tubo</td>
+<td>Cobre ranurado</td>
+<td>Cobre ranurado</td>
+</tr>
+<tr>
+<td>Longitud de la bobina x Altura x Ancho</td>
+<td>mm</td>
+<td>2187x585×23.2</td>
+<td>2187x800×23.2</td>
+</tr>
+<tr>
+<td colspan="2">Número de circuitos</td>
+<td>7</td>
+<td>10</td>
+</tr>
+<tr>
+<td rowspan="3">Motor del ventilador exterior</td>
+<td colspan="2">Marca</td>
+<td>BROADOCEAN</td>
+<td>BROADOCEAN</td>
+</tr>
+<tr>
+<td colspan="2">Modelo</td>
+<td>ZW511D000018L</td>
+<td>ZW511D000018L</td>
+</tr>
+<tr>
+<td>Velocidad</td>
+<td>rpm</td>
+<td>950</td>
+<td>1000</td>
+</tr>
+<tr>
+<td colspan="2">Flujo de aire exterior</td>
+<td>m3/h</td>
+<td>4500</td>
+<td>7000</td>
+</tr>
+<tr>
+<td colspan="2">Nivel de ruido exterior</td>
+<td>dB(A)</td>
+<td>60</td>
+<td>64</td>
+</tr>
+<tr>
+<td rowspan="2">Dimensión exterior</td>
+<td>Unidad (Ancho x Alto x Profundo)</td>
+<td>mm</td>
+<td>740×633×740</td>
+<td>740x843×740</td>
+</tr>
+<tr>
+<td>Embalaje (Ancho x Alto x Profundo)</td>
+<td>mm</td>
+<td>769x656x769</td>
+<td>769×856×769</td>
+</tr>
+<tr>
+<td rowspan="2">Peso exterior</td>
+<td>Neto</td>
+<td>Kg</td>
+<td>54</td>
+<td>64</td>
+</tr>
+<tr>
+<td>Bruto</td>
+<td>Kg</td>
+<td>59</td>
+<td>69</td>
+</tr>
+<tr>
+<td rowspan="2">Refrigerante</td>
+<td colspan="2">Tipo</td>
+<td>R 410A</td>
+<td>R 410A</td>
+</tr>
+<tr>
+<td>Carga</td>
+<td>g</td>
+<td>2300</td>
+<td>3000</td>
+</tr>
+<tr>
+<td colspan="3">Dispositivo de expansión</td>
+<td>Válvula de expansión electrónica</td>
+<td>Válvula de expansión electrónica</td>
+</tr>
+<tr>
+<td rowspan="4">Conexiones de tubería</td>
+<td>Lado líquido</td>
+<td>Pulgadas</td>
+<td>3/8"</td>
+<td>3/8"</td>
+</tr>
+<tr>
+<td>Lado gas</td>
+<td>Pulgadas</td>
+<td>5/8"</td>
+<td>3/4"</td>
+</tr>
+<tr>
+<td>Longitud máxima dela tubería del refrigerante</td>
+<td>m</td>
+<td>25</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Diferencia máxima de nivel</td>
+<td>m</td>
+<td>15</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Rango de temperatura ambiente</td>
+<td>Enfriamiento</td>
+<td>ºC</td>
+<td>16~48</td>
+<td>16~48</td>
+</tr>
+</table>
 
-![img-4.jpeg](img-4.jpeg)
+<!-- PageFooter="¡Versátil y universal! www.adinausa.com" -->
 
-|  Unidad Condensadora |  |  | AFREE-T-CON3617 | AFREE-T-CON6017  |
-| --- | --- | --- | --- | --- |
-|  Fuente de alimentación |  | VHz/Ph | 220V/60Hz/1PH | 220V/60Hz/1PH  |
-|  Potencia máxima consumida |  | W | 5000 | 7000  |
-|  Capacidad |  | BTU/H | 36.000 | 60.000  |
-|  Corriente máxima |  | A | 23 | 31.5  |
-|  Presión máxima de funcionamiento (Mpa) | Descarga | Mpa | 4.5 | 4.5  |
-|   | Succión | Mpa | 1.5 | 1.5  |
-|  Compresor | Marca |  | GMCC | HIGHLY  |
-|   | Modelo |  | KTM240D43UMT | GTH420SKPC8DQ  |
-|   | Tipo |  | Rotativo | Rotativo  |
-|   | Potencia de entrada | W | 2065 | 3150  |
-|   | Corriente de trabajo (RLA) | A | 9.4 | 13.2  |
-|   | Aceite refrigerante | ml | 620 | 1050  |
-|  Serpentín exterior | Número de filas |  | 2 | 2  |
-|   | Espacio de las aletas | mm | 1.2 | 1.2  |
-|   | Material de las aletas |  | Rejilla o aleta corrugada | Rejilla o aleta corrugada  |
-|   | Diámetro exterior del tubo | mm | Φ5 | Φ5  |
-|   | Material del tubo |  | Cobre ranurado | Cobre ranurado  |
-|   | Longitud de la bobina x Altura x Ancho | mm | 2187x585x23.2 | 2187x800x23.2  |
-|   | Número de circuitos |  | 7 | 10  |
-|  Motor del ventilador exterior | Marca |  | BROADOCEAN | BROADOCEAN  |
-|   | Modelo |  | ZW511D000018L | ZW511D000018L  |
-|   | Velocidad | rpm | 950 | 1000  |
-|  Flujo de aire exterior |  | m³/h | 4500 | 7000  |
-|  Nivel de ruido exterior |  | dB(A) | 60 | 64  |
-|  Dimensión exterior | Unidad (Ancho x Alto x Profundo) | mm | 740x633x740 | 740x843x740  |
-|   | Embalaje (Ancho x Alto x Profundo) | mm | 769x656x769 | 769x856x769  |
-|  Peso exterior | Neto | Kg | 54 | 64  |
-|   | Bruto | Kg | 59 | 69  |
-|  Refrigerante | Tipo |  | R 410A | R 410A  |
-|   | Carga | g | 2300 | 3000  |
-|  Dispositivo de expansión |  |  | Válvula de expansión electrónica | Válvula de expansión electrónica  |
-|  Conexiones de tubería | Lado líquido | Pulgadas | 3/8" | 3/8"  |
-|   | Lado gas | Pulgadas | 5/8" | 3/4"  |
-|   | Longitud máxima dela tubería del refrigerante | m | 25 | 30  |
-|   | Diferencia máxima de nivel | m | 15 | 20  |
-|  Rango de temperatura ambiente | Enfriamiento | °C | 16 ~ 48 | 16 ~ 48  |
-
-¡Versátil y universal! www.adinausa.com

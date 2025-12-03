@@ -1,11 +1,80 @@
 # DSS_CRS22121 ATI-T-PTC3618-AJUSTADO.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+SGS COLOMBIA S.A.S.
+C&P-F490101
+ORDEN No. 4200-40557
+CERTIFICADO No. CRS22121
+ORDEN CERT. No. CO-CERT221000890-40
+CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+
+Copper Group S.A de C.V.
+Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador
+
+Certifica que el producto identificado como Acondicionadores de Aire Tipo Dividido (Inverter)
+importados y/o fabricados y comercializados en Panama, Costa Rica, El Salvador, Nicaragua,
+Guatemala y Honduras por Copper Group S.A. de C.V., con referencias relacionadas en las
+siguientes páginas del presente documento, han sido evaluados de conformidad con
+
+Reglamento Técnico Centroamericano RTCA 23.01.78:20 Productos Eléctricos.
+Acondicionadores de Aire Tipo Dividido Inverter, con flujo refrigerante variable descarga libre
+y sin ductos de aire. Especificaciones de eficiencia energética.
+
+Resolución $4 5 1 - 2 0 2 1$ (COMIECO-XCVIII) del 17 de diciembre de 2021 del Consejo de
+Ministros de Integración Económica de Centroamérica.
+
+Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas
+de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con
+el esquema de certificación 5 de la norma ISO/IEC 17067.2013.
+
+Resultados obtenidos: CONFORME
+
+Autorizado por:
+
+SGS COLOMBIA S.A.S.
+
+Camilo Ramirez
+SGS Colombia S.A.S.
+Carrera 100 No. 25C-11. Bodega 3
+Bogotá D.C., Colombia
+
+Fecha de Emisión: 2023-09-22
+Fecha de Vencimiento: 2026-09-22
+Versión 2; 2023-09-27
+
+Pagina 1 de 2
+
+<table>
+<tr>
+<th></th>
+<th colspan="2"></th>
+<th></th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+</table>
+
+<!-- PageFooter="CAP C 06 05 V.7 Tervero 2023" -->
+<!-- PageBreak -->
+
+
+
+================================================================================
+PAGE 2
+================================================================================
+
 
 SGS COLOMBIA S.A.S.
 C&P-F490101
@@ -16,90 +85,108 @@ CERTIFICADO DE CONFORMIDAD DE PRODUCTO
 Copper Group S.A de C.V.
 Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador
 
-Certifica que el producto identificado como Acondicionadores de Aire Tipo Dividido (Inverter), importados y/o fabricados y comercializados en Panamá, Costa Rica, El Salvador, Nicaragua, Guatemala y Honduras por Copper Group S.A de C.V., con referencias relacionadas en las siguientes páginas del presente documento, han sido evaluados de conformidad con:
+# Acondicionadores de Aire Tipo Dividido (Inverter)
 
-Reglamento Técnico Centroamericano RTCA 23.01.78:20 Productos Eléctricos. Acondicionadores de Aire Tipo Dividido Inverter, con flujo refrigerante variable descarga libre y sin ductos de aire. Especificaciones de eficiencia energética.
-Resolución 451-2021 (COMIECO-XCVIII) del 17 de diciembre de 2021 del Consejo de Ministros de Integración Económica de Centroamérica.
+<table>
+<tr>
+<th>UNIDAD EVAPORADORA</th>
+<th>UNIDAD CONDENSADORA</th>
+<th>CAPACIDAD DE ENFRIAMIENTO [WI</th>
+<th>TIPO DE ARTEFACTO</th>
+<th>REEE ESTABLECIDA EN NORMA [WWWa]</th>
+<th>REEE DE ESTE EQUIPO (Wwwe)</th>
+<th>AHORRO DE ENERGIA (%)</th>
+<th>TEST REPORT</th>
+<th>MARCA</th>
+</tr>
+<tr>
+<td>ATFT-PTC3018</td>
+<td>ATIT-CONJ614</td>
+<td>10551</td>
+<td>Min Spil Inverter</td>
+<td>4.39</td>
+<td>5,25</td>
+<td>20,1</td>
+<td>GZEE220900318433</td>
+<td>ADINA</td>
+</tr>
+</table>
 
-Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con el esquema de certificación 5 de la norma ISO/IEC 17067:2013.
+<table>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td colspan="3" rowspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
 
-Resultados obtenidos: CONFORME
+# EFICIENCIA ENERZETICA
 
-Autorizado por:
+ACONDICIONADORES DE JNE TIPO DIMODO WEERTER
 
-Camilo Ramírez
-SGS Colombia S.A.S.
-Carrera 100 No. 25C-11, Bodega 3
-Bogotá D.C., Colombia
+Bolación de Eleuncle Energiitien Entazionisi REEE)
+
+Abono de Ergia da esm Equipo
+
+20,3%
+
+IMPORTANTE
+
+FIN DEL DOCUMENTO
 
 Fecha de Emisión: 2023-09-22
+
 Fecha de Vencimiento: 2026-09-22
-Versión 2: 2023-09-27
+Versión 2: 2023 09-27
 
-Página 1 de 2
+Pagina 2 de 2
 
-![img-1.jpeg](img-1.jpeg)
+SGSSGSC.
 
-This document cancels and supersedes the last version of this certificate number issued by SGS Colombia S.A.S.
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-This document, signed in support about the supply of the SGS Corporation, may be used in the production of the product. The product has been developed and is certified by the Company of SGS, and is subject to the terms of the terms of the agreement. SGS is a registered trademark of SGS, and is a registered trademark of SGS, and is a registered trademark of SGS, and is a registered trademark of SGS, and is a registered trademark of SGS.
+<!-- PageFooter="CAP C 06 05 VATTenvero 2023" -->
 
-SGS COLOMBIA S.A.S.
+<table>
+<tr>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
 
-C&P-G 06-05 V.7 febrero 2023
-
-================================================================================
-PAGE 2
-================================================================================
-
-![img-2.jpeg](img-2.jpeg)
-
-![img-3.jpeg](img-3.jpeg)
-
-SGS COLOMBIA S.A.S. C&P-F490101 ORDEN No. 4200-40557 CERTIFICADO No. CRS22121 ORDEN CERT. No. CO-CERT221000890-40 CERTIFICADO DE CONFORMIDAD DE PRODUCTO Copper Group S.A de C.V. Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador Acondicionadores de Aire Tipo Dividido (Inverter)
-
-|  UNIDAD EVAPORADORA | UNIDAD CONDENSADORA | CAPACIDAD DE ENFRIAMIENTO (W) | TIPO DE ARTEFACTO | REEE ESTABLECIDA EN NORMA (Wt/Wa) | REEE DE ESTE EQUIPO (Wt/Wa) | AHORRO DE ENERGÍA (%) | TEST REPORT | MARCA  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  ATI-T-PTC3618 | ATI-T-CON3618 | 10551 | Mini Spill Inverter | 4.39 | 5.28 | 20.3 | GZEE220900318633 | ADINA  |
-
-EPICIENCIA ENERGETICA Ejemplo de Carga de Energía y Empleo (REEE) Descripción de la empresa en la APELA 2020-2022 ACONDICIONADORES DE AIRE TIPO DIVIDIDO INVERTER
-
-|  |   |   |   |
-| --- | --- | --- | --- |
-|  Banca |  |  |   |
-|  Aire | Tipo |  |   |
-|  Aire |  |  |   |
-|  Aire | Tipo |  |   |
-|  Aire |  |  |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |   |
-|  |   |   |

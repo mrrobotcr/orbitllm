@@ -1,86 +1,125 @@
 # BROCHURE-CONDENSADORAS-WINTER-BL-ES.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+WINTER
+VV
 
-![img-1.jpeg](img-1.jpeg)
+ADINA
 
-# Unidad Condensadora
+ADINA
 
-de refrigeración.
+# Unidad Condensadora de refrigeración.
 
-Media Baja | Temperatura
+Media
+Baja
 
-![img-2.jpeg](img-2.jpeg)
+Temperatura
 
-V - 10062025
+ADINA®
+®
+
+$V \quad - \quad 1 0 0 6 2 0 2 5$
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-# Tabla de Contenido 
 
-1 Nomenclatura
-2 Componentes de la Condensadora
-3 Mejor Rendimiento
-4 Servicio más Fácil
-5 Acceso más Rápido
-6 Datos Eléctricos
-7 Especificaciones
-8 Capacidades
+## Tabla de Contenido
+
+1
+
+2
+
+3
+
+Mejor Rendimiento
+
+4
+
+Servicio más Fácil
+
+5
+
+Acceso más Rápido
+
+/
+6
+
+Datos Eléctricos
+
+7
+
+Especificaciones
+
+8
+
+Capacidades
 Para Media Temperatura Extendida
-9 Capacidades
+
+9
+
+Capacidades
 Para Baja Temperatura
-10 Diagrama de Instalación Mecánica
-12 Diagrama Eléctrico
-16 Dimensiones
+
+10
+
+Diagrama de Instalación
+Mecánica
+
+12
+
+Diagrama Eléctrico
+
+16
+
+Dimensiones
+
+Nomenclatura
+
+Componentes de la
+Condensadora
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 3
 ================================================================================
 
-![img-3.jpeg](img-3.jpeg)
+WINTER
+VV
 
-# Nomenclatura
+## Nomenclatura
 
-|  |   |   |
-| --- | --- | --- |
-|  **Tipo de Compresor** | **Aplicación** | **Voltaje**  |
-|  Z= Scroll | M= Temperatura Media Extendida L= Temperatura Baja | B= 208-230/1/60 C= 208-230/3/60  |
+<!-- PageNumber="1" -->
+<!-- PageBreak -->
 
-# AD W Ż 201 M 6 B *
 
-|  **Serie:** | **Equiv. HP**  |
-| --- | --- |
-|  W= WINTER | 201=2 HP  |
-|   | 301=3 HP  |
-|   | 401=4 HP  |
-|   | 501=5 HP  |
-|   | 601=6 HP  |
-
-|  **Refrigerante** | **Revisión de Diseño**  |
-| --- | --- |
-|  6= R-404A / R-507A |   |
-|  R-448A / R-449A |   |
-
-![img-4.jpeg](img-4.jpeg)
 
 ================================================================================
 PAGE 4
 ================================================================================
 
-# Componentes de la Condensadora 
 
-![img-5.jpeg](img-5.jpeg)
+## Componentes de la Condensadora
 
-## Contactor
+ITT
+WINTER
+VV
 
-Acumulador de Succión
+### Contactor
+
+Acumulador
+de Succión
 
 Presostato Dual
 
@@ -95,389 +134,1997 @@ Filtro de líquido
 Visor
 
 Separador de Aceite
-*Solo para operación a baja temperatura
+*Solo para operación a
+baja temperatura
 
 Válvula Solenoide
 
 Recibidor de líquido
 
-Válvulas de servicio de alta y baja
+Válvulas de servicio
+de alta y baja
+
+<!-- PageNumber="2" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 5
 ================================================================================
 
-# Mejor Rendimiento 
+WINTER
+VV
 
-- El diseño mejorado de la parrilla proporciona un aumento del $25 \%$ al $40 \%$ en el área de flujo de aire.
-- Óptima condensación debido a la hermeticidad del chasis.
-- Funcionamiento Silencioso.
+## Mejor Rendimiento
+
+· El diseño mejorado de la parrilla proporciona un
+aumento del 25% al 40% en el área de flujo de
+aire.
+
+· Óptima condensación debido a la hermeticidad
+del chasis.
+
+<!-- PageNumber="3" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 6
 ================================================================================
 
-# Servicio más fácil 
 
-- Fácil acceso a los componentes para una reparación más sencilla.
-- El diseño compacto permite una mejor ubicación e instalación en el lugar de trabajo.
-- Válvulas se servicio para alta y baja presión.
+## Servicio más fácil
+
+· Fácil acceso a los componentes
+para una reparación más sencilla.
+
+· El diseño compacto permite una
+mejor ubicación e instalación en el
+lugar de trabajo.
+
+· Válvulas se servicio para alta y baja
+presión.
+
+### Mayor Confiabilidad
+
+· Tubos precurvados que reducen las
+juntas mecánicas.
+
+· La detección de fugas en fábrica de
+última tecnología asegura la más
+alta calidad.
+
+<!-- PageNumber="4" -->
+<!-- PageBreak -->
 
 
-## Mayor Confiabilidad
-
-- Tubos precurvados que reducen las juntas mecánicas.
-- La detección de fugas en fábrica de última tecnología asegura la más alta calidad.
 
 ================================================================================
 PAGE 7
 ================================================================================
 
-# Acceso más rápido 
 
-- Manómetros de alta y baja presión instalados de fábrica para una rápida lectura de las presiones de trabajo.
-- Rejilla desmontable para acceder a todas las partes servibles.
-- Mejor acceso a los motores y componentes del ventilador.
-- Tapa más ligera, de una sola pieza.
-- Ubicación de la mirilla de fácil visualización.
+## Acceso más rápido
+
+WINTER
+VV
+
+· Manómetros de alta y baja presión instalados
+de fábrica para una rápida lectura de las
+presiones de trabajo.
+
+· Rejilla desmontable para acceder a todas las
+partes servibles.
+
+· Mejor acceso a los motores y componentes
+del ventilador.
+
+· Tapa más ligera, de una sola pieza.
+
+· Ubicación de la mirilla de fácil visualización.
+
+<!-- PageNumber="5" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 8
 ================================================================================
 
-# Temperatura Media 2 - 5 HP
+<!-- PageHeader="Datos Eléctricos" -->
 
-|  Modelo Unidad | H.P. | Compresor | Cant.
-Comp. | FLA (A) | MCA | MOPD | Voltaje | RLA (A) | LRA (A) | W | Cantidad | Consumo Motor (A)  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  ADWZ201M6B | 2 | YM34E3G | 1 | 11,47 | 14,27 | 20,00 | $220 / 1 / 60$ | 11,20 | 76,00 | 60 | 1 | 0,27  |
-|  ADWZ301M6B | 3 | YM49E3G | 1 | 15,57 | 19,40 | 30,00 | $220 / 1 / 60$ | 15,30 | 76,00 | 60 | 1 | 0,27  |
-|  ADWZ301M6C | 3 | YM49E7G | 1 | 10,56 | 13,16 | 20,00 | $220 / 3 / 60$ | 10,40 | 99,00 | 60 | 1 | 0,16  |
-|  ADWZ401M6B | 4 | YM70E3G | 1 | 22,05 | 27,42 | 40,00 | $220 / 1 / 60$ | 21,50 | 140,00 | 60 | 2 | 0,27  |
-|  ADWZ401M6C | 4 | YM70E7G | 1 | 14,61 | 18,19 | 30,00 | $220 / 3 / 60$ | 14,30 | 136,00 | 60 | 2 | 0,16  |
-|  ADWZ501M6B | 5 | YM86E3G | 1 | 26,95 | 33,55 | 50,00 | $220 / 1 / 60$ | 26,40 | 140,00 | 60 | 2 | 0,27  |
-|  ADWZ501M6C | 5 | YM86E7G | 1 | 16,91 | 21,06 | 30,00 | $220 / 3 / 60$ | 16,60 | 136,00 | 60 | 2 | 0,16  |
+### Temperatura Media 2 - 5 HP
 
-## Temperatura Baja 2 - 6 HP
+<table>
+<tr>
+<th>Modelo Unidad</th>
+<th>H.P.</th>
+<th>Compresor</th>
+<th>Cant. Comp.</th>
+<th>FLA (A)</th>
+<th>MCA</th>
+<th>MOPD</th>
+<th>Voltaje</th>
+<th>RLA (A)</th>
+<th>LRA (A)</th>
+<th>W</th>
+<th>Cantidad</th>
+<th>Consumo Motor (A)</th>
+</tr>
+<tr>
+<td>ADWZ201M6B</td>
+<td>2</td>
+<td>YM34E3G</td>
+<td>1</td>
+<td>11,47</td>
+<td>14,27</td>
+<td>20,00</td>
+<td>220/1/60</td>
+<td>11,20</td>
+<td>76,00</td>
+<td>60</td>
+<td>1</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>ADWZ301M6B</td>
+<td>3</td>
+<td>YM49E3G</td>
+<td>1</td>
+<td>15,57</td>
+<td>19,40</td>
+<td>30,00</td>
+<td>220/1/60</td>
+<td>15,30</td>
+<td>76,00</td>
+<td>60</td>
+<td>1</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>ADWZ301M6C</td>
+<td>3</td>
+<td>YM49E7G</td>
+<td>1</td>
+<td>10,56</td>
+<td>13,16</td>
+<td>20,00</td>
+<td>220/3/60</td>
+<td>10,40</td>
+<td>99,00</td>
+<td>60</td>
+<td>1</td>
+<td>0,16</td>
+</tr>
+<tr>
+<td>ADWZ401M6B</td>
+<td>4</td>
+<td>YM70E3G</td>
+<td>1</td>
+<td>22,05</td>
+<td>27,42</td>
+<td>40,00</td>
+<td>220/1/60</td>
+<td>21,50</td>
+<td>140,00</td>
+<td>60</td>
+<td>2</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>ADWZ401M6C</td>
+<td>4</td>
+<td>YM70E7G</td>
+<td>1</td>
+<td>14,61</td>
+<td>18,19</td>
+<td>30,00</td>
+<td>220/3/60</td>
+<td>14,30</td>
+<td>136,00</td>
+<td>60</td>
+<td>2</td>
+<td>0,16</td>
+</tr>
+<tr>
+<td>ADWZ501M6B</td>
+<td>5</td>
+<td>YM86E3G</td>
+<td>1</td>
+<td>26,95</td>
+<td>33,55</td>
+<td>50,00</td>
+<td>220/1/60</td>
+<td>26,40</td>
+<td>140,00</td>
+<td>60</td>
+<td>2</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>ADWZ501M6C</td>
+<td>5</td>
+<td>YM86E7G</td>
+<td>1</td>
+<td>16,91</td>
+<td>21,06</td>
+<td>30,00</td>
+<td>220/3/60</td>
+<td>16,60</td>
+<td>136,00</td>
+<td>60</td>
+<td>2</td>
+<td>0,16</td>
+</tr>
+</table>
 
-|  Modelo Unidad | H.P. | Compresor | Cant.
-Comp. | FLA (A) | MCA | MOPD | Voltaje | RLA (A) | LRA (A) | W | Cantidad | Consumo Motor (A)  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  ADWZ201L6B | 2 | YF13E3G | 1 | 7,67 | 9,52 | 20,00 | $220 / 1 / 60$ | 7,40 | 76,00 | 60 | 1 | 0,27  |
-|  ADWZ201L6C | 2 | YF13E7G | 1 | 4,16 | 5,16 | 20,00 | $220 / 3 / 60$ | 4,00 | 51,00 | 60 | 1 | 0,16  |
-|  ADWZ301L6B | 3 | YF20E3G | 1 | 11,17 | 13,90 | 20,00 | $220 / 1 / 60$ | 10,90 | 76,00 | 60 | 1 | 0,27  |
-|  ADWZ301L6C | 3 | YF20E7G | 1 | 5,66 | 7,03 | 20,00 | $220 / 3 / 60$ | 5,50 | 51,00 | 60 | 1 | 0,16  |
-|  ADWZ401L6B | 4 | YF29E3G | 1 | 15,55 | 19,30 | 30,00 | $220 / 1 / 60$ | 15,00 | 109,00 | 60 | 2 | 0,27  |
-|  ADWZ401L6C | 4 | YF29E7G | 1 | 6,71 | 8,31 | 20,00 | $220 / 3 / 60$ | 6,40 | 69,00 | 60 | 2 | 0,16  |
-|  ADWZ501L6B | 5 | YF35E3G | 1 | 19,35 | 24,05 | 40,00 | $220 / 1 / 60$ | 18,80 | 140,00 | 60 | 2 | 0,27  |
-|  ADWZ501L6C | 5 | YF35E7G | 1 | 8,21 | 10,19 | 20,00 | $220 / 3 / 60$ | 7,90 | 69,00 | 60 | 2 | 0,16  |
-|  ADWZ601L6C | 6 | YF41E7G | 1 | 8,81 | 10,94 | 20,00 | $220 / 3 / 60$ | 8,50 | 69,00 | 60 | 2 | 0,16  |
+### Temperatura Baja 2 - 6 HP
+
+<table>
+<tr>
+<th>Modelo Unidad</th>
+<th>H.P.</th>
+<th>Compresor</th>
+<th>Cant. Comp.</th>
+<th>FLA (A)</th>
+<th>MCA</th>
+<th>MOPD</th>
+<th>Voltaje</th>
+<th>RLA (A)</th>
+<th>LRA (A)</th>
+<th>W</th>
+<th>Cantidad</th>
+<th>Consumo Motor (A)</th>
+</tr>
+<tr>
+<td>ADWZ201L6B</td>
+<td>2</td>
+<td>YF13E3G</td>
+<td>1</td>
+<td>7,67</td>
+<td>9,52</td>
+<td>20,00</td>
+<td>220/1/60</td>
+<td>7,40</td>
+<td>76,00</td>
+<td>60</td>
+<td>1</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>ADWZ201L6C</td>
+<td>2</td>
+<td>YF13E7G</td>
+<td>1</td>
+<td>4,16</td>
+<td>5,16</td>
+<td>20,00</td>
+<td>220/3/60</td>
+<td>4,00</td>
+<td>51,00</td>
+<td>60</td>
+<td>1</td>
+<td>0,16</td>
+</tr>
+<tr>
+<td>ADWZ301L6B</td>
+<td>3</td>
+<td>YF20E3G</td>
+<td>1</td>
+<td>11,17</td>
+<td>13,90</td>
+<td>20,00</td>
+<td>220/1/60</td>
+<td>10,90</td>
+<td>76,00</td>
+<td>60</td>
+<td>1</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>ADWZ301L6C</td>
+<td>3</td>
+<td>YF20E7G</td>
+<td>1</td>
+<td>5,66</td>
+<td>7,03</td>
+<td>20,00</td>
+<td>220/3/60</td>
+<td>5,50</td>
+<td>51,00</td>
+<td>60</td>
+<td>1</td>
+<td>0,16</td>
+</tr>
+<tr>
+<td>ADWZ401L6B</td>
+<td>4</td>
+<td>YF29E3G</td>
+<td>1</td>
+<td>15,55</td>
+<td>19,30</td>
+<td>30,00</td>
+<td>220/1/60</td>
+<td>15,00</td>
+<td>109,00</td>
+<td>60</td>
+<td>2</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>ADWZ401L6C</td>
+<td>4</td>
+<td>YF29E7G</td>
+<td>1</td>
+<td>6,71</td>
+<td>8,31</td>
+<td>20,00</td>
+<td>220/3/60</td>
+<td>6,40</td>
+<td>69,00</td>
+<td>60</td>
+<td>2</td>
+<td>0,16</td>
+</tr>
+<tr>
+<td>ADWZ501L6B</td>
+<td>5</td>
+<td>YF35E3G</td>
+<td>1</td>
+<td>19,35</td>
+<td>24,05</td>
+<td>40,00</td>
+<td>220/1/60</td>
+<td>18,80</td>
+<td>140,00</td>
+<td>60</td>
+<td>2</td>
+<td>0,27</td>
+</tr>
+<tr>
+<td>ADWZ501L6C</td>
+<td>5</td>
+<td>YF35E7G</td>
+<td>1</td>
+<td>8,21</td>
+<td>10,19</td>
+<td>20,00</td>
+<td>$2 2 0 / 3 / 6 0$</td>
+<td>7,90</td>
+<td>69,00</td>
+<td>60</td>
+<td>2</td>
+<td>0,16</td>
+</tr>
+<tr>
+<td>ADWZ601L6C</td>
+<td>6</td>
+<td>YF41E7G</td>
+<td>1</td>
+<td>8,81</td>
+<td>10,94</td>
+<td>20,00</td>
+<td>220/3/60</td>
+<td>8,50</td>
+<td>69,00</td>
+<td>60</td>
+<td>2</td>
+<td>0,16</td>
+</tr>
+</table>
+
+ADINA®
+®
+
+<!-- PageNumber="6" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 9
 ================================================================================
 
-# Especificaciones
 
-## Temperatura Media 2 - 5 HP
+## Especificaciones
 
-|  Modelo
-Unidad | Desplazamiento
-Vol. | Conexiones (DI) Pulg |  | Recibidor Cap al
-$90 \%$ |  | Dimensiones |  |  |  |  |  | Peso |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   |  |  |  |  |  | mm |  |  | pulg |  |  |  |   |
-|   | cm3/Rev | Succión | Líquido | Lbs | kgs | Largo | Ancho | Alto | Largo | Ancho | Alto | Kg | Lbs  |
-|  ADWZ201M6B | 33,30 | $5 / 8$ | $3 / 8$ | 9,39 | 4,27 | 955 | 360 | 855 | 37,6 | 14,2 | 33,7 | 75 | 165  |
-|  ADWZ201M6C | 46,60 | $5 / 8$ | $3 / 8$ | 9,39 | 4,27 | 955 | 360 | 855 | 37,6 | 14,2 | 33,7 | 76 | 167  |
-|  ADWZ301M6B | 46,60 | $3 / 4$ | $1 / 2$ | 9,39 | 4,27 | 955 | 360 | 855 | 37,6 | 14,2 | 33,7 | 76 | 167  |
-|  ADWZ301M6C | 67,80 | $3 / 4$ | $1 / 2$ | 9,39 | 4,27 | 955 | 360 | 1245 | 37,6 | 14,2 | 49,0 | 107 | 235  |
-|  ADWZ401M6B | 67,80 | $3 / 4$ | $1 / 2$ | 14,08 | 6,40 | 955 | 360 | 1245 | 37,6 | 14,2 | 49,0 | 107 | 235  |
-|  ADWZ401M6C | 83,30 | $3 / 4$ | $1 / 2$ | 14,08 | 6,40 | 955 | 360 | 1245 | 37,6 | 14,2 | 49,0 | 107 | 235  |
-|  ADWZ501M6B | 83,30 | $3 / 4$ | $1 / 2$ | 14,08 | 6,40 | 955 | 360 | 1245 | 37,6 | 14,2 | 49,0 | 107 | 235  |
+### Temperatura Media 2 - 5 HP
 
-## Temperatura Baja 2 - 6 HP
+<table>
+<tr>
+<th rowspan="3">Modelo Unidad</th>
+<th rowspan="2">Desplazamiento $V o l .$</th>
+<th colspan="2" rowspan="2">Conexiones (DI) Pulg</th>
+<th colspan="2" rowspan="2">Recibidor Cap al 90%</th>
+<th colspan="6">Dimensiones</th>
+<th colspan="2" rowspan="2">Peso</th>
+</tr>
+<tr>
+<th colspan="3">mm</th>
+<th colspan="3">pulg</th>
+</tr>
+<tr>
+<th>cm3/Rev</th>
+<th>Succión</th>
+<th>Líquido</th>
+<th>Lbs</th>
+<th>kgs</th>
+<th>Largo</th>
+<th>Ancho</th>
+<th>Alto</th>
+<th>Largo</th>
+<th>Ancho</th>
+<th>Alto</th>
+<th>Kg</th>
+<th>Lbs</th>
+</tr>
+<tr>
+<td>ADWZ201M6B</td>
+<td>33,30</td>
+<td>5/8</td>
+<td>3/8</td>
+<td>9,39</td>
+<td>4,27</td>
+<td>955</td>
+<td>360</td>
+<td>855</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>33,7</td>
+<td>75</td>
+<td>165</td>
+</tr>
+<tr>
+<td>ADWZ201M6C</td>
+<td>46,60</td>
+<td>5/8</td>
+<td>3/8</td>
+<td>9,39</td>
+<td>4,27</td>
+<td>955</td>
+<td>360</td>
+<td>855</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>33,7</td>
+<td>76</td>
+<td>167</td>
+</tr>
+<tr>
+<td>ADWZ301M6B</td>
+<td>46,60</td>
+<td>3/4</td>
+<td>1/2</td>
+<td>9,39</td>
+<td>4,27</td>
+<td>955</td>
+<td>360</td>
+<td>855</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>33,7</td>
+<td>76</td>
+<td>167</td>
+</tr>
+<tr>
+<td>ADWZ301M6C</td>
+<td>67,80</td>
+<td>3/4</td>
+<td>1/2</td>
+<td>9,39</td>
+<td>4,27</td>
+<td>955</td>
+<td>360</td>
+<td>1245</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>49,0</td>
+<td>107</td>
+<td>235</td>
+</tr>
+<tr>
+<td>ADWZ401M6B</td>
+<td>67,80</td>
+<td>3/4</td>
+<td>1/2</td>
+<td>14,08</td>
+<td>6,40</td>
+<td>955</td>
+<td>360</td>
+<td>1245</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>49,0</td>
+<td>107</td>
+<td>235</td>
+</tr>
+<tr>
+<td>ADWZ401M6C</td>
+<td>83,30</td>
+<td>3/4</td>
+<td>$1 / 2$</td>
+<td>14,08</td>
+<td>6,40</td>
+<td>955</td>
+<td>360</td>
+<td>1245</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>49,0</td>
+<td>107</td>
+<td>235</td>
+</tr>
+<tr>
+<td>ADWZ501M6B</td>
+<td>83,30</td>
+<td>3/4</td>
+<td>1/2</td>
+<td>14,08</td>
+<td>6,40</td>
+<td>955</td>
+<td>360</td>
+<td>1245</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>49,0</td>
+<td>107</td>
+<td>235</td>
+</tr>
+</table>
 
-|  Modelo
-Unidad | Desplazamiento
-Vol. | Conexiones (DI) Pulg |  | Recibidor Cap al
-$90 \%$ |  | Dimensiones |  |  |  |  |  | Peso |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   |  |  |  |  |  | mm |  |  | pulg |  |  |  |   |
-|   | cm3/Rev | Succión | Líquido | Lbs | kgs | Largo | Ancho | Alto | Largo | Ancho | Alto | Kg | Lbs  |
-|  ADWZ201L6B | 33,30 | $5 / 8$ | $3 / 8$ | 9,39 | 4,27 | 955 | 360 | 855 | 37,6 | 14,2 | 33,7 | 77 | 169  |
-|  ADWZ201L6C | 33,30 | $5 / 8$ | $3 / 8$ | 9,39 | 4,27 | 955 | 360 | 855 | 37,6 | 14,2 | 33,7 | 77 | 169  |
-|  ADWZ301L6B | 46,60 | $5 / 8$ | $3 / 8$ | 9,39 | 4,27 | 955 | 360 | 855 | 37,6 | 14,2 | 33,7 | 77 | 169  |
-|  ADWZ301L6C | 46,60 | $5 / 8$ | $3 / 8$ | 9,39 | 4,27 | 955 | 360 | 855 | 37,6 | 14,2 | 33,7 | 77 | 169  |
-|  ADWZ401L6B | 67,80 | $3 / 4$ | $1 / 2$ | 14,08 | 6,40 | 955 | 360 | 1245 | 37,6 | 14,2 | 49,0 | 109 | 240  |
-|  ADWZ401L6C | 67,80 | $3 / 4$ | $1 / 2$ | 14,08 | 6,40 | 955 | 360 | 1245 | 37,6 | 14,2 | 49,0 | 109 | 240  |
-|  ADWZ501L6B | 83,30 | $3 / 4$ | $1 / 2$ | 14,08 | 6,40 | 955 | 360 | 1245 | 37,6 | 14,2 | 49,0 | 109 | 240  |
-|  ADWZ501L6C | 83,30 | $3 / 4$ | $1 / 2$ | 14,08 | 6,40 | 955 | 360 | 1245 | 37,6 | 14,2 | 49,0 | 109 | 240  |
-|  ADWZ601L6C | 98,30 | $3 / 4$ | $1 / 2$ | 14,08 | 6,40 | 955 | 360 | 1245 | 37,6 | 14,2 | 49,0 | 109 | 240  |
+### Temperatura Baja 2 - 6 HP
 
-Nota: La longitud combinada de las tuberías, tanto en su recorrido horizontal como vertical, no debe exceder los 30 metros, asegurando así un óptimo rendimiento del sistema. Además, se debe tener especial cuidado en el diseño de las trampas de aceite para garantizar un retorno eficiente del aceite al cárter del compresor. Es fundamental que los diámetros de las tuberías no se modifiquen y se respeten conforme al diámetro de las válvulas de servicio para mantener la integridad y eficiencia del sistema.
+<table>
+<tr>
+<th rowspan="3">Modelo Unidad</th>
+<th rowspan="2">Desplazamiento Vol.</th>
+<th colspan="2" rowspan="2">Conexiones (DI) Pulg</th>
+<th colspan="2" rowspan="2">Recibidor Cap al 90%</th>
+<th colspan="6">Dimensiones</th>
+<th colspan="2" rowspan="2">Peso</th>
+</tr>
+<tr>
+<th colspan="3">mm</th>
+<th colspan="3">pulg</th>
+</tr>
+<tr>
+<th>cm3/Rev</th>
+<th>Succión</th>
+<th>Líquido</th>
+<th>Lbs</th>
+<th>kgs</th>
+<th>Largo</th>
+<th>Ancho</th>
+<th>Alto</th>
+<th>Largo</th>
+<th>Ancho</th>
+<th>Alto</th>
+<th>Kg</th>
+<th>Lbs</th>
+</tr>
+<tr>
+<td>ADWZ201L6B</td>
+<td>33,30</td>
+<td>5/8</td>
+<td>3/8</td>
+<td>9,39</td>
+<td>4,27</td>
+<td>955</td>
+<td>360</td>
+<td>855</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>33,7</td>
+<td>77</td>
+<td>169</td>
+</tr>
+<tr>
+<td>ADWZ201L6C</td>
+<td>$3 3 , 3 0$</td>
+<td>5/8</td>
+<td>3/8</td>
+<td>9,39</td>
+<td>4,27</td>
+<td>955</td>
+<td>360</td>
+<td>855</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>33,7</td>
+<td>77</td>
+<td>169</td>
+</tr>
+<tr>
+<td>ADWZ301L6B</td>
+<td>46,60</td>
+<td>5/8</td>
+<td>3/8</td>
+<td>9,39</td>
+<td>4,27</td>
+<td>955</td>
+<td>360</td>
+<td>855</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>33,7</td>
+<td>77</td>
+<td>169</td>
+</tr>
+<tr>
+<td>ADWZ301L6C</td>
+<td>46,60</td>
+<td>5/8</td>
+<td>3/8</td>
+<td>9,39</td>
+<td>4,27</td>
+<td>955</td>
+<td>360</td>
+<td>855</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>33,7</td>
+<td>77</td>
+<td>169</td>
+</tr>
+<tr>
+<td>ADWZ401L6B</td>
+<td>67,80</td>
+<td>3/4</td>
+<td>1/2</td>
+<td>14,08</td>
+<td>6,40</td>
+<td>955</td>
+<td>360</td>
+<td>1245</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>49,0</td>
+<td>109</td>
+<td>240</td>
+</tr>
+<tr>
+<td>ADWZ401L6C</td>
+<td>67,80</td>
+<td>3/4</td>
+<td>1/2</td>
+<td>14,08</td>
+<td>6,40</td>
+<td>955</td>
+<td>360</td>
+<td>1245</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>49,0</td>
+<td>109</td>
+<td>240</td>
+</tr>
+<tr>
+<td>ADWZ501L6B</td>
+<td>83,30</td>
+<td>3/4</td>
+<td>1/2</td>
+<td>14,08</td>
+<td>6,40</td>
+<td>955</td>
+<td>360</td>
+<td>1245</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>49,0</td>
+<td>109</td>
+<td>240</td>
+</tr>
+<tr>
+<td>ADWZ501L6C</td>
+<td>83,30</td>
+<td>3/4</td>
+<td>1/2</td>
+<td>14,08</td>
+<td>6,40</td>
+<td>955</td>
+<td>360</td>
+<td>1245</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>49,0</td>
+<td>109</td>
+<td>240</td>
+</tr>
+<tr>
+<td>ADWZ601L6C</td>
+<td>98,30</td>
+<td>3/4</td>
+<td>1/2</td>
+<td>14,08</td>
+<td>6,40</td>
+<td>955</td>
+<td>360</td>
+<td>1245</td>
+<td>37,6</td>
+<td>14,2</td>
+<td>49,0</td>
+<td>109</td>
+<td>240</td>
+</tr>
+</table>
+
+Nota: La longitud combinada de las tuberías, tanto en su recorrido horizontal como vertical, no debe exceder los 30 metros, asegurando así un óptimo rendimiento del sistema.
+Además, se debe tener especial cuidado en el diseño de las trampas de aceite para garantizar un retorno eficiente del aceite al cárter del compresor. Es fundamental que los
+diámetros de las tuberías no se modifiquen y se respeten conforme al diámetro de las válvulas de servicio para mantener la integridad y eficiencia del sistema.
+
+ADINA®
+
+<!-- PageNumber="7" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 10
 ================================================================================
 
-# 2 HP 
 
-| Modelo |  | C-T <br> $\left({ }^{\circ} \mathrm{C}\right)$ | R-T. ( ${ }^{\circ} \mathrm{C}$ ) |  |  |  |  |  |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  | $-20$ | $-25$ | $-20$ | $-15$ | $-10$ | $-5$ | 0 | 5 | 10 |
-| ADWZ201M | Cap <br> (BTU/h) | 60 |  |  | 6774 | 8948 | 10319 | 12828 | 16389 | 20921 | 26339 |
-|  |  | 50 | 6225 | 6650 | 7711 | 9699 | 12531 | 16124 | 20393 | 25255 | 30628 |
-|  |  | 40 | 6599 | 8193 | 10798 | 13954 | 17576 | 21583 | 25889 | 30412 | 35068 |
-|  |  | 30 | 8363 | 11584 | 15063 | 18716 | 22459 | 26209 | 29883 | 33396 | 36666 |
-| Compresor <br> YM34E | Power <br> (W) | 60 |  |  | 2754 | 2916 | 2997 | 3026 | 3033 | 3046 | 3095 |
-|  |  | 50 | 1881 | 2123 | 2255 | 2306 | 2305 | 2282 | 2266 | 2287 | 2373 |
-|  |  | 40 | 1572 | 1694 | 1736 | 1726 | 1694 | 1669 | 1682 | 1760 | 1935 |
-|  |  | 30 | 1246 | 1299 | 1300 | 1280 | 1268 | 1293 | 1384 | 1572 | 1885 |
+# Capacidades para Media Temperatura Extendida
 
-## 3 HP
+R404A / 507C
 
-| Modelo |  | C-T <br> $\left({ }^{\circ} \mathrm{C}\right)$ | R-T. ( ${ }^{\circ} \mathrm{C}$ ) |  |  |  |  |  |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  | $-20$ | $-25$ | $-20$ | $-15$ | $-10$ | $-5$ | 0 | 5 | 10 |
-| ADWZ301M | Cap <br> (BTU/h) | 60 |  |  | 9220 | 12179 | 14046 | 17460 | 22308 | 28476 | 35850 |
-|  |  | 50 | 8473 | 9051 | 10495 | 13202 | 17057 | 21946 | 27757 | 34375 | 41687 |
-|  |  | 40 | 8981 | 11151 | 14697 | 18993 | 23923 | 29377 | 35238 | 41394 | 47732 |
-|  |  | 30 | 11383 | 15768 | 20503 | 25474 | 30569 | 35673 | 40673 | 45456 | 49906 |
-| Compresor <br> YM49E | Power <br> (W) | 60 |  |  | 3659 | 3875 | 3982 | 4021 | 4030 | 4047 | 4113 |
-|  |  | 50 | 2500 | 2821 | 2997 | 3064 | 3063 | 3032 | 3011 | 3038 | 3153 |
-|  |  | 40 | 2089 | 2251 | 2306 | 2293 | 2250 | 2218 | 2234 | 2339 | 2570 |
-|  |  | 30 | 1656 | 1726 | 1728 | 1701 | 1685 | 1718 | 1839 | 2088 | 2504 |
+## 2 HP
 
-## 4 HP
+<table>
+<tr>
+<th colspan="2" rowspan="2">Modelo</th>
+<th rowspan="2">C.T. (°℃)</th>
+<th colspan="9">E.T. (ºC)</th>
+</tr>
+<tr>
+<th>-30</th>
+<th>-25</th>
+<th>-20</th>
+<th>-15</th>
+<th>-10</th>
+<th>-5</th>
+<th>0</th>
+<th>5</th>
+<th>10</th>
+</tr>
+<tr>
+<td rowspan="4">ADWZ201M</td>
+<td rowspan="4">Cap (BTU/H)</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td>6774</td>
+<td>8948</td>
+<td>10319</td>
+<td>12828</td>
+<td>16389</td>
+<td>20921</td>
+<td>26339</td>
+</tr>
+<tr>
+<td>50</td>
+<td>6225</td>
+<td>6650</td>
+<td>7711</td>
+<td>9699</td>
+<td>12531</td>
+<td>16124</td>
+<td>20393</td>
+<td>25255</td>
+<td>30628</td>
+</tr>
+<tr>
+<td>40</td>
+<td>6599</td>
+<td>8193</td>
+<td>10798</td>
+<td>13954</td>
+<td>17576</td>
+<td>21583</td>
+<td>25889</td>
+<td>30412</td>
+<td>35068</td>
+</tr>
+<tr>
+<td>30</td>
+<td>8363</td>
+<td>11584</td>
+<td>15063</td>
+<td>18716</td>
+<td>22459</td>
+<td>26209</td>
+<td>29883</td>
+<td>33396</td>
+<td>36666</td>
+</tr>
+<tr>
+<td rowspan="4">Compresor YM34E</td>
+<td rowspan="4">Power (W)</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td>$2 7 5 4$</td>
+<td>2916</td>
+<td>2997</td>
+<td>3026</td>
+<td>3033</td>
+<td>3046</td>
+<td>3095</td>
+</tr>
+<tr>
+<td>50</td>
+<td>1881</td>
+<td>2123</td>
+<td>2255</td>
+<td>2306</td>
+<td>2305</td>
+<td>2282</td>
+<td>2266</td>
+<td>2287</td>
+<td>2373</td>
+</tr>
+<tr>
+<td>40</td>
+<td>1572</td>
+<td>1694</td>
+<td>1736</td>
+<td>1726</td>
+<td>1694</td>
+<td>1669</td>
+<td>1682</td>
+<td>1760</td>
+<td>1935</td>
+</tr>
+<tr>
+<td>30</td>
+<td>1246</td>
+<td>1299</td>
+<td>1300</td>
+<td>1280</td>
+<td>1268</td>
+<td>1293</td>
+<td>1384</td>
+<td>1572</td>
+<td>1885</td>
+</tr>
+</table>
 
-| Modelo |  | C-T <br> $\left({ }^{\circ} \mathrm{C}\right)$ | R-T. ( ${ }^{\circ} \mathrm{C}$ ) |  |  |  |  |  |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  | $-20$ | $-25$ | $-20$ | $-15$ | $-10$ | $-5$ | 0 | 5 | 10 |
-| ADWZ401M | Cap <br> (BTU/h) | 60 |  |  | 13171 | 17399 | 20065 | 24943 | 31868 | 40680 | 51215 |
-|  |  | 50 | 12104 | 12930 | 14993 | 18860 | 24367 | 31352 | 39653 | 49108 | 59554 |
-|  |  | 40 | 12831 | 15931 | 20996 | 27132 | 34176 | 41966 | 50340 | 59135 | 68188 |
-|  |  | 30 | 16261 | 22525 | 29289 | 36392 | 43670 | 50962 | 58105 | 64937 | 71295 |
-| Compresor <br> YM70E | Power <br> (W) | 60 |  |  | 5176 | 5481 | 5634 | 5688 | 5700 | 5725 | 5818 |
-|  |  | 50 | 3536 | 3991 | 4239 | 4334 | 4333 | 4289 | 4260 | 4298 | 4461 |
-|  |  | 40 | 2956 | 3185 | 3262 | 3243 | 3183 | 3137 | 3161 | 3309 | 3636 |
-|  |  | 30 | 2343 | 2441 | 2444 | 2406 | 2383 | 2403 | 2602 | 2954 | 3542 |
+### 3 HP
+
+<table>
+<tr>
+<th colspan="2" rowspan="2">Modelo</th>
+<th rowspan="2">C.T. (°℃)</th>
+<th colspan="9">E.T. (C)</th>
+</tr>
+<tr>
+<th>-30</th>
+<th>-25</th>
+<th>-20</th>
+<th>-15</th>
+<th>-10</th>
+<th>-5</th>
+<th>0</th>
+<th>5</th>
+<th>10</th>
+</tr>
+<tr>
+<td rowspan="8">ADWZ301M Compresor YM49E</td>
+<td rowspan="4">Cap (BTU/H)</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td>9220</td>
+<td>12179</td>
+<td>14046</td>
+<td>17460</td>
+<td>22308</td>
+<td>28476</td>
+<td>35850</td>
+</tr>
+<tr>
+<td>50</td>
+<td>8473</td>
+<td>9051</td>
+<td>10495</td>
+<td>13202</td>
+<td>17057</td>
+<td>21946</td>
+<td>27757</td>
+<td>34375</td>
+<td>$4 1 6 8 7$</td>
+</tr>
+<tr>
+<td>40</td>
+<td>8981</td>
+<td>11151</td>
+<td>14697</td>
+<td>18993</td>
+<td>23923</td>
+<td>29377</td>
+<td>35238</td>
+<td>41394</td>
+<td>47732</td>
+</tr>
+<tr>
+<td>30</td>
+<td>11383</td>
+<td>15768</td>
+<td>20503</td>
+<td>25474</td>
+<td>30569</td>
+<td>35673</td>
+<td>40673</td>
+<td>45456</td>
+<td>49906</td>
+</tr>
+<tr>
+<td rowspan="4">Power (W)</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td>3659</td>
+<td>3875</td>
+<td>3982</td>
+<td>4021</td>
+<td>4030</td>
+<td>4047</td>
+<td>4113</td>
+</tr>
+<tr>
+<td>50</td>
+<td>2500</td>
+<td>2821</td>
+<td>2997</td>
+<td>3064</td>
+<td>3063</td>
+<td>3032</td>
+<td>3011</td>
+<td>3038</td>
+<td>3153</td>
+</tr>
+<tr>
+<td>40</td>
+<td>2089</td>
+<td>2251</td>
+<td>2306</td>
+<td>2293</td>
+<td>2250</td>
+<td>2218</td>
+<td>2234</td>
+<td>2339</td>
+<td>2570</td>
+</tr>
+<tr>
+<td>30</td>
+<td>1656</td>
+<td>1726</td>
+<td>1728</td>
+<td>1701</td>
+<td>1685</td>
+<td>1718</td>
+<td>1839</td>
+<td>2088</td>
+<td>2504</td>
+</tr>
+</table>
+
+#### 4 HP
+
+<table>
+<tr>
+<th colspan="2" rowspan="2">Modelo</th>
+<th rowspan="2">C.T. (°℃)</th>
+<th colspan="9">E.T. (ºC)</th>
+</tr>
+<tr>
+<th>-30</th>
+<th>-25</th>
+<th>-20</th>
+<th>-15</th>
+<th>-10</th>
+<th>-5</th>
+<th>0</th>
+<th>5</th>
+<th>10</th>
+</tr>
+<tr>
+<td rowspan="4">ADWZ401M</td>
+<td rowspan="4">Cap (BTU/H)</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td>13171</td>
+<td>17399</td>
+<td>20065</td>
+<td>24943</td>
+<td>31868</td>
+<td>40680</td>
+<td>51215</td>
+</tr>
+<tr>
+<td>50</td>
+<td>12104</td>
+<td>12930</td>
+<td>14993</td>
+<td>18860</td>
+<td>24367</td>
+<td>31352</td>
+<td>39653</td>
+<td>49108</td>
+<td>59554</td>
+</tr>
+<tr>
+<td>40</td>
+<td>12831</td>
+<td>15931</td>
+<td>20996</td>
+<td>27132</td>
+<td>34176</td>
+<td>41966</td>
+<td>50340</td>
+<td>59135</td>
+<td>68188</td>
+</tr>
+<tr>
+<td>30</td>
+<td>16261</td>
+<td>22525</td>
+<td>29289</td>
+<td>36392</td>
+<td>43670</td>
+<td>50962</td>
+<td>58105</td>
+<td>64937</td>
+<td>71295</td>
+</tr>
+<tr>
+<td rowspan="4">Compresor YM70E</td>
+<td rowspan="4">Power (W)</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td>5176</td>
+<td>5481</td>
+<td>5634</td>
+<td>5688</td>
+<td>5700</td>
+<td>5725</td>
+<td>5818</td>
+</tr>
+<tr>
+<td>50</td>
+<td>3536</td>
+<td>3991</td>
+<td>4239</td>
+<td>4334</td>
+<td>4333</td>
+<td>4289</td>
+<td>4260</td>
+<td>4298</td>
+<td>4461</td>
+</tr>
+<tr>
+<td>40</td>
+<td>2956</td>
+<td>3185</td>
+<td>3262</td>
+<td>3243</td>
+<td>3183</td>
+<td>3137</td>
+<td>3161</td>
+<td>3309</td>
+<td>3636</td>
+</tr>
+<tr>
+<td>30</td>
+<td>2343</td>
+<td>2441</td>
+<td>2444</td>
+<td>2406</td>
+<td>2383</td>
+<td>2403</td>
+<td>2602</td>
+<td>2954</td>
+<td>3542</td>
+</tr>
+</table>
 
 ## 5 HP
 
-| Modelo |  | C-T <br> $\left({ }^{\circ} \mathrm{C}\right)$ | R-T. ( ${ }^{\circ} \mathrm{C}$ ) |  |  |  |  |  |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  | $-20$ | $-25$ | $-20$ | $-15$ | $-10$ | $-5$ | 0 | 5 | 10 |
-| ADWZ501M | Cap <br> (BTU/h) | 60 |  |  | 16182 | 21376 | 24652 | 30644 | 39152 | 49978 | 62921 |
-|  |  | 50 | 14871 | 15885 | 18420 | 23170 | 29936 | 38518 | 48716 | 60332 | 73166 |
-|  |  | 40 | 15763 | 19572 | 25795 | 33334 | 41988 | 51559 | 61846 | 72651 | 83774 |
-|  |  | 30 | 19978 | 27674 | 35984 | 44710 | 53652 | 62610 | 71386 | 79779 | 87591 |
-| Compresor <br> YM86E | Power <br> (W) | 60 |  |  | 6265 | 6635 | 6819 | 6885 | 6900 | 6930 | 7042 |
-|  |  | 50 | 4280 | 4831 | 5131 | 5246 | 5245 | 5192 | 5156 | 5203 | 5399 |
-|  |  | 40 | 3578 | 3855 | 3949 | 3926 | 3853 | 3798 | 3826 | 4005 | 4401 |
-|  |  | 30 | 2836 | 2955 | 2958 | 2912 | 2884 | 2941 | 3149 | 3576 | 4288 |
+<table>
+<tr>
+<th colspan="2" rowspan="2">Modelo</th>
+<th rowspan="2">C.T. (ºC)</th>
+<th colspan="9">E.T. (C)</th>
+</tr>
+<tr>
+<th>-30</th>
+<th>-25</th>
+<th>-20</th>
+<th>-15</th>
+<th>-10</th>
+<th>-5</th>
+<th>0</th>
+<th>5</th>
+<th>10</th>
+</tr>
+<tr>
+<td rowspan="8">ADWZ501M Compresor YM86E</td>
+<td rowspan="4">Cap (BTU/H)</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td>16182</td>
+<td>21376</td>
+<td>24652</td>
+<td>30644</td>
+<td>39152</td>
+<td>49978</td>
+<td>62921</td>
+</tr>
+<tr>
+<td>50</td>
+<td>14871</td>
+<td>15885</td>
+<td>18420</td>
+<td>23170</td>
+<td>29936</td>
+<td>38518</td>
+<td>48716</td>
+<td>60332</td>
+<td>73166</td>
+</tr>
+<tr>
+<td>40</td>
+<td>15763</td>
+<td>19572</td>
+<td>25795</td>
+<td>33334</td>
+<td>41988</td>
+<td>51559</td>
+<td>61846</td>
+<td>72651</td>
+<td>83774</td>
+</tr>
+<tr>
+<td>30</td>
+<td>19978</td>
+<td>27674</td>
+<td>35984</td>
+<td>$4 4 7 1 0$</td>
+<td>53652</td>
+<td>62610</td>
+<td>71386</td>
+<td>79779</td>
+<td>87591</td>
+</tr>
+<tr>
+<td rowspan="4">Power (W)</td>
+<td>60</td>
+<td></td>
+<td></td>
+<td>6265</td>
+<td>6635</td>
+<td>6819</td>
+<td>6885</td>
+<td>6900</td>
+<td>6930</td>
+<td>7042</td>
+</tr>
+<tr>
+<td>50</td>
+<td>4280</td>
+<td>4831</td>
+<td>5131</td>
+<td>5246</td>
+<td>5245</td>
+<td>5192</td>
+<td>5156</td>
+<td>5203</td>
+<td>5399</td>
+</tr>
+<tr>
+<td>40</td>
+<td>3578</td>
+<td>3855</td>
+<td>3949</td>
+<td>3926</td>
+<td>3853</td>
+<td>3798</td>
+<td>3826</td>
+<td>4005</td>
+<td>4401</td>
+</tr>
+<tr>
+<td>30</td>
+<td>2836</td>
+<td>2955</td>
+<td>2958</td>
+<td>2912</td>
+<td>2884</td>
+<td>2941</td>
+<td>3149</td>
+<td>3576</td>
+<td>4288</td>
+</tr>
+</table>
 
-C.T. $=$ Temperatura de Condensación
-E.T. $=$ Temperatura de Evaporación
+C.T. = Temperatura de Condensación
+
+E.T. = Temperatura de Evaporación
+
+<!-- PageNumber="8" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 11
 ================================================================================
 
-# 2 HP 
 
-| Modelo |  | $\begin{gathered} \text { C.T. } \\ (\mathrm{~K}) \end{gathered}$ | E.T. ( ${ }^{\circ} \mathrm{C}$ ) |  |  |  |  |  |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  | $-40$ | $-35$ | $-30$ | $-25$ | $-20$ | $-15$ | $-10$ | $-5$ | 0 |
-| ADWZ201L | Cap <br> (BTU/H) | 50 | 3967 | 4990 | 6268 | 7635 | 9246 | 11107 | 13145 | 15480 | 18032 |
-|  |  | 40 | 4637 | 5851 | 7299 | 9007 | 11044 | 13414 | 16132 | 19243 | 22755 |
-|  |  | 30 | 5238 | 6711 | 8329 | 10380 | 12670 | 15208 | 18010 | 21125 | 24558 |
-| Compresor YF13E | Power <br> (W) | 50 | 1818 | 1919 | 2014 | 2098 | 2188 | 2280 | 2373 | 2466 | 2558 |
-|  |  | 40 | 1509 | 1588 | 1661 | 1733 | 1812 | 1888 | 1963 | 2039 | 2115 |
-|  |  | 30 | 1251 | 1313 | 1369 | 1436 | 1515 | 1599 | 1689 | 1784 | 1885 |
+## Capacidades para Baja Temperatura
 
-## 3 HP
+<!-- PageHeader="R404A / 507C" -->
 
-| Modelo |  | C.T. <br> (K) | E.T. ( ${ }^{\circ} \mathrm{C}$ ) |  |  |  |  |  |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  | $-40$ | $-35$ | $-30$ | $-25$ | $-20$ | $-15$ | $-10$ | $-5$ | 0 |
-| ADWZ301L | Cap <br> (BTU/H) | 50 | 5212 | 6557 | 8236 | 10031 | 12148 | 14594 | 17270 | 20339 | 23692 |
-|  |  | 40 | 6092 | 7687 | 9580 | 11834 | 14510 | 17625 | 21196 | 25283 | 29898 |
-|  |  | 30 | 6882 | 8818 | 10944 | 13638 | 16648 | 19982 | 23999 | 28767 | 34072 |
-| Compresor YF20E | Power <br> (W) | 50 | 2356 | 2487 | 2611 | 2720 | 2836 | 2956 | 3076 | 3196 | 3316 |
-|  |  | 40 | 1956 | 2058 | 2153 | 2247 | 2349 | 2447 | 2545 | 2643 | 2742 |
-|  |  | 30 | 1622 | 1702 | 1774 | 1862 | 1963 | 2073 | 2189 | 2312 | 2443 |
+### 2 HP
 
-4 HP
+<table>
+<tr>
+<th colspan="2" rowspan="2">Modelo</th>
+<th rowspan="2">C.T. (ºC)</th>
+<th colspan="9">E.T. (ºC)</th>
+</tr>
+<tr>
+<th>-40</th>
+<th>-35</th>
+<th>-30</th>
+<th>-25</th>
+<th>-20</th>
+<th>-15</th>
+<th>-10</th>
+<th>-5</th>
+<th>0</th>
+</tr>
+<tr>
+<td rowspan="3">ADWZ201L</td>
+<td rowspan="3">Cap (BTU/H)</td>
+<td>50</td>
+<td>3967</td>
+<td>4990</td>
+<td>6268</td>
+<td>7635</td>
+<td>9246</td>
+<td>11107</td>
+<td>13145</td>
+<td>15480</td>
+<td>18032</td>
+</tr>
+<tr>
+<td>40</td>
+<td>4637</td>
+<td>5851</td>
+<td>7299</td>
+<td>9007</td>
+<td>11044</td>
+<td>13414</td>
+<td>16132</td>
+<td>19243</td>
+<td>22755</td>
+</tr>
+<tr>
+<td>30</td>
+<td>5238</td>
+<td>6711</td>
+<td>8329</td>
+<td>10380</td>
+<td>12670</td>
+<td>15208</td>
+<td>18010</td>
+<td>21125</td>
+<td>24558</td>
+</tr>
+<tr>
+<td rowspan="3">Compresor YF13E</td>
+<td rowspan="3">Power (W)</td>
+<td>50</td>
+<td>1818</td>
+<td>1919</td>
+<td>2014</td>
+<td>2098</td>
+<td>2188</td>
+<td>2280</td>
+<td>2373</td>
+<td>2466</td>
+<td>2558</td>
+</tr>
+<tr>
+<td>40</td>
+<td>1509</td>
+<td>1588</td>
+<td>1661</td>
+<td>1733</td>
+<td>1812</td>
+<td>1888</td>
+<td>1963</td>
+<td>2039</td>
+<td>2115</td>
+</tr>
+<tr>
+<td>30</td>
+<td>1251</td>
+<td>1313</td>
+<td>1369</td>
+<td>1436</td>
+<td>1515</td>
+<td>1599</td>
+<td>1689</td>
+<td>1784</td>
+<td>1885</td>
+</tr>
+</table>
 
-| Modelo |  | C.T. <br> (K) | E.T. ( ${ }^{\circ} \mathrm{C}$ ) |  |  |  |  |  |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  | $-40$ | $-35$ | $-30$ | $-25$ | $-20$ | $-15$ | $-10$ | $-5$ | 0 |
-| ADWZ401L | Cap <br> (BTU/H) | 50 | 7852 | 9878 | 12407 | 15112 | 18301 | 21985 | 26018 | 30641 | 35693 |
-|  |  | 40 | 9178 | 11581 | 14447 | 17828 | 21860 | 26551 | 31931 | 38089 | 45041 |
-|  |  | 30 | 10368 | 13284 | 16487 | 20545 | 25079 | 30103 | 36155 | 43337 | 51329 |
-| Compresor YF29E | Power <br> (W) | 50 | 3319 | 3503 | 3677 | 3831 | 3995 | 4164 | 4333 | 4502 | 4671 |
-|  |  | 40 | 2755 | 2899 | 3032 | 3165 | 3309 | 3447 | 3585 | 3723 | 3862 |
-|  |  | 30 | 2284 | 2397 | 2499 | 2622 | 2766 | 2919 | 3083 | 3257 | 3442 |
+#### 3 HP
 
-5 HP
+<table>
+<tr>
+<th colspan="2" rowspan="2">Modelo</th>
+<th rowspan="2">C.T. (°℃)</th>
+<th colspan="9">E.T. (C)</th>
+</tr>
+<tr>
+<th>-40</th>
+<th>-35</th>
+<th>-30</th>
+<th>-25</th>
+<th>-20</th>
+<th>-15</th>
+<th>-10</th>
+<th>-5</th>
+<th>0</th>
+</tr>
+<tr>
+<td rowspan="3">ADWZ301L</td>
+<td rowspan="3">Cap (BTU/H)</td>
+<td>50</td>
+<td>5212</td>
+<td>6557</td>
+<td>8236</td>
+<td>10031</td>
+<td>12148</td>
+<td>14594</td>
+<td>17270</td>
+<td>20339</td>
+<td>23692</td>
+</tr>
+<tr>
+<td>40</td>
+<td>6092</td>
+<td>7687</td>
+<td>9590</td>
+<td>11834</td>
+<td>14510</td>
+<td>17625</td>
+<td>21196</td>
+<td>25283</td>
+<td>29898</td>
+</tr>
+<tr>
+<td>30</td>
+<td>6882</td>
+<td>8818</td>
+<td>10944</td>
+<td>13638</td>
+<td>16648</td>
+<td>19982</td>
+<td>23999</td>
+<td>28767</td>
+<td>34072</td>
+</tr>
+<tr>
+<td rowspan="3">Compresor YF20E</td>
+<td rowspan="3">Power (W)</td>
+<td>50</td>
+<td>2356</td>
+<td>2487</td>
+<td>2611</td>
+<td>2720</td>
+<td>2836</td>
+<td>2956</td>
+<td>3076</td>
+<td>3196</td>
+<td>3316</td>
+</tr>
+<tr>
+<td>40</td>
+<td>1956</td>
+<td>2058</td>
+<td>2153</td>
+<td>2247</td>
+<td>2349</td>
+<td>2447</td>
+<td>2545</td>
+<td>2643</td>
+<td>2742</td>
+</tr>
+<tr>
+<td>30</td>
+<td>1622</td>
+<td>1702</td>
+<td>1774</td>
+<td>1862</td>
+<td>1963</td>
+<td>2073</td>
+<td>2189</td>
+<td>2312</td>
+<td>2443</td>
+</tr>
+</table>
 
-| Modelo |  | C.T. <br> ( ${ }^{\circ} \mathrm{C}$ ) | E.T. ( ${ }^{\circ} \mathrm{C}$ ) |  |  |  |  |  |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  | $-40$ | $-35$ | $-30$ | $-25$ | $-20$ | $-15$ | $-10$ | $-5$ | 0 |
-| ADWZ501L | Cap <br> (BTU/H) | 50 | 9477 | 11921 | 14974 | 18238 | 22088 | 26534 | 31401 | 36980 | 43077 |
-|  |  | 40 | 11077 | 13977 | 17436 | 21517 | 26382 | 32045 | 38537 | 45970 | 54359 |
-|  |  | 30 | 12513 | 16032 | 19898 | 24796 | 30268 | 36331 | 43635 | 52304 | 61949 |
-| Compresor YF35E | Power <br> (W) | 50 | 3927 | 4145 | 4351 | 4533 | 4727 | 4927 | 5127 | 5327 | 5527 |
-|  |  | 40 | 3260 | 3430 | 3588 | 3745 | 3915 | 4078 | 4242 | 4406 | 4569 |
-|  |  | 30 | 2703 | 2836 | 2957 | 3103 | 3272 | 3454 | 3648 | 3854 | 4072 |
+##### 4 HP
 
-6 HP
+<table>
+<tr>
+<th colspan="2" rowspan="2">Modelo</th>
+<th rowspan="2">C.T. (℃)</th>
+<th colspan="9">E.T. (ºC)</th>
+</tr>
+<tr>
+<th>-40</th>
+<th>-35</th>
+<th>-30</th>
+<th>-25</th>
+<th>-20</th>
+<th>-15</th>
+<th>-10</th>
+<th>-5</th>
+<th>0</th>
+</tr>
+<tr>
+<td rowspan="3">ADWZ401L</td>
+<td rowspan="3">Cap (BTU/H)</td>
+<td>50</td>
+<td>7852</td>
+<td>9878</td>
+<td>12407</td>
+<td>15112</td>
+<td>18301</td>
+<td>21985</td>
+<td>26018</td>
+<td>30641</td>
+<td>35693</td>
+</tr>
+<tr>
+<td>40</td>
+<td>9178</td>
+<td>11581</td>
+<td>14447</td>
+<td>17828</td>
+<td>21860</td>
+<td>26551</td>
+<td>31931</td>
+<td>38089</td>
+<td>45041</td>
+</tr>
+<tr>
+<td>30</td>
+<td>10368</td>
+<td>13284</td>
+<td>16487</td>
+<td>20545</td>
+<td>25079</td>
+<td>30103</td>
+<td>36155</td>
+<td>43337</td>
+<td>51329</td>
+</tr>
+<tr>
+<td rowspan="3">Compresor YF29E</td>
+<td rowspan="3">Power (W)</td>
+<td>50</td>
+<td>3319</td>
+<td>3503</td>
+<td>3677</td>
+<td>3831</td>
+<td>3995</td>
+<td>4164</td>
+<td>4333</td>
+<td>4502</td>
+<td>4671</td>
+</tr>
+<tr>
+<td>40</td>
+<td>2755</td>
+<td>2899</td>
+<td>3032</td>
+<td>3165</td>
+<td>3309</td>
+<td>3447</td>
+<td>3585</td>
+<td>3723</td>
+<td>3862</td>
+</tr>
+<tr>
+<td>30</td>
+<td>2284</td>
+<td>2397</td>
+<td>2499</td>
+<td>2622</td>
+<td>2766</td>
+<td>2919</td>
+<td>3083</td>
+<td>3257</td>
+<td>3442</td>
+</tr>
+</table>
 
-| Modelo |  | C.T. <br> (K) | E.T. ( ${ }^{\circ} \mathrm{C}$ ) |  |  |  |  |  |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-|  |  |  | $-40$ | $-35$ | $-30$ | $-25$ | $-20$ | $-15$ | $-10$ | $-5$ | 0 |
-| ADWZ601L | Cap <br> (BTU/H) | 50 | 11353 | 14281 | 17938 | 21848 | 26459 | 31785 | 37615 | 44299 | 51602 |
-|  |  | 40 | 13269 | 16743 | 20887 | 25775 | 31604 | 38386 | 46164 | 55068 | 65117 |
-|  |  | 30 | 14989 | 19205 | 23835 | 29703 | 36259 | 43521 | 52270 | 26255 | 74209 |
-| Compresor YF41E | Power <br> (W) | 50 | 4564 | 4818 | 5057 | 5269 | 5494 | 5727 | 5959 | 6191 | 6424 |
-|  |  | 40 | 3790 | 3987 | 4170 | 4353 | 4550 | 4740 | 4931 | 5121 | 5311 |
-|  |  | 30 | 3141 | 3296 | 3437 | 3606 | 3804 | 4015 | 4240 | 4480 | 4733 |
+### 5 HP
+
+<table>
+<tr>
+<th colspan="2" rowspan="2">Modelo</th>
+<th>C.T.</th>
+<th colspan="9">E.T. (C)</th>
+</tr>
+<tr>
+<th>(°℃)</th>
+<th>-40</th>
+<th>-35</th>
+<th>-30</th>
+<th>-25</th>
+<th>-20</th>
+<th>-15</th>
+<th>-10</th>
+<th>-5</th>
+<th>0</th>
+</tr>
+<tr>
+<td rowspan="3">ADWZ501L</td>
+<td rowspan="3">Cap (BTU/H)</td>
+<td>50</td>
+<td>9477</td>
+<td>11921</td>
+<td>14974</td>
+<td>18238</td>
+<td>22088</td>
+<td>26534</td>
+<td>31401</td>
+<td>36980</td>
+<td>43077</td>
+</tr>
+<tr>
+<td>40</td>
+<td>11077</td>
+<td>13977</td>
+<td>17436</td>
+<td>21517</td>
+<td>26382</td>
+<td>32045</td>
+<td>38537</td>
+<td>45970</td>
+<td>54359</td>
+</tr>
+<tr>
+<td>30</td>
+<td>12513</td>
+<td>16032</td>
+<td>19898</td>
+<td>24796</td>
+<td>30268</td>
+<td>36331</td>
+<td>43635</td>
+<td>52304</td>
+<td>61949</td>
+</tr>
+<tr>
+<td rowspan="3">Compresor YF35E</td>
+<td rowspan="3">Power (W)</td>
+<td>50</td>
+<td>3927</td>
+<td>4145</td>
+<td>4351</td>
+<td>4533</td>
+<td>4727</td>
+<td>4927</td>
+<td>5127</td>
+<td>5327</td>
+<td>5527</td>
+</tr>
+<tr>
+<td>40</td>
+<td>3260</td>
+<td>3430</td>
+<td>3588</td>
+<td>3745</td>
+<td>3915</td>
+<td>4078</td>
+<td>4242</td>
+<td>4406</td>
+<td>4569</td>
+</tr>
+<tr>
+<td>30</td>
+<td>2703</td>
+<td>2836</td>
+<td>2957</td>
+<td>3103</td>
+<td>3272</td>
+<td>3454</td>
+<td>3648</td>
+<td>3854</td>
+<td>4072</td>
+</tr>
+</table>
+
+### 6 HP
+
+<table>
+<tr>
+<th colspan="2" rowspan="2">Modelo</th>
+<th>C.T.</th>
+<th colspan="9">E.T. (°C)</th>
+</tr>
+<tr>
+<th>(°℃)</th>
+<th>-40</th>
+<th>-35</th>
+<th>-30</th>
+<th>-25</th>
+<th>-20</th>
+<th>-15</th>
+<th>-10</th>
+<th>-5</th>
+<th>0</th>
+</tr>
+<tr>
+<td rowspan="3">ADWZ601L</td>
+<td rowspan="3">Cap (BTU/H)</td>
+<td>50</td>
+<td>11353</td>
+<td>14281</td>
+<td>17938</td>
+<td>21848</td>
+<td>26459</td>
+<td>31785</td>
+<td>37615</td>
+<td>44299</td>
+<td>51602</td>
+</tr>
+<tr>
+<td>40</td>
+<td>13269</td>
+<td>16743</td>
+<td>20887</td>
+<td>25775</td>
+<td>31604</td>
+<td>38386</td>
+<td>46164</td>
+<td>55068</td>
+<td>65117</td>
+</tr>
+<tr>
+<td>30</td>
+<td>14989</td>
+<td>19205</td>
+<td>23835</td>
+<td>29703</td>
+<td>36259</td>
+<td>43521</td>
+<td>52270</td>
+<td>26255</td>
+<td>74209</td>
+</tr>
+<tr>
+<td rowspan="3">Compresor YF41E</td>
+<td rowspan="3">Power (W)</td>
+<td>50</td>
+<td>4564</td>
+<td>4818</td>
+<td>5057</td>
+<td>5269</td>
+<td>5494</td>
+<td>5727</td>
+<td>5959</td>
+<td>6191</td>
+<td>6424</td>
+</tr>
+<tr>
+<td>40</td>
+<td>3790</td>
+<td>3987</td>
+<td>4170</td>
+<td>4353</td>
+<td>4550</td>
+<td>4740</td>
+<td>4931</td>
+<td>5121</td>
+<td>5311</td>
+</tr>
+<tr>
+<td>30</td>
+<td>3141</td>
+<td>3296</td>
+<td>3437</td>
+<td>3606</td>
+<td>3804</td>
+<td>4015</td>
+<td>4240</td>
+<td>4480</td>
+<td>4733</td>
+</tr>
+</table>
 
 C.T. = Temperatura de Condensación
+
 E.T. = Temperatura de Evaporación
+
+<!-- PageNumber="9" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 12
 ================================================================================
 
-# Diagrama de Instalación Mecánica 
 
-![img-6.jpeg](img-6.jpeg)
+## Diagrama de Instalación Mecánica
 
-## Media Temperatura
+<!-- PageNumber="10" -->
+<!-- PageBreak -->
 
-![img-7.jpeg](img-7.jpeg)
 
-Unidades de 2ph y 3ph
-![img-8.jpeg](img-8.jpeg)
 
 ================================================================================
 PAGE 13
 ================================================================================
 
-# Diagrama de Instalación Mecánica 
 
-## Baja Temperatura
+## Diagrama de Instalación Mecánica
 
-Unidades de 2ph y 3ph
-![img-9.jpeg](img-9.jpeg)
-![img-10.jpeg](img-10.jpeg)
+Unidades de
+$2 p h \quad y \quad 3 p h$
+
+Unidades de
+$4 p h \quad - \quad 5 p h \quad y$ 6ph
+
+<!-- PageNumber="11" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 14
 ================================================================================
 
-# Diagrama **Eléctrico Típico**
 
-![img-11.jpeg](img-11.jpeg)
+## Diagrama Eléctrico Típico
 
-|  |   |   |
-| --- | --- | --- |
-|  QF QF1 | Interruptor de Aire |   |
-|  SB | Interruptor de Parada de Emergencia |   |
-|  TH | Interruptor de Temperatura |   |
-|  KM | Contactor |   |
-|  FR | Relé Térmico |   |
-|  HL | Luces de Falla |   |
-|  C C1 | Condensador |   |
+<table>
+<tr>
+<td>QF QF1</td>
+<td>Interruptor de Aire</td>
+</tr>
+<tr>
+<td>$S B$</td>
+<td>Interruptor de Parada de Emergencia</td>
+</tr>
+<tr>
+<td>TH</td>
+<td>Interruptor de Temperatura</td>
+</tr>
+<tr>
+<td>KM</td>
+<td>Contactor</td>
+</tr>
+<tr>
+<td>FR</td>
+<td>Relé Térmico</td>
+</tr>
+<tr>
+<td>HL</td>
+<td>Luces de Falla</td>
+</tr>
+<tr>
+<td>C C1</td>
+<td>Condensador</td>
+</tr>
+</table>
 
-![img-12.jpeg](img-12.jpeg)
+-/L
+
+-/ N
+
+/ PE
+
+2
+220V 1PH 60HZ
+
+<!-- PageFooter="ADINA® ®" -->
+<!-- PageNumber="12" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 15
 ================================================================================
 
-# Diagrama **Eléctrico Típico**
 
-![img-13.jpeg](img-13.jpeg)
+## Diagrama Eléctrico Típico
 
-|  Monofásico, 4hp-6hp |  |  |  |  |  |  |  |  |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  QF QF1 | Interruptor de Aire |  |  |  |  |  |  |  |   |
-|  SB | Interruptor de Parada de Emergencia |  |  |  |  |  |  |  |   |
-|  TH | Interruptor de Temperatura |  |  |  |  |  |  |  |   |
-|  KM | Contactor |  |  |  |  |  |  |  |   |
-|  FR | Relé Térmico |  |  |  |  |  |  |  |   |
-|  HL | Luces de Falla |  |  |  |  |  |  |  |   |
-|  C C1 | Condensador |  |  |  |  |  |  |  |   |
+<table>
+<tr>
+<td>QF QF1</td>
+<td>Interruptor de Aire</td>
+</tr>
+<tr>
+<td>$S B$</td>
+<td>Interruptor de Parada de Emergencia</td>
+</tr>
+<tr>
+<td>$T H$</td>
+<td>Interruptor de Temperatura</td>
+</tr>
+<tr>
+<td>KM</td>
+<td>Contactor</td>
+</tr>
+<tr>
+<td>FR</td>
+<td>Relé Térmico</td>
+</tr>
+<tr>
+<td>HL</td>
+<td>Luces de Falla</td>
+</tr>
+<tr>
+<td>C C1</td>
+<td>Condensador</td>
+</tr>
+</table>
 
-![img-14.jpeg](img-14.jpeg)
+<!-- PageNumber="13" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 16
 ================================================================================
 
-# Diagrama **Eléctrico Típico**
 
-![img-15.jpeg](img-15.jpeg)
+## Diagrama Eléctrico Típico
 
-|  Trifásico, 2hp y 3hp |  |  |  |  |  |  |  |  |  |  |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  QF QF1 | Interruptor de Aire |  |  |  |  |  |  |  |  |  |   |
-|  SB | Interruptor de Parada de Emergencia |  |  |  |  |  |  |  |  |  |   |
-|  TH | Interruptor de Temperatura |  |  |  |  |  |  |  |  |  |   |
-|  KM | Contactor |  |  |  |  |  |  |  |  |  |   |
-|  FR | Relé Térmico |  |  |  |  |  |  |  |  |  |   |
-|  HL | Luces de Falla |  |  |  |  |  |  |  |  |  |   |
-|  C C1 | Condensador |  |  |  |  |  |  |  |  |  |   |
+<table>
+<tr>
+<td>QF QF1</td>
+<td>Interruptor de Aire</td>
+</tr>
+<tr>
+<td>SB</td>
+<td>Interruptor de Parada de Emergencia</td>
+</tr>
+<tr>
+<td>TH</td>
+<td>Interruptor de Temperatura</td>
+</tr>
+<tr>
+<td>KM</td>
+<td>Contactor</td>
+</tr>
+<tr>
+<td>FR</td>
+<td>$R e l T r m i c o$</td>
+</tr>
+<tr>
+<td>HL</td>
+<td>Luces de Falla</td>
+</tr>
+<tr>
+<td>C C1</td>
+<td>Condensador</td>
+</tr>
+</table>
 
-![img-16.jpeg](img-16.jpeg)
+ADINA®
+®
+
+<!-- PageNumber="14" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 17
 ================================================================================
 
-# Diagrama **Eléctrico Típico**
 
-![img-17.jpeg](img-17.jpeg)
+## Diagrama Eléctrico Típico
 
-|  Trifásico, 4hp - 6hp |  |  |  |  |  |  |  |  |  |  |  |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  QF QF1 |  | Interruptor de Aire |  |  |  |  |  |  |  |  |  |   |
-|  SB |  | Interruptor de Parada de Emergencia |  |  |  |  |  |  |  |  |  |   |
-|  TH |  | Interruptor de Temperatura |  |  |  |  |  |  |  |  |  |   |
-|  KM KM1 |  | Contactor |  |  |  |  |  |  |  |  |  |   |
-|  FR FR1 |  | Relé Térmico |  |  |  |  |  |  |  |  |  |   |
-|  HL |  | Luces de Falla |  |  |  |  |  |  |  |  |  |   |
-|  C C1 |  | Condensador |  |  |  |  |  |  |  |  |  |   |
+<table>
+<tr>
+<td>QF QF1</td>
+<td>Interruptor de Aire</td>
+</tr>
+<tr>
+<td>$S B$</td>
+<td>Interruptor de Parada de Emergencia</td>
+</tr>
+<tr>
+<td>TH</td>
+<td>Interruptor de Temperatura</td>
+</tr>
+<tr>
+<td>KM KM1</td>
+<td>Contactor</td>
+</tr>
+<tr>
+<td>FR FR1</td>
+<td>Relé Térmico</td>
+</tr>
+<tr>
+<td>HL</td>
+<td>Luces de Falla</td>
+</tr>
+<tr>
+<td>C C1</td>
+<td>Condensador</td>
+</tr>
+</table>
 
-![img-18.jpeg](img-18.jpeg)
+<!-- PageNumber="15" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 18
 ================================================================================
 
-# Dimensiones 
 
-![img-19.jpeg](img-19.jpeg)
+## Dimensiones
 
-## ADINA
+855
+
+<!-- PageFooter="$\frac { 4 } { r }$" -->
+
+<!-- PageNumber="16" -->
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 19
 ================================================================================
 
-![img-20.jpeg](img-20.jpeg)
 
-# **Contáctanos**
+## Contáctanos
 
-|  ① | WWW.ADINAUSA.COM  |
-| --- | --- |
-|  ➕ | Adina  |
-|  ➖ | Adina_airconditioning  |
-|  ➗ | ventaslatam@adinausa.com  |
-|  ➘ | Adina Air Conditioning  |
-|  ➓ | Adina_airconditioning  |
+4
 
-![img-21.jpeg](img-21.jpeg)
+WWW.ADINAUSA.COM
+
+f
+
+O
+
+Adina
+Adina_airconditioning
+
+2
+
+ventaslatam@adinausa.com
+
+in
+J
+
+Adina Air Conditioning
+
+Adina_airconditioning
+
+

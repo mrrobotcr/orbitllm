@@ -1,34 +1,41 @@
 # AGO-T-AHU-5TON-A.pdf
 
-
 ================================================================================
 PAGE 1
 ================================================================================
 
-![img-0.jpeg](img-0.jpeg)
+VAGAEC 12009:1041
+NỘ CHỈ 0ON
 
-![img-1.jpeg](img-1.jpeg)
+SGS COLOMBIA S.A.S.
+C&P-F490101
+ORDEN No. 4200-39563
+CERTIFICADO No. CRS20942
+ORDEN CERT. No. CO-CERT221000889-12
+CERTIFICADO DE CONFORMIDAD DE PRODUCTO
 
-# SGS COLOMBIA S.A.S.
-## C&P-F490101
-## ORDEN No. 4200-39563
-## CERTIFICADO No. CRS20942
-## ORDEN CERT. No. CO-CERT221000889-12
-## CERTIFICADO DE CONFORMIDAD DE PRODUCTO
-## Cooper Group S.A de C.V.
-## Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador
+Cooper Group S.A de C.V.
+Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador
 
-Certifica que el producto identificado como **Acondicionadores de Aire central**, paquete o dividido, en capacidades nominales de enfriamiento de 8.800 W hasta 19.050 W., importados y/o fabricados y comercializados en El Salvador por Cooper Group S.A de C.V., con referencias relacionadas en las siguientes páginas del presente documento, han sido evaluados de conformidad con:
+Certifica que el producto identificado como Acondicionadores de Aire central, paquete o
+dividido, en capacidades nominales de enfriamiento de 8.800 W hasta 19.050 W., importados
+$y / o$ fabricados $y$ comercializados en El Salvador por Cooper Group S.A de C.V., con
+referencias relacionadas en las siguientes páginas del presente documento, han sido
+evaluados de conformidad con:
 
-- Reglamento Técnico Salvadoreño RTS 23.01.01:15 "Eficiencia energética. Acondicionadores de aire tipo central, paquete o dividido. Límites, métodos de prueba y Etiquetado."
+Reglamento Técnico Salvadoreño RTS 23.01.01:15 "Eficiencia energética. Acondicionadores
+de aire tipo central, paquete o dividido. Límites, métodos de prueba y Etiquetado.
 
-Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con el esquema de certificación Verificación de Producción Total (verificación mediante el sistema de calidad de la línea de producción).
+Estos productos han sido sometidos a toma de muestras, inspección, ejecución de pruebas
+de laboratorio y evaluación del sistema de gestión de calidad del fabricante de acuerdo con
+el esquema de certificación Verificación de Producción Total (verificación mediante el sistema
+de calidad de la línea de producción).
 
-## Resultados obtenidos: CONFORME
+Resultados obtenidos: CONFORME
 
-**Autorizado por:**
+Autorizado por:
 
-**Camilo Ramírez**
+Camilo Ramirez
 SGS Colombia S.A.S.
 Carrera 100 No. 25C-11, Bodega 3
 Bogotá D.C., Colombia
@@ -37,50 +44,78 @@ Fecha de Emisión: 2023-04-20
 Fecha de Vencimiento: 2026-04-20
 Versión 1
 
-Página 1 de 2
+Any complaint, appeal or enquiry about the validity of this certificate/report may be sent to
+co.servicioalcliente@sgs.com, via phone No. (+57) 6016069292 and its validity can be
+checked at https://www.sgs.com/en/certified-clients-and-products.
 
-![img-2.jpeg](img-2.jpeg)
+This document is issued by the Company under its General Conditions of Service
+accessible at http://www.sgs.com/terms and conditions.htm. Attention is drawn to the
+limitation of liability, indemnification and jurisdiction issues defined therein.
 
-![img-3.jpeg](img-3.jpeg)
+Any holder of this document is advised that information contained hereon reflects the
+Company's findings at the time of its intervention only and within the limits of Client's
+instructions, if any. The Company's sole responsibility is to its client and this document
+does not exonerate parties to a transaction from exercising all their rights and obligations
+under the transaction documents. Any unauthorized alteration, forgery or falsification of
+the content or appearance of this document is unlawful, and offenders may be prosecuted
+to the fullest extent of the law.
+
+<!-- PageBreak -->
+
+
 
 ================================================================================
 PAGE 2
 ================================================================================
 
-![img-4.jpeg](img-4.jpeg)
 
-![img-5.jpeg](img-5.jpeg)
+SGS COLOMBIA S.A.S.
+C&P-F490101
+ORDEN No. 4200-39563
+CERTIFICADO No. CRS20942
+ORDEN CERT. No. CO-CERT221000889-12
+CERTIFICADO DE CONFORMIDAD DE PRODUCTO
+Cooper Group S.A de C.V.
+Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador
+Acondicionadores de Aire central, paquete o dividido, en capacidades nominales de enfriamiento de
+8.800 W hasta 19.050 W.
 
-SGS COLOMBIA S.A.S. C&P-F490101 ORDEN No. 4200-39563 CERTIFICADO No. CR520942 ORDEN CERT. No. CO-CERT221000889-12 CERTIFICADO DE CONFORMIDAD DE PRODUCTO Cooper Group S.A de C.V. Prolongación Alameda Juan Pablo II, No. 349, San Salvador, El Salvador Acondicionadores de Aire central, paquete o dividido, en capacidades nominales de enfriamiento de 8.800 W hasta 19.050 W.
+<table>
+<tr>
+<th>UNIDAD EVAPORADORA</th>
+<th>UNIDAD CONDENSADORA</th>
+<th>CAPACIDAD DE ENFRIAMIENTO [W]</th>
+<th>TIPO DE ARTEFACTO</th>
+<th>REFE ESTABLECIDA EN EL RTS (ht//e)</th>
+<th>REFE DE ESTE APARATO (The)</th>
+<th>AHORRO OF ENERGÍA (%)</th>
+<th>TEST REPORT</th>
+<th>MARCA</th>
+</tr>
+<tr>
+<td>ADO T AHU8013</td>
+<td>AGO T CON6013-1</td>
+<td>17584</td>
+<td>Acondicionado</td>
+<td>321</td>
+<td>3.91</td>
+<td>2.8</td>
+<td>AHE8230400047-51</td>
+<td>ADINA</td>
+</tr>
+</table>
 
-|  UNIDAD EVAPORADORA | UNIDAD CONDENSADORA | CAPACIDAD DE ENFRIAMIENTO (W) | TIPO DE ARTEFACTO | REEE ESTABLECIDA EN EL RTS (Wt/We) | REEE DE ESTE APARATO (Wt/We) | AHORRO DE ENERGÍA (%) | TEST REPORT | MARCA  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  AGO-T-AHU8013 | AGO-T-CON8013-1 | 17584 | Acondicionador de Aire Central | 3,81 | 3,91 | 2,6 | AHE5230400047451 | ADINA  |
+EFICIENCIA ENERGÉTICA
 
-EFFICIENCIA ENERGÉTICA Relación de Eficiencia Energética Estacionari: REEE: Determinada como se establece en el RTS 22.81.01.18
+Ahorro de Energia de este aparato
 
-Marca: ADINA Tipo: Acondicionador de aire Central
+FIN DEL DOCUMENTO
 
-Modelo unidad exterior: AGO-T-CON8013 Revisión unidad exterior: AGO-T-CON8013-1 Capacidad de enfriamiento: 17584 W
+Fecha de Emisión: 2023-04-20
 
-Compara el ahorro de energía de este aparato con otros similares antes de comprar
+Fecha de Vencimiento: 2026-04-20
+Version 1
 
-REEE establecido en el Reglamento Técnico (Rt/We): 3,81 REEE de este aparato: 1900W-1 3,81
+Página 2 de 2
 
-Ahorro de Energía de este aparato
 
-APS
-
-ITS 18% 26% 30% 48% 58%
-
-APTUP/2017/5 El ahorro de energía efectivo dependerá de los factores de uso y localización del aparato. La situación no debe retirarse del producto hasta que haya sido adquirido por el consumidor final.
-
-***FIN DEL DOCUMENTO***
-
-Fecha de Emisión: 2023-04-20 Fecha de Vencimiento: 2026-04-20 Versión 1 Página 2 de 2
-
-![img-6.jpeg](img-6.jpeg)
-
-![img-7.jpeg](img-7.jpeg)
-
-![img-8.jpeg](img-8.jpeg)
