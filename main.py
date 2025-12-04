@@ -23,19 +23,53 @@ logger = logging.getLogger(__name__)
 
 # Load environment variables
 load_dotenv()
+
+# OpenAI Configuration (Standard or Azure)
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
 AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
-AZURE_DEPLOYMENT_NAME = os.getenv("AZURE_DEPLOYMENT_NAME", "gpt-4o-mini") # Default or from env
+MODEL_NAME = os.getenv("MODEL_NAME", "gpt-4o-mini")  # Model name for both OpenAI and Azure
 
-if not AZURE_OPENAI_ENDPOINT or not AZURE_OPENAI_API_KEY:
-    logger.warning("Azure OpenAI credentials not found in environment variables.")
+# Models that don't support reasoning.effort parameter
+MODELS_WITHOUT_REASONING = {"gpt-5-chat", "gpt-4o", "gpt-4o-mini", "gpt-4-turbo", "gpt-4", "gpt-3.5-turbo"}
 
-# Configure Azure OpenAI
-azure_client = None
-if AZURE_OPENAI_ENDPOINT and AZURE_OPENAI_API_KEY:
-    azure_client = AsyncOpenAI(
+# Models that only support verbosity "medium" (not "low" or "high")
+MODELS_VERBOSITY_MEDIUM_ONLY = {"gpt-5-chat"}
+
+def supports_reasoning(model_name: str) -> bool:
+    """Check if a model supports the reasoning.effort parameter."""
+    return model_name not in MODELS_WITHOUT_REASONING
+
+def get_verbosity(model_name: str, preferred: str) -> str:
+    """Get the appropriate verbosity level for the model."""
+    if model_name in MODELS_VERBOSITY_MEDIUM_ONLY:
+        return "medium"
+    return preferred
+
+# Determine which provider to use
+USE_AZURE = bool(AZURE_OPENAI_ENDPOINT and AZURE_OPENAI_API_KEY)
+USE_OPENAI = bool(OPENAI_API_KEY) and not USE_AZURE  # Prefer Azure if both are configured
+
+if not USE_AZURE and not USE_OPENAI:
+    logger.warning("No OpenAI credentials found. Set OPENAI_API_KEY for standard OpenAI or AZURE_OPENAI_ENDPOINT + AZURE_OPENAI_API_KEY for Azure.")
+
+# Configure OpenAI client for Responses API
+openai_client = None
+if USE_AZURE:
+    logger.info("Using Azure OpenAI endpoint")
+    # For Azure OpenAI Responses API, use /openai/v1/ path
+    base_url = AZURE_OPENAI_ENDPOINT.rstrip('/')
+    if not base_url.endswith('/openai/v1'):
+        base_url = f"{base_url}/openai/v1/"
+    openai_client = AsyncOpenAI(
         api_key=AZURE_OPENAI_API_KEY,
-        # base_url=AZURE_OPENAI_ENDPOINT
+        base_url=base_url
+    )
+elif USE_OPENAI:
+    logger.info("Using standard OpenAI endpoint")
+    # Standard OpenAI - no base_url needed
+    openai_client = AsyncOpenAI(
+        api_key=OPENAI_API_KEY
     )
 
 import asyncio
@@ -350,41 +384,40 @@ async def ingest_knowledge_base():
     )
 
 async def query_azure_shard(shard_content: str, question: str, history_str: str = "") -> dict:
-    """Helper function to query a single Azure shard. Returns dict with answer and sources."""
-    if not azure_client:
+    """Helper function to query a single Azure shard using Responses API. Returns dict with answer and sources."""
+    if not openai_client:
         return {"answer": "Azure Client not configured.", "sources": []}
-        
+
     try:
-        # Construct messages. The long context (shard_content) goes first to trigger caching.
-        prompt_content = f"""Context information is below.
+        # Build the developer instruction with context
+        developer_instruction = f"""Context information is below.
 ---------------------
 {shard_content}
 ---------------------
-"""
-        if history_str:
-            prompt_content += f"""Conversation History:
-{history_str}
-"""
-
-        prompt_content += f"""Given the context information and history, answer the query.
 
 CRITICAL CONTEXT INSTRUCTION:
 If the 'Query' is short or ambiguous (e.g., just a model name like "Flex-C"), you MUST interpret it as a follow-up to the 'Conversation History'.
 Example: If History is "Why does it smell bad?" and Query is "Flex-C", you must treat the query as "Why does Flex-C smell bad?" and answer that specific question using the context. Do NOT simply repeat the interpreted question.
 
-Query: {question}
-
 INSTRUCTIONS:
 1. RULE #1: Do NOT assume information that is not within the current context.
 2. Answer the question in Spanish.
-3. Identify the specific documents and pages used to answer (look for headers like '## DOCUMENT - Página X').
-4. For each page cited, extract the EXACT text snippet that supports your answer.
+3. **FORMAT YOUR ANSWER IN MARKDOWN:**
+   - Use **bold** for model names, important values, and key terms.
+   - Use bullet points (- or *) for lists.
+   - Use numbered lists (1. 2. 3.) for steps or procedures.
+   - Use tables when comparing multiple models or specifications.
+   - Use line breaks for readability.
+   - Example format for specifications:
+     "**Serie FLEX-S** - Capacidades de enfriamiento:\n\n| Modelo | Capacidad |\n|--------|----------|\n| AFLEX-S-12 | 12,000 BTU/hr |\n| AFLEX-S-18 | 18,000 BTU/hr |"
+4. Identify the specific documents and pages used to answer (look for headers like '## DOCUMENT - Página X').
+5. For each page cited, extract the EXACT text snippet that supports your answer.
    - **CRITICAL:** Do NOT return document headers, titles, or model names unless they contain the specific answer.
    - If the answer is in a table, extract the specific ROW containing the key and value (e.g., "Compressor Type | Rotary").
    - The excerpt MUST contain the specific value you used in your answer.
-5. If the information is NOT present in the context, return "answer": "NOT_FOUND" and empty sources.
-6. Do NOT return the interpreted question as the answer. If you cannot find the answer, return "NOT_FOUND".
-7. Return ONLY a JSON object with the following format:
+6. If the information is NOT present in the context, return "answer": "NOT_FOUND" and empty sources.
+7. Do NOT return the interpreted question as the answer. If you cannot find the answer, return "NOT_FOUND".
+8. Return ONLY a JSON object with the following format:
 {{
   "answer": "Your answer here... (or 'NOT_FOUND')",
   "sources": [
@@ -393,28 +426,45 @@ INSTRUCTIONS:
       "excerpt": "Exact text and current context from the document that proves the answer... (max 100 tokens)"
     }}
   ]
-}}
-"""
+}}"""
 
-        messages = [
+        # Build input messages for Responses API
+        input_messages = [
             {
-                "role": "user", 
-                "content": prompt_content
+                "role": "developer",
+                "content": [{"type": "input_text", "text": developer_instruction}]
             }
         ]
-        
-        # GPT-5 models don't support temperature=0.0, use default (1.0)
-        temp = 1.0 if AZURE_DEPLOYMENT_NAME.lower().startswith("gpt-5") else 0.0
-        
-        response = await azure_client.chat.completions.create(
-            model=AZURE_DEPLOYMENT_NAME,
-            messages=messages,
-            temperature=temp,
-            response_format={"type": "json_object"}
-        )
-        
-        content = response.choices[0].message.content
-        import json
+
+        # Add conversation history if available
+        if history_str:
+            input_messages.append({
+                "role": "user",
+                "content": [{"type": "input_text", "text": f"Conversation History:\n{history_str}"}]
+            })
+
+        # Add the current query
+        input_messages.append({
+            "role": "user",
+            "content": [{"type": "input_text", "text": f"Query: {question}"}]
+        })
+
+        # Build request parameters
+        request_params = {
+            "model": MODEL_NAME,
+            "input": input_messages,
+            "text": {
+                "format": {"type": "json_object"},
+                "verbosity": get_verbosity(MODEL_NAME, "low")
+            }
+        }
+        if supports_reasoning(MODEL_NAME):
+            request_params["reasoning"] = {"effort": "low", "summary": None}
+
+        response = await openai_client.responses.create(**request_params)
+
+        # Extract content from Responses API format
+        content = response.output_text
         return json.loads(content)
     except Exception as e:
         logger.error(f"Error querying Azure shard: {e}")
@@ -424,25 +474,37 @@ async def is_valid_question(text: str) -> bool:
     """
     Classifies if the input is a valid standalone question or a conversational reply.
     Returns True if it's a question, False if it's likely a reply (e.g., "Yes", "Flex-C").
+    Uses Responses API.
     """
-    if not azure_client: return False
+    if not openai_client:
+        return False
     try:
-        temp = 1.0 if AZURE_DEPLOYMENT_NAME.lower().startswith("gpt-5") else 0.0
-        response = await azure_client.chat.completions.create(
-            model=AZURE_DEPLOYMENT_NAME,
-            messages=[
-                {"role": "system", "content": "Classify if the user input is a valid question/request or just a short reply/confirmation. Return JSON: {\"is_question\": true/false}"},
-                {"role": "user", "content": text}
+        request_params = {
+            "model": MODEL_NAME,
+            "input": [
+                {
+                    "role": "developer",
+                    "content": [{"type": "input_text", "text": "Classify if the user input is a valid question/request or just a short reply/confirmation. Return JSON: {\"is_question\": true/false}"}]
+                },
+                {
+                    "role": "user",
+                    "content": [{"type": "input_text", "text": text}]
+                }
             ],
-            temperature=temp,
-            response_format={"type": "json_object"}
-        )
-        import json
-        result = json.loads(response.choices[0].message.content)
+            "text": {
+                "format": {"type": "json_object"},
+                "verbosity": get_verbosity(MODEL_NAME, "low")
+            }
+        }
+        if supports_reasoning(MODEL_NAME):
+            request_params["reasoning"] = {"effort": "low", "summary": None}
+
+        response = await openai_client.responses.create(**request_params)
+        result = json.loads(response.output_text)
         return result.get("is_question", False)
     except Exception as e:
         logger.error(f"Error in input classifier: {e}")
-        return True # Fallback to treating as question
+        return True  # Fallback to treating as question
 
 @app.post("/ask", response_model=AskResponse)
 async def ask_question(request: AskRequest):
@@ -455,7 +517,7 @@ async def ask_question(request: AskRequest):
             detail="Knowledge Base not loaded. Please call /ingest first."
         )
     
-    if not azure_client:
+    if not openai_client:
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="Azure OpenAI client not initialized. Check environment variables."
@@ -597,22 +659,31 @@ async def ask_question(request: AskRequest):
             - If clarifying: {{"action": "clarify"}}
             """
 
-            # GPT-5 models don't support temperature=0.0, use default (1.0)
-            temp = 1.0 if AZURE_DEPLOYMENT_NAME.lower().startswith("gpt-5") else 0.0
-
-            router_response = await azure_client.chat.completions.create(
-                model=AZURE_DEPLOYMENT_NAME,
-                messages=[
-                    {"role": "system", "content": "You are a precise routing assistant. Output only JSON."},
-                    {"role": "user", "content": router_prompt}
+            router_params = {
+                "model": MODEL_NAME,
+                "input": [
+                    {
+                        "role": "developer",
+                        "content": [{"type": "input_text", "text": "You are a precise routing assistant. Output only JSON."}]
+                    },
+                    {
+                        "role": "user",
+                        "content": [{"type": "input_text", "text": router_prompt}]
+                    }
                 ],
-                temperature=temp
-            )
+                "text": {
+                    "format": {"type": "json_object"},
+                    "verbosity": get_verbosity(MODEL_NAME, "low")
+                }
+            }
+            if supports_reasoning(MODEL_NAME):
+                router_params["reasoning"] = {"effort": "low", "summary": None}
+
+            router_response = await openai_client.responses.create(**router_params)
 
             router_output = {}
             try:
-                import json
-                content = router_response.choices[0].message.content
+                content = router_response.output_text
                 # Clean up potential markdown code blocks
                 if "```" in content:
                     content = content.split("```")[1].replace("json", "").strip()
@@ -707,22 +778,42 @@ async def ask_question(request: AskRequest):
             
             synthesis_prompt = f"""
             The user asked: "{request.question}"
-            
+
             Here are partial answers found in different sections of the knowledge base:
-            
+
             {''.join([f'--- PARTIAL ANSWER {i+1} ---\n{resp["answer"]}\n\n' for i, resp in enumerate(valid_responses)])}
-            
-            Please synthesize a single, coherent, and complete answer based on these partial responses. 
+
+            Please synthesize a single, coherent, and complete answer based on these partial responses.
             Ignore any "I don't know" or irrelevant parts if better information is available in other partial answers.
+
+            **FORMAT YOUR RESPONSE IN MARKDOWN:**
+            - Use **bold** for model names, important values, and key terms.
+            - Use bullet points or numbered lists for multiple items.
+            - Use tables when comparing specifications across models.
+            - Ensure proper line breaks for readability.
+
             RESPONDE SIEMPRE EN ESPAÑOL.
             RULE #1: Do NOT assume information that is not within the partial responses.
             """
             
-            final_response = await azure_client.chat.completions.create(
-                model=AZURE_DEPLOYMENT_NAME,
-                messages=[{"role": "user", "content": synthesis_prompt}],
-            )
-            final_answer = final_response.choices[0].message.content
+            synthesis_params = {
+                "model": MODEL_NAME,
+                "input": [
+                    {
+                        "role": "user",
+                        "content": [{"type": "input_text", "text": synthesis_prompt}]
+                    }
+                ],
+                "text": {
+                    "format": {"type": "text"},
+                    "verbosity": get_verbosity(MODEL_NAME, "high")
+                }
+            }
+            if supports_reasoning(MODEL_NAME):
+                synthesis_params["reasoning"] = {"effort": "medium", "summary": None}
+
+            final_response = await openai_client.responses.create(**synthesis_params)
+            final_answer = final_response.output_text
 
         # Add final answer to history
         global_state.sessions[session_id].append({"role": "assistant", "content": final_answer})
