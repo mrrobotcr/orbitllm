@@ -42,10 +42,12 @@ services:
     environment:
       - AZURE_OPENAI_ENDPOINT=${AZURE_OPENAI_ENDPOINT}
       - AZURE_OPENAI_API_KEY=${AZURE_OPENAI_API_KEY}
-      - AZURE_DEPLOYMENT_NAME=${AZURE_DEPLOYMENT_NAME:-gpt-4o-mini}
+      - MODEL_NAME=${MODEL_NAME:-gpt-5-chat}
     volumes:
       # Persist cache between restarts
       - ./shards_cache.json:/app/shards_cache.json
+    expose:
+      - "8000"
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.orbitllm.rule=Host(`chatbackoffice.adinausa.com`)"
