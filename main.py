@@ -77,9 +77,9 @@ import asyncio
 # Global state for shards
 class GlobalState:
     _instance = None
-    azure_shards: List[str] = [] # Store content in memory for Azure (Implicit Caching)
-    azure_shard_summaries: List[str] = [] # Store summaries for Agentic Routing
-    sessions: dict = {} # Store session history: {session_id: [{"role": "user", "content": "..."}]}
+    azure_shards: List[str] = []  # Store content in memory for Azure (Implicit Caching)
+    azure_shard_summaries: List[str] = []  # Store summaries for Agentic Routing
+    # NOTE: Sessions are now stateless - frontend sends full message history in each request
 
     def __new__(cls):
         if cls._instance is None:
@@ -258,9 +258,13 @@ class IngestResponse(BaseModel):
     total_tokens: int
     shards_created: int
 
+class Message(BaseModel):
+    role: str  # "user" or "assistant"
+    content: str
+
 class AskRequest(BaseModel):
-    question: str
-    session_id: Optional[str] = None
+    messages: List[Message]  # Full conversation history from frontend
+    session_id: Optional[str] = None  # Optional: for logging/analytics
     series: Optional[str] = None  # Optional: bypass router and search directly in this series
 
 class PageDetail(BaseModel):
@@ -274,6 +278,7 @@ class SourceItem(BaseModel):
 class AskResponse(BaseModel):
     answer: str
     sources: List[SourceItem] = []
+    messages: List[Message] = []  # Updated conversation history to store in frontend
     needs_clarification: bool = False
     available_series: List[str] = []
 
@@ -524,26 +529,41 @@ async def ask_question(request: AskRequest):
         )
 
     try:
-        # --- SESSION MANAGEMENT ---
-        session_id = request.session_id or "default"
-        if session_id not in global_state.sessions:
-            global_state.sessions[session_id] = []
-            
-        # Add user question to history
-        global_state.sessions[session_id].append({"role": "user", "content": request.question})
-        
-        # Keep history short (last 6 messages = 3 turns) to save tokens
-        history = global_state.sessions[session_id][-6:]
-        
-        # Prepare history string for prompt
+        # --- CONTEXT-AWARE: Messages from Frontend ---
+        # Frontend sends full conversation history, backend is stateless
+        if not request.messages:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="Messages array is required and cannot be empty."
+            )
+
+        # Extract current question (last user message)
+        current_question = ""
+        for msg in reversed(request.messages):
+            if msg.role == "user":
+                current_question = msg.content
+                break
+
+        if not current_question:
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail="No user message found in messages array."
+            )
+
+        # Build history string from all messages except the last user message
+        # Keep last 6 messages (3 turns) for context window efficiency
+        recent_messages = request.messages[-6:]
         history_str = ""
-        for msg in history[:-1]: # Exclude the current question which is added separately
-            history_str += f"{msg['role'].upper()}: {msg['content']}\n"
+        for msg in recent_messages[:-1]:  # Exclude current question
+            history_str += f"{msg.role.upper()}: {msg.content}\n"
+
+        session_id = request.session_id or "anonymous"  # For logging only
+        logger.info(f"Session {session_id}: Processing question with {len(request.messages)} messages in context")
 
         # --- PRE-ROUTER FAQS CHECK ---
         # Step 1: Classify Input
-        is_question = await is_valid_question(request.question)
-        logger.info(f"Input Classifier: '{request.question}' -> is_question={is_question}")
+        is_question = await is_valid_question(current_question)
+        logger.info(f"Input Classifier: '{current_question}' -> is_question={is_question}")
 
         # Step 2: Check FAQS if it is a question
         if is_question:
@@ -556,13 +576,11 @@ async def ask_question(request: AskRequest):
             if faqs_index != -1:
                 logger.info("Pre-Router: Checking FAQS shard...")
                 # Query ONLY FAQS
-                faqs_response = await query_azure_shard(global_state.azure_shards[faqs_index], request.question, history_str)
+                faqs_response = await query_azure_shard(global_state.azure_shards[faqs_index], current_question, history_str)
                 
                 if faqs_response.get("answer") != "NOT_FOUND" and faqs_response.get("answer", "").strip():
                     logger.info("Pre-Router: Answer found in FAQS. Returning immediately.")
-                    # Add to history
-                    global_state.sessions[session_id].append({"role": "assistant", "content": faqs_response["answer"]})
-                    
+
                     # Process sources for FAQS response
                     source_map = {}
                     seen_references = set()
@@ -571,7 +589,7 @@ async def ask_question(request: AskRequest):
                         excerpt = src.get("excerpt", "")
                         if ref in seen_references: continue
                         seen_references.add(ref)
-                        
+
                         if " - Página" in ref:
                             doc_part = ref.split(" - Página")[0]
                         else:
@@ -582,15 +600,20 @@ async def ask_question(request: AskRequest):
 
                         if file_name not in source_map: source_map[file_name] = []
                         source_map[file_name].append(PageDetail(reference=ref, excerpt=excerpt))
-                    
+
                     final_sources = [SourceItem(file=f, pages=d) for f, d in source_map.items()]
-                    return AskResponse(answer=faqs_response["answer"], sources=final_sources)
+
+                    # Build updated messages with assistant response
+                    updated_messages = [Message(role=m.role, content=m.content) for m in request.messages]
+                    updated_messages.append(Message(role="assistant", content=faqs_response["answer"]))
+
+                    return AskResponse(answer=faqs_response["answer"], sources=final_sources, messages=updated_messages)
                 else:
                     logger.info("Pre-Router: No relevant answer in FAQS. Proceeding to Router.")
 
         # --- SERIES BYPASS ---
         # If frontend provides series parameter, skip router and search directly
-        search_query = request.question
+        search_query = current_question
         valid_indices = []
 
         if request.series:
@@ -620,7 +643,7 @@ async def ask_question(request: AskRequest):
             Conversation History:
             {history_str}
 
-            Current User Question: "{request.question}"
+            Current User Question: "{current_question}"
 
             Task: Decide the next action.
 
@@ -691,23 +714,30 @@ async def ask_question(request: AskRequest):
                 logger.info(f"Router decision: {router_output}")
             except Exception as e:
                 logger.error(f"Router parsing failed: {e}. Fallback to search all.")
-                router_output = {"action": "search", "shards": list(range(len(global_state.azure_shards))), "search_query": request.question}
+                router_output = {"action": "search", "shards": list(range(len(global_state.azure_shards))), "search_query": current_question}
 
             # --- ACTION HANDLING ---
 
             if router_output.get("action") == "clarify":
                 # Return structured clarification response
                 available = get_available_series()
+                clarification_msg = "¿Podrías indicarme de qué serie o modelo es tu equipo?"
+
+                # Build updated messages with clarification request
+                updated_messages = [Message(role=m.role, content=m.content) for m in request.messages]
+                updated_messages.append(Message(role="assistant", content=clarification_msg))
+
                 return AskResponse(
-                    answer="",
+                    answer=clarification_msg,
                     sources=[],
+                    messages=updated_messages,
                     needs_clarification=True,
                     available_series=available
                 )
 
             # If action is search (or fallback)
             selected_indices = router_output.get("shards", [])
-            search_query = router_output.get("search_query", request.question) # Use rewritten query
+            search_query = router_output.get("search_query", current_question) # Use rewritten query
 
             logger.info(f"Executing Search with Query: '{search_query}' on shards {selected_indices}")
 
@@ -720,16 +750,19 @@ async def ask_question(request: AskRequest):
 
         # --- MAP PHASE (Selected Shards Only) ---
         logger.info(f"Querying {len(valid_indices)} selected Azure shards in parallel...")
-        tasks = [query_azure_shard(global_state.azure_shards[i], search_query) for i in valid_indices]
+        # FIX: Pass history_str to enable context-aware responses
+        tasks = [query_azure_shard(global_state.azure_shards[i], search_query, history_str) for i in valid_indices]
         shard_responses = await asyncio.gather(*tasks)
-        
+
         # shard_responses is now a list of dicts: [{"answer": "...", "sources": [...]}, ...]
         valid_responses = [r for r in shard_responses if r.get("answer") != "NOT_FOUND" and r.get("answer", "").strip()]
 
         if not valid_responses:
             msg = "No pude encontrar información relevante en la base de conocimientos."
-            global_state.sessions[session_id].append({"role": "assistant", "content": msg})
-            return AskResponse(answer=msg, sources=[])
+            # Build updated messages with "not found" response
+            updated_messages = [Message(role=m.role, content=m.content) for m in request.messages]
+            updated_messages.append(Message(role="assistant", content=msg))
+            return AskResponse(answer=msg, sources=[], messages=updated_messages)
 
         # Collect all sources
         all_sources = []
@@ -777,7 +810,7 @@ async def ask_question(request: AskRequest):
             logger.info("Synthesizing Azure responses...")
             
             synthesis_prompt = f"""
-            The user asked: "{request.question}"
+            The user asked: "{current_question}"
 
             Here are partial answers found in different sections of the knowledge base:
 
@@ -815,9 +848,11 @@ async def ask_question(request: AskRequest):
             final_response = await openai_client.responses.create(**synthesis_params)
             final_answer = final_response.output_text
 
-        # Add final answer to history
-        global_state.sessions[session_id].append({"role": "assistant", "content": final_answer})
-        return AskResponse(answer=final_answer, sources=final_sources)
+        # Build updated messages with final answer
+        updated_messages = [Message(role=m.role, content=m.content) for m in request.messages]
+        updated_messages.append(Message(role="assistant", content=final_answer))
+
+        return AskResponse(answer=final_answer, sources=final_sources, messages=updated_messages)
 
     except Exception as e:
         logger.error(f"Error generating Azure response: {e}")
