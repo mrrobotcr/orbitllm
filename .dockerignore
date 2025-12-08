@@ -22,8 +22,13 @@ Dockerfile
 docker-compose.yml
 .dockerignore
 
-# Documentation
+# Documentation (exclude all .md except knowledge base content)
 *.md
-!knowledge_base/*.md
+!knowledge_base/**/*.md
 CLAUDE.md
 API_DOCUMENTATION.md
+API_ADMIN_DOCUMENTATION.md
+BACKOFFICE_INTEGRATION_PROMPT.md
+
+# Migration scripts (one-time use, not needed in container)
+migrate_to_azure_blob.py

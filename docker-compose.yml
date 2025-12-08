@@ -40,12 +40,26 @@ services:
     container_name: orbitllm
     restart: unless-stopped
     environment:
+      # Azure OpenAI Configuration
       - AZURE_OPENAI_ENDPOINT=${AZURE_OPENAI_ENDPOINT}
       - AZURE_OPENAI_API_KEY=${AZURE_OPENAI_API_KEY}
       - MODEL_NAME=${MODEL_NAME:-gpt-5-chat}
+
+      # Admin API Configuration
+      - ADMIN_API_KEY=${ADMIN_API_KEY}
+
+      # Azure Blob Storage (optional - for persistent storage)
+      - AZURE_STORAGE_CONNECTION_STRING=${AZURE_STORAGE_CONNECTION_STRING:-}
+      - AZURE_STORAGE_CONTAINER_NAME=${AZURE_STORAGE_CONTAINER_NAME:-knowledge-base}
+
+      # Azure Document Intelligence (required for PDF upload)
+      - AZURE_DOCINTEL_ENDPOINT=${AZURE_DOCINTEL_ENDPOINT:-}
+      - AZURE_DOCINTEL_API_KEY=${AZURE_DOCINTEL_API_KEY:-}
     volumes:
       # Persist cache between restarts
       - ./shards_cache.json:/app/shards_cache.json
+      # Persist knowledge base if not using Azure Blob Storage
+      - ./knowledge_base:/app/knowledge_base
     expose:
       - "8000"
     labels:
