@@ -1,18 +1,33 @@
 import os
+import re
 import glob
 import json
+import shutil
 import datetime
 import logging
+import secrets
 from typing import Optional, List
 from contextlib import asynccontextmanager
 
-from fastapi import FastAPI, HTTPException, status
+from fastapi import FastAPI, HTTPException, status, Depends, UploadFile, File
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.security import APIKeyHeader
 from pydantic import BaseModel
 from dotenv import load_dotenv
 
 import tiktoken
 from openai import AsyncOpenAI
+from azure.storage.blob import BlobServiceClient, ContainerClient
+from azure.core.exceptions import ResourceNotFoundError, ResourceExistsError
+
+# Azure Document Intelligence for PDF to Markdown conversion
+try:
+    from azure.ai.documentintelligence import DocumentIntelligenceClient
+    from azure.ai.documentintelligence.models import AnalyzeDocumentRequest, DocumentAnalysisFeature
+    from azure.core.credentials import AzureKeyCredential
+    DOCINTEL_AVAILABLE = True
+except ImportError:
+    DOCINTEL_AVAILABLE = False
 
 # Configure logging
 logging.basicConfig(
@@ -72,6 +87,79 @@ elif USE_OPENAI:
         api_key=OPENAI_API_KEY
     )
 
+# --- Azure Blob Storage Configuration ---
+AZURE_STORAGE_CONNECTION_STRING = os.getenv("AZURE_STORAGE_CONNECTION_STRING")
+AZURE_STORAGE_CONTAINER_NAME = os.getenv("AZURE_STORAGE_CONTAINER_NAME", "knowledge-base")
+
+blob_service_client: Optional[BlobServiceClient] = None
+container_client: Optional[ContainerClient] = None
+
+if AZURE_STORAGE_CONNECTION_STRING:
+    try:
+        blob_service_client = BlobServiceClient.from_connection_string(AZURE_STORAGE_CONNECTION_STRING)
+        container_client = blob_service_client.get_container_client(AZURE_STORAGE_CONTAINER_NAME)
+        # Create container if it doesn't exist
+        try:
+            container_client.create_container()
+            logger.info(f"Created Azure Blob container: {AZURE_STORAGE_CONTAINER_NAME}")
+        except ResourceExistsError:
+            logger.info(f"Using existing Azure Blob container: {AZURE_STORAGE_CONTAINER_NAME}")
+    except Exception as e:
+        logger.error(f"Failed to initialize Azure Blob Storage: {e}")
+        blob_service_client = None
+        container_client = None
+else:
+    logger.warning("AZURE_STORAGE_CONNECTION_STRING not set. Admin endpoints will use local filesystem.")
+
+# --- Azure Document Intelligence Configuration ---
+AZURE_DOCINTEL_ENDPOINT = os.getenv("AZURE_DOCINTEL_ENDPOINT")
+AZURE_DOCINTEL_API_KEY = os.getenv("AZURE_DOCINTEL_API_KEY")
+
+docintel_client: Optional[DocumentIntelligenceClient] = None
+
+if DOCINTEL_AVAILABLE and AZURE_DOCINTEL_ENDPOINT and AZURE_DOCINTEL_API_KEY:
+    try:
+        docintel_client = DocumentIntelligenceClient(
+            endpoint=AZURE_DOCINTEL_ENDPOINT,
+            credential=AzureKeyCredential(AZURE_DOCINTEL_API_KEY)
+        )
+        logger.info("Azure Document Intelligence client initialized")
+    except Exception as e:
+        logger.error(f"Failed to initialize Azure Document Intelligence: {e}")
+        docintel_client = None
+else:
+    if not DOCINTEL_AVAILABLE:
+        logger.warning("azure-ai-documentintelligence not installed. PDF upload will be disabled.")
+    else:
+        logger.warning("AZURE_DOCINTEL_ENDPOINT or AZURE_DOCINTEL_API_KEY not set. PDF upload will be disabled.")
+
+# --- Admin Authentication ---
+ADMIN_API_KEY = os.getenv("ADMIN_API_KEY")
+if not ADMIN_API_KEY:
+    logger.warning("ADMIN_API_KEY not set. Admin endpoints will be disabled.")
+
+api_key_header = APIKeyHeader(name="X-Admin-Key", auto_error=False)
+
+async def verify_admin_key(api_key: Optional[str] = Depends(api_key_header)) -> bool:
+    """Verify the admin API key using constant-time comparison."""
+    if not ADMIN_API_KEY:
+        raise HTTPException(
+            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+            detail="Admin endpoints are disabled. Set ADMIN_API_KEY environment variable."
+        )
+    if not api_key:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Missing X-Admin-Key header"
+        )
+    # Use constant-time comparison to prevent timing attacks
+    if not secrets.compare_digest(api_key, ADMIN_API_KEY):
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Invalid API key"
+        )
+    return True
+
 import asyncio
 
 # Global state for shards
@@ -130,51 +218,65 @@ def load_shards_from_cache() -> bool:
         return False
 
 async def ingest_knowledge_base_internal() -> bool:
-    """Internal function to ingest knowledge base. Returns True if successful."""
-    kb_dir = "./knowledge_base"
-    if not os.path.exists(kb_dir):
-        logger.error(f"Directory '{kb_dir}' not found.")
-        return False
+    """Internal function to ingest knowledge base. Returns True if successful.
 
-    md_files = glob.glob(os.path.join(kb_dir, "*.md"))
-    if not md_files:
-        logger.error(f"No .md files found in '{kb_dir}'.")
-        return False
-
+    Reads from Azure Blob Storage if configured, otherwise falls back to local
+    folder-based structure where each subfolder in knowledge_base/ represents
+    a series (e.g., knowledge_base/FLEX-C/, knowledge_base/TITAN/).
+    """
     MAX_TOKENS_PER_SHARD = 100000
     encoding = tiktoken.get_encoding("cl100k_base")
 
     shards = []
     total_tokens_processed = 0
     total_chars_processed = 0
+    total_files = 0
     summaries = []
 
-    logger.info(f"Starting ingestion of {len(md_files)} files with Semantic Sharding...")
+    # Determine source: Azure Blob or local filesystem
+    use_blob = container_client is not None
 
-    # Group files by Series
-    files_by_series = {}
-    for file_path in md_files:
-        filename = os.path.basename(file_path)
-        series = get_series_from_filename(filename)
-        if series == "OTHER":
-            logger.warning(f"File '{filename}' categorized as OTHER")
-        if series not in files_by_series:
-            files_by_series[series] = []
-        files_by_series[series].append(file_path)
+    if use_blob:
+        logger.info("Ingesting from Azure Blob Storage...")
 
-    # Process each Series
-    for series, series_files in files_by_series.items():
-        logger.info(f"Processing Series: {series} ({len(series_files)} files)")
+        # Discover series from blob prefixes
+        seen_series = set()
+        for blob in container_client.list_blobs():
+            if "/" in blob.name:
+                series_name = blob.name.split("/")[0]
+                seen_series.add(series_name)
 
-        current_series_content = ""
-        current_series_tokens = 0
-        current_series_filenames = []
+        series_folders = sorted(seen_series)
 
-        for file_path in series_files:
-            try:
-                with open(file_path, "r", encoding="utf-8") as f:
-                    content = f.read()
-                    filename = os.path.basename(file_path)
+        if not series_folders:
+            logger.error("No series folders found in Azure Blob Storage.")
+            return False
+
+        logger.info(f"Starting ingestion from {len(series_folders)} series in Azure Blob...")
+
+        # Process each series
+        for series in series_folders:
+            # Get all .md files in this series
+            blobs = [b for b in container_client.list_blobs(name_starts_with=f"{series}/")
+                    if b.name.endswith(".md")]
+
+            if not blobs:
+                logger.warning(f"No .md files found in series '{series}'")
+                continue
+
+            logger.info(f"Processing Series: {series} ({len(blobs)} files)")
+            total_files += len(blobs)
+
+            current_series_content = ""
+            current_series_tokens = 0
+            current_series_filenames = []
+
+            for blob in sorted(blobs, key=lambda b: b.name):
+                try:
+                    blob_client = container_client.get_blob_client(blob.name)
+                    download = blob_client.download_blob()
+                    content = download.readall().decode("utf-8")
+                    filename = blob.name.split("/")[-1]
                     formatted_content = f"\n\n--- DOCUMENTO: {filename} (SERIE: {series}) ---\n\n{content}"
 
                     file_tokens = len(encoding.encode(formatted_content))
@@ -197,13 +299,83 @@ async def ingest_knowledge_base_internal() -> bool:
                     total_tokens_processed += file_tokens
                     total_chars_processed += len(formatted_content)
 
-            except Exception as e:
-                logger.error(f"Error reading file {file_path}: {e}")
+                except Exception as e:
+                    logger.error(f"Error reading blob {blob.name}: {e}")
 
-        if current_series_content:
-            shards.append(current_series_content)
-            summary = f"SERIES: {series}\nFILES: {', '.join(current_series_filenames)}"
-            summaries.append(summary)
+            if current_series_content:
+                shards.append(current_series_content)
+                summary = f"SERIES: {series}\nFILES: {', '.join(current_series_filenames)}"
+                summaries.append(summary)
+
+    else:
+        # Local filesystem fallback
+        kb_dir = "./knowledge_base"
+        if not os.path.exists(kb_dir):
+            logger.error(f"Directory '{kb_dir}' not found.")
+            return False
+
+        # Discover series from subfolders
+        series_folders = [
+            d for d in os.listdir(kb_dir)
+            if os.path.isdir(os.path.join(kb_dir, d)) and not d.startswith('.')
+        ]
+
+        if not series_folders:
+            logger.error(f"No series folders found in '{kb_dir}'.")
+            return False
+
+        logger.info(f"Starting ingestion from {len(series_folders)} local series folders...")
+
+        # Process each series folder
+        for series in sorted(series_folders):
+            series_path = os.path.join(kb_dir, series)
+            md_files = glob.glob(os.path.join(series_path, "*.md"))
+
+            if not md_files:
+                logger.warning(f"No .md files found in series folder '{series}'")
+                continue
+
+            logger.info(f"Processing Series: {series} ({len(md_files)} files)")
+            total_files += len(md_files)
+
+            current_series_content = ""
+            current_series_tokens = 0
+            current_series_filenames = []
+
+            for file_path in sorted(md_files):
+                try:
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        content = f.read()
+                        filename = os.path.basename(file_path)
+                        formatted_content = f"\n\n--- DOCUMENTO: {filename} (SERIE: {series}) ---\n\n{content}"
+
+                        file_tokens = len(encoding.encode(formatted_content))
+
+                        if current_series_tokens + file_tokens > MAX_TOKENS_PER_SHARD:
+                            if current_series_content:
+                                shards.append(current_series_content)
+                                summary = f"SERIES: {series}\nFILES: {', '.join(current_series_filenames)}"
+                                summaries.append(summary)
+                                current_series_filenames = []
+
+                            current_series_content = formatted_content
+                            current_series_tokens = file_tokens
+                            current_series_filenames.append(filename)
+                        else:
+                            current_series_content += formatted_content
+                            current_series_tokens += file_tokens
+                            current_series_filenames.append(filename)
+
+                        total_tokens_processed += file_tokens
+                        total_chars_processed += len(formatted_content)
+
+                except Exception as e:
+                    logger.error(f"Error reading file {file_path}: {e}")
+
+            if current_series_content:
+                shards.append(current_series_content)
+                summary = f"SERIES: {series}\nFILES: {', '.join(current_series_filenames)}"
+                summaries.append(summary)
 
     if not shards:
         logger.error("No content to process.")
@@ -215,7 +387,8 @@ async def ingest_knowledge_base_internal() -> bool:
     # Save to cache
     save_shards_to_cache()
 
-    logger.info(f"Ingestion complete. {len(shards)} shards created, {total_tokens_processed} tokens processed.")
+    source = "Azure Blob" if use_blob else "local filesystem"
+    logger.info(f"Ingestion complete from {source}. {len(shards)} shards from {total_files} files, {total_tokens_processed} tokens processed.")
     return True
 
 @asynccontextmanager
@@ -282,56 +455,65 @@ class AskResponse(BaseModel):
     needs_clarification: bool = False
     available_series: List[str] = []
 
+# --- Admin Pydantic Models ---
+
+class SeriesInfo(BaseModel):
+    name: str
+    file_count: int
+
+class SeriesListResponse(BaseModel):
+    series: List[SeriesInfo]
+    total_series: int
+
+class SeriesCreateRequest(BaseModel):
+    name: str
+
+class SeriesCreateResponse(BaseModel):
+    message: str
+    name: str
+
+class FileInfo(BaseModel):
+    name: str
+    size: int  # bytes
+    last_modified: Optional[str] = None
+
+class FileListResponse(BaseModel):
+    series: str
+    files: List[FileInfo]
+    total_files: int
+
+class FileUploadResponse(BaseModel):
+    message: str
+    series: str
+    filename: str
+    size: int
+
+class FileDeleteResponse(BaseModel):
+    message: str
+    series: str
+    filename: str
+
+class FileMoveRequest(BaseModel):
+    target_series: str
+
+class FileMoveResponse(BaseModel):
+    message: str
+    filename: str
+    source_series: str
+    target_series: str
+
+class SeriesDeleteResponse(BaseModel):
+    message: str
+    name: str
+    files_deleted: int
+
+class ReingestResponse(BaseModel):
+    message: str
+    shards_created: int
+    total_files: int
+    total_tokens: int
+
 # --- Endpoints ---
-
-# Mapping from filename prefix to Series Name
-SERIES_MAPPING = {
-    "AFLEX-C": "FLEX-C",  # Specific AFLEX-C subseries
-    "AFLEX-S": "FLEX-S",  # Specific AFLEX-S subseries
-    "AFLEX-T": "FLEX-T",  # Specific AFLEX-T subseries
-    "AALEF": "ALEF",
-    "AFLEX": "FLEX",  # Generic AFLEX (will only match if not C/S/T)
-    "AMAX": "MAXIMA",
-    "AVENT": "VENTO",
-    "EASY": "EASY FLEX",
-    "ONI": "ONIX",
-    "VIRTU": "VIRTUS",
-    "ADRA": "RESOLUTE",
-    "ADA": "ARMOR",
-    "ADN": "ADN",
-    "ADW": "WINTER",
-    "ADZ": "WINTER",
-    "AGO": "GOLD",
-    "ATI": "TITAN",
-    "FREE": "FREEDOM",
-    "SP": "ADN",
-    "TITAN": "TITAN", # Explicit TITAN
-    "VIRTUS": "VIRTUS", # Explicit VIRTUS
-    "ONIX": "ONIX", # Explicit ONIX
-    "VENTO": "VENTO", # Explicit VENTO
-    "FREEDOM": "FREEDOM", # Explicit FREEDOM
-    "GOLD": "GOLD", # Explicit GOLD
-    "AMAX": "MAXIMA", # Explicit AMAX
-    "AFLEX": "FLEX", # Explicit AFLEX
-    "AALEF": "ALEF", # Explicit AALEF
-    "ONI-C": "ONIX", # Explicit ONI-C
-    "AGO-T": "GOLD", # Explicit AGO-T
-    "WINTER": "WINTER", # Explicit WINTER
-    "MAXIMA": "MAXIMA", # Explicit MAXIMA
-    "faqs": "FAQS" # Explicit FAQS
-}
-
-def get_series_from_filename(filename: str) -> str:
-    """Extracts the Series name from the filename."""
-    upper_name = filename.upper()
-    # Sort keys by length descending to match specific prefixes first (e.g. "TITAN" before "TI")
-    sorted_keys = sorted(SERIES_MAPPING.keys(), key=len, reverse=True)
-
-    for prefix in sorted_keys:
-        # Case insensitive check for keys like "faqs"
-        if prefix.upper() in upper_name:
-            return SERIES_MAPPING[prefix]
-    return "OTHER" # Fallback
 
 def get_available_series() -> List[str]:
     """Returns a list of available series from loaded shards, Title Case formatted."""
@@ -363,9 +545,6 @@ async def ingest_knowledge_base():
     Useful for refreshing cache after adding new documents.
     NOTE: This runs automatically at startup - only call manually to refresh.
     """
-    kb_dir = "./knowledge_base"
-    md_files = glob.glob(os.path.join(kb_dir, "*.md"))
-
     success = await ingest_knowledge_base_internal()
 
     if not success:
@@ -373,6 +552,10 @@ async def ingest_knowledge_base():
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="Failed to ingest knowledge base. Check server logs."
         )
+
+    # Count files from all series subfolders
+    kb_dir = "./knowledge_base"
+    md_files = glob.glob(os.path.join(kb_dir, "**", "*.md"), recursive=True)
 
     # Calculate stats for response
     encoding = tiktoken.get_encoding("cl100k_base")
@@ -860,6 +1043,548 @@ async def ask_question(request: AskRequest):
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Error generating response: {str(e)}"
         )
+
+
+# ============================================================================
+# ADMIN ENDPOINTS - Protected by API Key
+# ============================================================================
+
+def _use_blob_storage() -> bool:
+    """Check if Azure Blob Storage is configured and available."""
+    return container_client is not None
+
+
+def _clean_markdown_content(text: str) -> str:
+    """Remove <figure>...</figure> blocks and clean up markdown content."""
+    # Remove figure blocks (including content)
+    cleaned = re.sub(r'<figure>.*?</figure>\s*', '', text, flags=re.DOTALL)
+    # Remove multiple consecutive newlines (more than 2)
+    cleaned = re.sub(r'\n{3,}', '\n\n', cleaned)
+    return cleaned
+
+
+async def _convert_pdf_to_markdown(pdf_bytes: bytes, filename: str) -> str:
+    """
+    Convert PDF to Markdown using Azure Document Intelligence.
+
+    Args:
+        pdf_bytes: Raw PDF file bytes
+        filename: Original filename for the header
+
+    Returns:
+        Markdown content string
+    """
+    if not docintel_client:
+        raise HTTPException(
+            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+            detail="Azure Document Intelligence not configured. Set AZURE_DOCINTEL_ENDPOINT and AZURE_DOCINTEL_API_KEY."
+        )
+
+    try:
+        logger.info(f"Converting PDF to Markdown: {filename}")
+
+        # Analyze document with Azure Document Intelligence
+        poller = docintel_client.begin_analyze_document(
+            model_id='prebuilt-layout',
+            body=AnalyzeDocumentRequest(bytes_source=pdf_bytes),
+            features=[
+                DocumentAnalysisFeature.OCR_HIGH_RESOLUTION,
+                DocumentAnalysisFeature.FORMULAS,
+            ],
+            output_content_format='markdown'
+        )
+
+        result = poller.result()
+
+        # Build output with header and page numbers
+        all_text = []
+        all_text.append(f"# {filename}\n")
+
+        if result.content and result.pages:
+            content = result.content
+            num_pages = len(result.pages)
+
+            for page in result.pages:
+                page_num = page.page_number
+                all_text.append(f"\n{'='*80}\n")
+                all_text.append(f"PAGE {page_num}\n")
+                all_text.append(f"{'='*80}\n\n")
+
+                # Extract content for this page using spans
+                if page.spans:
+                    for span in page.spans:
+                        page_content = content[span.offset:span.offset + span.length]
+                        page_content = _clean_markdown_content(page_content)
+                        all_text.append(page_content)
+                        all_text.append("\n")
+
+            logger.info(f"PDF converted: {num_pages} pages processed")
+        elif result.content:
+            all_text.append(_clean_markdown_content(result.content))
+        else:
+            logger.warning(f"No content extracted from PDF: {filename}")
+
+        return ''.join(all_text)
+
+    except Exception as e:
+        logger.error(f"Error converting PDF to Markdown: {e}")
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Failed to convert PDF: {str(e)}"
+        )
+
+
+# --- Series (Folder) Management ---
+
+@app.get("/admin/series", response_model=SeriesListResponse, tags=["Admin"])
+async def list_series(_: bool = Depends(verify_admin_key)):
+    """List all series (folders) in the knowledge base."""
+    series_list = []
+
+    if _use_blob_storage():
+        # List virtual directories in Azure Blob
+        seen_series = set()
+        for blob in container_client.list_blobs():
+            # Extract folder name from blob path (e.g., "FLEX-C/manual.md" -> "FLEX-C")
+            if "/" in blob.name:
+                series_name = blob.name.split("/")[0]
+                if series_name not in seen_series:
+                    seen_series.add(series_name)
+
+        # Count files per series
+        for series_name in sorted(seen_series):
+            file_count = sum(1 for b in container_client.list_blobs(name_starts_with=f"{series_name}/")
+                           if b.name.endswith(".md"))
+            series_list.append(SeriesInfo(name=series_name, file_count=file_count))
+    else:
+        # Local filesystem fallback
+        kb_dir = "./knowledge_base"
+        if os.path.exists(kb_dir):
+            for folder in sorted(os.listdir(kb_dir)):
+                folder_path = os.path.join(kb_dir, folder)
+                if os.path.isdir(folder_path) and not folder.startswith('.'):
+                    file_count = len(glob.glob(os.path.join(folder_path, "*.md")))
+                    series_list.append(SeriesInfo(name=folder, file_count=file_count))
+
+    return SeriesListResponse(series=series_list, total_series=len(series_list))
+
+
+@app.post("/admin/series", response_model=SeriesCreateResponse, tags=["Admin"])
+async def create_series(request: SeriesCreateRequest, _: bool = Depends(verify_admin_key)):
+    """Create a new series (folder) in the knowledge base."""
+    series_name = request.name.strip().upper().replace(" ", "_")
+
+    if not series_name:
+        raise HTTPException(status_code=400, detail="Series name cannot be empty")
+
+    # Validate series name (alphanumeric, hyphens, underscores only)
+    if not all(c.isalnum() or c in "-_" for c in series_name):
+        raise HTTPException(status_code=400, detail="Series name can only contain letters, numbers, hyphens, and underscores")
+
+    if _use_blob_storage():
+        # In Azure Blob, folders are virtual - create a placeholder file
+        placeholder_blob = f"{series_name}/.keep"
+        blob_client = container_client.get_blob_client(placeholder_blob)
+
+        # Check if series already exists
+        existing = list(container_client.list_blobs(name_starts_with=f"{series_name}/"))
+        if existing:
+            raise HTTPException(status_code=409, detail=f"Series '{series_name}' already exists")
+
+        blob_client.upload_blob(b"", overwrite=True)
+        logger.info(f"Created series in Azure Blob: {series_name}")
+    else:
+        # Local filesystem
+        series_path = os.path.join("./knowledge_base", series_name)
+        if os.path.exists(series_path):
+            raise HTTPException(status_code=409, detail=f"Series '{series_name}' already exists")
+
+        os.makedirs(series_path, exist_ok=True)
+        logger.info(f"Created series locally: {series_name}")
+
+    return SeriesCreateResponse(message=f"Series '{series_name}' created successfully", name=series_name)
+
+
+@app.delete("/admin/series/{series_name}", response_model=SeriesDeleteResponse, tags=["Admin"])
+async def delete_series(series_name: str, _: bool = Depends(verify_admin_key)):
+    """Delete a series (folder) and all its files from the knowledge base."""
+    series_name = series_name.strip().upper()
+    files_deleted = 0
+
+    if _use_blob_storage():
+        # List and delete all blobs in the series
+        blobs_to_delete = list(container_client.list_blobs(name_starts_with=f"{series_name}/"))
+
+        if not blobs_to_delete:
+            raise HTTPException(status_code=404, detail=f"Series '{series_name}' not found")
+
+        for blob in blobs_to_delete:
+            container_client.delete_blob(blob.name)
+            if blob.name.endswith(".md"):
+                files_deleted += 1
+
+        logger.info(f"Deleted series from Azure Blob: {series_name} ({files_deleted} files)")
+    else:
+        # Local filesystem
+        series_path = os.path.join("./knowledge_base", series_name)
+        if not os.path.exists(series_path):
+            raise HTTPException(status_code=404, detail=f"Series '{series_name}' not found")
+
+        # Count and delete files
+        for f in os.listdir(series_path):
+            if f.endswith(".md"):
+                files_deleted += 1
+            os.remove(os.path.join(series_path, f))
+
+        os.rmdir(series_path)
+        logger.info(f"Deleted series locally: {series_name} ({files_deleted} files)")
+
+    return SeriesDeleteResponse(message=f"Series '{series_name}' deleted", name=series_name, files_deleted=files_deleted)
+
+
+# --- File Management ---
+
+@app.get("/admin/series/{series_name}/files", response_model=FileListResponse, tags=["Admin"])
+async def list_files(series_name: str, _: bool = Depends(verify_admin_key)):
+    """List all files in a series."""
+    series_name = series_name.strip().upper()
+    files = []
+
+    if _use_blob_storage():
+        blobs = list(container_client.list_blobs(name_starts_with=f"{series_name}/"))
+
+        if not blobs:
+            raise HTTPException(status_code=404, detail=f"Series '{series_name}' not found")
+
+        for blob in blobs:
+            if blob.name.endswith(".md"):
+                filename = blob.name.split("/")[-1]
+                files.append(FileInfo(
+                    name=filename,
+                    size=blob.size,
+                    last_modified=blob.last_modified.isoformat() if blob.last_modified else None
+                ))
+    else:
+        series_path = os.path.join("./knowledge_base", series_name)
+        if not os.path.exists(series_path):
+            raise HTTPException(status_code=404, detail=f"Series '{series_name}' not found")
+
+        for f in sorted(os.listdir(series_path)):
+            if f.endswith(".md"):
+                file_path = os.path.join(series_path, f)
+                stat = os.stat(file_path)
+                files.append(FileInfo(
+                    name=f,
+                    size=stat.st_size,
+                    last_modified=datetime.datetime.fromtimestamp(stat.st_mtime).isoformat()
+                ))
+
+    return FileListResponse(series=series_name, files=files, total_files=len(files))
+
+
+@app.post("/admin/series/{series_name}/files", response_model=FileUploadResponse, tags=["Admin"])
+async def upload_file(
+    series_name: str,
+    file: UploadFile = File(...),
+    _: bool = Depends(verify_admin_key)
+):
+    """
+    Upload a PDF file to a series. The PDF will be converted to Markdown
+    using Azure Document Intelligence (OCR) before being stored.
+    """
+    series_name = series_name.strip().upper()
+
+    # Validate file
+    if not file.filename:
+        raise HTTPException(status_code=400, detail="Filename is required")
+
+    if not file.filename.lower().endswith(".pdf"):
+        raise HTTPException(status_code=400, detail="Only PDF files are allowed. The file will be converted to Markdown automatically.")
+
+    # Check if Document Intelligence is available
+    if not docintel_client:
+        raise HTTPException(
+            status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
+            detail="PDF processing is not available. Azure Document Intelligence is not configured."
+        )
+
+    # Sanitize filename and change extension to .md
+    base_filename = file.filename[:-4]  # Remove .pdf
+    safe_filename = base_filename.replace(" ", "_").replace("/", "_").replace("\\", "_") + ".md"
+
+    # Read PDF content
+    pdf_content = await file.read()
+
+    # Validate it's a PDF (check magic bytes)
+    if not pdf_content.startswith(b'%PDF'):
+        raise HTTPException(status_code=400, detail="Invalid PDF file. File does not appear to be a valid PDF.")
+
+    # Convert PDF to Markdown using Azure Document Intelligence
+    markdown_content = await _convert_pdf_to_markdown(pdf_content, file.filename)
+    content_bytes = markdown_content.encode("utf-8")
+
+    if _use_blob_storage():
+        # Check if series exists
+        existing = list(container_client.list_blobs(name_starts_with=f"{series_name}/"))
+        if not existing:
+            raise HTTPException(status_code=404, detail=f"Series '{series_name}' not found. Create it first.")
+
+        blob_path = f"{series_name}/{safe_filename}"
+        blob_client = container_client.get_blob_client(blob_path)
+        blob_client.upload_blob(content_bytes, overwrite=True)
+        logger.info(f"Uploaded converted file to Azure Blob: {blob_path}")
+    else:
+        series_path = os.path.join("./knowledge_base", series_name)
+        if not os.path.exists(series_path):
+            raise HTTPException(status_code=404, detail=f"Series '{series_name}' not found. Create it first.")
+
+        file_path = os.path.join(series_path, safe_filename)
+        with open(file_path, "wb") as f:
+            f.write(content_bytes)
+        logger.info(f"Uploaded converted file locally: {file_path}")
+
+    return FileUploadResponse(
+        message=f"PDF '{file.filename}' converted and saved as '{safe_filename}'",
+        series=series_name,
+        filename=safe_filename,
+        size=len(content_bytes)
+    )
+
+
+@app.get("/admin/series/{series_name}/files/{filename}", tags=["Admin"])
+async def get_file(series_name: str, filename: str, _: bool = Depends(verify_admin_key)):
+    """Get the content of a specific file."""
+    series_name = series_name.strip().upper()
+
+    if not filename.endswith(".md"):
+        raise HTTPException(status_code=400, detail="Only .md files can be retrieved")
+
+    if _use_blob_storage():
+        blob_path = f"{series_name}/{filename}"
+        blob_client = container_client.get_blob_client(blob_path)
+
+        try:
+            download = blob_client.download_blob()
+            content = download.readall().decode("utf-8")
+        except ResourceNotFoundError:
+            raise HTTPException(status_code=404, detail=f"File '{filename}' not found in series '{series_name}'")
+    else:
+        file_path = os.path.join("./knowledge_base", series_name, filename)
+        if not os.path.exists(file_path):
+            raise HTTPException(status_code=404, detail=f"File '{filename}' not found in series '{series_name}'")
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            content = f.read()
+
+    return {"series": series_name, "filename": filename, "content": content}
+
+
+@app.put("/admin/series/{series_name}/files/{filename}", response_model=FileUploadResponse, tags=["Admin"])
+async def update_file(
+    series_name: str,
+    filename: str,
+    file: UploadFile = File(...),
+    _: bool = Depends(verify_admin_key)
+):
+    """Update an existing file in a series."""
+    series_name = series_name.strip().upper()
+
+    if not filename.endswith(".md"):
+        raise HTTPException(status_code=400, detail="Only .md files can be updated")
+
+    content = await file.read()
+
+    try:
+        content.decode("utf-8")
+    except UnicodeDecodeError:
+        raise HTTPException(status_code=400, detail="File must be valid UTF-8 text")
+
+    if _use_blob_storage():
+        blob_path = f"{series_name}/{filename}"
+        blob_client = container_client.get_blob_client(blob_path)
+
+        # Check if file exists
+        try:
+            blob_client.get_blob_properties()
+        except ResourceNotFoundError:
+            raise HTTPException(status_code=404, detail=f"File '{filename}' not found in series '{series_name}'")
+
+        blob_client.upload_blob(content, overwrite=True)
+        logger.info(f"Updated file in Azure Blob: {blob_path}")
+    else:
+        file_path = os.path.join("./knowledge_base", series_name, filename)
+        if not os.path.exists(file_path):
+            raise HTTPException(status_code=404, detail=f"File '{filename}' not found in series '{series_name}'")
+
+        with open(file_path, "wb") as f:
+            f.write(content)
+        logger.info(f"Updated file locally: {file_path}")
+
+    return FileUploadResponse(
+        message=f"File '{filename}' updated successfully",
+        series=series_name,
+        filename=filename,
+        size=len(content)
+    )
+
+
+@app.delete("/admin/series/{series_name}/files/{filename}", response_model=FileDeleteResponse, tags=["Admin"])
+async def delete_file(series_name: str, filename: str, _: bool = Depends(verify_admin_key)):
+    """Delete a file from a series."""
+    series_name = series_name.strip().upper()
+
+    if not filename.endswith(".md"):
+        raise HTTPException(status_code=400, detail="Only .md files can be deleted")
+
+    if _use_blob_storage():
+        blob_path = f"{series_name}/{filename}"
+        blob_client = container_client.get_blob_client(blob_path)
+
+        try:
+            blob_client.delete_blob()
+            logger.info(f"Deleted file from Azure Blob: {blob_path}")
+        except ResourceNotFoundError:
+            raise HTTPException(status_code=404, detail=f"File '{filename}' not found in series '{series_name}'")
+    else:
+        file_path = os.path.join("./knowledge_base", series_name, filename)
+        if not os.path.exists(file_path):
+            raise HTTPException(status_code=404, detail=f"File '{filename}' not found in series '{series_name}'")
+
+        os.remove(file_path)
+        logger.info(f"Deleted file locally: {file_path}")
+
+    return FileDeleteResponse(message=f"File '{filename}' deleted", series=series_name, filename=filename)
+
+
+@app.patch("/admin/series/{series_name}/files/{filename}/move", response_model=FileMoveResponse, tags=["Admin"])
+async def move_file(
+    series_name: str,
+    filename: str,
+    request: FileMoveRequest,
+    _: bool = Depends(verify_admin_key)
+):
+    """
+    Move a file from one series to another.
+    Useful when a file was uploaded to the wrong series.
+    """
+    source_series = series_name.strip().upper()
+    target_series = request.target_series.strip().upper()
+
+    # Validate filename
+    if not filename.endswith(".md"):
+        raise HTTPException(status_code=400, detail="Only .md files can be moved")
+
+    # Validate target series name
+    if not target_series:
+        raise HTTPException(status_code=400, detail="Target series name cannot be empty")
+
+    if not all(c.isalnum() or c in "-_" for c in target_series):
+        raise HTTPException(status_code=400, detail="Target series name can only contain letters, numbers, hyphens, and underscores")
+
+    # Cannot move to the same series
+    if source_series == target_series:
+        raise HTTPException(status_code=400, detail="Source and target series are the same")
+
+    if _use_blob_storage():
+        source_blob_path = f"{source_series}/{filename}"
+        target_blob_path = f"{target_series}/{filename}"
+
+        # Check if source file exists
+        source_blob_client = container_client.get_blob_client(source_blob_path)
+        try:
+            source_blob_client.get_blob_properties()
+        except ResourceNotFoundError:
+            raise HTTPException(status_code=404, detail=f"File '{filename}' not found in series '{source_series}'")
+
+        # Check if target series exists
+        target_blobs = list(container_client.list_blobs(name_starts_with=f"{target_series}/"))
+        if not target_blobs:
+            raise HTTPException(status_code=404, detail=f"Target series '{target_series}' not found. Create it first.")
+
+        # Check if file already exists in target series
+        target_blob_client = container_client.get_blob_client(target_blob_path)
+        try:
+            target_blob_client.get_blob_properties()
+            raise HTTPException(status_code=409, detail=f"File '{filename}' already exists in series '{target_series}'")
+        except ResourceNotFoundError:
+            pass  # Good, file doesn't exist in target
+
+        # Copy file to target
+        download = source_blob_client.download_blob()
+        content = download.readall()
+        target_blob_client.upload_blob(content, overwrite=False)
+
+        # Delete source file
+        source_blob_client.delete_blob()
+
+        logger.info(f"Moved file in Azure Blob: {source_blob_path} -> {target_blob_path}")
+    else:
+        source_file_path = os.path.join("./knowledge_base", source_series, filename)
+        target_dir_path = os.path.join("./knowledge_base", target_series)
+        target_file_path = os.path.join(target_dir_path, filename)
+
+        # Check if source file exists
+        if not os.path.exists(source_file_path):
+            raise HTTPException(status_code=404, detail=f"File '{filename}' not found in series '{source_series}'")
+
+        # Check if target series exists
+        if not os.path.exists(target_dir_path):
+            raise HTTPException(status_code=404, detail=f"Target series '{target_series}' not found. Create it first.")
+
+        # Check if file already exists in target series
+        if os.path.exists(target_file_path):
+            raise HTTPException(status_code=409, detail=f"File '{filename}' already exists in series '{target_series}'")
+
+        # Move the file
+        shutil.move(source_file_path, target_file_path)
+
+        logger.info(f"Moved file locally: {source_file_path} -> {target_file_path}")
+
+    return FileMoveResponse(
+        message=f"File '{filename}' moved from '{source_series}' to '{target_series}'",
+        filename=filename,
+        source_series=source_series,
+        target_series=target_series
+    )
+
+
+# --- Reingest ---
+
+@app.post("/admin/reingest", response_model=ReingestResponse, tags=["Admin"])
+async def admin_reingest(_: bool = Depends(verify_admin_key)):
+    """
+    Re-ingest the knowledge base after making changes via admin endpoints.
+    This reloads all series and files, rebuilds shards, and updates the cache.
+    """
+    success = await ingest_knowledge_base_internal()
+
+    if not success:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="Failed to reingest knowledge base. Check server logs."
+        )
+
+    # Calculate stats
+    encoding = tiktoken.get_encoding("cl100k_base")
+    total_tokens = sum(len(encoding.encode(s)) for s in global_state.azure_shards)
+
+    # Count total files
+    total_files = 0
+    if _use_blob_storage():
+        total_files = sum(1 for b in container_client.list_blobs() if b.name.endswith(".md"))
+    else:
+        kb_dir = "./knowledge_base"
+        total_files = len(glob.glob(os.path.join(kb_dir, "**", "*.md"), recursive=True))
+
+    logger.info(f"Admin reingest complete: {len(global_state.azure_shards)} shards, {total_files} files, {total_tokens} tokens")
+
+    return ReingestResponse(
+        message="Knowledge base reingested successfully",
+        shards_created=len(global_state.azure_shards),
+        total_files=total_files,
+        total_tokens=total_tokens
+    )
+
 
 if __name__ == "__main__":
     import uvicorn

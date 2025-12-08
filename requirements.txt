@@ -3,3 +3,6 @@ uvicorn
 python-dotenv
 openai
 tiktoken
+azure-storage-blob
+python-multipart
+azure-ai-documentintelligence
