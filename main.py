@@ -45,6 +45,12 @@ AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
 AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
 MODEL_NAME = os.getenv("MODEL_NAME", "gpt-4o-mini")  # Model name for both OpenAI and Azure
 
+# Azure Responses API Configuration (verbosity and reasoning)
+AZURE_VERBOSITY_DEFAULT = os.getenv("AZURE_VERBOSITY_DEFAULT", "low")  # low, medium, or high
+AZURE_REASONING_EFFORT_DEFAULT = os.getenv("AZURE_REASONING_EFFORT_DEFAULT", "low")  # low, medium, or high
+AZURE_VERBOSITY_SYNTHESIS = os.getenv("AZURE_VERBOSITY_SYNTHESIS", "high")  # verbosity for synthesis
+AZURE_REASONING_EFFORT_SYNTHESIS = os.getenv("AZURE_REASONING_EFFORT_SYNTHESIS", "medium")  # reasoning effort for synthesis
+
 # Models that don't support reasoning.effort parameter
 MODELS_WITHOUT_REASONING = {"gpt-5-chat", "gpt-4o", "gpt-4o-mini", "gpt-4-turbo", "gpt-4", "gpt-3.5-turbo"}
 
@@ -643,11 +649,11 @@ INSTRUCTIONS:
             "input": input_messages,
             "text": {
                 "format": {"type": "json_object"},
-                "verbosity": get_verbosity(MODEL_NAME, "low")
+                "verbosity": get_verbosity(MODEL_NAME, AZURE_VERBOSITY_DEFAULT)
             }
         }
         if supports_reasoning(MODEL_NAME):
-            request_params["reasoning"] = {"effort": "low", "summary": None}
+            request_params["reasoning"] = {"effort": AZURE_REASONING_EFFORT_DEFAULT, "summary": None}
 
         response = await openai_client.responses.create(**request_params)
 
@@ -681,11 +687,11 @@ async def is_valid_question(text: str) -> bool:
             ],
             "text": {
                 "format": {"type": "json_object"},
-                "verbosity": get_verbosity(MODEL_NAME, "low")
+                "verbosity": get_verbosity(MODEL_NAME, AZURE_VERBOSITY_DEFAULT)
             }
         }
         if supports_reasoning(MODEL_NAME):
-            request_params["reasoning"] = {"effort": "low", "summary": None}
+            request_params["reasoning"] = {"effort": AZURE_REASONING_EFFORT_DEFAULT, "summary": None}
 
         response = await openai_client.responses.create(**request_params)
         result = json.loads(response.output_text)
@@ -879,11 +885,11 @@ async def ask_question(request: AskRequest):
                 ],
                 "text": {
                     "format": {"type": "json_object"},
-                    "verbosity": get_verbosity(MODEL_NAME, "low")
+                    "verbosity": get_verbosity(MODEL_NAME, AZURE_VERBOSITY_DEFAULT)
                 }
             }
             if supports_reasoning(MODEL_NAME):
-                router_params["reasoning"] = {"effort": "low", "summary": None}
+                router_params["reasoning"] = {"effort": AZURE_REASONING_EFFORT_DEFAULT, "summary": None}
 
             router_response = await openai_client.responses.create(**router_params)
 
@@ -1022,11 +1028,11 @@ async def ask_question(request: AskRequest):
                 ],
                 "text": {
                     "format": {"type": "text"},
-                    "verbosity": get_verbosity(MODEL_NAME, "high")
+                    "verbosity": get_verbosity(MODEL_NAME, AZURE_VERBOSITY_SYNTHESIS)
                 }
             }
             if supports_reasoning(MODEL_NAME):
-                synthesis_params["reasoning"] = {"effort": "medium", "summary": None}
+                synthesis_params["reasoning"] = {"effort": AZURE_REASONING_EFFORT_SYNTHESIS, "summary": None}
 
             final_response = await openai_client.responses.create(**synthesis_params)
             final_answer = final_response.output_text
